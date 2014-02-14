@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="285.1387"
+   height="359.99997"
+   id="svg3901"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="pyramid_3pip.svg">
+  <title
+     id="title2893">Icehouse Pyramid Large</title>
+  <defs
+     id="defs3903">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3909" />
+    <inkscape:perspective
+       id="perspective3891"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="556.21519"
+     inkscape:cy="27.342102"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3906">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Icehouse Pyramid Large</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>game</rdf:li>
+            <rdf:li>game piece</rdf:li>
+            <rdf:li>public_domain</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>clip_art</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>pyramid</rdf:li>
+            <rdf:li>icehouse</rdf:li>
+            <rdf:li>3pip</rdf:li>
+            <rdf:li>large</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>openclipart.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jason Spears</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2010-06-18</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.00509815,-692.35708)">
+    <g
+       id="g3046"
+       transform="matrix(1,0,0,1.0102223,-785.0164,163.099)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3012"
+         d="M 929.63153,525.44891 786.30117,797.84177 930.10964,878.8036 1069.3713,796.00713 929.63153,525.44891 z"
+         style="fill:#cccccc;stroke:none" />
+      <path
+         style="fill:#b3b3b3;stroke:none"
+         d="M 929.63153,525.44891 786.30117,797.84177 930.10964,878.8036 929.63153,525.44891 z"
+         id="path3017"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path3019"
+         d="m 985.125,776 c -0.32213,0.0211 -0.65636,0.0938 -0.96875,0.1875 -4.99819,1.49895 -6.70736,11.90911 -3.8125,23.25 2.89486,11.34089 9.31431,19.31145 14.3125,17.8125 4.99819,-1.49895 6.70735,-11.90911 3.8125,-23.25 -2.71393,-10.63209 -8.5118,-18.31702 -13.34375,-18 z m -21.4375,10.71875 c -0.32213,0.0211 -0.62511,0.0938 -0.9375,0.1875 -4.99819,1.49895 -6.70736,11.90911 -3.8125,23.25 2.89486,11.34089 9.28306,19.31145 14.28125,17.8125 4.99819,-1.49895 6.70736,-11.90911 3.8125,-23.25 -2.71393,-10.63209 -8.5118,-18.31702 -13.34375,-18 z M 942.75,798.3125 c -0.48916,-0.021 -0.96892,0.047 -1.4375,0.1875 -4.99819,1.49895 -6.70736,11.90911 -3.8125,23.25 2.89486,11.34089 9.28306,19.31145 14.28125,17.8125 4.99819,-1.49895 6.70736,-11.90911 3.8125,-23.25 -2.62347,-10.27768 -8.11525,-17.79671 -12.84375,-18 z"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <path
+         id="path3032"
+         d="m 829.625,751.71875 c -4.7285,0.20329 -10.22028,7.72232 -12.84375,18 -2.89486,11.34089 -1.18569,21.75105 3.8125,23.25 4.99819,1.49895 11.38639,-6.47161 14.28125,-17.8125 2.89486,-11.34089 1.18569,-21.75105 -3.8125,-23.25 -0.46858,-0.14053 -0.94834,-0.20853 -1.4375,-0.1875 z m 21.4375,10.71875 c -4.7285,0.20329 -10.22028,7.72232 -12.84375,18 -2.89486,11.34089 -1.18569,21.75105 3.8125,23.25 4.99819,1.49895 11.38639,-6.50286 14.28125,-17.84375 2.89486,-11.34089 1.18569,-21.7198 -3.8125,-23.21875 -0.46858,-0.14053 -0.94834,-0.20853 -1.4375,-0.1875 z M 872.5,774.03125 c -4.7285,0.20329 -10.22028,7.72232 -12.84375,18 -2.89486,11.34089 -1.21694,21.75105 3.78125,23.25 4.99819,1.49895 11.41764,-6.47161 14.3125,-17.8125 2.89486,-11.34089 1.18569,-21.75105 -3.8125,-23.25 -0.46858,-0.14053 -0.94834,-0.20853 -1.4375,-0.1875 z"
+         style="fill:#cccccc;fill-opacity:1;stroke:none" />
+      <path
+         d="m 938.31536,821.78332 c 3.06212,11.21978 9.22172,19.17268 13.75786,17.76331 4.53613,-1.40937 5.73106,-11.64732 2.66895,-22.86709 -3.06212,-11.21978 -9.22173,-19.17269 -13.75786,-17.76332 -4.53614,1.40937 -5.73107,11.64732 -2.66895,22.8671 z m 42.67894,-22.72843 c 3.06212,11.21978 9.22172,19.17268 13.75786,17.76331 4.53613,-1.40937 5.73104,-11.64731 2.66895,-22.86709 -3.06212,-11.21978 -9.22173,-19.17269 -13.75786,-17.76332 -4.53614,1.40937 -5.73107,11.64732 -2.66895,22.8671 z m -21.2132,10.85913 c 3.06211,11.21978 9.22171,19.17269 13.75785,17.76331 4.53614,-1.40937 5.73107,-11.64731 2.66895,-22.86709 -3.06212,-11.21978 -9.22172,-19.17268 -13.75786,-17.76332 -4.53614,1.40938 -5.73106,11.64733 -2.66894,22.8671 z m -29.8537,68.39359 -0.57269,-352.46379 m -52.89937,271.69584 c -3.06212,11.21978 -9.22172,19.17268 -13.75786,17.76331 -4.53613,-1.40937 -5.73107,-11.64732 -2.66895,-22.8671 3.06212,-11.21977 9.22173,-19.17268 13.75786,-17.76331 4.53614,1.40937 5.73107,11.64732 2.66895,22.8671 z M 833.7764,774.81123 c -3.06212,11.21978 -9.22173,19.17268 -13.75786,17.7633 -4.53613,-1.40937 -5.73107,-11.64731 -2.66895,-22.86708 3.06211,-11.21978 9.22173,-19.17269 13.75786,-17.76333 4.53614,1.40938 5.73106,11.64732 2.66895,22.86711 z m 21.2132,10.85914 c -3.06212,11.21977 -9.22173,19.17268 -13.75787,17.76331 -4.53613,-1.40937 -5.73106,-11.64732 -2.66894,-22.8671 3.06211,-11.21977 9.22173,-19.17268 13.75786,-17.76331 4.53614,1.40937 5.73106,11.64732 2.66895,22.8671 z M 929.4073,524.89752 786.0164,797.97957 930.32061,879.26485 1069.1449,796.15293 929.4073,524.89752 z"
+         style="fill:none;stroke:#000000;stroke-width:2"
+         id="path3000" />
+    </g>
+  </g>
+</svg>
