@@ -112,3 +112,36 @@ Depending on the orientation of the above juggernaut in relation to an
 opponent will determine its offensive and defensive capabilities. For
 example:
 
+------------------------------------------------------------------------- --------------------------------------------------------------------
+  <http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png>   <http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png>
+  ------------------------------------------------------------------------- --------------------------------------------------------------------
+
+The dice above are oriented in such a way that the left-side die
+projects 3-points of power toward the right-side. However, the left-side
+die has a 2-point shield facing the attack thus absorbing 2-points of
+power leaving only 1-point remaining, not enough to destroy it. At the
+same time, the left-side die projects 3-points of power which is enough
+to destroy the right-side die. Therefore, the left-side die wins this
+match-up.
+
+### Life points
+
+The life-points for a given face are defined as follows:
+
+-   The total life-points of a face always, correspond to the attacking
+    triangle
+	-   If the face is oriented only in a defensive posture then the shield
+    defines the life-points
+	-   If the face is oriented perpendicular to an attack then the triangle
+    that is near to the attacking triangle defines the life-points
+	
+	Enjoy!
+	
+	External Links
+	--------------
+	
+	-   The elegant [Bushi Shogi][] is the main motivation for *Pew Pew,
+    Die*
+	
+	  [Bushi Shogi]: http://www.kolumbus.fi/geodun/bushi/bushi.htm
+
