@@ -33,3 +33,14 @@ If you roll the same color as what you already have in the counter then you *mus
 
 TODO
 
+After ten turns calculate your score.
+
+Scoring in CarboniteDice
+========================
+
+* 7 points for each solid-color tree
+* 5 points for each mixed-color tree
+* 1 point for each of the rest of your pieces
+
+TODO
+
