@@ -39,6 +39,8 @@ For example, if you have a red pyramid in the Counter and the roll of your IceDi
 
 TODO
 
+If you're unable to take a colored pyramid of the specified size from the Bank then you *must* take it from your Vault and add it to the Counter.  If this happens then you (may not want to but you) *must* roll the dice at least one more time.  If you bust out on any subsequent rolls then all of the pyramids, include those taken from your Vault are either returned to the Bank or removed from the game.
+
 ### Ending the game
 
 After ten turns calculate your score.
