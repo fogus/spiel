@@ -19,11 +19,24 @@ Turns in CarboniteDice
 
 You have 10 turns.
 
-TODO
+### Marking the current turn number
 
-Take a pyramid with pips equal to the turn number.  Swap with any number of pyramids in the bank to equal 10.
+Take the next largest pyramid from the Bank for use in representing the current turn and return a smaller pyramid from the turn markers.  You can choose any colors that you want to use as the turn markers, but you *must* increase the sizes as the turn number grows larger. Any pyramids in use for the turn markers are *not* available for capturing during the turn that they're in use.
 
-TODO
+The pyramids needed for each round are shown below:
+
+1. 1-small
+2. 1-medium
+3. 1-large
+4. 1-large and 1-small
+5. 1-large and 1-medium
+6. 2-large
+7. 2-large and 1-small
+8. 2-large and 1-medium
+9. 3-large
+10. 3-large and 1-small
+
+### Capturing pyramids
 
 1. Roll the IceDice dice
 2. Collect pyramids
