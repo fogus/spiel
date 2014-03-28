@@ -6,7 +6,7 @@ CarboniteDice is a push-your-luck style dice game for one based on a variant of 
 Setup of CarboniteDice
 ======================
 
-The setup of CarboniteDice is similar to setup of IceDice, with the removal of all but one Vault and the addition of a turn marker and a "carbonite chamber."
+The setup of CarboniteDice is similar to setup of IceDice, with the removal of all but one Vault and the addition of a Turn Marker and a Carbonite Chamber.
 
 ![Setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/carbonite-dice/graphics/cd-setup.jpg)
 
@@ -26,9 +26,9 @@ You have 10 turns in CarboniteDice to get the highest score possible.  Each turn
 
 ### Marking the current turn number
 
-Take the next largest pyramid from the Bank for use in representing the current turn and return a smaller pyramid from the turn markers.  You can choose any colors that you want to use as the turn markers, but you *must* increase the sizes as the turn number grows larger. Any pyramids in use for the turn markers are *not* available for capturing during the turn that they're in use.
+Take the next largest pyramid from the Bank for use in representing the current turn and return a smaller pyramid from the Turn Markers.  You can choose any colors that you want to use as the Turn Markers, but you *must* increase the sizes as the turn number grows larger. Any pyramids in use for the Turn Markers are *not* available for capturing during the turn that they're in use.
 
-If at any time you need a certain size for a turn marker and there is not one of that size in the Bank then the game ends immediately.
+If at any time you need a certain size for a Turn Marker and there is not one of that size in the Bank then the game ends immediately.
 
 The pyramids needed for each round are shown below:
 
@@ -53,7 +53,7 @@ The differences in the rules between CarboniteDice and IceDice mostly revolve ar
 
 ### Bombing out
 
-If you roll the same color as what you already have in the Counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the "carbonite chamber."  They cannot be accessed again for the remainder of the game.  
+If you roll the same color as what you already have in the Counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the Carbonite Chamber.  Pyramids in the Carbonite Chamber cannot be accessed again for the remainder of the game.  
 
 > For example, if you have a red pyramid in the Counter and 
 > the roll of your IceDice dice shows a red spot with a small 
@@ -89,7 +89,7 @@ For every duplicate solid-color tree, double the score of your Vault.
 > For example, a Vault with 2 red trees would further score 
 > (7 + 7) * 2 = 28 points
 
-Finally, take the score of your Vault and multiply it by the value of the pips on the turn markers to get your final score.
+Finally, take the score of your Vault and multiply it by the last successful turn number (i.e. the value of the pips on the Turn Markers minus 1) to get your final score.
 
 > For example, a Vault with 2 red trees, ending on turn 6 would score
 > ((7 + 7) * 2) * 6 = 168 total points
