@@ -81,6 +81,8 @@ When the game ends look at the pyramids in your Vault and score according to the
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
 
+To start scoring, just add up all of the scores of the pyramids according to the groupings listed above.
+
 > For example, a Vault with 2 red trees would initially score 
 > (7 + 7) = 14 points
 
