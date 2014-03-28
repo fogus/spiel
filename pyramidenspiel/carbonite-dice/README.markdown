@@ -33,7 +33,7 @@ TODO
 
 If you roll the same color as what you already have in the counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the "carbonite chamber."  They cannot be accessed again for the remainder of the game.  
 
-For example, if you have a red pyramid in the Counter and the roll of your IceDice dice shows a red spot with a small an medium pyraid face then you *must* remove a small red and a medium red from the bank for the remainder of the game.
+For example, if you have a red pyramid in the Counter and the roll of your IceDice dice shows a red spot with a small an medium pyraid face then you *must* remove a small red *and* a medium red from the bank for the remainder of the game.
 
 ### Unable to match pyramids
 
