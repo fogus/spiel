@@ -60,7 +60,7 @@ If you roll the same color as what you already have in the Counter then you *mus
 > and a medium pyramid face then you *must* remove a small red 
 > *and* a medium red from the bank for the remainder of the game.
 
-If at any point you bomb out and cannot remove a colored pyramid from the Bank as retribution then the game immediately ends.
+If at any point you bomb out and cannot remove a colored pyramid from the Bank or the Counter as retribution then the game immediately ends.
 
 ### Unable to match pyramids
 
