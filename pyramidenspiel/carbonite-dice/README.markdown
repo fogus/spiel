@@ -75,11 +75,13 @@ After ten turns calculate your score.
 Scoring in CarboniteDice
 ========================
 
+When the game ends look at the pyramids in your Vault and score according to the following:
+
 * 7 points for each solid-color tree
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
 
-
+Finally, take the score of your Vault and multiply it by the value of the pips on the turn markers to get your final score.
 
 Credits
 =======
