@@ -22,7 +22,7 @@ You have 10 turns in CarboniteDice to get the highest score possible.  Each turn
     * Matching pyramids from the Bank
 	* Matching pyramids from your Vault
 	* Bombing out of a turn
-3. Stashing pyramids into your Vault
+3. Stashing pyramids into your Vault (if possible)
 
 ### Marking the current turn number
 
