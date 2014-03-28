@@ -49,7 +49,7 @@ On each turn you roll the IceDice dice at least once in an attempt to match colo
 
 ![IceDice](http://www.looneylabs.com/sites/default/files/IceDice2.jpg)
 
-The differences in the rules between CarboniteDice and IceDice mostly revolve around what happens when you bomb out.
+The differences in the rules between CarboniteDice and IceDice mostly revolve around what happens when you're unable to match a colored pyramid or if you bomb out.
 
 ### Bombing out
 
@@ -57,7 +57,7 @@ If you roll the same color as what you already have in the Counter then you *mus
 
 > For example, if you have a red pyramid in the Counter and 
 > the roll of your IceDice dice shows a red spot with a small 
-> and a medium pyraid face then you *must* remove a small red 
+> and a medium pyramid face then you *must* remove a small red 
 > *and* a medium red from the bank for the remainder of the game.
 
 ### Unable to match pyramids
