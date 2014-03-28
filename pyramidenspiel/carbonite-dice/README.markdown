@@ -7,11 +7,24 @@ TODO
 
 ![IceDice](http://www.looneylabs.com/sites/default/files/IceDice2.jpg)
 
+Setup of CarboniteDice
+======================
+
+![Setup](http://www.looneylabs.com/sites/default/files/IceDice4.jpg)
+
 Turns in CarboniteDice
 ======================
+
+You have 10 turns.
+
+TODO
+
+Take a pyramid with pips equal to the turn number.  Swap with any number of pyramids in the bank to equal 10.
+
+TODO
 
 1. Roll the IceDice dice
 2. Collect pyramids
 3. Continue until you're satisfied with the results
 
-If you roll the same color as what you already have in the 
+If you roll the same color as what you already have in the counter
