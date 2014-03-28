@@ -5,8 +5,6 @@ CarboniteDice is a variant of [IceDice](http://www.looneylabs.com/games/icedice)
 
 TODO
 
-![IceDice](http://www.looneylabs.com/sites/default/files/IceDice2.jpg)
-
 Setup of CarboniteDice
 ======================
 
@@ -45,15 +43,17 @@ The pyramids needed for each round are shown below:
 9. 3-large
 10. 3-large and 1-small
 
-### Capturing pyramids
+### Matching pyramids
 
-1. Roll the IceDice dice
-2. Collect pyramids
-3. Continue until you're satisfied with the results or bomb out
+On each turn you roll the IceDice dice at least once in an attempt to match colored pyramids from the Bank for the purpose of capturing them and scoring them at the end.  The matching rules for CarboniteDice are the same as IceDice and is summarized below:
+
+![IceDice](http://www.looneylabs.com/sites/default/files/IceDice2.jpg)
+
+The differences in the rules between CarboniteDice and IceDice mostly revolve around what happens when you bomb out.
 
 ### Bombing out
 
-If you roll the same color as what you already have in the counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the "carbonite chamber."  They cannot be accessed again for the remainder of the game.  
+If you roll the same color as what you already have in the Counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the "carbonite chamber."  They cannot be accessed again for the remainder of the game.  
 
 > For example, if you have a red pyramid in the Counter and 
 > the roll of your IceDice dice shows a red spot with a small 
