@@ -10,7 +10,7 @@ Setup of CarboniteDice
 
 The setup of CarboniteDice is similar to setup of IceDice, with the removal of all but one Vault and the addition of a turn marker and a "carbonite chamber."
 
-![Setup](http://www.looneylabs.com/sites/default/files/IceDice4.jpg)
+![Setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/carbonite-dice/graphics/cd-setup.jpg)
 
 
 
