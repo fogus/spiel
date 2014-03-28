@@ -103,5 +103,5 @@ Credits
 
 * Volcano is designed by Kristin Looney.
 * IceDice is designed by Andy Looney.
-* Pictures by Andrew Looney.
+* Original pictures by Looney Labs with minor additions to outline setup differences.
 
