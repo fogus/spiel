@@ -17,7 +17,10 @@ Plus "carbonite chamber"
 Turns in CarboniteDice
 ======================
 
-You have 10 turns.
+You have 10 turns in CarboniteDice to get the highest score possible.  Each turn consists of the following steps:
+
+1. Marking the current turn
+2. Capturing pyramids, or bombing out
 
 ### Marking the current turn number
 
@@ -42,9 +45,9 @@ The pyramids needed for each round are shown below:
 
 1. Roll the IceDice dice
 2. Collect pyramids
-3. Continue until you're satisfied with the results
+3. Continue until you're satisfied with the results or bomb out
 
-### Freezing pyramids in the bank
+### Bombing out
 
 If you roll the same color as what you already have in the counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the "carbonite chamber."  They cannot be accessed again for the remainder of the game.  
 
@@ -54,8 +57,6 @@ If you roll the same color as what you already have in the counter then you *mus
 > *and* a medium red from the bank for the remainder of the game.
 
 ### Unable to match pyramids
-
-TODO
 
 If you're unable to take a colored pyramid of the specified size from the Bank then you *must* take it from your Vault and add it to the Counter.  If this happens then you (may not want to but you) *must* roll the dice at least one more time.  If you bust out on any subsequent rolls then all of the pyramids, include those taken from your Vault are either returned to the Bank or removed from the game.
 
@@ -69,8 +70,6 @@ Scoring in CarboniteDice
 * 7 points for each solid-color tree
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
-
-TODO
 
 Credits
 =======
