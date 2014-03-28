@@ -32,15 +32,15 @@ If at any time you need a certain size for a turn marker and there is not one of
 
 The pyramids needed for each round are shown below:
 
-1. 1-small
-2. 1-medium
-3. 1-large
-4. 1-large and 1-small
-5. 1-large and 1-medium
-6. 2-large
-7. 2-large and 1-small
-8. 2-large and 1-medium
-9. 3-large
+1.  1-small
+2.  1-medium
+3.  1-large
+4.  1-large and 1-small
+5.  1-large and 1-medium
+6.  2-large
+7.  2-large and 1-small
+8.  2-large and 1-medium
+9.  3-large
 10. 3-large and 1-small
 
 ### Matching pyramids
