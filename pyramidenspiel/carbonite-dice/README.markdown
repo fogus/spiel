@@ -70,7 +70,7 @@ If at any point you cannot match a colored pyramid from the Bank *and* from your
 
 ### Ending the game
 
-After ten turns calculate your score.
+After ten turns, or the game ends prematurely, calculate your score.
 
 Scoring in CarboniteDice
 ========================
