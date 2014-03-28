@@ -12,6 +12,8 @@ Setup of CarboniteDice
 
 ![Setup](http://www.looneylabs.com/sites/default/files/IceDice4.jpg)
 
+Plus "carbonite chamber"
+
 Turns in CarboniteDice
 ======================
 
@@ -27,4 +29,7 @@ TODO
 2. Collect pyramids
 3. Continue until you're satisfied with the results
 
-If you roll the same color as what you already have in the counter
+If you roll the same color as what you already have in the counter then you *must* remove the sized pyramids shown on the IceDice dice and place them in the "carbonite chamber."  They cannot be accessed again for the remainder of the game.
+
+TODO
+
