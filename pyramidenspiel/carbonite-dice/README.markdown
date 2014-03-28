@@ -23,6 +23,8 @@ You have 10 turns.
 
 Take the next largest pyramid from the Bank for use in representing the current turn and return a smaller pyramid from the turn markers.  You can choose any colors that you want to use as the turn markers, but you *must* increase the sizes as the turn number grows larger. Any pyramids in use for the turn markers are *not* available for capturing during the turn that they're in use.
 
+If at any time you need a certain size for a turn marker and there is not one of that size in the Bank then the game ends immediately.
+
 The pyramids needed for each round are shown below:
 
 1. 1-small
