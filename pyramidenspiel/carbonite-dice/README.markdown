@@ -20,7 +20,11 @@ Turns in CarboniteDice
 You have 10 turns in CarboniteDice to get the highest score possible.  Each turn consists of the following steps:
 
 1. Marking the current turn
-2. Capturing pyramids, or bombing out
+2. Rolling for pyramids results in one of the following:
+    * Matching pyramids from the Bank
+	* Matching pyramids from your Vault
+	* Bombing out of a turn
+3. Stashing pyramids into your Vault
 
 ### Marking the current turn number
 
