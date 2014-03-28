@@ -7,3 +7,11 @@ TODO
 
 ![IceDice](http://www.looneylabs.com/sites/default/files/IceDice2.jpg)
 
+Turns in CarboniteDice
+======================
+
+1. Roll the IceDice dice
+2. Collect pyramids
+3. Continue until you're satisfied with the results
+
+If you roll the same color as what you already have in the 
