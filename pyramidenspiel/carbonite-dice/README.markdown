@@ -44,3 +44,10 @@ Scoring in CarboniteDice
 
 TODO
 
+Credits
+=======
+
+* Volcano is designed by Kristin Looney.
+* IceDice is designed by Andy Looney.
+* Pictures by Andrew Looney.
+
