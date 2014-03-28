@@ -60,9 +60,13 @@ If you roll the same color as what you already have in the Counter then you *mus
 > and a medium pyramid face then you *must* remove a small red 
 > *and* a medium red from the bank for the remainder of the game.
 
+If at any point you bomb out and cannot remove a colored pyramid from the Bank as retribution then the game immediately ends.
+
 ### Unable to match pyramids
 
 If you're unable to take a colored pyramid of the specified size from the Bank then you *must* take it from your Vault and add it to the Counter.  If this happens then you (may not want to but you) *must* roll the dice at least one more time.  If you bust out on any subsequent rolls then all of the pyramids, include those taken from your Vault are either returned to the Bank or removed from the game.
+
+If at any point you cannot match a colored pyramid from the Bank *and* from your Vault then the game immediately ends.
 
 ### Ending the game
 
@@ -74,6 +78,8 @@ Scoring in CarboniteDice
 * 7 points for each solid-color tree
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
+
+
 
 Credits
 =======
