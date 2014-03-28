@@ -91,7 +91,7 @@ For every duplicate solid-color tree, double the score of your Vault.
 
 Finally, take the score of your Vault and multiply it by the last successful turn number (i.e. the value of the pips on the Turn Markers minus 1) to get your final score.
 
-> For example, a Vault with 2 red trees, ending on turn 6 would score
+> For example, a Vault with 2 red trees, ending on turn 7 would score
 > ((7 + 7) * 2) * 6 = 168 total points
 
 Once done, play again to try and beat your high score!
