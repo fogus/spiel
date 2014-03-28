@@ -81,7 +81,20 @@ When the game ends look at the pyramids in your Vault and score according to the
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
 
+> For example, a Vault with 2 red trees would initially score 
+> (7 + 7) = 14 points
+
+For every duplicate solid-color tree, double the score of your Vault.
+
+> For example, a Vault with 2 red trees would further score 
+> (7 + 7) * 2 = 28 points
+
 Finally, take the score of your Vault and multiply it by the value of the pips on the turn markers to get your final score.
+
+> For example, a Vault with 2 red trees, ending on turn 6 would score
+> ((7 + 7) * 2) * 6 = 168 total points
+
+Once done, play again to try and beat your high score!
 
 Credits
 =======
