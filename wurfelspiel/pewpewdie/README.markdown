@@ -69,6 +69,7 @@ Now, observe two pew-pew dice oriented in such a way that their power
 projects toward each other:
 
  Left player | Right player
+ --- | ---
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 In the game of *Pew Pew, Die* such a condition would be a draw because
@@ -76,8 +77,9 @@ both dice project the maximum amount of power that each can take toward
 one another -- this is a condition of mutual destruction. However,
 observe a different layout:
 
-|---|---|
-|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|
+ Left player | Right player
+ --- | ---
+ ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png)
 
 The dice above are both facing in the same direction, but only one (the
 left-most) projects its power toward the other. However, this condition
@@ -90,8 +92,9 @@ However, often in *Pew Pew, Die* the orientations and power protections
 are asymmetric. A simple example is the case where a die is facing
 entirely in the wrong direction:
 
-|---|---|
-|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute.png>|
+ Left player | Right player
+ --- | ---
+ ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute.png)
 
 As shown, the right-most die is facing in a northward direction neither
 projecting power at its opponent nor presenting a shield. Therefore, in
@@ -104,7 +107,7 @@ You'll notice that many of the die faces have two triangle on them.
 These faces provide a combination of attack and defensive capabilities,
 as shown below:
 
-<http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png>
+![jugg east](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png)
 
 Depending on the orientation of the above juggernaut in relation to an
 opponent will determine its offensive and defensive capabilities. For
