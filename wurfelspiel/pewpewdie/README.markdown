@@ -93,7 +93,7 @@ are asymmetric. A simple example is the case where a die is facing
 entirely in the wrong direction:
 
  Left player | Right player
- --- | ---
+ :---: | :---:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute.png)
 
 As shown, the right-most die is facing in a northward direction neither
@@ -101,7 +101,7 @@ projecting power at its opponent nor presenting a shield. Therefore, in
 this case the left-most die will win this battle as its 3-points of
 power are sufficient to destroy the other die.
 
-### Attack and Defense {#attack-and-defense}
+### Attack and Defense
 
 You'll notice that many of the die faces have two triangle on them.
 These faces provide a combination of attack and defensive capabilities,
@@ -138,8 +138,8 @@ The life-points for a given face are defined as follows:
 
 Enjoy!
 
-External Links {#external-links}
---------------
+External Links and Inspiration(s)
+---------------------------------
 
 -   The elegant [Bushi Shogi][] is the main motivation for *Pew Pew,
     Die*
