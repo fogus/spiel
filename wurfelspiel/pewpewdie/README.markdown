@@ -12,7 +12,7 @@ symbols, each named uniquely:
 ## Pew Pew Die Details|
 
  Face | Name 
- --- | ---
+ :---: | :---
  ![puppy](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png) | puppy
  ![philosopher](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png) | philosopher
  ![brute](http://images.fogus.me/games/pyramid-games/images/pd-brute.png) | brute
