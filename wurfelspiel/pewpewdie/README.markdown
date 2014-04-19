@@ -9,8 +9,8 @@ as a pyramid die (or colloquially a “pew-pew die” whereby the game's
 name is derived) is marked on each side with one or two triangular
 symbols, each named uniquely:
 
-|Pew Pew Die Details|
-|-------------------|
+## Pew Pew Die Details|
+
 |Face|Name|
 |![puppy](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png)|puppy|
 |![philosopher](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png)|philosopher|
