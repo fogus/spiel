@@ -16,7 +16,7 @@ from the set of available pyramids and pile them one on top of each
 other in any order and set aside. This structure is called the
 **initiative stack**.
 
-<http://images.fogus.me/games/pyramid-games/images/initiative-stack.png>
+![stack](http://images.fogus.me/games/pyramid-games/images/initiative-stack.png)
 
 To get started with *Initiative* you can forego the drafting stage and
 just randomly mix the remaining 25 pyramids into a container. Once
@@ -26,7 +26,7 @@ indicated by the die face). Once 10 pyramids are taken the other player
 takes 10 of those remaining. The image below shows the typical layout of
 the playing area for two “fictional” players, Alison and Andy.
 
-<http://images.fogus.me/games/pyramid-games/images/initiative-inventory-setup.png>
+![setup](http://images.fogus.me/games/pyramid-games/images/initiative-inventory-setup.png)
 
 The player who has experience in fencing goes first, otherwise a quick
 game of *Rock, Paper, Scissors* or [Pew Pew, Die][] can determine who
@@ -86,11 +86,11 @@ on these basic rules.
 Scoring a round in Initiative is fairly simple. The formula is as
 follows:
 
-`Number of pyramids in the winner's row`  
-`                 X`  
-` The pip count of the winning pyramid`  
-`---------------------------------------`  
-`      Total score for the round`
+    Number of pyramids in the winner's row
+                     X
+     The pip count of the winning pyramid
+    ---------------------------------------
+          Total score for the round
 
 Examples:
 
