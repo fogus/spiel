@@ -39,3 +39,59 @@ Play proceeds for as many rounds as the players desire, up to a
 pre-determined number of wins -- typically three works best. Details of
 attack and defensive mechanics and “life-points” follows.
 
+*Pew Pew, Die* Combat Mechanics {#pew-pew-die-combat-mechanics}
+-------------------------------
+
+The motivation behind the original creation of the pew-pew die faces has
+been lost to the rust-red dust-bin of Martian history. However, the
+layout is interesting from a game perspective in that rather than only
+signifying a magnitude of power it can also represent a **direction of
+force** -- and this is the basis of how *Pew Pew, Die* is played and
+scored.
+
+Take for example for the brute pew-pew die, shown below:
+
+|---|
+|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|
+
+The brute above is projecting 3-points of power eastward. On the other
+hand:
+
+|---|
+|<http://images.fogus.me/games/pyramid-games/images/pd-brute-s.png>|
+
+The brute above projects the same power southward.
+
+Now, observe two pew-pew dice oriented in such a way that their power
+projects toward each other:
+
+|---|---|
+|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png>|
+
+In the game of *Pew Pew, Die* such a condition would be a draw because
+both dice project the maximum amount of power that each can take toward
+one another -- this is a condition of mutual destruction. However,
+observe a different layout:
+
+|---|---|
+|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|
+
+The dice above are both facing in the same direction, but only one (the
+left-most) projects its power toward the other. However, this condition
+is also a draw because when the flat end of a triangle is oriented
+toward an opponent die then that is what is known as a **shield**.
+Therefore, the right-most die absorbs all 3 points of power projected
+from the left-most.
+
+However, often in *Pew Pew, Die* the orientations and power protections
+are asymmetric. A simple example is the case where a die is facing
+entirely in the wrong direction:
+
+|---|---|
+|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute.png>|
+
+As shown, the right-most die is facing in a northward direction neither
+projecting power at its opponent nor presenting a shield. Therefore, in
+this case the left-most die will win this battle as its 3-points of
+power are sufficient to destroy the other die.
+
