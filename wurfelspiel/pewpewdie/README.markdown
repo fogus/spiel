@@ -11,13 +11,14 @@ symbols, each named uniquely:
 
 ## Pew Pew Die Details|
 
-|Face|Name|
-|![puppy](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png)|puppy|
-|![philosopher](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png)|philosopher|
-|![brute](http://images.fogus.me/games/pyramid-games/images/pd-brute.png)|brute|
-|![minotaur](http://images.fogus.me/games/pyramid-games/images/pd-minotaur.png)|<s>minotaur</s>|
-|![catoblepas](http://images.fogus.me/games/pyramid-games/images/pd-catoblepas.png)|catoblepas|
-|![juggernaut](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut.png)|juggernaut|
+ Face | Name 
+ --- | ---
+ ![puppy](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png) | puppy
+ ![philosopher](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png) | philosopher
+ ![brute](http://images.fogus.me/games/pyramid-games/images/pd-brute.png) | brute
+ ![minotaur](http://images.fogus.me/games/pyramid-games/images/pd-minotaur.png) | <strike>minotaur</strike>
+ ![catoblepas](http://images.fogus.me/games/pyramid-games/images/pd-catoblepas.png) | catoblepas
+ ![juggernaut](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut.png) | juggernaut
 
 The power ranking for each of the die faces starts with the puppy and
 ends with the juggernaut. What this means for gameplay is explained
