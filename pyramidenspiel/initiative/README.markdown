@@ -23,7 +23,10 @@ just randomly mix the remaining 25 pyramids into a container. Once
 mixed, one player can roll the pyramid die 10 times, each time blindly
 taking a pyramid from the bag corresponding to their choice of size (as
 indicated by the die face). Once 10 pyramids are taken the other player
-takes 10 of those remaining.
+takes 10 of those remaining. The image below shows the typical layout of
+the playing area for two “fictional” players, Alison and Andy.
+
+<http://images.fogus.me/games/pyramid-games/images/initiative-inventory-setup.png>
 
 The player who has experience in fencing goes first, otherwise a quick
 game of *Rock, Paper, Scissors* or [Pew Pew, Die][] can determine who
@@ -33,30 +36,4 @@ goes first.
 fencing and initiative, but a drafting system is described later that
 provides more control over each player's pyramids.*
 
-### Placing pieces and parrying
-
-TODO
-
-### Scoring
-
-TODO
-
-Advanced play
--------------
-
-TODO
-
-### Drafting
-
-TODO
-
-### Sacrificing and manipulating the initiative stack
-
-TODO
-
-### Calling a color
-
-TODO
-
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
-
