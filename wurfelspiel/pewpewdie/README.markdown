@@ -69,7 +69,7 @@ Now, observe two pew-pew dice oriented in such a way that their power
 projects toward each other:
 
  Left player | Right player
- --- | ---
+ :---: | :---:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 In the game of *Pew Pew, Die* such a condition would be a draw because
@@ -78,7 +78,7 @@ one another -- this is a condition of mutual destruction. However,
 observe a different layout:
 
  Left player | Right player
- --- | ---
+ :---: | :---:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png)
 
 The dice above are both facing in the same direction, but only one (the
@@ -114,7 +114,7 @@ opponent will determine its offensive and defensive capabilities. For
 example:
 
  Left player | Right player
- --- | ---
+ :---: | :---:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 The dice above are oriented in such a way that the left-side die
