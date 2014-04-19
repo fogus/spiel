@@ -92,6 +92,31 @@ follows:
 `---------------------------------------`  
 `      Total score for the round`
 
+Examples:
 
+-   Andy wins on his 7th pyramid, which is a medium, meaning his score
+    for the round is 14 points
+-   Alison wins on her 1st pyramid with a large, meaning her score for
+    the round is 3 points
+
+There are additional scoring possibilities in the advanced rules section
+below.
+
+Advanced play
+-------------
+
+TODO
+
+### Drafting
+
+TODO
+
+### Sacrificing and manipulating the initiative stack
+
+TODO
+
+### Calling a color
+
+TODO
 
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
