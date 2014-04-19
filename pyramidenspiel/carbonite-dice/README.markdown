@@ -1,7 +1,7 @@
 CarboniteDice
 -------------
 
-CarboniteDice is a push-your-luck style dice game for one based on a variant of [IceDice](http://www.looneylabs.com/games/icedice) with the scoring of [Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html) (both by [Looney Labs](http://www.looneylabs.com)). 
+CarboniteDice is a push-your-luck dice game which is a variant of [IceDice](http://www.looneylabs.com/games/icedice) meant for Solo play.  CarboniteDice adopts the scoring of [Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html) (both by [Looney Labs](http://www.looneylabs.com)), with the base mechanics of IceDice. 
 
 Setup of CarboniteDice
 ======================
