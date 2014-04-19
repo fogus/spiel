@@ -56,22 +56,20 @@ scored.
 
 Take for example for the brute pew-pew die, shown below:
 
-|---|
-|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|
+![brute east](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png)
 
 The brute above is projecting 3-points of power eastward. On the other
 hand:
 
-|---|
-|<http://images.fogus.me/games/pyramid-games/images/pd-brute-s.png>|
+![brute south](http://images.fogus.me/games/pyramid-games/images/pd-brute-s.png)
 
 The brute above projects the same power southward.
 
 Now, observe two pew-pew dice oriented in such a way that their power
 projects toward each other:
 
-|---|---|
-|<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png>|
+ Left player | Right player
+ ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 In the game of *Pew Pew, Die* such a condition would be a draw because
 both dice project the maximum amount of power that each can take toward
