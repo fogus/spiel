@@ -113,8 +113,9 @@ Depending on the orientation of the above juggernaut in relation to an
 opponent will determine its offensive and defensive capabilities. For
 example:
 
-|---|---|
-|<http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png>|<http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png>|
+ Left player | Right player
+ --- | ---
+ ![L](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 The dice above are oriented in such a way that the left-side die
 projects 3-points of power toward the right-side. However, the left-side
