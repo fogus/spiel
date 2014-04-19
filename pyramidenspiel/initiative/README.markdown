@@ -36,4 +36,62 @@ goes first.
 fencing and initiative, but a drafting system is described later that
 provides more control over each player's pyramids.*
 
+### Placing pieces and parrying
+
+A round of *Initiative* consists of a number of turns (10 maximum) each
+consisting of an attack by one player and a defense by the other. For
+each attack, the defending player must play a piece in response
+according to the following guidelines:
+
+-   If you have a piece of the same size, then it must be played. You
+    are not forced to play the same color if you have more than one
+    piece of the attacking size.
+-   If you do not have a piece of the same size, then you must play a
+    piece of the same color
+
+#### Results of each piece placement
+
+Depending on the results of the defense as defined above, one of three
+things could occur:
+
+-   The defending player gains the initiative for the attack on the next
+    turn
+-   The defending player successfully defends, but does not gain the
+    initiative for attack
+-   The defending player does not have a defending piece, and losses the
+    round
+
+#### Gaining initiative
+
+Gaining initiative happens in one of two ways:
+
+-   The defender plays a piece of the same size, but with a color higher
+    on the initiative stack
+-   The defending player plays a piece of the same color, but of a
+    larger size
+
+#### Then swap pyramids
+
+The rules above are for the basic attack and defense rules. As an
+additional test of skill, the players can swap their set of pyramids and
+lead with the same set as the previous round to see who gets the higher
+score.
+
+You'll find the rules for more advanced attack and defense maneuvers
+later on this page, but for now observe the following play through based
+on these basic rules.
+
+### Simple Scoring
+
+Scoring a round in Initiative is fairly simple. The formula is as
+follows:
+
+`Number of pyramids in the winner's row`  
+`                 X`  
+` The pip count of the winning pyramid`  
+`---------------------------------------`  
+`      Total score for the round`
+
+
+
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
