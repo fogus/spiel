@@ -26,7 +26,7 @@ indicated by the die face). Once 10 pyramids are taken the other player
 takes 10 of those remaining. The image below shows the typical layout of
 the playing area for two “fictional” players, Alison and Andy.
 
-![setup](http://images.fogus.me/games/pyramid-games/images/initiative-inventory-setup.png)
+![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png)
 
 The player who has experience in fencing goes first, otherwise a quick
 game of *Rock, Paper, Scissors* or [Pew Pew, Die][] can determine who
