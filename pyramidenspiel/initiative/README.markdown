@@ -24,7 +24,7 @@ mixed, one player can roll the pyramid die 10 times, each time blindly
 taking a pyramid from the bag corresponding to their choice of size (as
 indicated by the die face). Once 10 pyramids are taken the other player
 takes 10 of those remaining. The image below shows the typical layout of
-the playing area for two “fictional” players, Alison and Andy.
+the playing area for two “fictional” players, Alison and Kristin.
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png)
 
@@ -94,7 +94,7 @@ follows:
 
 Examples:
 
--   Andy wins on his 7th pyramid, which is a medium, meaning his score
+-   Kristin wins on her 7th pyramid, which is a medium, meaning her score
     for the round is 14 points
 -   Alison wins on her 1st pyramid with a large, meaning her score for
     the round is 3 points
