@@ -16,7 +16,7 @@ from the set of available pyramids and pile them one on top of each
 other in any order and set aside. This structure is called the
 **initiative stack**.
 
-![stack](http://images.fogus.me/games/pyramid-games/images/initiative-stack.png)
+![stack](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-stack.png)
 
 To get started with *Initiative* you can forego the drafting stage and
 just randomly mix the remaining 25 pyramids into a container. Once
