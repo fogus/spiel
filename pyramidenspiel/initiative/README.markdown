@@ -70,6 +70,10 @@ Gaining initiative happens in one of two ways:
 -   The defending player plays a piece of the same color, but of a
     larger size
 
+### An example round using the basic rules
+
+![basic](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/basic-play-final.png)
+
 #### Then swap pyramids
 
 The rules above are for the basic attack and defense rules. As an
