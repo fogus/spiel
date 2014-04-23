@@ -14,9 +14,12 @@
    id="svg4543"
    sodipodi:version="0.32"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="rainbow-pyramids.svg"
+   sodipodi:docname="initiative-stack.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   version="1.0">
+   version="1.0"
+   inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-stack.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4545">
     <linearGradient
@@ -56,7 +59,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
+     inkscape:zoom="0.70710678"
      inkscape:cx="537.82243"
      inkscape:cy="584.88504"
      inkscape:current-layer="layer1"

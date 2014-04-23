@@ -57,16 +57,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="670.01217"
-     inkscape:cy="744.88504"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="510.01217"
+     inkscape:cy="814.28292"
      inkscape:current-layer="layer1"
      id="namedview4547"
      showgrid="false"
-     inkscape:window-width="1766"
-     inkscape:window-height="1155"
-     inkscape:window-x="4684"
-     inkscape:window-y="233"
+     inkscape:window-width="1366"
+     inkscape:window-height="651"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      objecttolerance="10"
@@ -74,7 +74,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-guide="true"
      guidetolerance="10"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      units="in"
      inkscape:snap-bbox="false" />
   <metadata
@@ -736,9 +736,9 @@
      transform="translate(0,498.18914)">
     <g
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(840.02144,-1099.4264)"
+       transform="translate(784.02144,-3.4264)"
        id="g4607"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -800,9 +800,9 @@
     </g>
     <g
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(735.49055,53.1951)"
+       transform="translate(263.56136,23.19511)"
        id="g4613"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -851,60 +851,10 @@
       </g>
     </g>
     <g
-       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(836.06434,128.02709)"
-       id="g4619"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
-         id="use4621">
-        <path
-           style="fill-opacity:1"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           id="path5088"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="translate(514.35419,-1019.4414)"
-           id="g5090"
-           style="fill-opacity:1">
-          <path
-             sodipodi:nodetypes="csssc"
-             id="use5092"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
-         id="use4623">
-        <path
-           style="fill-opacity:1"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           id="path5096"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="translate(514.35419,-1019.4414)"
-           id="g5098"
-           style="fill-opacity:1">
-          <path
-             sodipodi:nodetypes="csssc"
-             id="use5100"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g4779"
-       transform="translate(392.29439,-1102.2548)"
+       transform="translate(800.5613,-1044.8406)"
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -965,112 +915,10 @@
       </g>
     </g>
     <g
-       id="g4785"
-       transform="translate(665.25802,-1073.9706)"
-       style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
-         id="use4787">
-        <path
-           id="path5560"
-           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
-           style="fill-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="csssc"
-           id="use5562"
-           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="csssc"
-           id="use5564"
-           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
-         id="use4789">
-        <path
-           id="path5568"
-           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
-           style="fill-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="csssc"
-           id="use5570"
-           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="csssc"
-           id="use5572"
-           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
-       id="g4791"
-       transform="translate(358.43778,128.85552)"
-       style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
-         id="use4793">
-        <path
-           style="fill-opacity:1"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           id="path5128"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="translate(514.35419,-1019.4414)"
-           id="g5130"
-           style="fill-opacity:1">
-          <path
-             sodipodi:nodetypes="csssc"
-             id="use5132"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
-         id="use4795">
-        <path
-           style="fill-opacity:1"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           id="path5136"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="translate(514.35419,-1019.4414)"
-           id="g5138"
-           style="fill-opacity:1">
-          <path
-             sodipodi:nodetypes="csssc"
-             id="use5140"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <g
        style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(95.20189,-1100.8406)"
+       transform="translate(937.2019,-1044.8406)"
        id="g4951"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1132,9 +980,9 @@
     </g>
     <g
        style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(367.57973,-1075.3848)"
+       transform="translate(247.57973,-1033.3848)"
        id="g4957"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1183,60 +1031,10 @@
       </g>
     </g>
     <g
-       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(385.05806,-1003.3812)"
-       id="g4963"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
-         id="use4965">
-        <path
-           style="fill-opacity:1"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           id="path5168"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="translate(514.35419,-1019.4414)"
-           id="g5170"
-           style="fill-opacity:1">
-          <path
-             sodipodi:nodetypes="csssc"
-             id="use5172"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
-         id="use4967">
-        <path
-           style="fill-opacity:1"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           id="path5176"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="translate(514.35419,-1019.4414)"
-           id="g5178"
-           style="fill-opacity:1">
-          <path
-             sodipodi:nodetypes="csssc"
-             id="use5180"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g5123"
-       transform="translate(365.04964,26.32504)"
+       transform="translate(1051.0496,-1.67496)"
        style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1298,9 +1096,9 @@
     </g>
     <g
        id="g5129"
-       transform="translate(638.9422,53.78088)"
+       transform="translate(826.9422,25.78088)"
        style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1350,9 +1148,9 @@
     </g>
     <g
        id="g5135"
-       transform="translate(763.18749,-1001.4306)"
+       transform="translate(75.18749,90.5694)"
        style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1400,73 +1198,9 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(838.85524,26.95793)"
-       id="g3647"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="use3649"
-         style="fill:#000000;fill-opacity:1;stroke:#464646;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,226.31525,331.99931)">
-        <path
-           id="path4652"
-           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
-           style="fill-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 97.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
-           id="use4654"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 69.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
-           id="use4656"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 83.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
-           id="use4658"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="use3651"
-         style="fill:#000000;fill-opacity:1;stroke:#464646;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,106.18208,380.48921)">
-        <path
-           id="path4662"
-           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
-           style="fill-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 97.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
-           id="use4664"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 69.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
-           id="use4666"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 83.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
-           id="use4668"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(1107.637,-1071.8452)"
+       transform="translate(357.637,-1033.8452)"
        id="g3653"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -2458,9 +2192,9 @@
     </g>
     <g
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(758.25297,-1075.3848)"
+       transform="translate(488.25297,20.6152)"
        id="g7766"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -2509,214 +2243,10 @@
       </g>
     </g>
     <g
-       style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(834.4053,-1001.4306)"
-       id="g7784"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g7786"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
-         style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7788"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           style="fill-opacity:1" />
-        <g
-           style="fill-opacity:1"
-           id="g7790"
-           transform="translate(514.35419,-1019.4414)">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             id="path7792"
-             sodipodi:nodetypes="csssc" />
-        </g>
-      </g>
-      <g
-         id="g7794"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
-         style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7796"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           style="fill-opacity:1" />
-        <g
-           style="fill-opacity:1"
-           id="g7798"
-           transform="translate(514.35419,-1019.4414)">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             id="path7800"
-             sodipodi:nodetypes="csssc" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g7830"
-       transform="translate(272.58478,56.02353)"
-       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g7832"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
-         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill-opacity:1"
-           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
-           id="path7834" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7836"
-           sodipodi:nodetypes="csssc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7838"
-           sodipodi:nodetypes="csssc" />
-      </g>
-      <g
-         id="g7840"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
-         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill-opacity:1"
-           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
-           id="path7842" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7844"
-           sodipodi:nodetypes="csssc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7846"
-           sodipodi:nodetypes="csssc" />
-      </g>
-    </g>
-    <g
-       id="g7848"
-       transform="translate(284.06311,128.0271)"
-       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g7850"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
-         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7852"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           style="fill-opacity:1" />
-        <g
-           style="fill-opacity:1"
-           id="g7854"
-           transform="translate(514.35419,-1019.4414)">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             id="path7856"
-             sodipodi:nodetypes="csssc" />
-        </g>
-      </g>
-      <g
-         id="g7858"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
-         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7860"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           style="fill-opacity:1" />
-        <g
-           style="fill-opacity:1"
-           id="g7862"
-           transform="translate(514.35419,-1019.4414)">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             id="path7864"
-             sodipodi:nodetypes="csssc" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g7866"
-       transform="translate(830.4855,52.60931)"
-       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g7868"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
-         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill-opacity:1"
-           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
-           id="path7870" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7872"
-           sodipodi:nodetypes="csssc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7874"
-           sodipodi:nodetypes="csssc" />
-      </g>
-      <g
-         id="g7876"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
-         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill-opacity:1"
-           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
-           id="path7878" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7880"
-           sodipodi:nodetypes="csssc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
-           id="path7882"
-           sodipodi:nodetypes="csssc" />
-      </g>
-    </g>
-    <g
        id="g7884"
-       transform="translate(1106.0806,53.90621)"
+       transform="translate(716.0806,27.90621)"
        style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/example-inventory.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -2784,11 +2314,14 @@
            height="345.06812"
            x="36.769554"
            y="236.22417" /></flowRegion><flowPara
-         id="flowPara7916"></flowPara></flowRoot>    <flowRoot
+         id="flowPara7916" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7918"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(104,-490.18914)"><flowRegion
+       transform="translate(104,-490.18914)"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion7920"><rect
            id="rect7922"
            width="620"
@@ -2799,311 +2332,730 @@
        xml:space="preserve"
        id="flowRoot7926"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(120,-500.18914)"><flowRegion
+       transform="translate(120,-500.18914)"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion7928"><rect
            id="rect7930"
            width="576"
            height="68"
            x="428"
            y="14.188965" /></flowRegion><flowPara
-         id="flowPara7932">Andrew's Inventory</flowPara></flowRoot>    <rect
+         id="flowPara7932">Kristin's Inventory</flowPara></flowRoot>    <rect
        style="fill:none;stroke-width:3.96;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.96,31.68;stroke-dashoffset:0;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        id="rect7936"
        width="1114"
        height="588"
        x="194"
        y="454.18896"
-       transform="translate(0,-498.18914)" />
+       transform="translate(0,-498.18914)"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="626"
        y="257.99982"
        id="text8706"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8708"
          x="626"
          y="257.99982">Play area</tspan></text>
-    <image
-       y="-3.0001831"
-       x="1481.5"
-       id="image9527"
-       xlink:href="data:image/png;base64,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
-iI2HbAAAAABJRU5ErkJggg==
-"
-       height="258"
-       width="109" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1386"
        y="303.99982"
        id="text9530"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9532"
          x="1386"
          y="303.99982">Initiative Stack</tspan></text>
+    <image
+       y="88.999832"
+       x="1497.5"
+       id="image4244"
+       xlink:href="data:image/png;base64,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
+"
+       height="162"
+       width="65"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4247"
+       transform="translate(465.70043,-1034.7595)"
+       style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
+         id="g4249">
+        <path
+           id="path4251"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           style="fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4253"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4255"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
+         id="g4257">
+        <path
+           id="path4259"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           style="fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4261"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4263"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       id="g4265"
+       transform="translate(139.57973,-1031.3848)"
+       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <g
+         id="g4267"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
+         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill-opacity:1"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           id="path4269" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4271"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4273"
+           sodipodi:nodetypes="csssc" />
+      </g>
+      <g
+         id="g4275"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
+         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill-opacity:1"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           id="path4277" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4279"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4281"
+           sodipodi:nodetypes="csssc" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       id="g4283"
+       transform="translate(1067.2019,-1042.8406)"
+       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <g
+         id="g4285"
+         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,226.3153,331.9993)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4287"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4289"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4291"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4293"
+           sodipodi:nodetypes="csssc" />
+      </g>
+      <g
+         id="g4295"
+         style="fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,106.18217,380.48921)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4297"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4299"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4301"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4303"
+           sodipodi:nodetypes="csssc" />
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(432.11658,-1045.4209)"
+       id="g4305"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g4307"
+         style="fill:#000000;fill-opacity:1;stroke:#464646;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,226.31525,331.99931)">
+        <path
+           id="path4309"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           id="path4311"
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           id="path4313"
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           id="path4315"
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4317"
+         style="fill:#000000;fill-opacity:1;stroke:#464646;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,106.18208,380.48921)">
+        <path
+           id="path4319"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           id="path4321"
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           id="path4323"
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           id="path4325"
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(672.5613,-1044.8406)"
+       id="g4327">
+      <g
+         id="g4329"
+         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,226.3153,331.9993)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4331"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4333"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4335"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4337"
+           sodipodi:nodetypes="csssc" />
+      </g>
+      <g
+         id="g4339"
+         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,106.18217,380.48921)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4341"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4343"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4345"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4347"
+           sodipodi:nodetypes="csssc" />
+      </g>
+    </g>
+    <g
+       id="g4349"
+       transform="translate(554.75713,-1045.4209)"
+       style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,226.31525,331.99931)"
+         style="fill:#000000;fill-opacity:1;stroke:#464646;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4351">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill-opacity:1"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           id="path4353" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc"
+           id="path4355"
+           d="m 97.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc"
+           id="path4357"
+           d="m 69.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc"
+           id="path4359"
+           d="m 83.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,106.18208,380.48921)"
+         style="fill:#000000;fill-opacity:1;stroke:#464646;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4361">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill-opacity:1"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           id="path4363" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc"
+           id="path4365"
+           d="m 97.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc"
+           id="path4367"
+           d="m 69.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc"
+           id="path4369"
+           d="m 83.04326,502.84442 c 0,3.1469 -1.5088,3.70091 -3.3679,3.70091 -1.8591,0 -3.368,-0.55401 -3.368,-3.70091 0,-3.1469 1.5089,-7.70091 3.368,-7.70091 1.8591,0 3.3679,4.55401 3.3679,7.70091 z"
+           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       id="g4371"
+       transform="translate(916.02144,-5.4264)"
+       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <g
+         id="g4373"
+         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,226.3153,331.9993)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4375"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4377"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4379"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4381"
+           sodipodi:nodetypes="csssc" />
+      </g>
+      <g
+         id="g4383"
+         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,106.18217,380.48921)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4385"
+           d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+           style="fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4387"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4389"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4391"
+           sodipodi:nodetypes="csssc" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       id="g4393"
+       transform="translate(598.25297,28.6152)"
+       style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <g
+         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
+         id="g4395">
+        <path
+           id="path4397"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           style="fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4399"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4401"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
+         id="g4403">
+        <path
+           id="path4405"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           style="fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4407"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssc"
+           id="path4409"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png"
+       id="g4411"
+       transform="translate(365.49055,23.1951)"
+       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <g
+         id="g4413"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,-17.333903,282.0995)"
+         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill-opacity:1"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           id="path4415" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4417"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4419"
+           sodipodi:nodetypes="csssc" />
+      </g>
+      <g
+         id="g4421"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-144.24766,397.74623)"
+         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill-opacity:1"
+           d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+           id="path4423" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4425"
+           sodipodi:nodetypes="csssc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+           id="path4427"
+           sodipodi:nodetypes="csssc" />
+      </g>
+    </g>
   </g>
 </svg>
