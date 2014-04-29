@@ -158,6 +158,10 @@ Observe the following play-through using sacrificing:
     a small piece nor a blue piece, she has lost the round.  Alison's
     score for the round is 9 points.
 
+A detailed view of how the placed pieces and sacrifices in the game above manipulated the stack, observe the diagram below:
+
+![stack-ops](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/stack-operations.png)
+
 By sacrificing pieces a player can gain or retain initiative from one play to another.  Also, sacrificing allows players to get more pyramids into the play area for the purposes of increasing their round score.  It's a powerful technique, that adds much more depth to the play of any given round.  Failing to sacrifice at a crucial moment could spell disaster for a player.
 
 ### Calling a color
