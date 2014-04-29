@@ -11,20 +11,11 @@ precise rules of play are described below.
 
 ### Quick setup
 
-Before beginning, take 5 pyramids, one of each color all the same size,
-from the set of available pyramids and pile them one on top of each
-other in any order and set aside. This structure is called the
-**initiative stack**.
+Before beginning, take 5 pyramids, one of each color all the same size, from the set of available pyramids and pile them one on top of each other in any order and set aside. This structure is called the **initiative stack**.  The initiative stack describes the precedence of the colors.  The color higher on the stack trumps a color lower on the stack, this precedence will determine which player gets to lead on a turn; that is, who has the initiative.
 
 ![stack](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-stack.png)
 
-To get started with *Initiative* you can forego the drafting stage and
-just randomly mix the remaining 25 pyramids into a container. Once
-mixed, one player can roll the pyramid die 10 times, each time blindly
-taking a pyramid from the bag corresponding to their choice of size (as
-indicated by the die face). Once 10 pyramids are taken the other player
-takes 10 of those remaining. The image below shows the typical layout of
-the playing area for two “fictional” players, Alison and Kristin.
+To get started with *Initiative* just randomly mix the remaining 25 pyramids into a container. Once mixed, one player can roll the pyramid die 10 times, each time blindly taking a pyramid from the bag corresponding to their choice of size (as indicated by the die face). Once 10 pyramids are taken the other player takes 10 of those remaining. The image below shows the typical layout of the playing area for two “fictional” players, Alison and Kristin.
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png)
 
@@ -139,7 +130,9 @@ As you saw in the playthrough above, it was clear that Alison was going to lose 
 
 Through a technique called "sacrificing" a player can indeed manipulate the initiative stack and move colors up and down the stack from 1 to 3 slots at a time.  To sacrifice a piece, a player only needs to place it under the pyramid that they wish to play on their turn.  That is, the player plays two pyramids on a turn, the one on the top being the placed piece and the one on the bottom being the sacrificed piece.  The size of the sacrificed piece then gives them 1 to 3 points (small = 1, medium = 2, large = 3) for use in making piece swaps on the initiative stack.  
 
-A piece swap on the initiative stack only means that the player chooses a piece in the stack and swaps it with the piece either on top or under it. 
+A piece swap on the initiative stack only means that the player chooses a piece in the stack and swaps it with the piece either on top or under it.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the leader or the responder can sacrifice on any play, so the initiative stack might change a few times during a round.
+
+**TODO: add an example**
 
 ### Calling a color
 
