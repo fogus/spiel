@@ -135,7 +135,7 @@ While Initiative using the basic rules is fairly interesting, the depth of play 
 
 ### Sacrificing and manipulating the initiative stack
 
-TODO
+As you saw in the playthrough above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack 
 
 ### Calling a color
 
