@@ -140,7 +140,7 @@ By sacrificing pieces a player can gain or retain initiative from one play to an
 
 During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The defending player **must** play a pyramid of that color on their defensive placement and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
 
-Every sacrifice made in a round
+Every sacrifice made in a round (by both players) causes the total score to be doubled.  For example, if both players sacrifice once each then the final score for the winning player is doubled and then doubled again.
 
 ### Drafting
 
