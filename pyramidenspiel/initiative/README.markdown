@@ -85,7 +85,9 @@ The following image shows the result of a game played using the inventories show
     medium green, gaining initiative
  4. Kristin then places a large yellow and Alison responds with a 
     large red
- 5. 
+ 5. Kristen, having kept initiative places a large green. Alison responds
+    with her last large pyramid, a red.
+ 6. 
  
 
 #### Then swap pyramids
