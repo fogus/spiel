@@ -134,9 +134,11 @@ A piece swap on the initiative stack only means that the player chooses a piece 
 
 **TODO: add an example**
 
+By sacrificing pieces a player can gain or retain initiative from one play to another.  Also, sacrificing allows players to get more pyramids into the play area for the purposes of increasing their round score.  It's a powerful technique, that adds much more depth to the play of any given round.
+
 ### Calling a color
 
-TODO
+Once during a round a player may also 
 
 ### Drafting
 
