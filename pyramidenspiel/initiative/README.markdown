@@ -132,7 +132,9 @@ Through a technique called "sacrificing" a player can indeed manipulate the init
 
 A piece swap on the initiative stack means that the color of the played piece can be moved up or down the initiative stack the number of slots indicated by the size of the sacrificed piece.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the leader or the responder can sacrifice on any play, so the initiative stack might change a few times during a round.
 
-**TODO: add an example**
+Observe the following play-through using sacrificing:
+
+![sacrificing](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/sacrifice-play-final.png)
 
  1. Alison leads the round by playing a medium blue, and Kristin
     follows with a medium green
