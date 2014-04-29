@@ -87,19 +87,13 @@ The following image shows the result of a game played using the inventories show
     large red
  5. Kristen, having kept initiative places a large green. Alison responds
     with her last large pyramid, a red.
- 6. 
- 
+ 6. Kristen places a large black and Alison responds with a medium black
+ 7. Kristin then places a large yellow and Alison responds with a 
+    medium yellow
+ 8. Finally, Kristin places a large black and because Alison has no
+    more large pyramids nor smaller black pieces, she has lost.
 
-#### Then swap pyramids
-
-The rules above are for the basic attack and defense rules. As an
-additional test of skill, the players can swap their set of pyramids and
-lead with the same set as the previous round to see who gets the higher
-score.
-
-You'll find the rules for more advanced attack and defense maneuvers
-later on this page, but for now observe the following play through based
-on these basic rules.
+The sample round thus concludes with Kristin scoring 28 points, but how was it calculated?  The basic scoring for Initiative are as follows.
 
 ### Simple Scoring
 
@@ -112,6 +106,8 @@ follows:
     ---------------------------------------
           Total score for the round
 
+Therefore, Kristin won the 
+
 Examples:
 
 -   Kristin wins on her 7th pyramid, which is a medium, meaning her score
@@ -121,6 +117,19 @@ Examples:
 
 There are additional scoring possibilities in the advanced rules section
 below.
+
+
+#### Then swap pyramids
+
+The rules above are for the basic attack and defense rules. As an
+additional test of skill, the players can swap their set of pyramids and
+lead with the same set as the previous round to see who gets the higher
+score.
+
+You'll find the rules for more advanced attack and defense maneuvers
+later on this page, but for now observe the following play through based
+on these basic rules.
+
 
 Advanced play
 -------------
