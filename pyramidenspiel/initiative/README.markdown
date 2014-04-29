@@ -135,7 +135,9 @@ While Initiative using the basic rules is fairly interesting, the depth of play 
 
 ### Sacrificing and manipulating the initiative stack
 
-As you saw in the playthrough above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack 
+As you saw in the playthrough above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack had been organized slightly differently then Alison might have had a chance to win, or at least to maintain or gain initiative more often.
+
+Through a technique called "sacrificing" a player can indeed manipulate the initiative stack and move colors up and down the stack from 1 to 3 slots at a time.  To sacrifice a piece, a player only needs to place it under the pyramid that they wish to play on their turn.  That is, the player plays two pyramids on a turn, the one on the top being the placed piece and the one on the bottom being the sacrificed piece.  The size of the sacrificed piece then gives them 1 to 3 points (small = 1, medium = 2, large = 3) for use in making piece swaps on the initiative stack.  
 
 ### Calling a color
 
