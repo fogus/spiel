@@ -148,7 +148,13 @@ A piece swap on the initiative stack means that the color of the played piece ca
 	and under the blue.  The new initiative stack precedence rules
 	that red is now higher than black, therefore Alison has gained 
 	the initiative for the next turn
- 5. 
+ 5. Alison then plays a medium yellow while sacrificing a medium
+    red.  The yellow color on the initiative statck is move up two 
+	slots to the top of the stack. Kristin then follows with a 
+	medium green
+ 6. Finally, Alison places a small blue and since Kristin has neither
+    a small piece nor a blue piece, she has lost the round.  Alison's
+    score for the round is 9 points.
 
 By sacrificing pieces a player can gain or retain initiative from one play to another.  Also, sacrificing allows players to get more pyramids into the play area for the purposes of increasing their round score.  It's a powerful technique, that adds much more depth to the play of any given round.  Failing to sacrifice at a crucial moment could spell disaster for a player.
 
