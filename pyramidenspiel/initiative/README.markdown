@@ -130,7 +130,7 @@ As you saw in the playthrough above, it was clear that Alison was going to lose 
 
 Through a technique called "sacrificing" a player can indeed manipulate the initiative stack and move colors up and down the stack from 1 to 3 slots at a time.  To sacrifice a piece, a player only needs to place it under the pyramid that they wish to play on their turn.  That is, the player plays two pyramids on a turn, the one on the top being the placed piece and the one on the bottom being the sacrificed piece.  The size of the sacrificed piece then gives them 1 to 3 points (small = 1, medium = 2, large = 3) for use in making piece swaps on the initiative stack.  
 
-A piece swap on the initiative stack only means that the player chooses a piece in the stack and swaps it with the piece either on top or under it.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the leader or the responder can sacrifice on any play, so the initiative stack might change a few times during a round.
+A piece swap on the initiative stack means that the color of the played piece can be moved up or down the initiative stack the number of slots indicated by the size of the sacrificed piece.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the leader or the responder can sacrifice on any play, so the initiative stack might change a few times during a round.
 
 **TODO: add an example**
 
