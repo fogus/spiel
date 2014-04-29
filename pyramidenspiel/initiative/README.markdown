@@ -127,19 +127,11 @@ lead with the same set as the previous round to see who gets the higher
 score.  The player with the highest overall score is the winner of the 
 2-round match.
 
-You'll find the rules for more advanced attack and defense maneuvers
-later on this page, but for now observe the following play through based
-on these basic rules.
-
 
 Advanced play
 -------------
 
-TODO
-
-### Drafting
-
-TODO
+While Initiative using the basic rules is fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth an variability to the game once you feel comfortable with the basic gameplay rules.
 
 ### Sacrificing and manipulating the initiative stack
 
@@ -148,5 +140,10 @@ TODO
 ### Calling a color
 
 TODO
+
+### Drafting
+
+TODO
+
 
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
