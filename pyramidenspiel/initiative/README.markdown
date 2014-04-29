@@ -134,6 +134,16 @@ A piece swap on the initiative stack means that the color of the played piece ca
 
 **TODO: add an example**
 
+ 1. Alison leads the round by playing a medium blue, and Kristin
+    follows with a medium green
+ 2. Alison then places a large blue, and Kristin follows with a 
+    large green
+ 3. Alison then places a medium yellow while sacrificing a medium
+    black. The yellow color on the initiative stack is moved up
+	two slots on top of green and under blue. Kristin then places
+	a medium blue, gaining initiative
+ 4. 
+
 By sacrificing pieces a player can gain or retain initiative from one play to another.  Also, sacrificing allows players to get more pyramids into the play area for the purposes of increasing their round score.  It's a powerful technique, that adds much more depth to the play of any given round.  Failing to sacrifice at a crucial moment could spell disaster for a player.
 
 ### Calling a color
