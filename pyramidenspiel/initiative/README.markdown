@@ -72,7 +72,21 @@ Gaining initiative happens in one of two ways:
 
 ### An example round using the basic rules
 
+The following image shows the result of a game played using the inventories shown earlier for Kristin and Alison.  This is just one possible scenario for illustration and not meant to show optimal play by either player.  The black and white stones shown are not needed for your own game and are shown only to mark the starting pyramid (white) and the changes in ininitiative (black).
+
 ![basic](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/basic-play-final.png)
+
+ 1. Alison begins the round by placing a small blue. Kristin does not 
+    have a small, so she must follow with a different blue pyramid. 
+	She therefore responds by placing a medium blue, gaining initiative
+ 2. Kristen then lays a large green and Alison responds in turn with a 
+    large blue, gaining initiative
+ 3. Alison then places a medium yellow and Kristin responds with a 
+    medium green, gaining initiative
+ 4. Kristin then places a large yellow and Alison responds with a 
+    large red
+ 5. 
+ 
 
 #### Then swap pyramids
 
