@@ -72,11 +72,11 @@ The following image shows the result of a game played using the inventories show
  8. Finally, Kristin places a large black and because Alison has no
     more large pyramids nor smaller black pieces, she has lost.
 
-The sample round thus concludes with Kristin scoring 24 points, but how was it calculated?  The basic scoring for Initiative are as follows.
+The sample round thus concludes with Kristin scoring 24 points, but how was it calculated?  The basic scoring for *Initiative* are as follows.
 
 ### Simple Scoring
 
-Scoring a round in Initiative is fairly simple. The formula is as follows:
+Scoring a round in *Initiative* is fairly simple. The formula is as follows:
 
     Number of pyramids in the winner's row
                      X
@@ -105,7 +105,7 @@ The rules above are for the basic attack and defense rules. As an additional tes
 Advanced play
 -------------
 
-While Initiative using the basic rules is fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth an variability to the game once you feel comfortable with the basic gameplay rules.
+While *Initiative* using the basic rules is fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth an variability to the game once you feel comfortable with the basic gameplay rules.
 
 ### Sacrificing and manipulating the initiative stack
 
