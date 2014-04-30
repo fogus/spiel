@@ -11,17 +11,17 @@ Before beginning, take 5 pyramids, one of each color all the same size, from the
 
 ![stack](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-stack.png)
 
-To get started with *Initiative* just randomly mix the remaining 25 pyramids into a container. Once mixed, one player can roll the pyramid die 10 times, each time blindly taking a pyramid from the bag corresponding to their choice of size (as indicated by the die face). Once 10 pyramids are taken the other player takes 10 of those remaining. The image below shows the typical layout of the playing area for two “fictional” players, Alison and Kristin.
+To get started with *Initiative* just randomly mix the remaining 25 pyramids into a container (an [IceDice](http://www.looneylabs.com/games/icedice) bag works well). Once mixed, one player can roll the pyramid die 10 times, each time blindly taking a pyramid from the bag corresponding to their choice of size (as indicated by the die face). Once 10 pyramids are taken the other player takes 10 of those remaining. The image below shows the typical layout of the playing area for two “fictional” players, Alison and Kristin.
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png)
 
 The player who has experience in fencing goes first, otherwise a quick game of *Rock, Paper, Scissors* or [Pew Pew, Die][pew-pew] can determine who goes first.
 
-*This is a good way to get started quickly to explore the mechanics of fencing and initiative, but a drafting system is described later that provides more control over each player's pyramids.*
+*This is a good way to get started quickly to explore the mechanics of placing, parrying and initiative, but a drafting system is described later that provides more control over each player's pyramids.*
 
 ### Placing pieces and parrying
 
-A round of *Initiative* consists of a number of turns (10 maximum) each consisting of an attack by one player and a defense by the other. For each attack, the defending player must play a piece in response according to the following guidelines:
+A round of *Initiative* consists of a number of turns (10 maximum) each consisting of a *placement* by one player and a *defense* by the other. For each placement, the defending player must play a piece in response according to the following guidelines:
 
 -   If you have a piece of the same size, then it must be played. You
     are not forced to play the same color if you have more than one
@@ -105,11 +105,11 @@ The rules above are for the basic attack and defense rules. As an additional tes
 Advanced play
 -------------
 
-While *Initiative* using the basic rules is fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth an variability to the game once you feel comfortable with the basic gameplay rules.
+While *Initiative* using the basic rules is fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth an variability to the game once you feel comfortable with the basic game-play rules.
 
 ### Sacrificing and manipulating the initiative stack
 
-As you saw in the playthrough above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack had been organized slightly differently then Alison might have had a chance to win, or at least to maintain or gain initiative more often.
+As you saw in the play-through above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack had been organized slightly differently then Alison might have had a chance to win, or at least to maintain or gain initiative more often.
 
 Through a technique called "sacrificing" a player can indeed manipulate the initiative stack and move colors up and down the stack from 1 to 3 slots at a time.  To sacrifice a piece, a player only needs to place it under the pyramid that they wish to play on their turn.  That is, the player plays two pyramids on a turn, the one on the top being the placed piece and the one on the bottom being the sacrificed piece.  The size of the sacrificed piece then gives them 1 to 3 points (small = 1, medium = 2, large = 3) for use in making piece swaps on the initiative stack.  
 
@@ -153,7 +153,7 @@ You'll notice that if one player sacrifices more than the other then a circumsta
 
 ![pummeling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/pummel-example.png)
 
-In the figure above, the player ran out of pieces before the round was over so the last piece, a large blue, is used as the played pyramid for the remaining turns.  Pummeling in *Iniative* is a risky manuever as an opponent can continue to manipulate the initiative stack and weaken your pummeling piece, but the rewards of a successful attempt are vast.  That is, every virtual play by a pummeled piece doubles your final score in the end.  In the figure above, the pummeling player could double, then redouble, then again double, and double again, and then redouble their score for a final score of (3*10) * 2 * 2 * 2 * 2 * 2 = 960 points!  This particular circumstance would indeed be a rare occurance, but wins with 1 or 2 pummeling turns happen from time to time.
+In the figure above, the player ran out of pieces before the round was over so the last piece, a large blue, is used as the played pyramid for the remaining turns.  Pummeling in *Iniative* is a risky maneuver as an opponent can continue to manipulate the initiative stack and weaken your pummeling piece, but the rewards of a successful attempt are vast.  That is, every virtual play by a pummeled piece doubles your final score in the end.  In the figure above, the pummeling player could double, then redouble, then again double, and double again, and then redouble their score for a final score of (3*10) * 2 * 2 * 2 * 2 * 2 = 960 points!  This particular circumstance would indeed be a rare occurrence, but wins with 1 or 2 pummeling turns happen from time to time.
 
 ### Calling a color
 
