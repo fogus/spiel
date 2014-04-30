@@ -61,17 +61,17 @@ The following image shows the result of a game played using the inventories show
 
  1. Alison begins the round by placing a small blue. Kristin does not 
     have a small, so she must parry with a different blue pyramid. 
-	She therefore parrys by placing a medium blue, gaining initiative
- 2. Kristen then lays a large green and Alison parrys in turn with a 
+	She therefore parries by placing a medium blue, gaining initiative
+ 2. Kristen then lays a large green and Alison parries in turn with a 
     large blue, gaining initiative
- 3. Alison then places a medium yellow and Kristin parrys with a 
+ 3. Alison then places a medium yellow and Kristin parries with a 
     medium green, gaining initiative
- 4. Kristin then places a large yellow and Alison parrys with a 
+ 4. Kristin then places a large yellow and Alison parries with a 
     large red
- 5. Kristen, having kept initiative places a large green. Alison parrys
+ 5. Kristen, having kept initiative places a large green. Alison parries
     with her last large pyramid, a red.
- 6. Kristen places a large black and Alison parrys with a medium black
- 7. Kristin then places a large yellow and Alison parrys with a 
+ 6. Kristen places a large black and Alison parries with a medium black
+ 7. Kristin then places a large yellow and Alison parries with a 
     medium yellow
  8. Finally, Kristin places a large black and because Alison has no
     more large pyramids nor smaller black pieces, she has lost.
@@ -124,14 +124,14 @@ Observe the following play-through using sacrificing:
 ![sacrificing](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/sacrifice-play-final.png)
 
  1. Alison leads the round by playing a medium blue, and Kristin
-    parrys with a medium green
- 2. Alison then places a large blue, and Kristin parrys with a 
+    parries with a medium green
+ 2. Alison then places a large blue, and Kristin parries with a 
     large green
  3. Alison then places a medium yellow while sacrificing a medium
     black. The yellow color on the initiative stack is moved up
 	two slots on top of green and under blue. Kristin then places
 	a medium blue, gaining initiative
- 4. Kristin then places a medium black, and Alison parrys with a 
+ 4. Kristin then places a medium black, and Alison parries with a 
     medium red while sacrificing a large red.  The red color on the 
 	initiative stack is moved upwards 3 slots on top of the yellow
 	and under the blue.  The new initiative stack precedence rules
@@ -139,7 +139,7 @@ Observe the following play-through using sacrificing:
 	the initiative for the next turn
  5. Alison then plays a medium yellow while sacrificing a medium
     red.  The yellow color on the initiative stack is move up two 
-	slots to the top of the stack. Kristin then parrys with a 
+	slots to the top of the stack. Kristin then parries with a 
 	medium green
  6. Finally, Alison places a small blue and since Kristin has neither
     a small piece nor a blue piece, she has lost the round.  Alison's
@@ -157,7 +157,7 @@ You'll notice that if one player sacrifices more than the other then a circumsta
 
 ![pummeling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/pummel-example.png)
 
-In the figure above, the player ran out of pieces before the round was over so the last piece, a large blue, is used as the played pyramid for the remaining turns.  Pummeling in *Iniative* is a risky maneuver as an opponent can continue to manipulate the initiative stack and weaken your pummeling piece, but the rewards of a successful attempt are vast.  That is, every virtual play by a pummeled piece doubles your final score in the end.  In the figure above, the pummeling player could double, then redouble, then again double, and double again, and then redouble their score for a final score of (3*10) * 2 * 2 * 2 * 2 * 2 = 960 points!  This particular circumstance would indeed be a rare occurrence, but wins with 1 or 2 pummeling turns happen from time to time.
+In the figure above, the player ran out of pieces before the round was over so the last piece, a large blue, is used as the played pyramid for the remaining turns.  Pummeling in *Initiative* is a risky maneuver as an opponent can continue to manipulate the initiative stack and weaken your pummeling piece, but the rewards of a successful attempt are vast.  That is, every virtual play by a pummeled piece doubles your final score in the end.  In the figure above, the pummeling player could double, then redouble, then again double, and double again, and then redouble their score for a final score of (3*10) * 2 * 2 * 2 * 2 * 2 = 960 points!  This particular circumstance would indeed be a rare occurrence, but wins with 1 or 2 pummeling turns happen from time to time.
 
 ### Calling a color
 
@@ -195,6 +195,6 @@ Once both players have 10 pyramids each the match can begin.
 
 ## Acknowledgments 
 
-*Initiative* is inspired by [Mate](http://boardgamegeek.com/boardgame/19253/mate) and is an adaptation for play using Icehouse pyramids with some additional rules added.  The drafting mechanism is (obviously) inspired by [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto).
+*Initiative* is inspired by [Mate](http://boardgamegeek.com/boardgame/19253/mate) and is an adaptation for play using Alehouse pyramids with some additional rules added.  The drafting mechanism is (obviously) inspired by [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto).
 
 [pew-pew]: http://icehousegames.org/wiki/index.php?title=PewPewDie
