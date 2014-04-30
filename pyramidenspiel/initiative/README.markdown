@@ -176,7 +176,14 @@ To spice up the process of building an inventory you can use the following schem
 
  1. Place three markers onto a table. The markers can be anything, but 
     should be in a row between the players
- 2. Roll the pyramid die as above and draw
+ 2. Roll the pyramid die as above and draw a given size blindly from 
+    some sort of sack or other opaque container
+ 3. You must then place the drawn pyramid next to one of the three markers
+ 4. The next player can either take all of the pyramids next to a 
+    marker, or draw blindly from the bag as specified the the roll of 
+	the pyramid die
+ 5. If a player takes the pyramids from a marker row that row is closed, 
+    but the other player can continue to roll, draw and place 
 
 
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
