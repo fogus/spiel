@@ -147,11 +147,19 @@ A detailed view of how the placed pieces and sacrifices in the game above manipu
 
 By sacrificing pieces a player can gain or retain initiative from one play to another.  Also, sacrificing allows players to get more pyramids into the play area for the purposes of increasing their round score.  It's a powerful technique, that adds much more depth to the play of any given round.  Failing to sacrifice at a crucial moment could spell disaster for a player.
 
+### Pummeling
+
+You'll notice that if one player sacrifices more than the other then a circumstance could arise where a player could exhaust their supply before the other.  In that circumstance the pummeling rule kicks in.  The pummeling rule simply states that if a player runs out of inventory then the last placed pyramid will act as the pyramid played for the final turns.  Graphically, the pummeling rule can be show in the following figure:
+
+![pummeling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/pummel-example.png)
+
+In the figure above, the player ran out of pieces before the round was over so the last piece, a large blue, is used as the played pyramid for the remaining turns.  Pummeling in *Iniative* is a risky manuever as an opponent can continue to manipulate the initiative stack and weaken your pummeling piece, but the rewards of a successful attempt are vast.  That is, every virtual play by a pummeled piece doubles your final score in the end.  In the figure above, the pummeling player could double, then redouble, then again double, and double again, and then redouble their score for a final score of (3*10) * 2 * 2 * 2 * 2 * 2 = 960 points!  This particular circumstance would indeed be a rare occurance, but wins with 1 or 2 pummeling turns happen from time to time.
+
 ### Calling a color
 
 During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The defending player **must** play a pyramid of that color on their defensive placement and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
 
-Every sacrifice made in a round (by both players) causes the total score to be doubled.  For example, if both players sacrifice once each then the final score for the winning player is doubled and then doubled again.
+Every called color made in a round (by both players) causes the total score to be doubled.  For example, if both players sacrifice once each then the final score for the winning player is doubled and then doubled again.
 
 ### Drafting
 
