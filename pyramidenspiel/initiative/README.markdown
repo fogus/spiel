@@ -7,7 +7,7 @@ Gameplay
 
 ### Quick setup
 
-Before beginning, take 5 pyramids, one of each color all the same size, from the set of available pyramids and pile them one on top of each other in any order and set aside. This structure is called the **initiative stack**.  The initiative stack describes the precedence of the colors.  The color higher on the stack trumps a color lower on the stack, this precedence will determine which player gets to lead on a turn; that is, who has the initiative.
+Before beginning, take 5 pyramids, one of each color all the same size, from the set of available pyramids and pile them one on top of each other in any order and set aside. This structure is called the **initiative stack**.  The initiative stack describes the precedence of the colors.  That is, the color higher on the stack trumps a color lower on the stack, this precedence will determine which player gets to lead on a turn; that is, who has the initiative.
 
 ![stack](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-stack.png)
 
@@ -15,7 +15,7 @@ To get started with *Initiative* just randomly mix the remaining 25 pyramids int
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png)
 
-The player who has experience in fencing goes first, otherwise a quick game of *Rock, Paper, Scissors* or [Pew Pew, Die][] can determine who goes first.
+The player who has experience in fencing goes first, otherwise a quick game of *Rock, Paper, Scissors* or [Pew Pew, Die][pew-pew] can determine who goes first.
 
 *This is a good way to get started quickly to explore the mechanics of fencing and initiative, but a drafting system is described later that provides more control over each player's pyramids.*
 
@@ -189,4 +189,4 @@ Once both players have 10 pyramids each the match can begin.
 
 *Initiative* is inspired by [Mate](http://boardgamegeek.com/boardgame/19253/mate) changed for play using Icehouse pyramids.  The drafting mechanism is (obviously) inspired by [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto).
 
-  [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
+[pew-pew]: http://icehousegames.org/wiki/index.php?title=PewPewDie
