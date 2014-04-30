@@ -63,7 +63,7 @@ Gaining initiative happens in one of two ways:
 
 ### An example round using the basic rules
 
-The following image shows the result of a game played using the inventories shown earlier for Kristin and Alison.  This is just one possible scenario for illustration and not meant to show optimal play by either player.  The black and white stones shown are not needed for your own game and are shown only to mark the starting pyramid (white) and the changes in ininitiative (black).
+The following image shows the result of a game played using the inventories shown earlier for Kristin and Alison.  This is just one possible scenario for illustration and not meant to show optimal play by either player.  The black and white stones shown are not needed for your own game and are shown only to mark the starting pyramid (white) and the changes in initiative (black).
 
 ![basic](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/basic-play-final.png)
 
@@ -151,7 +151,7 @@ Observe the following play-through using sacrificing:
 	that red is now higher than black, therefore Alison has gained 
 	the initiative for the next turn
  5. Alison then plays a medium yellow while sacrificing a medium
-    red.  The yellow color on the initiative statck is move up two 
+    red.  The yellow color on the initiative stack is move up two 
 	slots to the top of the stack. Kristin then follows with a 
 	medium green
  6. Finally, Alison places a small blue and since Kristin has neither
@@ -194,7 +194,7 @@ To spice up the process of building an inventory you can use the following schem
 
 Once both players have 10 pyramids each the match can begin.
 
-## Acknowledgements 
+## Acknowledgments 
 
 *Initiative* is an adaptation of [Mate](http://boardgamegeek.com/boardgame/19253/mate) for Icehouse pyramids.  The drafting mechanism is (obviously) inspired by [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto).
 
