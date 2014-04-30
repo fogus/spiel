@@ -159,6 +159,10 @@ In the figure above, the player ran out of pieces before the round was over so t
 
 During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The defending player **must** play a pyramid of that color on their defensive placement and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
 
+![calling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/call-color-play-final.png)
+
+In the figure above, Alison started with a small blue and chose to call its color, forcing Kristin to follow with her only blue.  The rest of the round played out using both sacrifices and piece placements.
+
 Every called color made in a round (by both players) causes the total score to be doubled.  For example, if both players sacrifice once each then the final score for the winning player is doubled and then doubled again.
 
 ### Drafting
