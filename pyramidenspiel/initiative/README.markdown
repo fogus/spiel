@@ -19,9 +19,9 @@ The player who has experience in fencing goes first, otherwise a quick game of *
 
 *This is a good way to get started quickly to explore the mechanics of placing, parrying and initiative, but a drafting system is described later that provides more control over each player's pyramids.*
 
-### Placing pieces and parrying
+### Attacking and parrying
 
-A round of *Initiative* consists of a number of turns (10 maximum) each consisting of a *placement* by one player and a *defense* by the other. For each placement, the defending player must play a piece in response according to the following guidelines:
+A round of *Initiative* consists of a number of turns (10 maximum) each consisting of an *attack* by the lead player and a *defense* by the following player. For each attack, the defending player must play a piece in response, according to the following rules:
 
 -   If you have a piece of the same size, then it must be played. You
     are not forced to play the same color if you have more than one
@@ -29,7 +29,9 @@ A round of *Initiative* consists of a number of turns (10 maximum) each consisti
 -   If you do not have a piece of the same size, then you must play a
     piece of the same color
 
-#### Results of each piece placement
+If you're able to place a piece for defense then the rules for who goes first (attacks) on the next turn are next.
+
+#### Results of each piece attack
 
 Depending on the results of the defense as defined above, one of three things could occur:
 
@@ -157,11 +159,11 @@ In the figure above, the player ran out of pieces before the round was over so t
 
 ### Calling a color
 
-During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The defending player **must** play a pyramid of that color on their defensive placement and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
+During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The defending player **must** play a pyramid of that color on their defensive attack and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
 
 ![calling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/call-color-play-final.png)
 
-In the figure above, Alison started with a small blue and chose to call its color, forcing Kristin to follow with her only blue.  The rest of the round played out using both sacrifices and piece placements.
+In the figure above, Alison started with a small blue and chose to call its color, forcing Kristin to follow with her only blue.  The rest of the round played out using both sacrifices and piece attacks.
 
 Every called color made in a round (by both players) causes the total score to be doubled.  For example, if both players sacrifice once each then the final score for the winning player is doubled and then doubled again.
 
