@@ -196,6 +196,6 @@ Once both players have 10 pyramids each the match can begin.
 
 ## Acknowledgments 
 
-*Initiative* is an adaptation of [Mate](http://boardgamegeek.com/boardgame/19253/mate) for Icehouse pyramids.  The drafting mechanism is (obviously) inspired by [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto).
+*Initiative* is inspired by [Mate](http://boardgamegeek.com/boardgame/19253/mate) changed for play using Icehouse pyramids.  The drafting mechanism is (obviously) inspired by [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto).
 
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
