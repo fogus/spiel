@@ -1,13 +1,9 @@
-*Initiative* is a drafting and fencing game where one player attempts to
-play a pyramid that his or her opponent cannot parry.
+*Initiative* is a drafting and fencing game where one player attempts to play a pyramid that his or her opponent cannot parry.
 
 Gameplay
 --------
 
-*Initiative* is played on any flat surface where each player places
-their pyramids in a row, across from the other player's pieces, until
-one player is unable to play or both players run out of pyramids. The
-precise rules of play are described below.
+*Initiative* is played on any flat surface where each player places their pyramids in a row, across from the other player's pieces, until one player is unable to play or both players run out of pyramids. The precise rules of play are described below.
 
 ### Quick setup
 
@@ -19,20 +15,13 @@ To get started with *Initiative* just randomly mix the remaining 25 pyramids int
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/initiative-inventory-setup.png)
 
-The player who has experience in fencing goes first, otherwise a quick
-game of *Rock, Paper, Scissors* or [Pew Pew, Die][] can determine who
-goes first.
+The player who has experience in fencing goes first, otherwise a quick game of *Rock, Paper, Scissors* or [Pew Pew, Die][] can determine who goes first.
 
-*This is a good way to get started quickly to explore the mechanics of
-fencing and initiative, but a drafting system is described later that
-provides more control over each player's pyramids.*
+*This is a good way to get started quickly to explore the mechanics of fencing and initiative, but a drafting system is described later that provides more control over each player's pyramids.*
 
 ### Placing pieces and parrying
 
-A round of *Initiative* consists of a number of turns (10 maximum) each
-consisting of an attack by one player and a defense by the other. For
-each attack, the defending player must play a piece in response
-according to the following guidelines:
+A round of *Initiative* consists of a number of turns (10 maximum) each consisting of an attack by one player and a defense by the other. For each attack, the defending player must play a piece in response according to the following guidelines:
 
 -   If you have a piece of the same size, then it must be played. You
     are not forced to play the same color if you have more than one
@@ -42,8 +31,7 @@ according to the following guidelines:
 
 #### Results of each piece placement
 
-Depending on the results of the defense as defined above, one of three
-things could occur:
+Depending on the results of the defense as defined above, one of three things could occur:
 
 -   The defending player gains the initiative for the attack on the next
     turn
@@ -88,8 +76,7 @@ The sample round thus concludes with Kristin scoring 24 points, but how was it c
 
 ### Simple Scoring
 
-Scoring a round in Initiative is fairly simple. The formula is as
-follows:
+Scoring a round in Initiative is fairly simple. The formula is as follows:
 
     Number of pyramids in the winner's row
                      X
@@ -112,11 +99,7 @@ below.
 
 #### Then swap pyramids
 
-The rules above are for the basic attack and defense rules. As an
-additional test of skill, the players can swap their set of pyramids and
-lead with the same set as the previous round to see who gets the higher
-score.  The player with the highest overall score is the winner of the 
-2-round match.
+The rules above are for the basic attack and defense rules. As an additional test of skill, the players can swap their set of pyramids and lead with the same set as the previous round to see who gets the higher score.  The player with the highest overall score is the winner of the 2-round match.
 
 
 Advanced play
