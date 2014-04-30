@@ -109,29 +109,29 @@ The rules above are for the basic attack and parry rules. As an additional test 
 Advanced play
 -------------
 
-While *Initiative*'s basic rules are fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth and variability to the game once you feel comfortable with the basic game-play rules.
+While *Initiative*'s basic rules are somewhat interesting, the depth of play is shallow.  Therefore, you should consider playing with the following additional rules to add depth and variability to the game once you feel comfortable with the basic game-play rules.
 
 ### Sacrificing and manipulating the initiative stack
 
-As you saw in the play-through above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack had been organized slightly differently then Alison might have had a chance to win, or at least to maintain or gain initiative more often.
+As you saw in the play-through above, it was clear that Alison was going to lose before the end, yet she was forced to play out the remaining few pyramids. If the initiative stack had been organized slightly differently then Alison might have had a chance to win, or at least to maintain or gain initiative more often (or maybe lost sooner).
 
 Through a technique called "sacrificing" a player can indeed manipulate the initiative stack and move colors up and down the stack from 1 to 3 slots at a time.  To sacrifice a piece, a player only needs to place it under the pyramid that they wish to play on their turn.  That is, the player plays two pyramids on a turn, the one on the top being the placed piece and the one on the bottom being the sacrificed piece.  The size of the sacrificed piece then gives them 1 to 3 points (small = 1, medium = 2, large = 3) for use in making piece swaps on the initiative stack.  
 
-A piece swap on the initiative stack means that the color of the played piece can be moved up or down the initiative stack the number of slots indicated by the size of the sacrificed piece.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the attacker or the defender can sacrifice on any play, so the initiative stack might change a few times during a round.
+A piece swap on the initiative stack means that the color of the played piece can be moved up or down the initiative stack the number of slots indicated by the size of the sacrificed piece.  This allows the player to redefine the color precedence and (potentially) make their placed color higher or lower on the stack for the purpose of retaining initiative.  But beware, either the attacker or the defender can sacrifice on any play, so the initiative stack might change a few times during a round.
 
 Observe the following play-through using sacrificing:
 
 ![sacrificing](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/sacrifice-play-final.png)
 
  1. Alison leads the round by playing a medium blue, and Kristin
-    follows with a medium green
- 2. Alison then places a large blue, and Kristin follows with a 
+    parrys with a medium green
+ 2. Alison then places a large blue, and Kristin parrys with a 
     large green
  3. Alison then places a medium yellow while sacrificing a medium
     black. The yellow color on the initiative stack is moved up
 	two slots on top of green and under blue. Kristin then places
 	a medium blue, gaining initiative
- 4. Kristin then places a medium black, and Alison follows with a 
+ 4. Kristin then places a medium black, and Alison parrys with a 
     medium red while sacrificing a large red.  The red color on the 
 	initiative stack is moved upwards 3 slots on top of the yellow
 	and under the blue.  The new initiative stack precedence rules
@@ -139,7 +139,7 @@ Observe the following play-through using sacrificing:
 	the initiative for the next turn
  5. Alison then plays a medium yellow while sacrificing a medium
     red.  The yellow color on the initiative stack is move up two 
-	slots to the top of the stack. Kristin then follows with a 
+	slots to the top of the stack. Kristin then parrys with a 
 	medium green
  6. Finally, Alison places a small blue and since Kristin has neither
     a small piece nor a blue piece, she has lost the round.  Alison's
@@ -165,7 +165,7 @@ During a turn a player may lead with a small pyramid and force the play of its c
 
 ![calling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/call-color-play-final.png)
 
-In the figure above, Alison started with a small blue and chose to call its color, forcing Kristin to follow with her only blue.  The rest of the round played out using both sacrifices and piece attacks.
+In the figure above, Alison started with a small blue and chose to call its color, forcing Kristin to parry with her only blue.  The rest of the round played out using both sacrifices and piece attacks.
 
 Every called color made in a round (by both players) causes the total score to be doubled.  For example, if both players sacrifice once each then the final score for the winning player is doubled and then doubled again.
 
