@@ -172,7 +172,11 @@ Every sacrifice made in a round (by both players) causes the total score to be d
 
 ### Drafting
 
-TODO
+To spice up the process of building an inventory you can use the following scheme to "draft" pyramids for use in a match:
+
+ 1. Place three markers onto a table. The markers can be anything, but 
+    should be in a row between the players
+ 2. Roll the pyramid die as above and draw
 
 
   [Pew Pew, Die]: http://icehousegames.org/wiki/index.php?title=PewPewDie
