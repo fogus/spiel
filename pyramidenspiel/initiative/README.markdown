@@ -1,4 +1,4 @@
-*Initiative* is a drafting and fencing game where one player attempts to play a pyramid that his or her opponent cannot parry.
+*Initiative* is an abstract fencing game of perfect information where one player attempts to place a pyramid that his or her opponent cannot parry.
 
 Gameplay
 --------
