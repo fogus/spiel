@@ -21,7 +21,7 @@ The player who has experience in fencing goes first, otherwise a quick game of *
 
 ### Attacking and parrying
 
-A round of *Initiative* consists of a number of turns (10 maximum) each consisting of an *attack* by the lead player and a *defense* by the following player. For each attack, the defending player must play a piece in response, according to the following rules:
+A round of *Initiative* consists of a number of turns (10 maximum) each consisting of an *attack* by the lead player and a *parry* by the following player. For each attack, the defending player must play a piece in response, according to the following rules:
 
 -   If you have a piece of the same size, then it must be played. You
     are not forced to play the same color if you have more than one
@@ -29,27 +29,29 @@ A round of *Initiative* consists of a number of turns (10 maximum) each consisti
 -   If you do not have a piece of the same size, then you must play a
     piece of the same color
 
-If you're able to place a piece for defense then the rules for who goes first (attacks) on the next turn are next.
+If you're able to place a piece for parrying then the rules for who goes first (attacks) on the next turn are next.
 
 #### Results of each piece attack
 
-Depending on the results of the defense as defined above, one of three things could occur:
+Depending on the results of the parry as defined above, one of three things could occur:
 
--   The defending player gains the initiative for the attack on the next
+-   The parrying player gains the initiative for the attack on the next
     turn
--   The defending player successfully defends, but does not gain the
+-   The parrying player successfully defends, but does not gain the
     initiative for attack
--   The defending player does not have a defending piece, and losses the
+-   The parrying player does not have a defending piece, and losses the
     round
 
 #### Gaining initiative
 
 Gaining initiative happens in one of two ways:
 
--   The defender plays a piece of the same size, but with a color higher
+-   The parrying player plays a piece of the same size, but with a color higher
     on the initiative stack
--   The defending player plays a piece of the same color, but of a
+-   The parrying player plays a piece of the same color, but of a
     larger size
+
+And that's all the rules for the basic game.
 
 ### An example round using the basic rules
 
@@ -58,18 +60,18 @@ The following image shows the result of a game played using the inventories show
 ![basic](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/basic-play-final.png)
 
  1. Alison begins the round by placing a small blue. Kristin does not 
-    have a small, so she must follow with a different blue pyramid. 
-	She therefore responds by placing a medium blue, gaining initiative
- 2. Kristen then lays a large green and Alison responds in turn with a 
+    have a small, so she must parry with a different blue pyramid. 
+	She therefore parrys by placing a medium blue, gaining initiative
+ 2. Kristen then lays a large green and Alison parrys in turn with a 
     large blue, gaining initiative
- 3. Alison then places a medium yellow and Kristin responds with a 
+ 3. Alison then places a medium yellow and Kristin parrys with a 
     medium green, gaining initiative
- 4. Kristin then places a large yellow and Alison responds with a 
+ 4. Kristin then places a large yellow and Alison parrys with a 
     large red
- 5. Kristen, having kept initiative places a large green. Alison responds
+ 5. Kristen, having kept initiative places a large green. Alison parrys
     with her last large pyramid, a red.
- 6. Kristen places a large black and Alison responds with a medium black
- 7. Kristin then places a large yellow and Alison responds with a 
+ 6. Kristen places a large black and Alison parrys with a medium black
+ 7. Kristin then places a large yellow and Alison parrys with a 
     medium yellow
  8. Finally, Kristin places a large black and because Alison has no
     more large pyramids nor smaller black pieces, she has lost.
@@ -101,13 +103,13 @@ below.
 
 #### Then swap pyramids
 
-The rules above are for the basic attack and defense rules. As an additional test of skill, the players can swap their set of pyramids and lead with the same set as the previous round to see who gets the higher score.  The player with the highest overall score is the winner of the 2-round match.
+The rules above are for the basic attack and parry rules. As an additional test of skill, the players can swap their set of pyramids and lead with the same set as the previous round to see who gets the higher score.  The player with the highest overall score is the winner of the 2-round match.
 
 
 Advanced play
 -------------
 
-While *Initiative* using the basic rules is fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth an variability to the game once you feel comfortable with the basic game-play rules.
+While *Initiative*'s basic rules are fairly interesting, the depth of play is somewhat shallow.  Therefore, you should consider playing with the following additional rules to add depth and variability to the game once you feel comfortable with the basic game-play rules.
 
 ### Sacrificing and manipulating the initiative stack
 
@@ -115,7 +117,7 @@ As you saw in the play-through above, it was clear that Alison was going to lose
 
 Through a technique called "sacrificing" a player can indeed manipulate the initiative stack and move colors up and down the stack from 1 to 3 slots at a time.  To sacrifice a piece, a player only needs to place it under the pyramid that they wish to play on their turn.  That is, the player plays two pyramids on a turn, the one on the top being the placed piece and the one on the bottom being the sacrificed piece.  The size of the sacrificed piece then gives them 1 to 3 points (small = 1, medium = 2, large = 3) for use in making piece swaps on the initiative stack.  
 
-A piece swap on the initiative stack means that the color of the played piece can be moved up or down the initiative stack the number of slots indicated by the size of the sacrificed piece.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the leader or the responder can sacrifice on any play, so the initiative stack might change a few times during a round.
+A piece swap on the initiative stack means that the color of the played piece can be moved up or down the initiative stack the number of slots indicated by the size of the sacrificed piece.  This allows the player to redefine the color precedence and (potentially) make their placed color higher on the stack for the purpose of retaining initiative.  But beware, either the attacker or the defender can sacrifice on any play, so the initiative stack might change a few times during a round.
 
 Observe the following play-through using sacrificing:
 
@@ -159,7 +161,7 @@ In the figure above, the player ran out of pieces before the round was over so t
 
 ### Calling a color
 
-During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The defending player **must** play a pyramid of that color on their defensive attack and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
+During a turn a player may lead with a small pyramid and force the play of its color.  This action is signified by laying the pyramid flat on its side facing your opponent with its sacrificed piece (if any) also laying, but inside the small.  The parrying player **must** play a pyramid of that color on their defensive attack and cannot sacrifice that color only on that turn, but they can still sacrifice any other color that they wish.
 
 ![calling](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/initiative/graphics/call-color-play-final.png)
 
