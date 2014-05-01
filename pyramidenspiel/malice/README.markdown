@@ -4,7 +4,6 @@ Gameplay
 
 TODO
 
-
 Acknowledgements
 ----------------
 
