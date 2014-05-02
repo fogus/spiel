@@ -12,8 +12,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="800"
-   height="800"
+   width="2979.9211"
+   height="4212.9922"
    id="svg2433"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="board.svg">
@@ -25,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +42,7 @@
      inkscape:window-height="698"
      id="namedview3751"
      showgrid="false"
-     inkscape:zoom="0.57160494"
+     inkscape:zoom="0.28580247"
      inkscape:cx="455.07294"
      inkscape:cy="335.0216"
      inkscape:window-x="19"
@@ -51,7 +52,6 @@
   <defs
      id="defs2435">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4718"
        osb:paint="gradient">
       <stop
@@ -67,10 +67,13 @@
   <rect
      style="fill:#9f9f9f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect2499"
-     y="7.3730467e-07"
-     x="-1.1328125e-06"
+     y="3227.5493"
+     x="192.4406"
      height="100"
-     width="100" />
+     width="100"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -78,7 +81,10 @@
      y="0"
      x="0"
      id="use2959"
-     transform="translate(0,200)" />
+     transform="translate(-4.0681876e-6,199.99998)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -86,7 +92,10 @@
      y="0"
      x="0"
      id="use2963"
-     transform="translate(0,410)" />
+     transform="translate(-4.0681876e-6,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -94,7 +103,10 @@
      y="0"
      x="0"
      id="use2967"
-     transform="translate(0,610)" />
+     transform="translate(-4.0681876e-6,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -102,7 +114,10 @@
      y="0"
      x="0"
      id="use2973"
-     transform="translate(100,100)" />
+     transform="translate(99.999996,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -110,7 +125,10 @@
      y="0"
      x="0"
      id="use2977"
-     transform="translate(100,300)" />
+     transform="translate(99.999996,299.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -118,7 +136,10 @@
      y="0"
      x="0"
      id="use2981"
-     transform="translate(100,510)" />
+     transform="translate(99.999996,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -126,7 +147,10 @@
      y="0"
      x="0"
      id="use2985"
-     transform="translate(100,710)" />
+     transform="translate(99.999996,709.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -134,7 +158,10 @@
      y="0"
      x="0"
      id="use2987"
-     transform="translate(200,0)" />
+     transform="translate(200,-1.6079747e-5)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -142,7 +169,10 @@
      y="0"
      x="0"
      id="use2991"
-     transform="translate(200,200)" />
+     transform="translate(200,199.99998)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -150,7 +180,10 @@
      y="0"
      x="0"
      id="use2995"
-     transform="translate(200,410)" />
+     transform="translate(200,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -158,7 +191,10 @@
      y="0"
      x="0"
      id="use2999"
-     transform="translate(200,610)" />
+     transform="translate(200,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -166,7 +202,10 @@
      y="0"
      x="0"
      id="use3005"
-     transform="translate(300,100)" />
+     transform="translate(300,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -174,7 +213,10 @@
      y="0"
      x="0"
      id="use3009"
-     transform="translate(300,300)" />
+     transform="translate(300,299.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -182,7 +224,10 @@
      y="0"
      x="0"
      id="use3013"
-     transform="translate(300,510)" />
+     transform="translate(300,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -190,7 +235,10 @@
      y="0"
      x="0"
      id="use3017"
-     transform="translate(300,710)" />
+     transform="translate(300,709.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -198,8 +246,11 @@
      y="0"
      x="0"
      id="use3019"
-     transform="translate(480,0)"
-     style="fill:#ffffff" />
+     transform="translate(480,-1.6079747e-5)"
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -207,7 +258,10 @@
      y="0"
      x="0"
      id="use3023"
-     transform="translate(480,200)" />
+     transform="translate(480,199.99998)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -215,7 +269,10 @@
      y="0"
      x="0"
      id="use3027"
-     transform="translate(480,410)" />
+     transform="translate(480,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -223,7 +280,10 @@
      y="0"
      x="0"
      id="use3031"
-     transform="translate(480,610)" />
+     transform="translate(480,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -231,7 +291,10 @@
      y="0"
      x="0"
      id="use3037"
-     transform="translate(580,100)" />
+     transform="translate(580,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -239,8 +302,11 @@
      y="0"
      x="0"
      id="use3041"
-     transform="translate(580,300)"
-     style="stroke:#604a8f;stroke-opacity:1" />
+     transform="translate(580,299.99996)"
+     style="stroke:#604a8f;stroke-opacity:1"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -248,7 +314,10 @@
      y="0"
      x="0"
      id="use3045"
-     transform="translate(580,510)" />
+     transform="translate(580,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -256,8 +325,11 @@
      y="0"
      x="0"
      id="use3049"
-     transform="translate(580,710)"
-     style="fill:#ffff00" />
+     transform="translate(580,709.99996)"
+     style="fill:#ffff00"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -265,7 +337,10 @@
      y="0"
      x="0"
      id="use3051"
-     transform="translate(680,0)" />
+     transform="translate(680,-1.6079747e-5)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -273,7 +348,10 @@
      y="0"
      x="0"
      id="use3055"
-     transform="translate(680,200)" />
+     transform="translate(680,199.99998)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -281,7 +359,10 @@
      y="0"
      x="0"
      id="use3059"
-     transform="translate(680,410)" />
+     transform="translate(680,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -289,7 +370,10 @@
      y="0"
      x="0"
      id="use3063"
-     transform="translate(680,610)" />
+     transform="translate(680,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -297,7 +381,10 @@
      y="0"
      x="0"
      id="use3069"
-     transform="translate(780,100)" />
+     transform="translate(780,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -305,7 +392,10 @@
      y="0"
      x="0"
      id="use3073"
-     transform="translate(780,300)" />
+     transform="translate(780,299.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -313,7 +403,10 @@
      y="0"
      x="0"
      id="use3077"
-     transform="translate(780,510)" />
+     transform="translate(780,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2499"
      height="1052.3622"
@@ -321,14 +414,20 @@
      y="0"
      x="0"
      id="use3081"
-     transform="translate(780,710)" />
+     transform="translate(780,709.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect2497"
-     y="7.3730467e-07"
-     x="100"
+     y="3227.5493"
+     x="292.44061"
      height="100"
-     width="100" />
+     width="100"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -336,7 +435,10 @@
      y="0"
      x="0"
      id="use3087"
-     transform="translate(-100,100)" />
+     transform="translate(-100,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -344,8 +446,11 @@
      y="0"
      x="0"
      id="use3091"
-     transform="translate(-100,300)"
-     style="fill:#000000" />
+     transform="translate(-100,299.99996)"
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -353,8 +458,11 @@
      y="0"
      x="0"
      id="use3095"
-     transform="translate(-100,510)"
-     style="fill:#ff00ff" />
+     transform="translate(-100,509.99996)"
+     style="fill:#ff00ff"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -362,7 +470,10 @@
      y="0"
      x="0"
      id="use3099"
-     transform="translate(-100,710)" />
+     transform="translate(-100,709.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -370,7 +481,10 @@
      y="0"
      x="0"
      id="use3105"
-     transform="translate(0,200)" />
+     transform="translate(-4.0681876e-6,199.99998)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -378,7 +492,10 @@
      y="0"
      x="0"
      id="use3109"
-     transform="translate(0,410)" />
+     transform="translate(-4.0681876e-6,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -386,7 +503,10 @@
      y="0"
      x="0"
      id="use3113"
-     transform="translate(0,610)" />
+     transform="translate(-4.0681876e-6,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -394,7 +514,10 @@
      y="0"
      x="0"
      id="use3119"
-     transform="translate(100,100)" />
+     transform="translate(99.999996,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -402,7 +525,10 @@
      y="0"
      x="0"
      id="use3123"
-     transform="translate(100,300)" />
+     transform="translate(99.999996,299.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -410,7 +536,10 @@
      y="0"
      x="0"
      id="use3127"
-     transform="translate(100,510)" />
+     transform="translate(99.999996,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -418,7 +547,10 @@
      y="0"
      x="0"
      id="use3131"
-     transform="translate(100,710)" />
+     transform="translate(99.999996,709.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -426,7 +558,10 @@
      y="0"
      x="0"
      id="use3133"
-     transform="translate(200,0)" />
+     transform="translate(200,-1.6079747e-5)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -434,8 +569,11 @@
      y="0"
      x="0"
      id="use3137"
-     transform="translate(200,200)"
-     style="fill:#0000ff" />
+     transform="translate(200,199.99998)"
+     style="fill:#0000ff"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -443,7 +581,10 @@
      y="0"
      x="0"
      id="use3141"
-     transform="translate(200,410)" />
+     transform="translate(200,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -451,7 +592,10 @@
      y="0"
      x="0"
      id="use3145"
-     transform="translate(200,610)" />
+     transform="translate(200,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -459,7 +603,10 @@
      y="0"
      x="0"
      id="use3151"
-     transform="translate(380,100)" />
+     transform="translate(380,99.999983)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -467,8 +614,11 @@
      y="0"
      x="0"
      id="use3155"
-     transform="translate(380,300)"
-     style="fill:#00ffff;fill-opacity:0;opacity:1;fill-rule:evenodd" />
+     transform="translate(380,299.99996)"
+     style="fill:#00ffff;fill-opacity:0;fill-rule:evenodd"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -476,7 +626,10 @@
      y="0"
      x="0"
      id="use3159"
-     transform="translate(380,510)" />
+     transform="translate(380,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -484,8 +637,11 @@
      y="0"
      x="0"
      id="use3163"
-     transform="translate(380,710)"
-     style="fill:#ff0000" />
+     transform="translate(380,709.99996)"
+     style="fill:#ff0000"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -493,8 +649,11 @@
      y="0"
      x="0"
      id="use3165"
-     transform="translate(480,0)"
-     style="fill:#ff00ff" />
+     transform="translate(480,-1.6079747e-5)"
+     style="fill:#ff00ff"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -502,8 +661,11 @@
      y="0"
      x="0"
      id="use3169"
-     transform="translate(480,200)"
-     style="fill:#000000;fill-opacity:1;opacity:1" />
+     transform="translate(480,199.99998)"
+     style="fill:#000000;fill-opacity:1"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -511,8 +673,11 @@
      y="0"
      x="0"
      id="use3173"
-     transform="translate(480,410)"
-     style="fill:#008000" />
+     transform="translate(480,409.99996)"
+     style="fill:#008000"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -520,7 +685,10 @@
      y="0"
      x="0"
      id="use3177"
-     transform="translate(480,610)" />
+     transform="translate(480,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -528,8 +696,11 @@
      y="0"
      x="0"
      id="use3183"
-     transform="translate(580,100)"
-     style="fill:#000000;fill-opacity:1;opacity:1" />
+     transform="translate(580,99.999983)"
+     style="fill:#000000;fill-opacity:1"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -537,7 +708,10 @@
      y="0"
      x="0"
      id="use3187"
-     transform="translate(580,300)" />
+     transform="translate(580,299.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -545,7 +719,10 @@
      y="0"
      x="0"
      id="use3191"
-     transform="translate(580,510)" />
+     transform="translate(580,509.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -553,7 +730,10 @@
      y="0"
      x="0"
      id="use3195"
-     transform="translate(580,710)" />
+     transform="translate(580,709.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -561,8 +741,11 @@
      y="0"
      x="0"
      id="use3197"
-     transform="translate(680,0)"
-     style="fill:#000000;fill-opacity:1;opacity:1" />
+     transform="translate(680,-1.6079747e-5)"
+     style="fill:#000000;fill-opacity:1"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -570,7 +753,10 @@
      y="0"
      x="0"
      id="use3201"
-     transform="translate(680,200)" />
+     transform="translate(680,199.99998)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -578,7 +764,10 @@
      y="0"
      x="0"
      id="use3205"
-     transform="translate(680,410)" />
+     transform="translate(680,409.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <use
      xlink:href="#rect2497"
      height="1052.3622"
@@ -586,740 +775,1184 @@
      y="0"
      x="0"
      id="use3209"
-     transform="translate(680,610)" />
+     transform="translate(680,609.99996)"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 480.92657,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 673.36717,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4740"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 480.92657,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 673.36717,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4742"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 480.92657,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 673.36717,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4744"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 580.64579,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 773.08639,3477.6942 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4746"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 680.36501,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 872.80561,3377.975 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4748"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.08423,50.706264 0,-48.9848813 49.85961,0 49.85962,0 0,48.9848813 0,48.984881 -49.85962,0 -49.85961,0 0,-48.984881 z"
+     d="m 972.52483,3278.2557 0,-48.9848 49.85957,0 49.8597,0 0,48.9848 0,48.9849 -49.8597,0 -49.85957,0 0,-48.9849 z"
      id="path4750"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,460.07991 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98489 -48.98488,0 -48.98488,0 0,-48.98489 z"
+     d="m 493.91095,3687.6294 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4752"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,559.79914 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3787.3487 0,-48.985 49.85961,0 49.85961,0 0,48.985 0,48.9848 -49.85961,0 -49.85961,0 0,-48.9848 z"
      id="path4754"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,659.51836 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3887.0679 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4756"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,760.11231 0,-49.85961 48.98488081,0 48.984882,0 0,49.85961 0,49.85961 -48.984882,0 -48.98488081,0 0,-49.85961 z"
+     d="m 193.00382,3987.6618 0,-49.8596 48.98489,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98489,0 0,-49.8596 z"
      id="path4758"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
-     style="opacity:0.50000000000000000;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 579.98439,349.86393 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 772.42499,3577.4134 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4760"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 579.98439,349.86393 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 772.42499,3577.4134 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4762"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,250.14471 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 871.79432,3477.6942 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4764"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3377.975 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9848 -48.9849,0 -48.9849,0 0,-48.9848 z"
      id="path4766"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3377.975 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9848 -48.9849,0 -48.9849,0 0,-48.9848 z"
      id="path4768"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,250.14471 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 871.79432,3477.6942 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4770"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,460.07991 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98489 -49.85961,0 -49.85961,0 0,-48.98489 z"
+     d="m 392.44227,3687.6294 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4772"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,460.07991 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98489 -49.85961,0 -49.85961,0 0,-48.98489 z"
+     d="m 392.44227,3687.6294 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4774"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,559.79914 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3787.3487 0,-48.985 49.85961,0 49.85962,0 0,48.985 0,48.9848 -49.85962,0 -49.85961,0 0,-48.9848 z"
      id="path4776"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,559.79914 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3787.3487 0,-48.985 49.85961,0 49.85962,0 0,48.985 0,48.9848 -49.85962,0 -49.85961,0 0,-48.9848 z"
      id="path4778"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,659.51836 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3887.0679 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4780"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#604a80;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,659.51836 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3887.0679 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4782"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,760.11231 0,-49.85961 49.85961,0 49.85962,0 0,49.85961 0,49.85961 -49.85962,0 -49.85961,0 0,-49.85961 z"
+     d="m 292.72304,3987.6618 0,-49.8596 49.85961,0 49.85962,0 0,49.8596 0,49.8596 -49.85962,0 -49.85961,0 0,-49.8596 z"
      id="path4784"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,760.11231 0,-49.85961 49.85961,0 49.85962,0 0,49.85961 0,49.85961 -49.85962,0 -49.85961,0 0,-49.85961 z"
+     d="m 292.72304,3987.6618 0,-49.8596 49.85961,0 49.85962,0 0,49.8596 0,49.8596 -49.85962,0 -49.85961,0 0,-49.8596 z"
      id="path4786"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,659.51836 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3887.0679 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4788"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,659.51836 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3887.0679 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4790"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3787.3487 0,-48.985 48.98488,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4792"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3787.3487 0,-48.985 48.98488,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4794"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3477.6942 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4796"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
-     style="opacity:0.50000000000000000;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 674.10533,3477.6942 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4798"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,150.42549 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 773.82455,3377.975 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4800"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,150.42549 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 773.82455,3377.975 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4802"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,50.706264 0,-48.9848813 49.85961,0 49.85961,0 0,48.9848813 0,48.984881 -49.85961,0 -49.85961,0 0,-48.984881 z"
+     d="m 871.79432,3278.2557 0,-48.9848 49.85961,0 49.85961,0 0,48.9848 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4804"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ee931c;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,50.706264 0,-48.9848813 49.85961,0 49.85961,0 0,48.9848813 0,48.984881 -49.85961,0 -49.85961,0 0,-48.984881 z"
+     d="m 871.79432,3278.2557 0,-48.9848 49.85961,0 49.85961,0 0,48.9848 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4806"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3377.975 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4810"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3377.975 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4812"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,50.706264 0,-48.9848813 48.98489,0 48.98488,0 0,48.9848813 0,48.984881 -48.98488,0 -48.98489,0 0,-48.984881 z"
+     d="m 773.82455,3278.2557 0,-48.9848 48.98489,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4814"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,50.706264 0,-48.9848813 48.98489,0 48.98488,0 0,48.9848813 0,48.984881 -48.98488,0 -48.98489,0 0,-48.984881 z"
+     d="m 773.82455,3278.2557 0,-48.9848 48.98489,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4816"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.10318,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 873.54378,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4818"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.10318,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 873.54378,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4820"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3477.6942 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4822"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3477.6942 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4824"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,50.706264 0,-48.9848813 48.98488,0 48.98488,0 0,48.9848813 0,48.984881 -48.98488,0 -48.98488,0 0,-48.984881 z"
+     d="m 674.10533,3278.2557 0,-48.9848 48.98488,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4826"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,50.706264 0,-48.9848813 48.98488,0 48.98488,0 0,48.9848813 0,48.984881 -48.98488,0 -48.98488,0 0,-48.984881 z"
+     d="m 674.10533,3278.2557 0,-48.9848 48.98488,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4828"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,50.706264 0,-48.9848813 48.98488,0 48.98488,0 0,48.9848813 0,48.984881 -48.98488,0 -48.98488,0 0,-48.984881 z"
+     d="m 674.10533,3278.2557 0,-48.9848 48.98488,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4830"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3577.4134 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4832"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3577.4134 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4834"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3577.4134 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4836"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3577.4134 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4838"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,50.706264 0,-48.9848813 48.98488,0 48.98488,0 0,48.9848813 0,48.984881 -48.98488,0 -48.98488,0 0,-48.984881 z"
+     d="m 674.10533,3278.2557 0,-48.9848 48.98488,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4840"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,460.07991 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98489 -48.984882,0 -48.98488081,0 0,-48.98489 z"
+     d="m 193.00382,3687.6294 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4842"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,460.07991 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98489 -48.984882,0 -48.98488081,0 0,-48.98489 z"
+     d="m 193.00382,3687.6294 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4844"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,460.07991 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98489 -48.984882,0 -48.98488081,0 0,-48.98489 z"
+     d="m 193.00382,3687.6294 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4846"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,460.07991 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98489 -48.984882,0 -48.98488081,0 0,-48.98489 z"
+     d="m 193.00382,3687.6294 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4848"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 493.91095,3987.6618 0,-49.8596 48.98488,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98488,0 0,-49.8596 z"
      id="path4850"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 493.91095,3987.6618 0,-49.8596 48.98488,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98488,0 0,-49.8596 z"
      id="path4852"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 493.91095,3987.6618 0,-49.8596 48.98488,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98488,0 0,-49.8596 z"
      id="path4854"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 493.91095,3987.6618 0,-49.8596 48.98488,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98488,0 0,-49.8596 z"
      id="path4856"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,559.79914 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3787.3487 0,-48.985 48.98489,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4858"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
-     style="opacity:0.50000000000000000;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,559.79914 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 193.00382,3787.3487 0,-48.985 48.98489,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4860"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,460.07991 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98489 -49.85962,0 -49.85961,0 0,-48.98489 z"
+     d="m 292.72304,3687.6294 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4864"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,460.07991 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98489 -49.85962,0 -49.85961,0 0,-48.98489 z"
+     d="m 292.72304,3687.6294 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4866"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,659.51836 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3887.0679 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4868"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,659.51836 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3887.0679 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4870"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,760.11231 0,-49.85961 49.85961,0 49.85961,0 0,49.85961 0,49.85961 -49.85961,0 -49.85961,0 0,-49.85961 z"
+     d="m 392.44227,3987.6618 0,-49.8596 49.85961,0 49.85961,0 0,49.8596 0,49.8596 -49.85961,0 -49.85961,0 0,-49.8596 z"
      id="path4872"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,760.11231 0,-49.85961 49.85961,0 49.85961,0 0,49.85961 0,49.85961 -49.85961,0 -49.85961,0 0,-49.85961 z"
+     d="m 392.44227,3987.6618 0,-49.8596 49.85961,0 49.85961,0 0,49.8596 0,49.8596 -49.85961,0 -49.85961,0 0,-49.8596 z"
      id="path4874"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,460.07991 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98489 -48.98488,0 -48.98488,0 0,-48.98489 z"
+     d="m 674.10533,3687.6294 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4892"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,460.07991 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98489 -48.98488,0 -48.98488,0 0,-48.98489 z"
+     d="m 674.10533,3687.6294 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4894"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,559.79914 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 773.82455,3787.3487 0,-48.985 48.98489,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4896"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,559.79914 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 773.82455,3787.3487 0,-48.985 48.98489,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4898"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35265,659.08099 -0.001,-49.42224 49.86067,0.4898 49.86068,0.48981 0,48.93244 0,48.93244 -49.85961,0 -49.85961,0 -10e-4,-49.42225 z"
+     d="m 871.79325,3886.6305 -10e-4,-49.4222 49.86067,0.4898 49.86068,0.4898 0,48.9324 0,48.9325 -49.85961,0 -49.85961,0 -0.001,-49.4223 z"
      id="path4900"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,659.51836 0,-48.98488 44.39255,0 c 24.4159,0 46.85272,0.49203 49.85961,1.09341 l 5.46706,1.09341 0,47.89147 0,47.89147 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 871.79432,3887.0679 0,-48.9849 44.39255,0 c 24.4159,0 46.85272,0.492 49.85961,1.0934 l 5.46706,1.0934 0,47.8915 0,47.8915 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4902"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 973.263,3987.6618 0,-49.8596 48.9849,0 48.9849,0 0,49.8596 0,49.8596 -48.9849,0 -48.9849,0 0,-49.8596 z"
      id="path4904"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 973.263,3987.6618 0,-49.8596 48.9849,0 48.9849,0 0,49.8596 0,49.8596 -48.9849,0 -48.9849,0 0,-49.8596 z"
      id="path4906"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4908"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,349.86393 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3577.4134 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4910"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,250.14471 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3477.6942 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4912"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,250.14471 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3477.6942 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4914"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,150.42549 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3377.975 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9848 -49.85962,0 -49.85961,0 0,-48.9848 z"
      id="path4916"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,150.42549 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3377.975 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9848 -49.85962,0 -49.85961,0 0,-48.9848 z"
      id="path4918"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,50.706264 0,-48.9848813 48.98488081,0 48.984882,0 0,48.9848813 0,48.984881 -48.984882,0 -48.98488081,0 0,-48.984881 z"
+     d="m 193.00382,3278.2557 0,-48.9848 48.98489,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4920"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,50.706264 0,-48.9848813 48.98488081,0 48.984882,0 0,48.9848813 0,48.984881 -48.984882,0 -48.98488081,0 0,-48.984881 z"
+     d="m 193.00382,3278.2557 0,-48.9848 48.98489,0 48.98488,0 0,48.9848 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4922"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,460.07991 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98489 -48.98488,0 -48.98489,0 0,-48.98489 z"
+     d="m 773.82455,3687.6294 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4924"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,460.07991 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98489 -48.98488,0 -48.98489,0 0,-48.98489 z"
+     d="m 773.82455,3687.6294 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4926"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.10318,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 873.54378,3787.3487 0,-48.985 48.98488,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4928"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.10318,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 873.54378,3787.3487 0,-48.985 48.98488,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4930"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,659.51836 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3887.0679 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4932"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,659.51836 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3887.0679 0,-48.9849 48.9849,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.9849,0 0,-48.9849 z"
      id="path4934"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,349.86393 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3577.4134 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4936"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,349.86393 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3577.4134 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4938"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,250.14471 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3477.6942 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4940"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,250.14471 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3477.6942 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4942"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,150.42549 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3377.975 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4944"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,150.42549 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3377.975 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path4946"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.10318,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 873.54378,3987.6618 0,-49.8596 48.98488,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98488,0 0,-49.8596 z"
      id="path4948"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.10318,760.11231 0,-49.85961 48.98488,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98488,0 0,-49.85961 z"
+     d="m 873.54378,3987.6618 0,-49.8596 48.98488,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98488,0 0,-49.8596 z"
      id="path4950"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,659.51836 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 773.82455,3887.0679 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4952"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,659.51836 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 773.82455,3887.0679 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4954"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3787.3487 0,-48.985 48.98488,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4956"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3787.3487 0,-48.985 48.98488,0 48.98488,0 0,48.985 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4958"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3477.6942 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4960"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,250.14471 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3477.6942 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4962"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,150.42549 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3377.975 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9848 -49.85961,0 -49.85961,0 0,-48.9848 z"
      id="path4964"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,150.42549 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85961,0 0,-48.98488 z"
+     d="m 392.44227,3377.975 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9848 -49.85961,0 -49.85961,0 0,-48.9848 z"
      id="path4966"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,50.706264 0,-48.9848813 49.85961,0 49.85962,0 0,48.9848813 0,48.984881 -49.85962,0 -49.85961,0 0,-48.984881 z"
+     d="m 292.72304,3278.2557 0,-48.9848 49.85961,0 49.85962,0 0,48.9848 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4968"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,50.706264 0,-48.9848813 49.85961,0 49.85962,0 0,48.9848813 0,48.984881 -49.85962,0 -49.85961,0 0,-48.984881 z"
+     d="m 292.72304,3278.2557 0,-48.9848 49.85961,0 49.85962,0 0,48.9848 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4970"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,760.11231 0,-49.85961 48.98489,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98489,0 0,-49.85961 z"
+     d="m 773.82455,3987.6618 0,-49.8596 48.98489,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98489,0 0,-49.8596 z"
      id="path4972"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.38395,760.11231 0,-49.85961 48.98489,0 48.98488,0 0,49.85961 0,49.85961 -48.98488,0 -48.98489,0 0,-49.85961 z"
+     d="m 773.82455,3987.6618 0,-49.8596 48.98489,0 48.98488,0 0,49.8596 0,49.8596 -48.98488,0 -48.98489,0 0,-49.8596 z"
      id="path4974"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,659.51836 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3887.0679 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4976"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 481.66473,659.51836 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 674.10533,3887.0679 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path4978"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,349.86393 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3577.4134 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4980"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.28244,349.86393 0,-48.98488 49.85961,0 49.85962,0 0,48.98488 0,48.98488 -49.85962,0 -49.85961,0 0,-48.98488 z"
+     d="m 292.72304,3577.4134 0,-48.9849 49.85961,0 49.85962,0 0,48.9849 0,48.9849 -49.85962,0 -49.85961,0 0,-48.9849 z"
      id="path4982"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,250.14471 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3477.6942 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4984"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.56322019,250.14471 0,-48.98488 48.98488081,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.98488081,0 0,-48.98488 z"
+     d="m 193.00382,3477.6942 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98489,0 0,-48.9849 z"
      id="path4986"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,50.706264 0,-48.9848813 49.85961,0 49.85961,0 0,48.9848813 0,48.984881 -49.85961,0 -49.85961,0 0,-48.984881 z"
+     d="m 392.44227,3278.2557 0,-48.9848 49.85961,0 49.85961,0 0,48.9848 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4988"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.00167,50.706264 0,-48.9848813 49.85961,0 49.85961,0 0,48.9848813 0,48.984881 -49.85961,0 -49.85961,0 0,-48.984881 z"
+     d="m 392.44227,3278.2557 0,-48.9848 49.85961,0 49.85961,0 0,48.9848 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4990"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3377.975 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4992"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.47035,150.42549 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 493.91095,3377.975 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path4994"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,460.07991 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98489 -49.85961,0 -49.85961,0 0,-48.98489 z"
+     d="m 871.79432,3687.6294 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4996"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.35372,460.07991 0,-48.98488 49.85961,0 49.85961,0 0,48.98488 0,48.98489 -49.85961,0 -49.85961,0 0,-48.98489 z"
+     d="m 871.79432,3687.6294 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9849 -49.85961,0 -49.85961,0 0,-48.9849 z"
      id="path4998"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3787.3487 0,-48.985 48.9849,0 48.9849,0 0,48.985 0,48.9848 -48.9849,0 -48.9849,0 0,-48.9848 z"
      id="path5000"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 780.8224,559.79914 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.263,3787.3487 0,-48.985 48.9849,0 48.9849,0 0,48.985 0,48.9848 -48.9849,0 -48.9849,0 0,-48.9848 z"
      id="path5002"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.73385,760.63715 0,-48.98488 48.11015,0 48.11015,0 0,48.98488 0,48.98488 -48.11015,0 -48.11015,0 0,-48.98488 z"
+     d="m 774.17445,3988.1867 0,-48.9849 48.11015,0 48.11015,0 0,48.9849 0,48.9848 -48.11015,0 -48.11015,0 0,-48.9848 z"
      id="path5004"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 482.01462,660.0432 0,-48.11015 48.11016,0 48.11015,0 0,48.11015 0,48.11015 -48.11015,0 -48.11016,0 0,-48.11015 z"
+     d="m 674.45522,3887.5927 0,-48.1101 48.11016,0 48.11015,0 0,48.1101 0,48.1102 -48.11015,0 -48.11016,0 0,-48.1102 z"
      id="path5006"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.70361,460.60475 0,-48.11015 48.98488,0 48.98488,0 0,48.11015 0,48.11015 -48.98488,0 -48.98488,0 0,-48.11015 z"
+     d="m 872.14421,3688.1542 0,-48.1101 48.98488,0 48.98488,0 0,48.1101 0,48.1102 -48.98488,0 -48.98488,0 0,-48.1102 z"
      id="path5008"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 781.17229,560.32397 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11016 -48.11015,0 -48.11015,0 0,-48.11016 z"
+     d="m 973.61289,3787.8735 0,-48.1102 48.11011,0 48.1102,0 0,48.1102 0,48.1101 -48.1102,0 -48.11011,0 0,-48.1101 z"
      id="path5010"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.82024,150.95032 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11016 -48.11015,0 -48.11015,0 0,-48.11016 z"
+     d="m 494.26084,3378.4998 0,-48.1102 48.11015,0 48.11015,0 0,48.1102 0,48.1102 -48.11015,0 -48.11015,0 0,-48.1102 z"
      id="path5012"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.35156,51.231102 0,-48.1101513 48.98488,0 48.98488,0 0,48.1101513 0,48.110151 -48.98488,0 -48.98488,0 0,-48.110151 z"
+     d="m 392.79216,3278.7806 0,-48.1102 48.98488,0 48.98488,0 0,48.1102 0,48.1101 -48.98488,0 -48.98488,0 0,-48.1101 z"
      id="path5014"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.9131122,250.66955 0,-48.11015 48.1101508,0 48.110152,0 0,48.11015 0,48.11015 -48.110152,0 -48.1101508,0 0,-48.11015 z"
+     d="m 193.35372,3478.219 0,-48.1101 48.11015,0 48.11015,0 0,48.1101 0,48.1102 -48.11015,0 -48.11015,0 0,-48.1102 z"
      id="path5016"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 480.26516,760.63715 0,-48.98488 49.85962,0 49.85961,0 0,48.98488 0,48.98488 -49.85961,0 -49.85962,0 0,-48.98488 z"
+     d="m 672.70576,3988.1867 0,-48.9849 49.85962,0 49.85961,0 0,48.9849 0,48.9848 -49.85961,0 -49.85962,0 0,-48.9848 z"
      id="path5018"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 781.17229,459.73002 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 973.61289,3687.2795 0,-48.9849 48.98491,0 48.9849,0 0,48.9849 0,48.9849 -48.9849,0 -48.98491,0 0,-48.9849 z"
      id="path5020"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 300.07078,50.356372 0,-48.9848813 49.85961,0 49.85961,0 0,48.9848813 0,48.984881 -49.85961,0 -49.85961,0 0,-48.984881 z"
+     d="m 492.51138,3277.9059 0,-48.9849 49.85961,0 49.85961,0 0,48.9849 0,48.9848 -49.85961,0 -49.85961,0 0,-48.9848 z"
      id="path5022"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.9131122,349.51404 0,-48.98488 48.9848808,0 48.984882,0 0,48.98488 0,48.98488 -48.984882,0 -48.9848808,0 0,-48.98488 z"
+     d="m 193.35372,3577.0635 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9849 -48.98488,0 -48.98488,0 0,-48.9849 z"
      id="path5024"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.9131122,560.32397 0,-48.11015 48.1101508,0 48.110152,0 0,48.11015 0,48.11016 -48.110152,0 -48.1101508,0 0,-48.11016 z"
+     d="m 193.35372,3787.8735 0,-48.1102 48.11015,0 48.11015,0 0,48.1102 0,48.1101 -48.11015,0 -48.11015,0 0,-48.1101 z"
      id="path5026"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.63233,460.60475 0,-48.11015 48.98489,0 48.98488,0 0,48.11015 0,48.11015 -48.98488,0 -48.98489,0 0,-48.11015 z"
+     d="m 293.07293,3688.1542 0,-48.1101 48.98489,0 48.98488,0 0,48.1101 0,48.1102 -48.98488,0 -48.98489,0 0,-48.1102 z"
      id="path5028"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.35156,760.63715 0,-48.98488 48.98488,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98488,0 0,-48.98488 z"
+     d="m 392.79216,3988.1867 0,-48.9849 48.98488,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98488,0 0,-48.9848 z"
      id="path5030"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.82024,660.0432 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11015 -48.11015,0 -48.11015,0 0,-48.11015 z"
+     d="m 494.26084,3887.5927 0,-48.1101 48.11015,0 48.11015,0 0,48.1101 0,48.1102 -48.11015,0 -48.11015,0 0,-48.1102 z"
      id="path5032"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 681.45307,350.38877 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11015 -48.11015,0 -48.11015,0 0,-48.11015 z"
+     d="m 873.89367,3577.9382 0,-48.1101 48.11015,0 48.11015,0 0,48.1101 0,48.1102 -48.11015,0 -48.11015,0 0,-48.1102 z"
      id="path5034"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 781.17229,250.66955 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11015 -48.11015,0 -48.11015,0 0,-48.11015 z"
+     d="m 973.61289,3478.219 0,-48.1101 48.11011,0 48.1102,0 0,48.1101 0,48.1102 -48.1102,0 -48.11011,0 0,-48.1102 z"
      id="path5036"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.73385,51.231102 0,-48.1101513 48.11015,0 48.11015,0 0,48.1101513 0,48.110151 -48.11015,0 -48.11015,0 0,-48.110151 z"
+     d="m 774.17445,3278.7806 0,-48.1102 48.11015,0 48.11015,0 0,48.1102 0,48.1101 -48.11015,0 -48.11015,0 0,-48.1101 z"
      id="path5038"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 482.01462,150.95032 0,-48.11015 48.11016,0 48.11015,0 0,48.11015 0,48.11016 -48.11015,0 -48.11016,0 0,-48.11016 z"
+     d="m 674.45522,3378.4998 0,-48.1102 48.11016,0 48.11015,0 0,48.1102 0,48.1102 -48.11015,0 -48.11016,0 0,-48.1102 z"
      id="path5040"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 482.01462,250.66955 0,-48.11015 48.11016,0 48.11015,0 0,48.11015 0,48.11015 -48.11015,0 -48.11016,0 0,-48.11015 z"
+     d="m 674.45522,3478.219 0,-48.1101 48.11016,0 48.11015,0 0,48.1101 0,48.1102 -48.11015,0 -48.11016,0 0,-48.1102 z"
      id="path5042"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 581.73385,150.95032 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11016 -48.11015,0 -48.11015,0 0,-48.11016 z"
+     d="m 774.17445,3378.4998 0,-48.1102 48.11015,0 48.11015,0 0,48.1102 0,48.1102 -48.11015,0 -48.11015,0 0,-48.1102 z"
      id="path5044"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 679.70361,51.231102 0,-48.1101513 48.98488,0 48.98488,0 0,48.1101513 0,48.110151 -48.98488,0 -48.98488,0 0,-48.110151 z"
+     d="m 872.14421,3278.7806 0,-48.1102 48.98488,0 48.98488,0 0,48.1102 0,48.1101 -48.98488,0 -48.98488,0 0,-48.1101 z"
      id="path5046"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 301.82024,560.32397 0,-48.11015 48.11015,0 48.11015,0 0,48.11015 0,48.11016 -48.11015,0 -48.11015,0 0,-48.11016 z"
+     d="m 494.26084,3787.8735 0,-48.1102 48.11015,0 48.11015,0 0,48.1102 0,48.1101 -48.11015,0 -48.11015,0 0,-48.1101 z"
      id="path5048"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 200.35156,660.0432 0,-48.11015 48.98488,0 48.98488,0 0,48.11015 0,48.11015 -48.98488,0 -48.98488,0 0,-48.11015 z"
+     d="m 392.79216,3887.5927 0,-48.1101 48.98488,0 48.98488,0 0,48.1101 0,48.1102 -48.98488,0 -48.98488,0 0,-48.1102 z"
      id="path5050"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#604a8f;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 100.63233,760.63715 0,-48.98488 48.98489,0 48.98488,0 0,48.98488 0,48.98488 -48.98488,0 -48.98489,0 0,-48.98488 z"
+     d="m 293.07293,3988.1867 0,-48.9849 48.98489,0 48.98488,0 0,48.9849 0,48.9848 -48.98488,0 -48.98489,0 0,-48.9848 z"
      id="path5052"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/board.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
 </svg>
