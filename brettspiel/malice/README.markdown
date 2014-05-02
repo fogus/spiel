@@ -13,14 +13,14 @@ Malice requires two special 4x8 gameboards to play, although a checkers board ca
 ![gameboard](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/board.png)
 
 
-In addition, Malice requires 18 pawns ([Icehouse pieces](http://www.looneylabs.com/looney-pyramids) work very nicely too) of differing sizes: 6 small, 6 medium, and 6 large.  If you don't have 18 pawns laying around then you can instead use 18 stones or pieces of paper or even coins: 6 dimes, 6 pennies, and 6 nickels.
+In addition, Malice requires 18 pawns ([Icehouse pieces](http://www.looneylabs.com/looney-pyramids) work very nicely too) of differing sizes: 6 small, 6 medium, and 6 large.  If you don't have 18 pawns laying around then you can instead use 18 stones or pieces of paper or even coins: 6 dimes, 6 pennies, and 6 nickels.  The color of the game pieces does not matter, in fact all 18 can all be the same color.
 
 Setup
 -----
 
 All of the instructions in this guide assume that you're using the special gameboards.  The board setup looks like the following:
 
-![setup]()
+![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/inital-setp.png)
 
 Gameplay
 --------
