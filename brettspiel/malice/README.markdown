@@ -31,7 +31,7 @@ The three pawn sizes in Malice move in different ways, as described below.
 
 ### Large pawns
 
-
+![move-lg](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/large-movement.png)
 
 Acknowledgements
 ----------------
