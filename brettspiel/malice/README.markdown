@@ -38,10 +38,14 @@ The three pawn sizes in Malice move in different ways, as described below.
 
 ![move-lg](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/large-movement.png)
 
+### Teleportation
+
+TODO
+
 Piece capture
 -------------
 
-
+![caps](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/captures.png)
 
 Acknowledgements
 ==--------------
