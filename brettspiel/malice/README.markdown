@@ -5,27 +5,33 @@ Goal
 
 To be the player with the highest captured point total when the game ends.
 
-Materials needed
-----------------
+Materials and setup
+-------------------
 
-Malice requires two special 4x8 gameboards to play, although a checkers board can be used in a pinch.  The gameboard is show below:
+Malice requires two special 4x8 gameboards to play, although a checkers board can be used in a pinch.  In addition, Malice requires 18 pawns ([Icehouse pieces](http://www.looneylabs.com/looney-pyramids) work very nicely too) of differing sizes: 6 small, 6 medium, and 6 large.  If you don't have 18 pawns laying around then you can instead use 18 stones or pieces of paper or even coins: 6 dimes, 6 pennies, and 6 nickels.  The color of the game pieces does not matter, in fact all 18 can be the same color.
 
-![gameboard](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/board.png)
-
-
-In addition, Malice requires 18 pawns ([Icehouse pieces](http://www.looneylabs.com/looney-pyramids) work very nicely too) of differing sizes: 6 small, 6 medium, and 6 large.  If you don't have 18 pawns laying around then you can instead use 18 stones or pieces of paper or even coins: 6 dimes, 6 pennies, and 6 nickels.  The color of the game pieces does not matter, in fact all 18 can all be the same color.
-
-Setup
------
-
-All of the instructions in this guide assume that you're using the special gameboards.  The board setup looks like the following:
+In any case, the starting setup for Malice is as follows:
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/inital-setp.png)
+
+All of the instructions in this guide assume that you're using the special gameboards.
 
 Gameplay
 --------
 
+The three pawn sizes in Malice move in different ways, as described below.
 
+### Small pawns
+
+![move-small](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/small-movement.png)
+
+### Medium pawns
+
+![move-med](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/medium-movement.png)
+
+### Large pawns
+
+![move-lg](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/large-movement.png)
 
 Acknowledgements
 ----------------
