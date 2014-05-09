@@ -19,32 +19,36 @@ All of the instructions in this guide assume that you're using the special gameb
 Gameplay
 ========
 
-TODO
+Since the colors of the pieces on the two boards 
 
 Piece movement
 --------------
 
-The three pawn sizes in Malice move in different ways, as described below.
+The three piece sizes in Malice move in different ways, as described below.
 
-### Small pawns
+### Small pieces
 
-Small pawns can move in any direction exactly one square, as shown below:
+Small pieces can move in any direction exactly one square, as shown below:
 
 ![move-small](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/small-movement.png)
 
 In other words, smalls move like Chess kings.
 
-### Medium pawns
+### Medium pieces
 
-Medium pawns can move three squares away, in an L-shaped fashion, as shown below:
+Medium pieces can move three squares away, in an L-shaped fashion, as shown below:
 
 ![move-med](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/medium-movement.png)
 
 In other words, mediums move like Chess knights.
 
-### Large pawns
+### Large pieces
+
+Large pieces can move in any direction, any number of squares, as shown below:
 
 ![move-lg](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/large-movement.png)
+
+In other words, larges move like Chess queens.
 
 Piece capture
 -------------
@@ -65,6 +69,8 @@ Each piece captured is worth points equal to its size:
 
 Teleportation
 -------------
+
+The trick in moving in Malice is that almost every movement causes your piece to *teleport* to the dual square on the second board.  When you move a piece that you control to a square on your side then it teleports to a square on the other board in your opponent's side. Conversely, when you move a piece that you control
 
 ![teleport](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/teleportation.png)
 
