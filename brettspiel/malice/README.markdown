@@ -24,7 +24,7 @@ Since the colors of the pieces on the two boards are not important, then you mig
 Piece movement
 --------------
 
-The three piece sizes in Malice move in different ways, as described below.
+The three piece sizes in Malice move in different ways, as described below.  However, one important point of note is that pieces **cannot** move directly from one board to another.  To get from one board to another requires teleportation -- described later.
 
 ### Small pieces
 
@@ -70,9 +70,10 @@ Each piece captured is worth points equal to its size:
 Teleportation
 -------------
 
-The trick in moving in Malice is that almost every movement causes your piece to *teleport* to the dual square on the second board.  When you move a piece that you control to a square on your side then it teleports to a square on the other board in your opponent's side. Conversely, when you move a piece that you control
+The trick in moving in Malice is that almost every movement causes your piece to *teleport* to the dual square on the second board.  When you move a piece that you control to a square on your side then it teleports to a square on the other board in your opponent's side. Conversely, when you move a piece that you control onto a square on the opposite side of the 
 
 ![teleport](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/teleportation.png)
+
 
 
 Ending the game
