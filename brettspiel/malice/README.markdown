@@ -80,7 +80,9 @@ As you see, teleportation is the only way that you can get from one board to the
 
 The only time that teleportation does not happen on a move or a capture is when a piece resides on the dual square of the other board.  This condition is shown below:
 
+![blocked-teleport](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/blocked-teleportation.png)
 
+In the diagram above, both the capture and the move are teleportation-free because there are pieces (smalls in this case) residing in the dual squares on the other board.  Blocked teleportation, like allowed teleportation, can be a bane and a blessing.  You must keep your whits about you to avoid nasty captures.
 
 Ending the game
 ---------------
