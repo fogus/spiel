@@ -16,6 +16,11 @@ In any case, the starting setup for Malice is as follows:
 
 All of the instructions in this guide assume that you're using the special gameboards.
 
+The gameboard
+=============
+
+The gameboards, there being two, are transpositions of each other.  For any square on one board, when setup as in the diagram above, there is a *dual* square on the other board on the opposite side.  Dual squares are specially colored to more easily identify across the two boards.  This coloring is important for devising plans involving teleportation, which is described later.
+
 Gameplay
 ========
 
