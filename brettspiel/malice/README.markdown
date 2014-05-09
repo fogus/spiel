@@ -70,9 +70,13 @@ Each piece captured is worth points equal to its size:
 Teleportation
 -------------
 
-The trick in moving in Malice is that almost every movement causes your piece to *teleport* to the dual square on the second board.  When you move a piece that you control to a square on your side then it teleports to a square on the other board in your opponent's side. Conversely, when you move a piece that you control onto a square on the opposite side of the 
+The trick in moving in Malice is that almost every movement causes your piece to *teleport* to the dual square on the second board.  When you move a piece that you control to a square on your side then it teleports to a square on the other board in your opponent's side. Conversely, when you move a piece that you control onto a square on the opposite side of the board then it's teleported to the opposite board on the same colored square on your side.  An overview of teleportation is shown below:
 
 ![teleport](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/teleportation.png)
+
+As you see, teleportation is the only way that you can get from one board to the other.  However, because teleportation happens on almost every move and capture, you have to be careful where you move your pieces.
+
+### Blocked teleportation
 
 
 
