@@ -19,7 +19,7 @@ All of the instructions in this guide assume that you're using the special gameb
 Gameplay
 ========
 
-Since the colors of the pieces on the two boards 
+Since the colors of the pieces on the two boards are not important, then you might wonder which pieces are under your control.  The answer is that the pieces that you control are any that reside in the two quadrants nearest to you.  Your opponent's pieces are therefore those that are on the two quadrants farthest from you.
 
 Piece movement
 --------------
