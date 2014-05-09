@@ -32,11 +32,15 @@ Small pawns can move in any direction exactly one square, as shown below:
 
 ![move-small](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/small-movement.png)
 
-
+In other words, smalls move like Chess kings.
 
 ### Medium pawns
 
+Medium pawns can move three squares away, in an L-shaped fashion, as shown below:
+
 ![move-med](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/medium-movement.png)
+
+In other words, mediums move like Chess knights.
 
 ### Large pawns
 
