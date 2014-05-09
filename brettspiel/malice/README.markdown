@@ -21,6 +21,8 @@ The gameboard
 
 The gameboards, there being two, are transpositions of each other.  For any square on one board, when setup as in the diagram above, there is a *dual* square on the other board on the opposite side.  Dual squares are specially colored to more easily identify across the two boards.  This coloring is important for devising plans involving teleportation, which is described later.
 
+[You can download and print a copy of the Malice gameboard if you'd like to play.](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/board.png)
+
 Gameplay
 ========
 
