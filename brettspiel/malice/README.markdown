@@ -82,7 +82,7 @@ The only time that teleportation does not happen on a move or a capture is when 
 
 ![blocked-teleport](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/blocked-teleportation.png)
 
-In the diagram above, both the capture and the move are teleportation-free because there are pieces (smalls in this case) residing in the dual squares on the other board.  Blocked teleportation, like allowed teleportation, can be a bane and a blessing.  You must keep your whits about you to avoid nasty captures.
+In the diagram above, both the capture and the move are teleportation-free because there are pieces (smalls in this case) residing in the dual squares on the other board.  Blocked teleportation, like allowed teleportation, can be a bane and a blessing.  You must keep your whits about you to avoid nasty captures or unexpected game endings.
 
 Ending the game
 ---------------
