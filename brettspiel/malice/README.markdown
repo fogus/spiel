@@ -78,6 +78,8 @@ As you see, teleportation is the only way that you can get from one board to the
 
 ### Blocked teleportation
 
+The only time that teleportation does not happen on a move or a capture is when a piece resides on the dual square of the other board.  This condition is shown below:
+
 
 
 Ending the game
