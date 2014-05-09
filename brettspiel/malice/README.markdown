@@ -84,4 +84,4 @@ The game ends when any one of the four quadrants is devoid of pieces.  The playe
 Acknowledgements
 ================
 
-*Malice* is inspired by a variant of Chess called [Alice](http://www.chessvariants.org/other.dir/alice.html) and also [Martian Chess](http://icehousegames.org/wiki/index.php?title=Martian_Chess) by [Looney Labs](http://www.looneylabs.com).
+*Malice* is inspired by a variant of Chess called [Alice](http://www.chessvariants.org/other.dir/alice.html), where it adopts the idea of teleportation. Also, Malice adopts the board sizes and piece control mechanisms from [Martian Chess](http://icehousegames.org/wiki/index.php?title=Martian_Chess) by [Looney Labs](http://www.looneylabs.com).
