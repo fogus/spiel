@@ -35,10 +35,20 @@ All further capturing in Anarchism happens in this way, except for when the king
 Coups
 =====
 
-Anarchism starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a king ever take another piece then a coup will occur.  A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece.  When a coup occurs then **all** of the remaining pieces of that rank must be checkmated in order to win.  The pieces that have performed the coup are effectively the new king for the purpose of winning.
+Anarchism starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a king ever take another piece then a coup will occur in the other player's ranks. 
 
-If there is more than one piece of a given rank in power then all but one can be captured.  If a piece in power captures an opponent's piece then another coup will occur.  The only time that a coup does not occur is when a piece in power takes the final piece of a given rank.
+A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece.  When a coup occurs then **any** of the remaining pieces of that rank can be checkmated in order to win.  Any of the pieces that have performed the coup are effectively the new king for the purpose of winning.
+
+If there is more than one piece of a given rank in power then all but one can be captured.  If a piece in power captures an opponent's piece then a coup in the opponent's ranks will occur.  The only time that a coup does not occur is when a piece in power takes the final piece of a given rank.
 
 Observe:
+
+![to-coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/to-coup.png)
+
+In the diagram above, should the black king take the attacking pawn then the following board will result:
+
+![coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/coup.png)
+
+Unfortunately for white, the coup leads to a catastrophe as the pawn on a2 is placed into a checkmate position.  When a coup leads to a checkmating position then the player in danger has their move to get out of it.  If they are unable to remove the checkmating condition then they lose.  In the case above white has no move that can release the checkmate on the a2 pawn.
 
 
