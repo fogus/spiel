@@ -24,11 +24,7 @@ The new knight would put immediate pressure on the black queen. Black might like
 
 ![knight-capture2](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture2.png)
 
-This time the black pawn succeeded to knighthood.  However, white might decide to capture the new black knight:
-
-![knight-capture3](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture3.png)
-
-The last capture would result in the white bishop declining into knighthood.  Of course, the queen is once again in danger, but the remaining moves are left as an exercise to the reader.
+This time the black pawn succeeded to knighthood.  However, white might decide to capture the new black knight resulting in the white bishop declining into knighthood.  Of course, the queen is once again in danger, but the remaining moves are left as an exercise to the reader.
 
 All further capturing in Anarchism happens in this way, except for when the kings capture, which instead cause a coup to occur.
 
