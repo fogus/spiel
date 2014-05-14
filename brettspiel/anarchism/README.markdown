@@ -19,3 +19,7 @@ In Anarchism, any time that a piece captures another piece the capturing piece i
 If the white pawn on d5 captures the knight on c6 then it will succeed to knighthood:
 
 ![knight-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture.png)
+
+The new knight would put immediate pressure on the black queen. Black might likewise capture the new knight:
+
+![knight-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture2.png)
