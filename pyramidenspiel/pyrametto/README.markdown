@@ -1,6 +1,3 @@
-CarboniteDice
--------------
-
 Pyrametto is a push-your-luck dice game which is a variant of [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto) adapted for Looney Pyramids.  Pyrametto adopts the scoring of [Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html) (both by [Looney Labs](http://www.looneylabs.com)), with the push-your-luck mechanics of Coloretto. 
 
 Setup of Pyrametto
@@ -49,8 +46,8 @@ Finally, take the score of your Vault and multiply it by the last successful tur
 
 Once done, play again to try and beat your high score!
 
-Credits
-=======
+Acknowledgments
+===============
 
 * Volcano is designed by Kristin Looney.
 * IceDice is designed by Andy Looney.
