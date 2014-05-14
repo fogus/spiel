@@ -32,4 +32,13 @@ The last capture would result in the white bishop declining into knighthood.  Of
 
 All further capturing in Anarchism happens in this way, except for when the kings capture, which instead cause a coup to occur.
 
+Coups
+=====
+
+Anarchism starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a king ever take another piece then a coup will occur.  A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece.  When a coup occurs then **all** of the remaining pieces of that rank must be checkmated in order to win.  The pieces that have performed the coup are effectively the new king for the purpose of winning.
+
+If there is more than one piece of a given rank in power then all but one can be captured.  If a piece in power captures an opponent's piece then another coup will occur.  The only time that a coup does not occur is when a piece in power takes the final piece of a given rank.
+
+Observe:
+
 
