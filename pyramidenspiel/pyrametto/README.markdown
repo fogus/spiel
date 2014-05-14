@@ -21,10 +21,10 @@ TODO
  
 ### Ending the game
 
-After ten turns, or the game ends prematurely, calculate your score.
+Once everyone takes their final turn the game ends. You may now  calculate the scores.
 
-Scoring in CarboniteDice
-========================
+Scoring in Pyrametto
+====================
 
 When the game ends look at the pyramids in your Vault and score according to the following:
 
