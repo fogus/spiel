@@ -9,6 +9,8 @@ Anarchism is set up exactly like a regular game of Chess.
 
 Additionally, all of the pieces in Anarchism move in the same way that they move in Chess.  The real fun begins once captures occur.
 
-Succession by capture
-=====================
+Succession and decline via capture
+==================================
+
+In Anarchism, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
 
