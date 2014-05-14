@@ -66,7 +66,7 @@ The type of coup that occurs depends on the piece captured by an opponent piece 
 
 It's fun to yell these names out when a coup occurs.
 
-Assasination
+Assassination
 ============
 
 If there is more than one piece of a given rank in power then all but one can be captured.  The final piece of a rank in power **must** be checkmated.
@@ -74,4 +74,5 @@ If there is more than one piece of a given rank in power then all but one can be
 Acknowledgments
 ===============
 
+The idea for coups came from a comment that my son said during one of our games about how I might have won if my king was just a regular piece.  The idea for succession and decline came from a [Twitter comment by Daniel Solis](https://twitter.com/DanielSolis/status/459756349745020928).
 
