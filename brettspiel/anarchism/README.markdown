@@ -5,4 +5,10 @@ Setup
 
 Anarchism is set up exactly like a regular game of Chess.
 
-![setup]()
+![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/setup.png)
+
+Additionally, all of the pieces in Anarchism move in the same way that they move in Chess.  The real fun begins once captures occur.
+
+Succession by capture
+=====================
+
