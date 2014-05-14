@@ -14,3 +14,8 @@ Succession and decline via capture
 
 In Anarchism, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
 
+![to-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/to-capture.png)
+
+If the white pawn on d5 captures the knight on c6 then it will succeed to knighthood:
+
+![knight-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture.png)
