@@ -1,19 +1,20 @@
-Pyrametto is a push-your-luck dice game which is a variant of [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto) adapted for Looney Pyramids.  Pyrametto adopts the scoring of [Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html) (both by [Looney Labs](http://www.looneylabs.com)), with the push-your-luck mechanics of Coloretto. 
+Pyrametto is a push-your-luck dice game which is a variant of [Coloretto](http://boardgamegeek.com/boardgame/5782/coloretto) adapted for Looney Pyramids.  Pyrametto adopts the scoring of [Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html) (both by [Looney Labs](http://www.looneylabs.com)), with the push-your-luck mechanics of Coloretto mixed with the take-that aspect of [IceDice](http://www.looneylabs.com/games/icedice).
 
 Setup of Pyrametto
 ==================
 
-Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treehouse) for a 2-3 player game and an additional set for every player thereafter, up to 5.
+Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treehouse) for a 2-3 player game and an additional set for every player thereafter, up to 5.  During the course of the game the players will be building stacks of pyramids a maximum of 3-high, equal to the number of players.  The game also requires a set of IceDice dice, one pyramid die and a color die.
 
 Turns in Pyrametto
 ==================
 
-TODO
+On each turn a player can either take an existing stack of pyramids or roll the dice and add what's shown to an existing stack.  A stack of pyramids available for taking can never contain more than 3 pyramids.  Once a stack is full a rolled piece must be be placed on another stack that contains 2 or fewer pyramids.  If all of the stacks become full then the players must chose a stack in turn order.
 
- * 3 lanes
- * pew pew die and icehouse die
- * running out of a size/color signals final round
- 
+ * if a size/color is missing, take from another player and put it into an existing stack
+ * running out of a size/color signals final round, still take a color from an existing player.
+
+
+
 ### Ending the game
 
 Once everyone takes their final turn the game ends. You may now  calculate the scores.
