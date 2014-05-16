@@ -3,9 +3,7 @@ Pyrametto is a push-your-luck dice game which is a variant of [Coloretto](http:/
 Setup of Pyrametto
 ==================
 
-TODO
-
- * 3 TH sets
+Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treehouse) for a 2-3 player game and an additional set for every player thereafter, up to 5.
 
 Turns in Pyrametto
 ==================
