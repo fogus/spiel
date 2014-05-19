@@ -3,11 +3,11 @@ Pyrametto is a push-your-luck dice game which is a variant of [Coloretto](http:/
 Setup of Pyrametto
 ==================
 
-Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treehouse) for a 2-3 player game and an additional set for every player thereafter, up to 5.  During the course of the game the players will be building stacks of pyramids a maximum of 3-high, equal to the number of players.  The game also requires a set of IceDice dice, one pyramid die and a color die.
+Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treehouse) for a 2-3 player game and an additional set for every player thereafter, up to 5.  The game also requires a set of IceDice dice, one pyramid die and a color die.
 
 To setup the game simple create stacks of the available pyramids in the middle of the table, grouped by color and size.  This setup of pyramids is called the *global inventory*.
 
-During the course of play players will building their personal *vault* of pyramids from the stacks in play, for the purpose of final scoring.
+During the course of a game with 3-5 players, they will be building stacks of pyramids a maximum of 3-high, equal to the number of players.  For a 2-player game there will be only 3-stacks, one 1-pyramid high, another 2-pyramids high, and the last 3-pyramids high.  Players will building their personal *vault* of pyramids from the stacks in play, for the purpose of final scoring.
 
 Turns in Pyrametto
 ==================
