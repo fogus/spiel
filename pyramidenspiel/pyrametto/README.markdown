@@ -7,6 +7,8 @@ Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treeho
 
 To setup the game simple create stacks of the available pyramids in the middle of the table, grouped by color and size.  This setup of pyramids is called the *global inventory*.
 
+During the course of play players will building their personal *vault* of pyramids from the stacks in play, for the purpose of final scoring.
+
 Turns in Pyrametto
 ==================
 
