@@ -5,15 +5,20 @@ Setup of Pyrametto
 
 Pyrametto requires three [Treehouse sets](http://www.looneylabs.com/rules/treehouse) for a 2-3 player game and an additional set for every player thereafter, up to 5.  During the course of the game the players will be building stacks of pyramids a maximum of 3-high, equal to the number of players.  The game also requires a set of IceDice dice, one pyramid die and a color die.
 
+To setup the game simple create stacks of the available pyramids in the middle of the table, grouped by color and size.  This setup of pyramids is called the *global inventory*.
+
 Turns in Pyrametto
 ==================
 
 On each turn a player can either take an existing stack of pyramids or roll the dice and add what's shown to an existing stack.  A stack of pyramids available for taking can never contain more than 3 pyramids.  Once a stack is full a rolled piece must be be placed on another stack that contains 2 or fewer pyramids.  If all of the stacks become full then the players must chose a stack in turn order.
 
- * if a size/color is missing, take from another player and put it into an existing stack
- * running out of a size/color signals final round, still take a color from an existing player.
+### Rolling a color/size that's not in the global inventory
 
+If you happen to roll a color/size combination that's missing from the global inventory then you must take that size from one of the players (including themselves if required) to place in one of the stacks.  The stolen pyramid can be claimed by any of the players just like as if it had been taken from the global inventory.
 
+### Running out of a color
+
+In a 3-5 player game the last round is signalled when all of the pyramids of a certain color run out.  The remaining players may finish their turns when this condition occurs before scoring commences.
 
 ### Ending the game
 
