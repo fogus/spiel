@@ -16,11 +16,11 @@ On each turn a player can either take an existing stack of pyramids or roll the 
 
 ### Rolling a color/size that's not in the global inventory
 
-If you happen to roll a color/size combination that's missing from the global inventory then you must take that size from one of the players (including themselves if required) to place in one of the stacks.  The stolen pyramid can be claimed by any of the players just like as if it had been taken from the global inventory.
+If a player happens to roll a color/size combination that's missing from the global inventory then that player must take that size from one of the players (including themselves if required) to place on one of the stacks.  The stolen pyramid can be claimed by any of the players just like as if it had been taken from the global inventory.
 
 ### Running out of a color
 
-In a 3-5 player game the last round is signalled when all of the pyramids of a certain color run out.  The remaining players may finish their turns when this condition occurs before scoring commences.
+In a 3-5 player game the last round is signaled when all of the pyramids of any two sizes of any color runs out.  The remaining players may finish their turns when this condition occurs before scoring commences.
 
 ### Ending the game
 
