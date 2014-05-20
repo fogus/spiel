@@ -29,9 +29,17 @@ Scoring in Pyrametto
 
 When the game ends look at the pyramids in your Vault and score according to the following:
 
-* 7 points for each solid-color tree
-* 5 points for each mixed-color tree
-* 1 point for each of the rest of your pieces
+* 7 points the first solid-color tree
+* 11 points for the second solid-color tree
+* -3 points for the fourth solid-color tree
+* -5 points for the fifth solid-color tree
+* -7 points for the sixth solid-color tree
+* 5 points for the first mixed-color tree
+* 7 points for the second mixed-color tree
+* -1 point for the third mixed-color tree
+* -3 point for the forth mixed-color tree
+* -5 point for the fifth mixed-color tree
+* -1 point for each of the remaining pieces unable to form trees
 
 To start scoring, just add up all of the scores of the pyramids according to the groupings listed above.
 
