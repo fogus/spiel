@@ -34,34 +34,38 @@ When the game ends look at the pyramids in your Vault and score according to the
 * -3 points for the fourth solid-color tree
 * -5 points for the fifth solid-color tree
 * -7 points for the sixth solid-color tree
+
 * 5 points for the first mixed-color tree
 * 7 points for the second mixed-color tree
 * -1 point for the third mixed-color tree
 * -3 point for the forth mixed-color tree
 * -5 point for the fifth mixed-color tree
+
 * -1 point for each of the remaining pieces unable to form trees
 
 To start scoring, just add up all of the scores of the pyramids according to the groupings listed above.
 
 > For example, a Vault with 2 red trees would initially score 
-> (7 + 7) = 14 points
+> (7 + 11) = 18 points
 
-For every duplicate solid-color tree, double the score of your Vault.
+However, a third red tree would adjust the score as follows:
 
-> For example, a Vault with 2 red trees would further score 
-> (7 + 7) * 2 = 28 points
+> (7 + 11) - 3 = 15 points
 
-Finally, take the score of your Vault and multiply it by the last successful turn number (i.e. the value of the pips on the Turn Markers minus 1) to get your final score.
+Further, if the player had enough pieces to form a mixed tree, then the score would again be adjusted:
 
-> For example, a Vault with 2 red trees, ending on turn 7 would score
-> ((7 + 7) * 2) * 6 = 168 total points
+> (7 + 11) - 3 + 5 = 20 points
 
-Once done, play again to try and beat your high score!
+Finally, if the player had a single pyramid remaining pyramid then the score would be finalized as:
+
+> (7 + 11) - 3 + 5 - 1 = 19 points
+
+Once done, set it all up and play again!
 
 Acknowledgments
 ===============
 
 * Volcano is designed by Kristin Looney.
 * IceDice is designed by Andy Looney.
-* Original pictures by Looney Labs with minor additions to outline setup differences.
+* Coloretto is designed by Michael Schacht.
 
