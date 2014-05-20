@@ -20,7 +20,9 @@ If a player happens to roll a color/size combination that's missing from the glo
 
 ### Running out of a color
 
-In a 3-5 player game the last round is signaled when all of the pyramids of any two sizes of any color runs out.  The remaining players may finish their turns when this condition occurs before scoring commences.
+In a 3-5 player game the last round is signaled when all of the pyramids of any two sizes of any one color runs out. The remaining players may finish their turns when this condition occurs before scoring commences. 
+
+For example, in a 4-player game the 1st player takes a stack to end their turn in the round.  Next, the 2nd player rolls and places the last small yellow.  Then, the 3rd player rolls and places the last small thus signalling the last round.  The 4th player may then chose to roll and place or to take a stack
 
 ### Ending the game
 
