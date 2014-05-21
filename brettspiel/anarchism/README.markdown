@@ -14,12 +14,19 @@ Piece movement
 
 All of the pieces in *Anarchism* move in the same way that they move in Chess.  
 
+Pawn promotion
+==============
+
+Pawn promotion occurs just as in Chess, however a pawn can also promote to a King.  The implications of this change will become apparent later.
+
 Piece capture
 =============
 
 Capturing in *Anarchism* occurs exactly as in Chess, but the real fun begins once captures occur.
 
-### Succession and decline via capture
+
+Succession and decline via capture
+----------------------------------
 
 In *Anarchism*, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
 
@@ -35,7 +42,8 @@ The new knight would put immediate pressure on the black queen. Black might like
 
 This time the black pawn succeeded to knighthood.  However, white might decide to capture the new black knight resulting in the white bishop declining into knighthood.  Of course, the queen is once again in danger, but the remaining moves are left as an exercise to the reader.
 
-### Piece ranks
+Piece ranks
+-----------
 
 The rank of a piece is proportional to its value, therefore the follows piece rankings, from lowest to highest, are observed in *Anarchism*:
 
@@ -53,7 +61,7 @@ Coups
 
 *Anarchism* starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a monarchy in power take another piece then a coup will occur in the other player's ranks. A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece's rank.
 
-When a coup occurs then **any** of the remaining pieces of that rank can be checkmated in order to win.  Any of the pieces that have performed the coup are effectively the new king for the purpose of winning.  The old king becomes a regular piece and can be captured normally.  
+When a coup occurs then **any** of the remaining pieces of that rank can be checkmated in order to win.  The old king becomes a regular piece and can be captured normally.  
 
 The only time that a coup does not occur is when a piece in power takes the final piece of a given rank.
 
@@ -68,12 +76,12 @@ In the diagram above, should the black king take the attacking pawn then the fol
 
 ![coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/coup.png)
 
-Unfortunately for white, the coup leads to a catastrophe as the pawn on a2 is placed into check.  When a coup leads to a check then the player in danger has their move to attempt to get out of it.  If they are unable to remove the check then they lose.  In the case above white has no move that can release the check on the a2 pawn and is therefore checkmated.
+Unfortunately for white, the coup leads to a catastrophe as the pawn on a2 is placed into check.  When a coup leads to a check then the player in danger has one attempt to get out of it.  If they are unable to remove the check then they lose.  In the case above white has no move that can release the check on the a2 pawn and is therefore checkmated.
 
 Types of coups
 --------------
 
-The type of coup that occurs depends on the piece captured by an opponent piece in power.  The names of the types of coups are listed below:
+The type of coup that occurs depends on the piece captured by an opponent government in power.  The names of the types of coups are listed below:
 
  * King taken: Monarchy (also the starting government)
  * Queen taken: Matriarchy
@@ -87,10 +95,10 @@ It's fun to yell these names out when a coup occurs.
 Assassination
 ============
 
-If there is more than one piece of a given rank in power then all but one can be captured.  The final piece of a rank in power **must** be checkmated.
+If there is more than one piece active for the government in power then all but the last one can be captured, or assasinated.  However, the final piece of a government in power **must** be checkmated.
 
 Acknowledgments
 ===============
 
-The idea for coups came from a comment that my son said during one of our games about how I might have won if my king was just a regular piece.  The idea for succession and decline came from a [Twitter comment by Daniel Solis](https://twitter.com/DanielSolis/status/459756349745020928).
+The idea for coups came from a comment that my son said during one of our games about how I might have won if my king was just a regular piece.  The basic idea for succession and decline came from a [Twitter comment by Daniel Solis](https://twitter.com/DanielSolis/status/459756349745020928).
 
