@@ -1,18 +1,26 @@
-Anarchism is a Chess variant where individual pieces can move up in rank and whole government are toppled.
+*Anarchism* is a Chess variant where individual pieces can move up in rank and governments are toppled.
 
 Setup
 =====
 
-Anarchism is set up exactly like a regular game of Chess.
+*Anarchism* is set up exactly like a regular game of Chess, shown below:
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/setup.png)
 
-Additionally, all of the pieces in Anarchism move in the same way that they move in Chess.  The real fun begins once captures occur.
+Piece movement
+==============
+
+All of the pieces in *Anarchism* move in the same way that they move in Chess.  
+
+Piece capture
+=============
+
+Capturing in *Anarchism* occurs exactly as in Chess, but the real fun begins once captures occur.
 
 Succession and decline via capture
 ==================================
 
-In Anarchism, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
+In *Anarchism*, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
 
 ![to-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/to-capture.png)
 
@@ -26,12 +34,12 @@ The new knight would put immediate pressure on the black queen. Black might like
 
 This time the black pawn succeeded to knighthood.  However, white might decide to capture the new black knight resulting in the white bishop declining into knighthood.  Of course, the queen is once again in danger, but the remaining moves are left as an exercise to the reader.
 
-All further capturing in Anarchism happens in this way, except for when the kings capture, which instead cause a coup to occur.
+All further capturing in *Anarchism* happens in this way, except for when the kings capture, which instead cause a coup to occur.
 
 Coups
 =====
 
-Anarchism starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a king ever take another piece then a coup will occur in the other player's ranks. A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece.  When a coup occurs then **any** of the remaining pieces of that rank can be checkmated in order to win.  Any of the pieces that have performed the coup are effectively the new king for the purpose of winning.  The old king becomes a regular piece and can be captured normally.  
+*Anarchism* starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a king ever take another piece then a coup will occur in the other player's ranks. A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece.  When a coup occurs then **any** of the remaining pieces of that rank can be checkmated in order to win.  Any of the pieces that have performed the coup are effectively the new king for the purpose of winning.  The old king becomes a regular piece and can be captured normally.  
 
 The only time that a coup does not occur is when a piece in power takes the final piece of a given rank.
 
