@@ -8,7 +8,7 @@ Setup and deal
 Gameplay
 ========
 
-A game of *Schism* consists of some number of rounds, each round consisting of 2 hands of 5 tricks each.  The first hand is known as the "stand" and the second the "fall."  A trick is led by the player to the left of the dealer and proceeds clockwise around the table, each player placing a card.  The led card determines the trump suit for the hand.  The player who lays the highest card in the trick or the highest trump card wins the trick.
+A game of *Schism* consists of some number of rounds, each round consisting of 2 hands of 5 tricks each.  The first hand is known as the "stand" and the second the "fall."  A trick is led by the player to the left of the dealer and proceeds clockwise around the table, each player placing a card.  The top card of the undealt stock determines the trump suit for the hand.  The player who lays the highest card in the trick or the highest trump card wins the trick.  Whoever won the last trick leads the next trick.
 
 The Stand
 ---------
