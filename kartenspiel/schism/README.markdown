@@ -1,0 +1,1 @@
+*Schism* is a trick-taking traditional card game with trumps for 2-6 players.  The game is played with a standard 52-card deck.  One player is chosen as the dealer to start and deals _ cards to each player in clockwise order.
