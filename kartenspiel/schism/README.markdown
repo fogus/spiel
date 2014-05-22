@@ -20,10 +20,10 @@ The Fall
 
 Once the "stand" hand is complete the cards not taken as the reward for the winners are discarded and cards from the stock are dealt back to the players in clockwise order.  Only enough cards are given to each player to fill their hand back up to 5 cards.  Again, the top card of the undealt stock is used to determine the trump suit.  
 
-The goal of the "fall" is to win the least tricks.  Tricks proceed as normal for this round starting again with the player to the left of the dealer.  All of the players who did not win the trick can reach into the common pile accumulated in the "stand" and take one chip back into their reserve.
+The goal of the "fall" is to win the least tricks.  Tricks proceed as normal for this round starting again with the player to the left of the dealer.  All of the players who did not win the trick can reach into the common pile accumulated in the "stand" and take one chip and place it into their "vault."  Chips from the vault can never be used to pay a debt, but they will come into play when tallying the final score.
 
 Winning the game
 ----------------
 
-The player who has nearest to 20 chips when the game ends wins.  In the event of a tie, the player who is closest to 20 with a total higher than 20 wins. If there is still a tie then the tied players play some number of additional rounds until the tie is broken.
+The player who has nearest to 20 chips (vault plus reserve) when the game ends wins.  In the event of a tie, the player who is closest to 20 with a total higher than 20 wins. If there is still a tie then the tied players play some number of additional rounds until the tie is broken.
 
