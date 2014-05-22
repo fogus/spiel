@@ -18,7 +18,9 @@ The first hand in a round is called the "stand" and the goal is to win the most 
 The Fall
 --------
 
-Once the "stand" hand is complete the cards remaining in the trick (i.e. not taken as the reward for the winners) are reshuffled and dealt back to the players in clockwise order.  Only enough cards are given to each player to fill their hand back up to 5 cards.  The goal of the "fall" is to win the least tricks.  Tricks proceed as normal for this round.  All of the players who did not win the trick can reach into the common pile accumulated in the "stand" and take one chip back into their reserve.
+Once the "stand" hand is complete the cards not taken as the reward for the winners are discarded and cards from the stock are dealt back to the players in clockwise order.  Only enough cards are given to each player to fill their hand back up to 5 cards.  Again, the top card of the undealt stock is used to determine the trump suit.  
+
+The goal of the "fall" is to win the least tricks.  Tricks proceed as normal for this round starting again with the player to the left of the dealer.  All of the players who did not win the trick can reach into the common pile accumulated in the "stand" and take one chip back into their reserve.
 
 Winning the game
 ----------------
