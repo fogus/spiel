@@ -3,7 +3,7 @@
 Setup and deal
 ==============
 
-*Schism* is played with a standard 52-card deck. Each player is given 20 chips to start. One player is chosen as the dealer to start and deals 5 cards to each player in clockwise order.
+*Schism* is played with a standard 52-card deck. Each player is given 20 chips to start (for a shorter game, use only 10 each). One player is chosen as the dealer to start and deals 5 cards to each player in clockwise order.
 
 Gameplay
 ========
