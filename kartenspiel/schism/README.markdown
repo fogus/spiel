@@ -25,5 +25,7 @@ The goal of the "fall" is to win the least tricks.  Tricks proceed as normal for
 Winning the game
 ----------------
 
+*note: the scoring is a work-in-progress*
+
 The player who has nearest to 20 chips (vault plus reserve) when the game ends wins.  In the event of a tie, the player who is closest to 20 with a total higher than 20 wins. If there is still a tie then the tied players play some number of additional rounds until the tie is broken.
 
