@@ -18,12 +18,14 @@ Ozymandias
 > Of that colossal wreck, boundless and bare,
 > The lone and level sands stretch far away". 
 
+*Ozymandias* has much in common with Rummy games.
+
 Setup of Ozymandias
 ===================
 
-*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set.
+*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
-To set up the dice pyramid for play simply pour dice randomly onto the Spiel base
+To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.
 
 The rules of play are as follows.
 
