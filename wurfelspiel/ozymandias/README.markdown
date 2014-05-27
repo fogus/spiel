@@ -37,7 +37,7 @@ TODO
 Scoring in Ozymandias
 =====================
 
-Set category                    | point value
+Set category                    | Point value
 ---------------------------------------------
 Run                             |  2 * colors
 Three of a kind                 |  3 * colors
@@ -45,8 +45,16 @@ Additive set (e.g. 4=1+3)       | (4 + count) * colors
 Multiplicative set (e.g. 3=1*3) | (5 + count) * colors
                                 |
 Single die                      | -5
+Double dice                     | -10
 
-The scoring can be layered.  That is, certain combinations fall into more than category.  The table below shows the 
+The scoring can be layered.  That is, certain combinations fall into more than category.  The table below shows scoring on a few interesting sets:
+
+Set                        | Categories                 | Score
+---------------------------------------------------------------
+⚀     ⚁     ⚂              | Run, all green             | 2
+
+
+
 
 Credits
 =======
