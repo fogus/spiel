@@ -21,7 +21,9 @@ Ozymandias
 Setup of Ozymandias
 ===================
 
-TODO
+*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set.
+
+To set up the dice pyramid for play simply pour dice randomly onto the Spiel base
 
 The rules of play are as follows.
 
