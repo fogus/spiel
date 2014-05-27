@@ -32,8 +32,10 @@ The rules of play are as follows.
 Turns in Ozymandias
 ===================
 
-TODO
-
+ * Lines
+ * Squares on edge
+ * Through the middle takes
+ 
 Scoring in Ozymandias
 =====================
 
@@ -41,8 +43,9 @@ Set category                    | Point value
 ---------------------------------------------
 Run                             |  2 * colors
 Three of a kind                 |  3 * colors
-Additive set (e.g. 4=1+3)       | (4 + count) * colors
-Multiplicative set (e.g. 3=1*3) | (5 + count) * colors
+Four of a kind                  |  4 * colors
+Additive set (e.g. 4=1+3)       | (5 + count) * colors
+Multiplicative set (e.g. 3=1*3) | (6 + count) * colors
                                 |
 Single die                      | -5
 Double dice                     | -10
