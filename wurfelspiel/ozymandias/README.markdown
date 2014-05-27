@@ -50,11 +50,12 @@ Multiplicative set (e.g. 3=1*3) | (6 + count) * colors
 Single die                      | -5
 Double dice                     | -10
 
-The scoring can be layered.  That is, certain combinations fall into more than category.  The table below shows scoring on a few interesting sets:
+The scoring can be layered.  That is, certain combinations fall into more than category, but the color multiplier is applied only once.  The table below shows scoring on a few interesting sets:
 
 Set                        | Categories                 | Score
 ---------------------------------------------------------------
-⚀     ⚁     ⚂              | Run, all green             | 2
+⚁  ⚂  ⚃                    | Run, all green             | 2
+⚁  ⚂  ⚃                    | Run, red/green             | 
 
 
 
