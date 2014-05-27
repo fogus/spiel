@@ -14,6 +14,7 @@
 
  * [Anarchism]()
  * [Malice]()
+ * [Tonari]()
 
 ## Pyramid games
 
