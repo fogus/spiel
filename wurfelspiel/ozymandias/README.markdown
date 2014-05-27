@@ -37,7 +37,14 @@ TODO
 Scoring in Ozymandias
 =====================
 
-TODO
+Set type                        | point value
+---------------------------------------------
+Run                             | 1
+Three of a kind                 | 2
+Additive set (e.g. 4=1+3)       | 3 + count
+Multiplicative set (e.g. 3=1*3) | 4 + count
+
+
 
 Credits
 =======
