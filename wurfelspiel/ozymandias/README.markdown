@@ -42,6 +42,8 @@ Turns in Ozymandias
 Scoring in Ozymandias
 =====================
 
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-takes.png)
+
  Set category                    | Point value
  :-------------------------------|:----------:
  Run                             |  2 * colors
