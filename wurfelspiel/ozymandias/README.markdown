@@ -27,6 +27,8 @@ Setup of Ozymandias
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.
 
+![pyramid]()
+
 The rules of play are as follows.
 
 Turns in Ozymandias
