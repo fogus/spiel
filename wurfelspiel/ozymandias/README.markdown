@@ -38,11 +38,16 @@ Turns in Ozymandias
  * Squares on edge
  * Through the middle takes
  * Wild die, take, then put back -- can't move unless you take
- 
-Scoring in Ozymandias
-=====================
 
 ![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-takes.png)
+
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-layers.png)
+
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-layered-takes.png)
+
+
+Scoring in Ozymandias
+=====================
 
  Set category                    | Point value
  :-------------------------------|:----------:
