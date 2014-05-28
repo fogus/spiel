@@ -25,9 +25,9 @@ Setup of Ozymandias
 
 *Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
-To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.
+To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
-![pyramid]()
+![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-pyramid.png)
 
 The rules of play are as follows.
 
