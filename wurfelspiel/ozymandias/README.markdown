@@ -1,29 +1,14 @@
-Ozymandias
+Protong
 ----------
 
-*Ozymandias* is a dice game of pyramidal deconstruction for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) game system.
+*Protong* is a dice game of pyramidal deconstruction for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) game system.
 
-> I met a traveller from an antique land
-> Who said: "Two vast and trunkless legs of stone
-> Stand in the desert. Near them on the sand,
-> Half sunk, a shattered visage lies, whose frown
-> And wrinkled lip and sneer of cold command
-> Tell that its sculptor well those passions read
-> Which yet survive, stamped on these lifeless things,
-> The hand that mocked them and the heart that fed.
-> And on the pedestal these words appear:
-> 'My name is Ozymandias, King of Kings:
-> Look on my works, ye mighty, and despair!'
-> Nothing beside remains. Round the decay
-> Of that colossal wreck, boundless and bare,
-> The lone and level sands stretch far away". 
+*Protong* has much in common with Rummy games.
 
-*Ozymandias* has much in common with Rummy games.
-
-Setup of Ozymandias
+Setup of Protong
 ===================
 
-*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
+*Protong* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
@@ -31,7 +16,7 @@ To set up the dice pyramid for play simply pour dice randomly onto the Spiel bas
 
 The rules of play are as follows.
 
-Turns in Ozymandias
+Turns in Protong
 ===================
 
  * Lines
@@ -46,7 +31,7 @@ Turns in Ozymandias
 ![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-layered-takes.png)
 
 
-Scoring in Ozymandias
+Scoring in Protong
 =====================
 
  Set category                    | Point value
