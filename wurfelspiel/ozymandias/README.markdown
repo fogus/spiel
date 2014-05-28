@@ -55,7 +55,7 @@ The scoring can be layered.  That is, certain combinations fall into more than c
 Set                        | Categories                 | Score
 ---------------------------------------------------------------
 ⚁  ⚂  ⚃                    | Run, all green             | 2
-⚁  ⚂  ⚃                    | Run, red/green             | 
+⚁  ⚂  ⚃                    | Run, red/green             | 6
 
 
 
