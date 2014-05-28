@@ -52,16 +52,20 @@ Scoring in Ozymandias
 
 The scoring can be layered.  That is, certain combinations fall into more than category, but the color multiplier is applied only once.  The table below shows scoring on a few interesting sets:
 
-Set                        | Categories                 | Score
----------------------------------------------------------------
-⚁  ⚂  ⚃                    | Run, all green             | 2
-⚁  ⚂  ⚃                    | Run, red/green             | 6
+ Set                        | Categories                         | Score
+ :--------------------------|:-----------------------------------|:----:
+ ⚁  ⚂  ⚃                    | Run, all green                     | 2
+ ⚁  ⚂  ⚃                    | Run, red/green                     | 6
+ ⚁  ⚁  ⚁                    | Three of a kind, all green         | 3
+ ⚁  ⚁  ⚁  ⚁                 | Four of a kind, r/g/b/black        | 16
+ ⚀  ⚁  ⚂  ⚅                 | Multiplicative, additive, r/g/b    | 57
+ ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚅        | Additive, all green                | 13
+ ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚅        | Additive, r/g/b/black              | 52
 
-
-
+As you can see, some combinations, especially those spanning multiple categories are worth a lot of points.
 
 Credits
 =======
 
- * [Reinhold Wittig](http://www.perlhuhn.de/) is the he designer of Das Spiel.
+ * [Reinhold Wittig](http://www.perlhuhn.de/) is the designer of Das Spiel.
  
