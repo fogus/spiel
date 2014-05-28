@@ -35,6 +35,7 @@ Turns in Ozymandias
  * Lines
  * Squares on edge
  * Through the middle takes
+ * Wild die, take, then put back -- can't move unless you take
  
 Scoring in Ozymandias
 =====================
@@ -61,6 +62,7 @@ The scoring can be layered.  That is, certain combinations fall into more than c
  ⚀  ⚁  ⚂  ⚅                 | Multiplicative, additive, r/g/b    | 57
  ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚅        | Additive, all green                | 13
  ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚅        | Additive, r/g/b/black              | 52
+ ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚅  ⚅  | Multiplicative, r/g/b/black        | 60
 
 As you can see, some combinations, especially those spanning multiple categories are worth a lot of points.
 
