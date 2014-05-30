@@ -19,18 +19,25 @@ The game consists of alternating turns where each player will take some number o
 Turns in Protong
 ===================
 
-On each turn in *Protong* a player may take a group of dice from the pyramid according to certain priciples.  The only commonality amongst any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  That said, the principles for taking are described below.
+On each turn in *Protong* a player may take a group of dice from the pyramid according to certain priciples.  The only commonality amongst any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
+
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-takes.png)
+
+More details of the principles for taking are described next.
 
 Lines
 -----
 
-A player can take 
+A player can take a group of dice in a single-file line either all along an edge or starting at an edge and cutting inward.
 
- * Squares on edge
+Squares
+-------
+
+
  * Through the middle takes
  * Wild die, take, then put back -- can't move unless you take
 
-![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-takes.png)
+
 
 ![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layers.png)
 
