@@ -19,6 +19,8 @@ The rules of play are as follows.
 Turns in Protong
 ===================
 
+On each turn in *Protong* a player may take a group of dice from the pyramid according to certain priciples.  The only commonality amongst any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  That said, the principles for taking are described below.
+
  * Lines
  * Squares on edge
  * Through the middle takes
