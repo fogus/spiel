@@ -25,14 +25,20 @@ On each turn in *Protong* a player may take a group of dice from the pyramid acc
 
 More details of the principles for taking are described next.
 
-Lines
------
+Line takes
+-----------
 
 A player can take a group of dice in a single-file line either all along an edge or starting at an edge and cutting inward.
 
-Squares
--------
+Square takes
+------------
 
+Squares of any size can be taken as long as part of the square comprises an edge segment.  You'll rarely see squares larger than four taken, but it's legal to take a square of any size.
+
+3D takes
+--------
+
+During the course of play inner dice and dice on other faces will be exposed.  You can take these exposed dice if they create either a line or square when viewed straight on.  An exmaple of a 3D take is shown below:
 
  * Through the middle takes
  * Wild die, take, then put back -- can't move unless you take
