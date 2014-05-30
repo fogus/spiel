@@ -48,8 +48,11 @@ You can take these exposed dice if they create either a line or square when view
 
 3D takes are a powerful technique for manipulating multiple pyramid faces at once.
 
+Wild takes
+----------
 
- * Wild die, take, then put back -- can't move unless you take
+The gold die serves as a wild color die.  The number shown on the gold die must be a legal number for a take, but once taken it can be scored as any color.  Additionally, when you take the gold die you must place it back into the pyramid replacing a die of the same number and color as what the wild die is scored as.
+
 
 
 
