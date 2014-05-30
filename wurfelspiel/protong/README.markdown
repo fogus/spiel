@@ -14,7 +14,7 @@ To set up the dice pyramid for play simply pour dice randomly onto the Spiel bas
 
 ![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-pyramid.png)
 
-The game consists of alternating turns where each player will take some number of dice from the pyramid and place them exactly as taken into their vault for end of game scoring.  The description of turns, taking, and scoring rules follow.
+The game consists of alternating turns where each player will take some number of dice from the pyramid and place them exactly as taken into their vault for end of game scoring.  The description of turns, taking, and scoring rules follow next.
 
 Turns in Protong
 ===================
