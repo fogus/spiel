@@ -14,14 +14,18 @@ To set up the dice pyramid for play simply pour dice randomly onto the Spiel bas
 
 ![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-pyramid.png)
 
-The rules of play are as follows.
+The game consists of alternating turns where each player will take some number of dice from the pyramid.  The description of turns, taking, and scoring rules follow.
 
 Turns in Protong
 ===================
 
 On each turn in *Protong* a player may take a group of dice from the pyramid according to certain priciples.  The only commonality amongst any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  That said, the principles for taking are described below.
 
- * Lines
+Lines
+-----
+
+A player can take 
+
  * Squares on edge
  * Through the middle takes
  * Wild die, take, then put back -- can't move unless you take
