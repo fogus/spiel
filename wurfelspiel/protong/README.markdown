@@ -38,16 +38,24 @@ Squares of any size can be taken as long as part of the square comprises an edge
 3D takes
 --------
 
-During the course of play inner dice and dice on other faces will be exposed.  You can take these exposed dice if they create either a line or square when viewed straight on.  An exmaple of a 3D take is shown below:
+During the course of play inner dice and dice on other faces will be exposed.  The image below shows the same pyramid as in the setup image above, except a group of 1, 2, and 3 pip dice have been removed.  The gold die has thus fallen lower in the pyramid:
 
- * Through the middle takes
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layers.png)
+
+You can take these exposed dice if they create either a line or square when viewed straight on.  An example of a 3D take in a line is shown below:
+
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layered-takes.png)
+
+3D takes are a powerful technique for manipulating multiple pyramid faces at once.
+
+
  * Wild die, take, then put back -- can't move unless you take
 
 
 
-![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layers.png)
 
-![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layered-takes.png)
+
+
 
 
 Scoring in Protong
