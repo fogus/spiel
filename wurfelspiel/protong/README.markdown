@@ -53,12 +53,15 @@ Wild takes
 
 The gold die serves as a wild color die.  The number shown on the gold die must be a legal number for a take, but once taken it can be scored as any color.  Additionally, when you take the gold die you must place it back into the pyramid replacing a die of the same number and color as what the wild die is scored as.
 
+Ending the game
+---------------
 
+The players will continue to take dice from the pyramid until one of the following conditions occur:
 
+ 1. Both players take negative points on successive turns
+ 2. All of the dice have been removed from the pyramid
 
-
-
-
+Once either of these conditions occur then socring commences.
 
 
 Scoring in Protong
