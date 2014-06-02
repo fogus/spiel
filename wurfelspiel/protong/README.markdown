@@ -1,14 +1,14 @@
-Protong
+Ozymandias
 -------
 
-*Protong* is a dice game of pyramidal deconstruction for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) game system.
+*Ozymandias* is a dice game of pyramidal deconstruction for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) game system.
 
-*Protong* has much in common with Rummy games.
+*Ozymandias* has much in common with Rummy games.
 
-Setup of Protong
+Setup of Ozymandias
 ===================
 
-*Protong* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
+*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
@@ -16,10 +16,10 @@ To set up the dice pyramid for play simply pour dice randomly onto the Spiel bas
 
 The game consists of alternating turns where each player will take some number of dice from the pyramid and place them exactly as taken into their vault for end of game scoring.  The description of turns, taking, and scoring rules follow next.
 
-Turns in Protong
+Turns in Ozymandias
 ===================
 
-On each turn in *Protong* a player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
+On each turn in *Ozymandias* a player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
 
 ![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-takes.png)
 
@@ -64,7 +64,7 @@ The players will continue to take dice from the pyramid until one of the followi
 Once either of these conditions occur then scoring commences.
 
 
-Scoring in Protong
+Scoring in Ozymandias
 =====================
 
  Set category                    | Point value
