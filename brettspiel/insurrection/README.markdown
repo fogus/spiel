@@ -5,7 +5,7 @@ Setup
 
 *Insurrection* is set up exactly like a regular game of Chess, shown below:
 
-![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/setup.png)
+![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/setup.png)
 
 Because of succession you might wish to have addional sets of pieces on hand.
 
@@ -30,15 +30,15 @@ Succession and decline via capture
 
 In *Insurrection*, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
 
-![to-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/to-capture.png)
+![to-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/to-capture.png)
 
 If the white pawn on d5 captures the knight on c6 then it will succeed to knighthood (i.e. it becomes a knight itself):
 
-![knight-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture.png)
+![knight-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/kcapture.png)
 
 The new knight would put immediate pressure on the black queen. Black might likewise capture the new knight:
 
-![knight-capture2](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/kcapture2.png)
+![knight-capture2](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/kcapture2.png)
 
 This time the black pawn succeeded to knighthood.  However, white might decide to capture the new black knight resulting in the white bishop declining into knighthood.  Of course, the queen is once again in danger, but the remaining moves are left as an exercise to the reader.
 
@@ -70,11 +70,11 @@ Checkmating the government in power
 
 Observe:
 
-![to-coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/to-coup.png)
+![to-coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/to-coup.png)
 
 In the diagram above, should the black king take the attacking pawn then the following board will result:
 
-![coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/coup.png)
+![coup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/coup.png)
 
 Unfortunately for white, the coup leads to a catastrophe as the pawn on a2 is placed into check.  When a coup leads to a check then the player in danger has one attempt to get out of it.  If they are unable to remove the check then they lose.  In the case above white has no move that can release the check on the a2 pawn and is therefore checkmated.
 
