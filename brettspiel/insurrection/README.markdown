@@ -1,9 +1,9 @@
-*Anarchism* is a Chess variant where individual pieces can move up in rank and governments are toppled.
+*Insurrection* is a Chess variant where individual pieces can move up in rank and governments are toppled.
 
 Setup
 =====
 
-*Anarchism* is set up exactly like a regular game of Chess, shown below:
+*Insurrection* is set up exactly like a regular game of Chess, shown below:
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/setup.png)
 
@@ -12,7 +12,7 @@ Because of succession you might wish to have addional sets of pieces on hand.
 Piece movement
 ==============
 
-All of the pieces in *Anarchism* move in the same way that they move in Chess.  
+All of the pieces in *Insurrection* move in the same way that they move in Chess.  
 
 Pawn promotion
 ==============
@@ -22,13 +22,13 @@ Pawn promotion occurs just as in Chess, however a pawn can also promote to a Kin
 Piece capture
 =============
 
-Capturing in *Anarchism* occurs exactly as in Chess, but the real fun begins once captures occur.
+Capturing in *Insurrection* occurs exactly as in Chess, but the real fun begins once captures occur.
 
 
 Succession and decline via capture
 ----------------------------------
 
-In *Anarchism*, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
+In *Insurrection*, any time that a piece captures another piece the capturing piece immediately becomes the same rank as the captured piece.  For example, observe the following scenario:
 
 ![to-capture](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/anarchism/graphics/to-capture.png)
 
@@ -45,7 +45,7 @@ This time the black pawn succeeded to knighthood.  However, white might decide t
 Piece ranks
 -----------
 
-The rank of a piece is proportional to its value, therefore the follows piece rankings, from lowest to highest, are observed in *Anarchism*:
+The rank of a piece is proportional to its value, therefore the follows piece rankings, from lowest to highest, are observed in *Insurrection*:
 
  1. Pawn
  2. Knight
@@ -54,12 +54,12 @@ The rank of a piece is proportional to its value, therefore the follows piece ra
  5. Queen
  6. King
  
-A capture that causes a piece's rank to increase is a succession while one that causes its rank to decrease is a decline.  All of the pieces can succeed or decline throughout the course of a game, even the king. Indeed, while the king starts the game as the piece for which a checkmate is aimed, checkmate in *Anarchism* is really aimed at any or all of the ranks currently in power.  The act of forcing one rank into power over another is called a *coup*.
+A capture that causes a piece's rank to increase is a succession while one that causes its rank to decrease is a decline.  All of the pieces can succeed or decline throughout the course of a game, even the king. Indeed, while the king starts the game as the piece for which a checkmate is aimed, checkmate in *Insurrection* is really aimed at any or all of the ranks currently in power.  The act of forcing one rank into power over another is called a *coup*.
 
 Coups
 =====
 
-*Anarchism* starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a monarchy in power take another piece then a coup will occur in the other player's ranks. A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece's rank.
+*Insurrection* starts with a monarchy in place.  That is, to win the game, a player must checkmate the other player's king -- just like in Chess.  However, should a monarchy in power take another piece then a coup will occur in the other player's ranks. A coup describes a change in the government on the board to that representative of the captured (i.e. martyred) piece's rank.
 
 When a coup occurs then **any** of the remaining pieces of that rank can be checkmated in order to win.  The old king becomes a regular piece and can be captured normally.  
 
