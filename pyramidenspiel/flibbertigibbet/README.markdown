@@ -41,7 +41,7 @@ Movement points can be spent to move a single pyramid multiple times or multiple
    but it is frozen for the rest of that turn
  * A pile of pyramids can move 
 
-Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can 
+Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may roll the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of roll occurs, but it must happen the same way for both players for the entire game.
 
 Acknowledgments
 ===============
