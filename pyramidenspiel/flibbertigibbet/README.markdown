@@ -41,9 +41,6 @@ Movement points can be spent to move a single pyramid multiple times or multiple
 
 Once movement points are spent, no more pyramids can be moved during that player's turn.
 
-* Controlled roll of dice
-* One person rolls toward and the other away
-
 Acknowledgments
 ===============
 
