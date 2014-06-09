@@ -5,6 +5,8 @@ Setup of Flibbertigibbet
 
 TODO 
 
+![die-faces](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/pyramid-die-faces.png)
+
 The goal of Flibbertigibbet
 ===========================
 
