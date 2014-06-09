@@ -17,6 +17,8 @@ There are two ways to win:
  1. You get a symmetric arrangement of pyramids in your home row
  2. Your opponent's row contains all of the pyramids, in any arrangement
 
+In either case, the arrangement of pieces must arise as the result of using all of your allocated movement points, described next.
+
 Turns
 =====
 
