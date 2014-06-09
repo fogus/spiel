@@ -1,4 +1,4 @@
-*Flibbertigibbet* is a 
+*Flibbertigibbet* is a small abstract strategy game with 
 
 Setup of Flibbertigibbet
 ========================
@@ -15,7 +15,12 @@ Turns in Flibbertigibbet
 
 TODO
 
+* Controlled roll of dice
+* One person rolls toward and the other away
+
 Acknowledgments
 ===============
 
 TODO
+
+
