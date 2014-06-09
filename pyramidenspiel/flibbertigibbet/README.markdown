@@ -1,4 +1,4 @@
-*Flibbertigibbet* is a simple abstract game of pyramid movement that is determined by a 6-sided die, but not in the way you might think.
+*Flibbertigibbet* is a simple abstract game of perfect information involving pyramid movement determined by a 6-sided die, but not in the way you might think.
 
 Setup
 =====
@@ -28,7 +28,7 @@ On each turn the player to move is allocated a certain number of movement points
  2. Medium pyramid
  3. Large pyramid
 
-
+Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  Once movement points are spent, no more pyramids can be moved during that player's turn.
 
 * Controlled roll of dice
 * One person rolls toward and the other away
