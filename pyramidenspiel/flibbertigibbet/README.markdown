@@ -14,8 +14,10 @@ Goal
 
 There are two ways to win:
 
- 1. You get a symmetric arrangement of pyramids in your home row
- 2. Your opponent's row contains all of the pyramids, in any arrangement
+ 1. You get a symmetric arrangement of pyramids in your home 
+    row, where each cell has at least one pyramid occupying it
+ 2. Your opponent's row contains all of the pyramids, in any
+    arrangement and in any or all cells
 
 In either case, the arrangement of pieces must arise as the result of using all of your allocated movement points, described next.
 
@@ -28,7 +30,16 @@ On each turn the player to move is allocated a certain number of movement points
  2. Medium pyramid
  3. Large pyramid
 
-Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  Once movement points are spent, no more pyramids can be moved during that player's turn.
+Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  There are constraints about how pyramids may be moved however:
+
+ * No pyramid can land, even in passing, on a smaller pyramid
+ * Landing on an empty square during movement freezes a pyramid 
+   from moving anymore during that turn
+ * A pyramid resting on an empty square can be move out of it, 
+   but it is frozen for the rest of that turn
+ * A pile of pyramids can move 
+
+Once movement points are spent, no more pyramids can be moved during that player's turn.
 
 * Controlled roll of dice
 * One person rolls toward and the other away
