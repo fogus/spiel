@@ -22,7 +22,13 @@ In either case, the arrangement of pieces must arise as the result of using all 
 Turns
 =====
 
-TODO
+On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die.  The first player of the game will always get 1-point of movement. Movement points are spent by moving pyramids, each costing the following to move 1-square orthogonally from where they sit:
+
+ 1. Small pyramid
+ 2. Medium pyramid
+ 3. Large pyramid
+
+
 
 * Controlled roll of dice
 * One person rolls toward and the other away
