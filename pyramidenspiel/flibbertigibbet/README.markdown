@@ -24,7 +24,9 @@ In either case, the arrangement of pieces must arise as the result of using all 
 Turns
 =====
 
-On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die.  The first player of the game will always get 1-point of movement. Movement points are spent by moving pyramids, each costing the following to move 1-square orthogonally from where they sit:
+On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die.  The first player of the game will always get 1-point of movement. Movement points are spent by moving pyramids and all points must be spent on each turn.
+
+Pyramids cost the following to move 1-square orthogonally from where they sit:
 
  1. Small pyramid
  2. Medium pyramid
@@ -39,7 +41,7 @@ Movement points can be spent to move a single pyramid multiple times or multiple
    but it is frozen for the rest of that turn
  * A pile of pyramids can move 
 
-Once movement points are spent, no more pyramids can be moved during that player's turn.
+Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can 
 
 Acknowledgments
 ===============
