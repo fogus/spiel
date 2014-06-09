@@ -7,7 +7,9 @@ Setup
 
 ![die-faces](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/pyramid-die-faces.png)
 
-To play you'll need a 3x4 board, a pyramid die, and 9 pyramids of any color, 3 each of small medium and large sizes.
+To play you'll need a 3x4 board, a pyramid die, and 9 pyramids of any color, 3 each of small medium and large sizes.  You should setup the board in the following configuration:
+
+![todo](https://raw.githubusercontent.com/fogus/spiel/master/graphics/original/todo.jpg)
 
 Goal
 ====
