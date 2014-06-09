@@ -11,6 +11,8 @@ To play you'll need a 3x4 board, a pyramid die, and 9 pyramids of any color, 3 e
 
 ![todo](https://raw.githubusercontent.com/fogus/spiel/master/graphics/original/todo.jpg)
 
+Now, place the pyramid die between the two players with the single pyramid containing a single dot facing up.  Once setup, the game can begin.
+
 Goal
 ====
 
