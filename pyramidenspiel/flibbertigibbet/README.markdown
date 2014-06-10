@@ -80,6 +80,4 @@ Instead of using 9 pyramids of the same color you can use 9 pyramids of three di
 Acknowledgments
 ===============
 
-
-
-
+*Flibbertigibbet* is inspired by the fun game [Pink Hijinks]() created by [Looney Labs]().  The controlled die rolling mechanism is inspired by both [Bushi Shogi]() and [Pew Pew, Die]().
