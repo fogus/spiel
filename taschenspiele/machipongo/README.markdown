@@ -22,7 +22,11 @@ Once either of these conditions occur, the game ends.
 Turns
 =====
 
-On each turn the player to move is allowed to move one or more coins into another cell of the grid.
+On each turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal.
+
+## Moving coins
+
+
 
 
 Variations
