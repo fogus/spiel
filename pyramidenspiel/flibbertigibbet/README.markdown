@@ -28,7 +28,7 @@ On each turn the player to move is allocated a certain number of movement points
 
 ## Movement costs
 
-Pyramids cost the following to move 1-square orthogonally from where they sit:
+Pyramids cost the following to move 1-square orthogonal from where they sit:
 
  1. Small pyramid
  2. Medium pyramid
