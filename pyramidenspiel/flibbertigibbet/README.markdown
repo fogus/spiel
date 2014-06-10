@@ -63,7 +63,7 @@ There are tweaks to the base rules that you can use to change the way that *Flib
 
 ## Pyramid die variation
 
-Instead of using a d6 to allocate movement points, you can use a pyramid die as packaged in the games [IceDice]() or [Pink Hijinks]().
+Instead of using a d6 to allocate movement points, you can use a pyramid die as packaged in the games [IceDice](http://www.looneylabs.com/games/icedice) or [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks).
 
 ![pyramid-die](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/pyramid-die-faces.png)
 
@@ -80,4 +80,4 @@ Instead of using 9 pyramids of the same color you can use 9 pyramids of three di
 Acknowledgments
 ===============
 
-*Flibbertigibbet* is inspired by the fun game [Pink Hijinks]() created by [Looney Labs]().  The controlled die rolling mechanism is inspired by both [Bushi Shogi]() and [Pew Pew, Die]().
+*Flibbertigibbet* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
