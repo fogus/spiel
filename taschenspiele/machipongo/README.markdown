@@ -22,8 +22,7 @@ Once either of these conditions occur, the game ends.
 Turns
 =====
 
-
-
+On the first turn of the game the first player can move any of the coins on the table according to the movement rules that follow. The second player, before moving, can choose to either move as below, or switch sides with the first player. This is known as the pie rule.
 
 On each subsequent turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal. The coins that are allowed to be moved are only those whose faces are the majority. In other words, if the large coin shows heads, medium tails, and small large then only the large and small coins can be moved.
 
