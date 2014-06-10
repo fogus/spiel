@@ -67,7 +67,15 @@ Instead of using a d6 to allocate movement points, you can use a pyramid die as 
 
 ![pyramid-die](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/pyramid-die-faces.png)
 
-Instead of allocating raw points used for movement, the pyramid die used will indicate a choice of the kinds of pyramids that may be moved.  
+Instead of allocating raw points used for movement, the pyramid die used will indicate a choice of the kinds of pyramids that may be moved.  The controlled rolling mechanism is used just as in the regular rules, but on each turn there will be, on average, less options for moving using the pyramid die.
+
+## Averaging die variation
+
+Instead of using a regular die to allocate movement points, you can use an "average die" instead. An average die is one with the numbered faces allocated as 2, 3, 3, 4, 4, and 5.  This of course will prevent subsequent turns from swinging wildly in terms of high and low movement points.
+
+## Three-colored variation
+
+Instead of using 9 pyramids of the same color you can use 9 pyramids of three different colors where each color has one small, one medium, and one large pyramid.
 
 Acknowledgments
 ===============
