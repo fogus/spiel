@@ -9,7 +9,7 @@ To play you'll need a 3x4 board, a 6-sided die, and 9 pyramids of any color, 3 e
 
 One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players with the 1 facing up.  Once setup, the game can begin.
 
-Goal
+`Goal
 ====
 
 There are two ways to win:
@@ -55,6 +55,19 @@ There are constraints about how pyramids may be moved however:
  * A pile of pyramids can move 
 
 Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may roll the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of roll occurs, but it must happen the same way for both players for the entire game.
+
+Variations
+==========
+
+There are tweaks to the base rules that you can use to change the way that *Flibbertigibbet* plays.
+
+## Pyramid die variation
+
+Instead of using a d6 to allocate movement points, you can use a pyramid die as packaged in the games [IceDice]() or [Pink Hijinks]().
+
+
+
+Instead of allocating raw points used for movement, the pyramid die used will indicate a choice of the kinds of pyramids that may be moved.  
 
 Acknowledgments
 ===============
