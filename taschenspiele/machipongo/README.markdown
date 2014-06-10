@@ -3,9 +3,9 @@
 Setup
 =====
 
-The game requires 9 coins of differing sizes: 3 small, 3 medium, and 3 large. I've found that 3 quarters (USD), 3 nickels, and 3 pennies work well.  The game is played on any flat surface in a virtual or hand-drawn 3x3 grid.  The back of a napkin works well for this.
+The game requires 12 coins of differing sizes: 4 small, 4 medium, and 4 large. I've found that quarters (USD), nickels, and pennies work well.  The game is played on any flat surface in a virtual or hand-drawn 3x3 grid.  The back of a napkin works well for this.
 
-The virtual grid is situated between the players and the row nearest to each player is their "home row."
+The virtual grid is situated between the players and the row nearest to each player is their "home row."  Additionally, three piles of 3 coins stacked from bottom to top, largest to smallest, in the three center cells of the grid.  The remaining three coins are placed between the players with either heads or tails all facing up.
 
 Goal
 ====
@@ -17,12 +17,13 @@ The goal of *Machipongo* is to achieve one of the following wining conditions:
  2. Your opponent's row contains all of the coins, in any
     arrangement and in any or all cells
 
-
+Once either of these conditions occur, the game ends.
 
 Turns
 =====
 
-TODO
+On each turn the player to move is allowed to move one or more coins into another cell of the grid.
+
 
 Variations
 ==========
