@@ -65,7 +65,7 @@ There are tweaks to the base rules that you can use to change the way that *Flib
 
 Instead of using a d6 to allocate movement points, you can use a pyramid die as packaged in the games [IceDice]() or [Pink Hijinks]().
 
-
+![pyramid-die](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/pyramid-die-faces.png)
 
 Instead of allocating raw points used for movement, the pyramid die used will indicate a choice of the kinds of pyramids that may be moved.  
 
