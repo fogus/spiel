@@ -1,4 +1,4 @@
-*Flibbertigibbet* is a simple abstract game of perfect information involving pyramid movement determined by a 6-sided die, but not in the way you might think.
+*Pungo* is a simple abstract game of perfect information involving pyramid movement determined by a 6-sided die, but not in the way you might think.
 
 Setup
 =====
@@ -59,7 +59,7 @@ Once movement points are spent, no more pyramids can be moved during that player
 Variations
 ==========
 
-There are tweaks to the base rules that you can use to change the way that *Flibbertigibbet* plays.
+There are tweaks to the base rules that you can use to change the way that *Pungo* plays.
 
 ## Pyramid die variation
 
@@ -80,4 +80,4 @@ Instead of using 9 pyramids of the same color you can use 9 pyramids of three di
 Acknowledgments
 ===============
 
-*Flibbertigibbet* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
+*Pungo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipungo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
