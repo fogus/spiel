@@ -20,9 +20,7 @@ Once either of these conditions occur, the game ends.
 Turns
 =====
 
-On the first turn of the game the first player can move any of the coins on the table according to the movement rules that follow. The second player, before moving, can choose to either move as below, or switch sides with the first player. This is known as the *pie rule*.
-
-On each subsequent turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal.
+To start each turn the player picks up the three coins, mixes them in hand, and slams the coins down onto the table. The majority faces showing still determine which coins can move. The player to move is allowed to move one or more coins into another cell of the grid, only orthogonal.
 
 ## Moving coins
 
@@ -52,7 +50,7 @@ There are tweaks to the base rules that you can use to change the way that *Coin
 
 ## Chaos Machipongo
 
-Instead of allowing the opposing player to choose which coins to flip, the choice on each turn can be randomized.  That is, before a player moves she picks up the three movement coins, mixes them in hand, and slams the coins down onto the table.  The majority faces showing still determine which coins can move.
+Instead of allowing the opposing player to choose which coins to flip, the choice on each turn can be randomized.  That is, before a player moves she 
 
 Acknowledgments
 ===============
