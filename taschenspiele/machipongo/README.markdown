@@ -59,4 +59,4 @@ Instead of allowing the opposing player to choose which coins to flip, the choic
 Acknowledgments
 ===============
 
-*Machipongo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant on that game called [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks).
+*Machipongo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant on that game called [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks).  The shake and slam chaos method is inspired by [Coin Age](http://boardgamegeek.com/boardgame/146130/coin-age).
