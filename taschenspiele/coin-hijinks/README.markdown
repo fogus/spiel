@@ -38,15 +38,6 @@ There are constraints about how coins may be moved however:
 
 The other player then takes their turn.
 
-Variations
-==========
-
-There are tweaks to the base rules that you can use to change the way that *Coin Hijinks* plays.
-
-## Chaos Machipongo
-
-Instead of allowing the opposing player to choose which coins to flip, the choice on each turn can be randomized.  That is, before a player moves she 
-
 Acknowledgments
 ===============
 
