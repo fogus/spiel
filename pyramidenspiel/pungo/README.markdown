@@ -62,6 +62,10 @@ Variations
 
 There are tweaks to the base rules that you can use to change the way that *Pungo* plays.
 
+## Chaos Pungo
+
+Instead of allowing the opposing player to choose which way to flip to movement die, the choice on each turn can be randomized.  That is, before a player moves she rolls the movement die.  The value on the die still determines which coins can move.
+
 ## Pyramid die variation
 
 Instead of using a d6 to allocate movement points, you can use a pyramid die as packaged in the games [IceDice](http://www.looneylabs.com/games/icedice) or [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks).
