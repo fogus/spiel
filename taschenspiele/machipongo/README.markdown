@@ -50,7 +50,11 @@ Once a move occurs the player completes her turn by flipping any two of the thre
 Variations
 ==========
 
-TODO
+There are tweaks to the base rules that you can use to change the way that *Machipongo* plays.
+
+## Chaos Machipongo
+
+Instead of allowing the opposing player to choose which coins to flip, the choice on each turn can be randomized.  That is, before a player moves she picks up the three movement coins, mixes them in hand, and slams the coins down onto the table.  The majority faces showing still determine which coins can move.
 
 Acknowledgments
 ===============
