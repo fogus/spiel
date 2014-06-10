@@ -9,7 +9,7 @@ To play you'll need a 3x4 board, a 6-sided die, and 9 pyramids of any color, 3 e
 
 One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players with the 1 facing up.  Once setup, the game can begin.
 
-`Goal
+Goal
 ====
 
 There are two ways to win:
