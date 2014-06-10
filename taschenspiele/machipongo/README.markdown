@@ -22,7 +22,10 @@ Once either of these conditions occur, the game ends.
 Turns
 =====
 
-On each turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal. 
+
+
+
+On each subsequent turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal. The coins that are allowed to be moved are only those whose faces are the majority. In other words, if the large coin shows heads, medium tails, and small large then only the large and small coins can be moved.
 
 ## Moving coins
 
