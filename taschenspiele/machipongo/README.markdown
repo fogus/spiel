@@ -45,7 +45,7 @@ There are constraints about how coins may be moved however:
  * A pile of coins can move if a moveable coin has other coins
    resting on top of it
 
-
+Once a move occurs
 
 Variations
 ==========
