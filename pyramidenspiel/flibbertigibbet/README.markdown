@@ -75,11 +75,11 @@ Instead of using a regular die to allocate movement points, you can use an "aver
 
 ## Three-colored variation
 
-Instead of using 9 pyramids of the same color you can use 9 pyramids of three different colors where each color has one small, one medium, and one large pyramid.
+Instead of using 9 pyramids of the same color you can use 9 pyramids of three different colors where each color has one small, one medium, and one large pyramid.  All of the rules of the basic game still hold except that symmetrical conditions must take into account color in addition to sizes.
 
 Acknowledgments
 ===============
 
-TODO
+
 
 
