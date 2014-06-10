@@ -15,7 +15,7 @@ The goal of *Machipongo* is to achieve one of the following wining conditions:
  1. You get a symmetric arrangement of coins in your home 
     row, where each cell has at least one coin occupying it
  2. Your opponent's row contains all of the coins, in any
-    arrangement and in any or all cells
+    legal arrangement and in any or all cells
 
 Once either of these conditions occur, the game ends.
 

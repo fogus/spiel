@@ -17,7 +17,7 @@ There are two ways to win:
  1. You get a symmetric arrangement of pyramids in your home 
     row, where each cell has at least one pyramid occupying it
  2. Your opponent's row contains all of the pyramids, in any
-    arrangement and in any or all cells
+    legal arrangement and in any or all cells
 
 In either case, the arrangement of pieces must arise as the result of using all of your allocated movement points, described next.
 
