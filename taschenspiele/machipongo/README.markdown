@@ -1,4 +1,4 @@
-*Machipongo* is a simple abstract game of chance meant to be played with pocket change.
+*Machipongo* is a simple abstract game of perfect information meant to be played with pocket change.
 
 Setup
 =====
@@ -12,10 +12,11 @@ Goal
 
 The goal of *Machipongo* is to achieve one of the following wining conditions:
 
- 1. You get a symmetric arrangement of pyramids in your home 
-    row, where each cell has at least one pyramid occupying it
- 2. Your opponent's row contains all of the pyramids, in any
+ 1. You get a symmetric arrangement of coins in your home 
+    row, where each cell has at least one coin occupying it
+ 2. Your opponent's row contains all of the coins, in any
     arrangement and in any or all cells
+
 
 
 Turns
