@@ -1,16 +1,16 @@
-*Machipongo* is a simple abstract game of perfect information meant to be played with pocket change.
+*Coin Hijinks* is a simple abstract game of chance meant to be played with pocket change.
 
 Setup
 =====
 
 The game requires 12 coins of differing sizes: 4 small, 4 medium, and 4 large. I've found that quarters (USD), nickels, and pennies work well.  The game is played on any flat surface in a virtual or hand-drawn 3x3 grid.  The back of a napkin works well for this.
 
-The virtual grid is situated between the players and the row nearest to each player is their "home row."  Additionally, three piles of 3 coins stacked from bottom to top, largest to smallest, in the three center cells of the grid.  The remaining three coins are placed between the players with either heads or tails all facing up.
+The virtual grid is situated between the players and the row nearest to each player is their "home row."
 
 Goal
 ====
 
-The goal of *Machipongo* is to achieve one of the following wining conditions:
+The goal of *Coin Hijinks* is to achieve one of the following wining conditions:
 
  1. You get a symmetric arrangement of coins in your home 
     row, where each cell has at least one coin occupying it
@@ -50,7 +50,7 @@ Once a move occurs the player completes her turn by flipping any two of the thre
 Variations
 ==========
 
-There are tweaks to the base rules that you can use to change the way that *Machipongo* plays.
+There are tweaks to the base rules that you can use to change the way that *Coin Hijinks* plays.
 
 ## Chaos Machipongo
 
@@ -59,4 +59,4 @@ Instead of allowing the opposing player to choose which coins to flip, the choic
 Acknowledgments
 ===============
 
-*Machipongo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant on that game called [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks).  The shake and slam chaos method is inspired by [Coin Age](http://boardgamegeek.com/boardgame/146130/coin-age).
+*Coin Hijinks* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant on that game called [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks).  The shake and slam chaos method is inspired by [Coin Age](http://boardgamegeek.com/boardgame/146130/coin-age).
