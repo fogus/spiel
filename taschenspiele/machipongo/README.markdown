@@ -42,7 +42,8 @@ There are constraints about how coins may be moved however:
    from moving anymore during that turn
  * A coin resting on an empty square can be move out of it, 
    but it is frozen for the rest of that turn
- * A pile of coins can move 
+ * A pile of coins can move if a moveable coin has other coins
+   resting on top of it
 
 
 
