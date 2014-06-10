@@ -24,10 +24,25 @@ Turns
 
 On the first turn of the game the first player can move any of the coins on the table according to the movement rules that follow. The second player, before moving, can choose to either move as below, or switch sides with the first player. This is known as the *pie rule*.
 
-On each subsequent turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal. The coins that are allowed to be moved are only those whose faces are the majority. In other words, if the large coin shows heads, medium tails, and small large then only the large and small coins can be moved.
+On each subsequent turn the player to move is allowed to move one or more coins into another cell of the grid, only orthogonal.
 
 ## Moving coins
 
+The coins that are allowed to be moved are only those whose faces are the majority. In other words, if the large coin shows heads, medium tails, and small large then only the large and small coins can be moved.
+
+## Movement constraints
+
+There are constraints about how coins may be moved however:
+
+ * While you can move coins into your opponent's home row, 
+   you may never move coins out of there
+ * You can however move coins within an opponent's home row
+ * No coin can land, even in passing, on a smaller coin
+ * Landing on an empty square during movement freezes a coin 
+   from moving anymore during that turn
+ * A coin resting on an empty square can be move out of it, 
+   but it is frozen for the rest of that turn
+ * A pile of coins can move 
 
 
 
