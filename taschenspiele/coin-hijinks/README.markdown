@@ -33,11 +33,6 @@ There are constraints about how coins may be moved however:
  * While you can move coins into your opponent's home row, 
    you may never move coins out of there
  * You can however move coins within an opponent's home row
- * No coin can land, even in passing, on a smaller coin
- * Landing on an empty square during movement freezes a coin 
-   from moving anymore during that turn
- * A coin resting on an empty square can be move out of it, 
-   but it is frozen for the rest of that turn
  * A pile of coins can move if a movable coin has other coins
    resting on top of it
 
