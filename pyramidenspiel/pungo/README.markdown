@@ -5,7 +5,7 @@ Setup
 
 To play you'll need a 3x4 board, a 6-sided die, and 9 pyramids of any color, 3 each of small medium and large sizes.  You should setup the board in the following configuration:
 
-![todo](https://raw.githubusercontent.com/fogus/spiel/master/graphics/original/todo.jpg)
+![todo](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/pungo-setup.png)
 
 One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players with the 1 facing up.  Once setup, the game can begin.
 
