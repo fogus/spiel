@@ -1,7 +1,19 @@
 Fibonacci Deck
 ==============
 
-A deck of cards with a Fibonacci distribution of ranks and hierarchical suits.
+A deck of cards with a Fibonacci distribution of ranks and six hierarchical suits.
+
+Suits
+-----
+
+Highest to lowest
+
+ * circles
+ * vesicas
+ * triangles
+ * squares
+ * pentagons
+ * hexagons
 
 Games
 -----
