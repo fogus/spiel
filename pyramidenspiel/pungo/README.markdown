@@ -83,9 +83,9 @@ Instead of using a d6 to allocate movement points, you can use a pyramid die as 
 
 Instead of allocating raw points used for movement, the pyramid die used will indicate a choice of the kinds of pyramids that may be moved.  The controlled rolling mechanism is used just as in the regular rules, but on each turn there will be, on average, less options for moving using the pyramid die.
 
-## Averaging die variation
+## Regular die variation
 
-Instead of using a regular die to allocate movement points, you can use an "average die" instead. An average die is one with the numbered faces allocated as 2, 3, 3, 4, 4, and 5.  This of course will prevent subsequent turns from swinging wildly in terms of high and low movement points.
+Instead of using the table above to allocate movement points, you can use the regular d6 die values instead.  This of course will at times make subsequent swing wildly in terms of high and low movement points, but it tends to be a faster game.
 
 ## Three-colored variation
 
