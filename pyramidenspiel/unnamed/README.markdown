@@ -51,7 +51,7 @@ There are constraints about how pyramids may be moved however:
  * You can however move pyramids within an opponent's home row
  * No pyramid can land, even in passing, on a smaller pyramid
 
-# The controlled roll
+## The controlled roll
 
 When a player can no longer move she may twist the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of twist occurs, but it must happen the same way for both players for the entire game.
 
@@ -64,21 +64,9 @@ There are tweaks to the base rules that you can use to change the way that *<unn
 
 Instead of allowing the opposing player to choose which way to flip to movement die, the choice on each turn can be randomized.  That is, before a player moves she rolls the movement die.  The value on the die still determines which pyramid can move.
 
-## Pyramid die variation
+## Opponent chooses your color
 
-Instead of using a d6 to allocate movement points, you can use a pyramid die as packaged in the games [IceDice](http://www.looneylabs.com/games/icedice) or [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks).
-
-![pyramid-die](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/pyramid-die-faces.png)
-
-Instead of allocating raw points used for movement, the pyramid die used will indicate a choice of the kinds of pyramids that may be moved.  The controlled rolling mechanism is used just as in the regular rules, but on each turn there will be, on average, less options for moving using the pyramid die.
-
-## Regular die variation
-
-Instead of using the table above to allocate movement points, you can use the regular d6 die values instead.  This of course will at times make subsequent swing wildly in terms of high and low movement points, but it tends to be a faster game.
-
-## Three-colored variation
-
-Instead of using 9 pyramids of the same color you can use 9 pyramids of three different colors where each color has one small, one medium, and one large pyramid.  All of the rules of the basic game still hold except that symmetrical conditions must take into account color in addition to sizes.
+TODO
 
 Acknowledgments
 ===============
