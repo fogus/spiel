@@ -1,4 +1,4 @@
-*Pungo* is a simple abstract game of perfect information involving pyramid movement determined by a 6-sided die, but not in the way you might think.
+*<unnamed>* is a simple abstract game of perfect information involving pyramid movement determined by a 6-sided die, but not in the way you might think.
 
 Setup
 =====
@@ -69,9 +69,9 @@ Once movement points are spent, no more pyramids can be moved during that player
 Variations
 ==========
 
-There are tweaks to the base rules that you can use to change the way that *Pungo* plays.
+There are tweaks to the base rules that you can use to change the way that *<unnamed>* plays.
 
-## Chaos Pungo
+## Chaos <unnamed>
 
 Instead of allowing the opposing player to choose which way to flip to movement die, the choice on each turn can be randomized.  That is, before a player moves she rolls the movement die.  The value on the die still determines which pyramid can move.
 
@@ -94,4 +94,4 @@ Instead of using 9 pyramids of the same color you can use 9 pyramids of three di
 Acknowledgments
 ===============
 
-*Pungo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
+*<unnamed>* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
