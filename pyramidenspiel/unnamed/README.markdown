@@ -14,19 +14,21 @@ One player is assigned a row of three cells to be their "home row" while the oth
 Goal
 ====
 
-There are two ways to win:
+There are three ways to win:
 
- 1. You get a symmetric arrangement of pyramids in your home 
+ 1. You get a symmetrically sized arrangement of pyramids in your home 
     row, where each cell has at least one pyramid occupying it
- 2. Your opponent's row contains all of the pyramids, in any
-    legal arrangement and in any or all cells
+ 2. You get a symmetrically colored arrangement of pyramids in your
+    home row, where each cell has at least one pyramid occupying it
+ 2. Your opponent's home row contains at least one pyramid of each
+    color or size, in any legal arrangement and in any or all cells
 
-In either case, the arrangement of pieces must arise as the result of using all of your allocated movement points, described next.
+TODO
 
 Turns
 =====
 
-On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die. The first player of the game will always get 1-point of movement. 
+TODO
 
 ## Movement costs
 
