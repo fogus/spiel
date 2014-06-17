@@ -1,11 +1,11 @@
-*<unnamed>* is a simple abstract game of perfect information involving pyramid movement determined by a 6-sided die, but not in the way you might think.
+*<unnamed>* is a simple abstract game of perfect information involving pyramid stacking and movement determined by *controlled movement* of a special 6-sided die.
 
 Setup
 =====
 
-To play you'll need a 3x4 board, a normal 6-sided die or an averaging die, and 9 pyramids of any color, 3 each of small medium and large sizes.  You should setup the board in the following configuration:
+To play you'll need a 5x5 board, an IceDice color die, and a Treehouse set.  You should setup the board in the following configuration:
 
-![todo](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/pungo-setup.png)
+![todo](https://raw.githubusercontent.com/fogus/spiel/master/graphics/todo.jpg)
 
 One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players with the 1 facing up.  Once setup, the game can begin.
 
