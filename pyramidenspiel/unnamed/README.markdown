@@ -30,28 +30,17 @@ Turns
 
 TODO
 
-## Movement costs
+## Movement
 
-Pyramids cost the following to move 1-square orthogonal from where they sit:
-
- 1. Small pyramid
- 2. Medium pyramid
- 3. Large pyramid
-
-Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  The points available are indicated by the face showing on the top of the die.  If you have an averaging die then the points are allocated as shown.  However, if you only have a regular die then allocate the points as follows:
-
- Face | Points 
- :---: | :---:
-  1 | 3
-  2 | 2
-  3 | 3
-  4 | 4
-  5 | 5
-  6 | 4
-
-## Passing and remaining movement points
-
-Players cannot pass and must move as indicated by the value of the die and all points must be spent on each turn.
+ * Based on color shown
+ * Moves number of spaces ortho equal to its pips
+ * If no legal moves remain then you can use the remaining moves 
+   on another pyramid
+ * If you can move, you must move, except in home row where you
+   must move sideways but can choose to reserve moves if you can
+   only move forward
+ * A pile of pyramids or a segment can move, as long as the color 
+   at the base of the moving pile matches the color on the die
 
 ## Movement constraints
 
@@ -61,12 +50,6 @@ There are constraints about how pyramids may be moved however:
    you may never move pyramids out of there
  * You can however move pyramids within an opponent's home row
  * No pyramid can land, even in passing, on a smaller pyramid
- * Landing on an empty square during movement freezes a pyramid 
-   from moving anymore during that turn
- * A pyramid resting on an empty square can be move out of it, 
-   but it is frozen for the rest of that turn
- * A pile of pyramids can move, as long as the movement points
-   can accomodate the total points in the pile
 
 Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may twist the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of twist occurs, but it must happen the same way for both players for the entire game.
 
