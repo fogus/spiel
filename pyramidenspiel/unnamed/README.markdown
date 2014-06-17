@@ -3,7 +3,9 @@
 Setup
 =====
 
-To play you'll need a 5x5 board, an IceDice color die, and a Treehouse set.  You should setup the board in the following configuration:
+To play you'll need a hand-drawn 5x5 board or [Volcano board](), an [IceDice]() color die, and a [Treehouse]() set.  In addition you should draw a 3x3 grid on a piece of paper, or just use an existing [Martian Coaster]() of any color.  
+
+You should setup the board in the following configuration:
 
 ![todo](https://raw.githubusercontent.com/fogus/spiel/master/graphics/todo.jpg)
 
