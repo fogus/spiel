@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="5x5-grid.svg">
+   sodipodi:docname="pungo-setup.svg">
   <metadata
      id="metadata110">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,178 +48,178 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <rect
-     x="0"
-     y="0"
+     x="27.881355"
+     y="58.728813"
      width="223.64407"
      height="168.47458"
      id="rect4"
      style="fill:#e8e8e8" />
   <rect
-     x="5"
-     y="5"
+     x="32.881355"
+     y="63.728813"
      width="50"
      height="50"
-     fill="black"
-     id="rect6" />
+     id="rect6"
+     style="fill:#000000" />
   <rect
-     x="6"
-     y="6"
+     x="33.881355"
+     y="64.728813"
      width="48"
      height="48"
-     fill="white"
-     id="rect8" />
+     id="rect8"
+     style="fill:#ffffff" />
   <rect
-     x="60"
-     y="5"
+     x="87.881355"
+     y="63.728813"
      width="50"
      height="50"
-     fill="black"
-     id="rect10" />
+     id="rect10"
+     style="fill:#000000" />
   <rect
-     x="61"
-     y="6"
+     x="88.881355"
+     y="64.728813"
      width="48"
      height="48"
-     fill="white"
-     id="rect12" />
+     id="rect12"
+     style="fill:#ffffff" />
   <rect
-     x="115"
-     y="5"
+     x="142.88136"
+     y="63.728813"
      width="50"
      height="50"
-     fill="black"
-     id="rect14" />
+     id="rect14"
+     style="fill:#000000" />
   <rect
-     x="116"
-     y="6"
+     x="143.88136"
+     y="64.728813"
      width="48"
      height="48"
-     fill="white"
-     id="rect16" />
+     id="rect16"
+     style="fill:#ffffff" />
   <rect
-     x="170"
-     y="5"
+     x="197.88136"
+     y="63.728813"
      width="50"
      height="50"
-     fill="black"
-     id="rect18" />
+     id="rect18"
+     style="fill:#000000" />
   <rect
-     x="171"
-     y="6"
+     x="198.88136"
+     y="64.728813"
      width="48"
      height="48"
-     fill="white"
-     id="rect20" />
+     id="rect20"
+     style="fill:#ffffff" />
   <rect
-     x="5"
-     y="60"
+     x="32.881355"
+     y="118.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect26" />
+     id="rect26"
+     style="fill:#000000" />
   <rect
-     x="6"
-     y="61"
+     x="33.881355"
+     y="119.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect28" />
+     id="rect28"
+     style="fill:#ffffff" />
   <rect
-     x="60"
-     y="60"
+     x="87.881355"
+     y="118.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect30" />
+     id="rect30"
+     style="fill:#000000" />
   <rect
-     x="61"
-     y="61"
+     x="88.881355"
+     y="119.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect32" />
+     id="rect32"
+     style="fill:#ffffff" />
   <rect
-     x="115"
-     y="60"
+     x="142.88136"
+     y="118.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect34" />
+     id="rect34"
+     style="fill:#000000" />
   <rect
-     x="116"
-     y="61"
+     x="143.88136"
+     y="119.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect36" />
+     id="rect36"
+     style="fill:#ffffff" />
   <rect
-     x="170"
-     y="60"
+     x="197.88136"
+     y="118.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect38" />
+     id="rect38"
+     style="fill:#000000" />
   <rect
-     x="171"
-     y="61"
+     x="198.88136"
+     y="119.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect40" />
+     id="rect40"
+     style="fill:#ffffff" />
   <rect
-     x="5"
-     y="115"
+     x="32.881355"
+     y="173.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect46" />
+     id="rect46"
+     style="fill:#000000" />
   <rect
-     x="6"
-     y="116"
+     x="33.881355"
+     y="174.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect48" />
+     id="rect48"
+     style="fill:#ffffff" />
   <rect
-     x="60"
-     y="115"
+     x="87.881355"
+     y="173.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect50" />
+     id="rect50"
+     style="fill:#000000" />
   <rect
-     x="61"
-     y="116"
+     x="88.881355"
+     y="174.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect52" />
+     id="rect52"
+     style="fill:#ffffff" />
   <rect
-     x="115"
-     y="115"
+     x="142.88136"
+     y="173.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect54" />
+     id="rect54"
+     style="fill:#000000" />
   <rect
-     x="116"
-     y="116"
+     x="143.88136"
+     y="174.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect56" />
+     id="rect56"
+     style="fill:#ffffff" />
   <rect
-     x="170"
-     y="115"
+     x="197.88136"
+     y="173.72881"
      width="50"
      height="50"
-     fill="black"
-     id="rect58" />
+     id="rect58"
+     style="fill:#000000" />
   <rect
-     x="171"
-     y="116"
+     x="198.88136"
+     y="174.72881"
      width="48"
      height="48"
-     fill="white"
-     id="rect60" />
+     id="rect60"
+     style="fill:#ffffff" />
 </svg>
