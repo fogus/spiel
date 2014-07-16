@@ -3,7 +3,9 @@
 Setup
 =====
 
-To play you'll need a 3x4 board, a normal 6-sided die or an averaging die, and 9 pyramids of any color, 3 each of small medium and large sizes.  You should setup the board in the following configuration:
+To play you'll need a 3x4 board, a normal 6-sided, and 9 pyramids of any color, 3 each of small medium and large sizes.  The 3x4 board should be placed between the players 
+
+You should setup the board in the following configuration:
 
 ![todo](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/pungo-setup.png)
 
