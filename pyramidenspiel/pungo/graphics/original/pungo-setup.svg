@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="280"
-   height="280"
+   width="372.04724"
+   height="262.20471"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -41,185 +41,215 @@
      id="namedview106"
      showgrid="false"
      inkscape:zoom="1.6857143"
-     inkscape:cx="140"
-     inkscape:cy="140"
+     inkscape:cx="116.27119"
+     inkscape:cy="92.542373"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <rect
-     x="27.881355"
-     y="58.728813"
+     x="10.677965"
+     y="48.64542"
      width="223.64407"
      height="168.47458"
      id="rect4"
      style="fill:#e8e8e8" />
   <rect
-     x="32.881355"
-     y="63.728813"
+     x="15.677965"
+     y="53.64542"
      width="50"
      height="50"
      id="rect6"
      style="fill:#000000" />
   <rect
-     x="33.881355"
-     y="64.728813"
+     x="16.677965"
+     y="54.64542"
      width="48"
      height="48"
      id="rect8"
      style="fill:#ffffff" />
   <rect
-     x="87.881355"
-     y="63.728813"
+     x="70.677963"
+     y="53.64542"
      width="50"
      height="50"
      id="rect10"
      style="fill:#000000" />
   <rect
-     x="88.881355"
-     y="64.728813"
+     x="71.677963"
+     y="54.64542"
      width="48"
      height="48"
      id="rect12"
      style="fill:#ffffff" />
   <rect
-     x="142.88136"
-     y="63.728813"
+     x="125.67797"
+     y="53.64542"
      width="50"
      height="50"
      id="rect14"
      style="fill:#000000" />
   <rect
-     x="143.88136"
-     y="64.728813"
+     x="126.67797"
+     y="54.64542"
      width="48"
      height="48"
      id="rect16"
      style="fill:#ffffff" />
   <rect
-     x="197.88136"
-     y="63.728813"
+     x="180.67798"
+     y="53.64542"
      width="50"
      height="50"
      id="rect18"
      style="fill:#000000" />
   <rect
-     x="198.88136"
-     y="64.728813"
+     x="181.67798"
+     y="54.64542"
      width="48"
      height="48"
      id="rect20"
      style="fill:#ffffff" />
   <rect
-     x="32.881355"
-     y="118.72881"
+     x="15.677965"
+     y="108.64542"
      width="50"
      height="50"
      id="rect26"
      style="fill:#000000" />
   <rect
-     x="33.881355"
-     y="119.72881"
+     x="16.677965"
+     y="109.64542"
      width="48"
      height="48"
      id="rect28"
      style="fill:#ffffff" />
   <rect
-     x="87.881355"
-     y="118.72881"
+     x="70.677963"
+     y="108.64542"
      width="50"
      height="50"
      id="rect30"
      style="fill:#000000" />
   <rect
-     x="88.881355"
-     y="119.72881"
+     x="71.677963"
+     y="109.64542"
      width="48"
      height="48"
      id="rect32"
      style="fill:#ffffff" />
   <rect
-     x="142.88136"
-     y="118.72881"
+     x="125.67797"
+     y="108.64542"
      width="50"
      height="50"
      id="rect34"
      style="fill:#000000" />
   <rect
-     x="143.88136"
-     y="119.72881"
+     x="126.67797"
+     y="109.64542"
      width="48"
      height="48"
      id="rect36"
      style="fill:#ffffff" />
   <rect
-     x="197.88136"
-     y="118.72881"
+     x="180.67798"
+     y="108.64542"
      width="50"
      height="50"
      id="rect38"
      style="fill:#000000" />
   <rect
-     x="198.88136"
-     y="119.72881"
+     x="181.67798"
+     y="109.64542"
      width="48"
      height="48"
      id="rect40"
      style="fill:#ffffff" />
   <rect
-     x="32.881355"
-     y="173.72881"
+     x="15.677965"
+     y="163.64519"
      width="50"
      height="50"
      id="rect46"
      style="fill:#000000" />
   <rect
-     x="33.881355"
-     y="174.72881"
+     x="16.677965"
+     y="164.64519"
      width="48"
      height="48"
      id="rect48"
      style="fill:#ffffff" />
   <rect
-     x="87.881355"
-     y="173.72881"
+     x="70.677963"
+     y="163.64519"
      width="50"
      height="50"
      id="rect50"
      style="fill:#000000" />
   <rect
-     x="88.881355"
-     y="174.72881"
+     x="71.677963"
+     y="164.64519"
      width="48"
      height="48"
      id="rect52"
      style="fill:#ffffff" />
   <rect
-     x="142.88136"
-     y="173.72881"
+     x="125.67797"
+     y="163.64519"
      width="50"
      height="50"
      id="rect54"
      style="fill:#000000" />
   <rect
-     x="143.88136"
-     y="174.72881"
+     x="126.67797"
+     y="164.64519"
      width="48"
      height="48"
      id="rect56"
      style="fill:#ffffff" />
   <rect
-     x="197.88136"
-     y="173.72881"
+     x="180.67798"
+     y="163.64519"
      width="50"
      height="50"
      id="rect58"
      style="fill:#000000" />
   <rect
-     x="198.88136"
-     y="174.72881"
+     x="181.67798"
+     y="164.64519"
      width="48"
      height="48"
      id="rect60"
      style="fill:#ffffff" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="242.03391"
+     y="74.15387"
+     id="text3982"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3984"
+       x="242.03391"
+       y="74.15387">Player 1's</tspan><tspan
+       sodipodi:role="line"
+       x="242.03391"
+       y="94.15387"
+       id="tspan3986">home row</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3988"
+     y="182.7132"
+     x="242.03391"
+     style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="182.7132"
+       x="242.03391"
+       id="tspan3990"
+       sodipodi:role="line">Player 2's</tspan><tspan
+       id="tspan3992"
+       y="202.7132"
+       x="242.03391"
+       sodipodi:role="line">home row</tspan></text>
 </svg>
