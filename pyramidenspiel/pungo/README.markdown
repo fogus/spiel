@@ -69,7 +69,11 @@ There are constraints about how pyramids may be moved however:
  * A pile of pyramids can move, as long as the movement points
    can accomodate the total points in the pile
 
-Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may twist the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of twist occurs, but it must happen the same way for both players for the entire game.
+Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may then make a *controlled roll* of the die before the start of the next player's turn.
+
+## The controlled roll
+
+twist the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of twist occurs, but it must happen the same way for both players for the entire game.
 
 Variations
 ==========
