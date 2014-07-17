@@ -9,7 +9,11 @@ You should setup the board in the following configuration:
 
 ![todo](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/pungo-setup.png)
 
-One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players with the 1 facing up.  Once setup, the game can begin.
+The details of the setup are according to the center cells, from left to right:
+
+ 1. A large pyramid on top of a medium on top of a small
+
+One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end.  Once setup, the game can begin.
 
 Goal
 ====
