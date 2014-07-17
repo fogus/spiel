@@ -134,7 +134,8 @@ Design notes
 
 In the process of playing around with [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks) I happened upon an "opponent's choice" method of manually flipping a coin.  This approach completely eliminated the luck factor inherent in Coin Hijinks, but still managed to maintain the feel of the original.  That is, it was the same game, but now it had another tactical layer that did not previously exist —  flip management.  My idea for the *controlled flip* were used to create a game very similar to Coin Hijinks called [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks), named after a town in Virginia Beach, Machipongo.
 
-The design of Machipungo naturally got me thinking about Looney Pyramids again and my quest to eliminate the luck from Pink Hijinks.  Therefore, I took the lessons from Machipungo and applied them to a pyramids design called simply, Pungo.  The *controlled roll* mechanic is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and my design inspired by it called [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).  While Pungo is inspired by Pink Hijinks and Bushi Shogi, I'm certain that you'll find a very diffent game indeed.
+The design of Machipungo naturally got me thinking about Looney Pyramids again and my quest to eliminate the luck from Pink Hijinks.  Therefore, I took the lessons from Machipungo and applied them to a pyramids design called simply, Pungo.  The *controlled roll* mechanic is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and my design inspired by it called [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie). 
+I have some other ideas for utilizing the *controlled roll*, but Pungo is the first.  While Pungo is inspired by Pink Hijinks and Bushi Shogi, I'm certain that you'll find a very diffent game indeed.
 
 Enjoy.
 
