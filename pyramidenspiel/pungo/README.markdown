@@ -12,6 +12,9 @@ You should setup the board in the following configuration:
 The details of the setup are according to the center cells, from left to right:
 
  1. A large pyramid on top of a medium on top of a small
+ 2. A large pyramid on top of a medium
+ 3. A small pyramid on top of a large
+ 4. A medium pyramid on top of a small
 
 One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end.  Once setup, the game can begin.
 
