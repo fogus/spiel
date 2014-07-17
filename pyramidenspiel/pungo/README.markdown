@@ -37,9 +37,9 @@ Turns
 
 On each turn a player takes two actions:
 
- 1. Make a controlled roll of the die
- 2. Move some number of pieces some number of squares orthogonally
+ 1. Move some number of pieces some number of squares orthogonally
     in the game arena
+ 2. Make a controlled roll of the die
 
 On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die. The first player of the game will always get 1-point of movement.
 
