@@ -41,7 +41,7 @@ On each turn a player takes two actions:
 
  1. Make a controlled roll of the die
  2. Move some number of pieces some number of squares orthogonally
-    in the game arena
+    connected squares in the game arena
 
 On each turn the player to move is allocated a certain number of movement points as shown on the top of the die. The first player of the game will always get 1-point of movement.
 
@@ -73,7 +73,7 @@ There are constraints about how pyramids may be moved however:
  * A pyramid resting on an empty square can be move to any orthogonal
    square, but it is frozen for the rest of that turn
  * A pile of pyramids can move, as long as the movement points
-   can accomodate the total points in the pile
+   can accommodate the total points in the pile
 
 Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may then make a *controlled roll* of the die before the start of the next player's turn.
 
@@ -130,12 +130,12 @@ Instead of using 9 pyramids of the same color you can use 9 pyramids of three di
 Design notes
 ============
 
-*Pungo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks). While I like Pink Hijinks very much, I've been confronted by my opponents with accusations that it's too luck driven.  I do not necessarily agree with this position, but it did get me thinking about how to take the luck out of Pink Hijinks while preserving its simplicity and quick gameplay.
+*Pungo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks). While I like Pink Hijinks very much, I've been confronted by my opponents with accusations that it's too luck driven.  I do not necessarily agree with this position, but it did get me thinking about how to take the luck out of Pink Hijinks while preserving its simplicity and quick game-play.
 
 In the process of playing around with [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks) I happened upon an "opponent's choice" method of manually flipping a coin.  This approach completely eliminated the luck factor inherent in Coin Hijinks, but still managed to maintain the feel of the original.  That is, it was the same game, but now it had another tactical layer that did not previously exist —  flip management.  My idea for the *controlled flip* were used to create a game very similar to Coin Hijinks called [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks), named after a town in Virginia Beach, Machipongo.
 
 The design of Machipungo naturally got me thinking about Looney Pyramids again and my quest to eliminate the luck from Pink Hijinks.  Therefore, I took the lessons from Machipungo and applied them to a pyramids design called simply, Pungo.  The *controlled roll* mechanic is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and my design inspired by it called [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie). 
-I have some other ideas for utilizing the *controlled roll*, but Pungo is the first.  While Pungo is inspired by Pink Hijinks and Bushi Shogi, I'm certain that you'll find a very diffent game indeed.
+I have some other ideas for utilizing the *controlled roll*, but Pungo is the first.  While Pungo is inspired by Pink Hijinks and Bushi Shogi, I'm certain that you'll find a very different game indeed.
 
 Enjoy.
 
