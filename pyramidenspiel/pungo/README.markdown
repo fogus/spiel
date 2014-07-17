@@ -65,13 +65,15 @@ Players cannot pass and must move as indicated by the value of the die and all p
 
 ### Movement constraints
 
-There are constraints about how pyramids may be moved however:
+There are rules regarding how pyramids may be moved:
 
  * No pyramid can land, even in passing, on a smaller pyramid
  * Landing on an empty square during movement freezes a pyramid 
    from moving anymore during that turn
  * A pyramid resting on an empty square can be move to any orthogonal
-   square, but it is frozen for the rest of that turn
+   square or pyramid, but it is frozen for the rest of that turn
+ * An unfrozen pyramid can move across the top of any number of
+   pyramids according to the available movement points
  * A pile of pyramids can move, as long as the movement points
    can accommodate the total points in the pile
 
