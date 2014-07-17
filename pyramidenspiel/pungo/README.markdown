@@ -97,6 +97,16 @@ If you have an averaging die then the points are allocated as shown.  However, i
 
 This will help to keep point allocations more stable.
 
+## Decision Pungo
+
+Decision Pungo reverses the order of the actions on a player's turn, all other rules and constraints being the same.  That is, the new order is:
+
+ 1. Move some number of pieces some number of squares orthogonally
+    in the game arena
+ 2. Make a controlled roll of the die
+
+This means that on your turn you always determine the movement points for your opponent's turn.  This can lead to some difficult decisions.
+
 ## Chaos Pungo
 
 Instead of allowing the opposing player to choose which way to flip to movement die, the choice on each turn can be randomized.  That is, before a player moves she rolls the movement die.  The value on the die still determines which pyramid can move.
