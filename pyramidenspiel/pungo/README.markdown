@@ -27,8 +27,9 @@ Goal
 
 There are two ways to win:
 
- 1. You get a symmetric arrangement of pyramids in your home 
-    row, where each cell has at least one pyramid occupying it
+ 1. You get a symmetric arrangement of pyramids, according to size, in
+    your home row, where each cell has at least one pyramid 
+	occupying it
  2. Your opponent's row contains all of the pyramids, in any
     legal arrangement and in any or all cells
 
