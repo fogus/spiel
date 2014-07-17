@@ -51,7 +51,7 @@ A *controlled roll* is a way to utilize a die in such a way as to eliminate rand
 
 ![Setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/cr-grid-flips.png)
 
-The only constraint on movement is that a die cannot be flipped into a square where is came from previously.
+The only constraints on movement is that a die cannot exit the bounds of the grid nor be be flipped into a square where is came from previously.
 
 ## Pyramid movement
 
