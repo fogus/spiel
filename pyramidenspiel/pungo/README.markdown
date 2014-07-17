@@ -130,9 +130,11 @@ Instead of using 9 pyramids of the same color you can use 9 pyramids of three di
 Design notes
 ============
 
-TODO
+*Pungo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my variant [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks). While I like Pink Hijinks very much, I've been confronted by my opponents with accusations that it's too luck driven.  I do not necessarily agree with this position, but it did get me thinking about how to take the luck out of Pink Hijinks while preserving its simplicity and quick gameplay.
 
-Acknowledgments
-===============
+In the process of playing around with [Coin Hijinks](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks) I happened upon an "opponent's choice" method of manually flipping a coin.  This approach completely eliminated the luck factor inherent in Coin Hijinks, but still managed to maintain the feel of the original.  That is, it was the same game, but now it had another tactical layer that did not previously exist —  flip management.  My idea for the *controlled flip* were used to create a game very similar to Coin Hijinks named [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/coin-hijinks)
 
-*Pungo* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
+
+
+
+The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
