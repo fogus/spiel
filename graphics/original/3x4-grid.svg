@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="5x5-grid.svg">
+   sodipodi:docname="3x4-grid.svg">
   <metadata
      id="metadata110">
     <rdf:RDF>
@@ -53,173 +53,248 @@
      width="223.64407"
      height="168.47458"
      id="rect4"
-     style="fill:#e8e8e8" />
+     style="fill:#e8e8e8"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="5"
      y="5"
      width="50"
      height="50"
      fill="black"
-     id="rect6" />
+     id="rect6"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="6"
      y="6"
      width="48"
      height="48"
      fill="white"
-     id="rect8" />
+     id="rect8"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="60"
      y="5"
      width="50"
      height="50"
      fill="black"
-     id="rect10" />
+     id="rect10"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="61"
      y="6"
      width="48"
      height="48"
      fill="white"
-     id="rect12" />
+     id="rect12"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="115"
      y="5"
      width="50"
      height="50"
      fill="black"
-     id="rect14" />
+     id="rect14"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="116"
      y="6"
      width="48"
      height="48"
      fill="white"
-     id="rect16" />
+     id="rect16"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="170"
      y="5"
      width="50"
      height="50"
      fill="black"
-     id="rect18" />
+     id="rect18"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="171"
      y="6"
      width="48"
      height="48"
      fill="white"
-     id="rect20" />
+     id="rect20"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="5"
      y="60"
      width="50"
      height="50"
      fill="black"
-     id="rect26" />
+     id="rect26"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="6"
      y="61"
      width="48"
      height="48"
      fill="white"
-     id="rect28" />
+     id="rect28"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="60"
      y="60"
      width="50"
      height="50"
      fill="black"
-     id="rect30" />
+     id="rect30"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="61"
      y="61"
      width="48"
      height="48"
      fill="white"
-     id="rect32" />
+     id="rect32"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="115"
      y="60"
      width="50"
      height="50"
      fill="black"
-     id="rect34" />
+     id="rect34"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="116"
      y="61"
      width="48"
      height="48"
      fill="white"
-     id="rect36" />
+     id="rect36"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="170"
      y="60"
      width="50"
      height="50"
      fill="black"
-     id="rect38" />
+     id="rect38"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="171"
      y="61"
      width="48"
      height="48"
      fill="white"
-     id="rect40" />
+     id="rect40"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="5"
      y="115"
      width="50"
      height="50"
      fill="black"
-     id="rect46" />
+     id="rect46"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="6"
      y="116"
      width="48"
      height="48"
      fill="white"
-     id="rect48" />
+     id="rect48"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="60"
      y="115"
      width="50"
      height="50"
      fill="black"
-     id="rect50" />
+     id="rect50"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="61"
      y="116"
      width="48"
      height="48"
      fill="white"
-     id="rect52" />
+     id="rect52"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="115"
      y="115"
      width="50"
      height="50"
      fill="black"
-     id="rect54" />
+     id="rect54"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="116"
      y="116"
      width="48"
      height="48"
      fill="white"
-     id="rect56" />
+     id="rect56"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="170"
      y="115"
      width="50"
      height="50"
      fill="black"
-     id="rect58" />
+     id="rect58"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="171"
      y="116"
      width="48"
      height="48"
      fill="white"
-     id="rect60" />
+     id="rect60"
+     inkscape:export-filename="/Users/fogus/src/spiel/graphics/3x4-grid.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
 </svg>

@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="3x3-grid.svg">
+   sodipodi:docname="cr-grid-setup.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -341,7 +341,10 @@
      style="display:inline">
     <g
        id="g3221"
-       transform="translate(273.46894,-0.78059)">
+       transform="translate(273.46894,-0.78059)"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:tile-y0="132.08131"
          inkscape:tile-x0="151.10995"
@@ -413,7 +416,10 @@
     <g
        transform="translate(456.67359,-164.69632)"
        id="layer1-9"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="matrix(4,0,0,4,462.29935,-3508.6573)"
          id="g10389">

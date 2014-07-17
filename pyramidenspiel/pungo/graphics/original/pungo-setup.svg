@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,182 +112,260 @@
      width="223.64407"
      height="168.47458"
      id="rect4"
-     style="fill:#e8e8e8" />
+     style="fill:#e8e8e8"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="15.677965"
      y="53.64542"
      width="50"
      height="50"
      id="rect6"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="16.677965"
      y="54.64542"
      width="48"
      height="48"
      id="rect8"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="70.677963"
      y="53.64542"
      width="50"
      height="50"
      id="rect10"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="71.677963"
      y="54.64542"
      width="48"
      height="48"
      id="rect12"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="125.67797"
      y="53.64542"
      width="50"
      height="50"
      id="rect14"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="126.67797"
      y="54.64542"
      width="48"
      height="48"
      id="rect16"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="180.67798"
      y="53.64542"
      width="50"
      height="50"
      id="rect18"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="181.67798"
      y="54.64542"
      width="48"
      height="48"
      id="rect20"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="15.677965"
      y="108.64542"
      width="50"
      height="50"
      id="rect26"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="16.677965"
      y="109.64542"
      width="48"
      height="48"
      id="rect28"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="70.677963"
      y="108.64542"
      width="50"
      height="50"
      id="rect30"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="71.677963"
      y="109.64542"
      width="48"
      height="48"
      id="rect32"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="125.67797"
      y="108.64542"
      width="50"
      height="50"
      id="rect34"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="126.67797"
      y="109.64542"
      width="48"
      height="48"
      id="rect36"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="180.67798"
      y="108.64542"
      width="50"
      height="50"
      id="rect38"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="181.67798"
      y="109.64542"
      width="48"
      height="48"
      id="rect40"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="15.677965"
      y="163.64519"
      width="50"
      height="50"
      id="rect46"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="16.677965"
      y="164.64519"
      width="48"
      height="48"
      id="rect48"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="70.677963"
      y="163.64519"
      width="50"
      height="50"
      id="rect50"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="71.677963"
      y="164.64519"
      width="48"
      height="48"
      id="rect52"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="125.67797"
      y="163.64519"
      width="50"
      height="50"
      id="rect54"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="126.67797"
      y="164.64519"
      width="48"
      height="48"
      id="rect56"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="180.67798"
      y="163.64519"
      width="50"
      height="50"
      id="rect58"
-     style="fill:#000000" />
+     style="fill:#000000"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
      x="181.67798"
      y="164.64519"
      width="48"
      height="48"
      id="rect60"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <text
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      x="242.03391"
      y="74.15387"
      id="text3982"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        id="tspan3984"
        x="242.03391"
@@ -302,7 +380,10 @@
      y="182.7132"
      x="242.03391"
      style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     xml:space="preserve"><tspan
+     xml:space="preserve"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
        y="182.7132"
        x="242.03391"
        id="tspan3990"
@@ -319,7 +400,10 @@
   <g
      id="use4605"
      transform="matrix(0.55271191,0,0,0.4476861,-53.69274,-69.489489)"
-     style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+     style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        inkscape:connector-curvature="0"
        id="path13414"
@@ -340,7 +424,10 @@
   <g
      id="use4603"
      transform="matrix(0.55271191,0,0,0.4476861,-82.647089,-73.792321)"
-     style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+     style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        inkscape:connector-curvature="0"
        style="fill-opacity:1"
@@ -362,7 +449,10 @@
   <g
      transform="matrix(0.55271191,0,0,0.4476861,98.805852,-79.933816)"
      style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="g14132">
+     id="g14132"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        style="fill-opacity:1"
        d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
@@ -390,7 +480,10 @@
   <g
      style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      transform="matrix(0.55271191,0,0,0.4476861,56.646241,-109.30305)"
-     id="g14150">
+     id="g14150"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        style="fill-opacity:1"
        d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
@@ -411,7 +504,10 @@
   <g
      id="use4601"
      style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     transform="matrix(0.55271191,0,0,0.4476861,-10.939909,-81.467758)">
+     transform="matrix(0.55271191,0,0,0.4476861,-10.939909,-81.467758)"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        inkscape:connector-curvature="0"
        id="path12424"
@@ -439,7 +535,10 @@
   <g
      style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      transform="matrix(0.55271191,0,0,0.4476861,-28.647089,-73.792321)"
-     id="g14168">
+     id="g14168"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        id="path14170"
        d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
@@ -461,7 +560,10 @@
   <g
      transform="matrix(0.55271191,0,0,0.4476861,43.653311,-81.467758)"
      style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="g14176">
+     id="g14176"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        style="fill-opacity:1"
        d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
@@ -489,7 +591,10 @@
   <g
      id="g14186"
      transform="matrix(0.55271191,0,0,0.4476861,111.22251,-71.336949)"
-     style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+     style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        inkscape:connector-curvature="0"
        id="path14188"
@@ -510,7 +615,10 @@
   <g
      style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      transform="matrix(0.55271191,0,0,0.4476861,81.378333,-75.199098)"
-     id="g14142">
+     id="g14142"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/pungo-setup.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        id="path14144"
        d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
