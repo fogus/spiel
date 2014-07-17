@@ -47,7 +47,11 @@ On each turn the player to move is allocated a certain number of movement points
 
 ## The controlled roll
 
-A *controlled roll* is a way to utilize a die in such a way as to eliminate random results.  To do this a player flips a die along the 3x3 grid from one face to another.  The only constraint on movement is that a die cannot be flipped into a square where is came from previously.
+A *controlled roll* is a way to utilize a die in such a way as to eliminate random results.  To do this a player flips a die along the 3x3 grid from one face to another, as shown below:
+
+![Setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/cr-grid-flips.png)
+
+The only constraint on movement is that a die cannot be flipped into a square where is came from previously.
 
 ## Pyramid movement
 
