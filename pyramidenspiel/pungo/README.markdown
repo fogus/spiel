@@ -39,11 +39,15 @@ Turns
 
 On each turn a player takes two actions:
 
- 1. Move some number of pieces some number of squares orthogonally
+ 1. Make a controlled roll of the die
+ 2. Move some number of pieces some number of squares orthogonally
     in the game arena
- 2. Make a controlled roll of the die
 
-On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die. The first player of the game will always get 1-point of movement.
+On each turn the player to move is allocated a certain number of movement points as shown on the top of the die. The first player of the game will always get 1-point of movement.
+
+## The controlled roll
+
+A *controlled roll* is a way to utilize a die in such a way as to eliminate random results.  To do this a player flips a die along the 3x3 grid from one face to another.  The only constraint on movement is that a die cannot be flipped into a square where is came from previously.
 
 ## Pyramid movement
 
@@ -72,10 +76,6 @@ There are constraints about how pyramids may be moved however:
    can accomodate the total points in the pile
 
 Once movement points are spent, no more pyramids can be moved during that player's turn.  When a player can no longer move she may then make a *controlled roll* of the die before the start of the next player's turn.
-
-## The controlled roll
-
-twist the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of twist occurs, but it must happen the same way for both players for the entire game.
 
 Variations
 ==========
@@ -116,6 +116,11 @@ Instead of using the table above to allocate movement points, you can use the re
 ## Three-colored variation
 
 Instead of using 9 pyramids of the same color you can use 9 pyramids of three different colors where each color has one small, one medium, and one large pyramid.  All of the rules of the basic game still hold except that symmetrical conditions must take into account color in addition to sizes.
+
+Design notes
+============
+
+TODO
 
 Acknowledgments
 ===============
