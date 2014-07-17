@@ -43,7 +43,7 @@ On each turn a player takes two actions:
 
 On each turn the player to move is allocated a certain number of movement points as currently shown on the top of the die. The first player of the game will always get 1-point of movement.
 
-## Movement costs
+## Pyramid movement
 
 Pyramids cost the following to move 1-square orthogonal from where they sit:
 
@@ -53,22 +53,19 @@ Pyramids cost the following to move 1-square orthogonal from where they sit:
 
 Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  The points available are indicated by the face showing on the top of the die.
 
-## Passing and remaining movement points
+### Passing and remaining movement points
 
 Players cannot pass and must move as indicated by the value of the die and all points must be spent on each turn.
 
-## Movement constraints
+### Movement constraints
 
 There are constraints about how pyramids may be moved however:
 
- * While you can move pyramids into your opponent's home row, 
-   you may never move pyramids out of there
- * You can however move pyramids within an opponent's home row
  * No pyramid can land, even in passing, on a smaller pyramid
  * Landing on an empty square during movement freezes a pyramid 
    from moving anymore during that turn
- * A pyramid resting on an empty square can be move out of it, 
-   but it is frozen for the rest of that turn
+ * A pyramid resting on an empty square can be move to any orthogonal
+   square, but it is frozen for the rest of that turn
  * A pile of pyramids can move, as long as the movement points
    can accomodate the total points in the pile
 
