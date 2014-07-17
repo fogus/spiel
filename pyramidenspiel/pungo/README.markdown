@@ -51,16 +51,7 @@ Pyramids cost the following to move 1-square orthogonal from where they sit:
  2. Medium pyramid
  3. Large pyramid
 
-Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  The points available are indicated by the face showing on the top of the die.  If you have an averaging die then the points are allocated as shown.  However, if you only have a regular die then allocate the points as follows:
-
- Face | Points 
- :---: | :---:
-  1 | 3
-  2 | 2
-  3 | 3
-  4 | 4
-  5 | 5
-  6 | 4
+Movement points can be spent to move a single pyramid multiple times or multiple pyramids in turn.  The points available are indicated by the face showing on the top of the die.
 
 ## Passing and remaining movement points
 
@@ -87,6 +78,21 @@ Variations
 ==========
 
 There are tweaks to the base rules that you can use to change the way that *Pungo* plays.
+
+## Averaging Pungo
+
+If you have an averaging die then the points are allocated as shown.  However, if you only have a regular die then allocate the points as follows:
+
+ Face | Points 
+ :---: | :---:
+  1 | 3
+  2 | 2
+  3 | 3
+  4 | 4
+  5 | 5
+  6 | 4
+
+This will help to keep point allocations more stable.
 
 ## Chaos Pungo
 
