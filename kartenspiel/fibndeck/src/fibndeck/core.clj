@@ -37,18 +37,21 @@
              {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :promoted-pawn  :kanji :と  :name :tokin}
              ])
 
-(comment
-  
-  (-> fibn
-      shuffle/riffle
-      shuffle/overhand
-      shuffle/riffle)
-  )
+
 
 (defn pprint-deck [deck]
   (doseq [card deck]
     (println (str (:rank card) (name (:unicode card))))))
 
-(pprint-deck fibn)
+(comment
+
+  (pprint-deck 
+   (-> fibn
+       shuffle/riffle
+       shuffle/overhand
+       shuffle/riffle
+       shuffle/overhand
+       shuffle/riffle))
+  )
 
 
