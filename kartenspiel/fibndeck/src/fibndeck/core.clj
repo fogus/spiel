@@ -62,8 +62,17 @@
 (defn deal
   ([deck hands per]
      (assert (< (* hands per) (count deck)))
-     (let [deals (partition-all hands per deck)
-           stock (last deals)
-           deals (butlast deals)]
-       {:deals (vec (map vec deals))
+     (let [to-deal (* hands per)
+           dealt (take to-deal deck)
+           deals (partition per dealt)
+           stock (drop to-deal deck)]
+       {:hands (vec (map vec deals))
         :stock stock})))
+
+
+(defn pprint-hands [{:keys [hands stock]}]
+  (let [compr-hands (map (fn [hand] (map #(str (:rank %) (name (:unicode %))) hand))
+                         hands)]
+    compr-hands))
+
+(pprint-hands (deal fibn 2 3))
