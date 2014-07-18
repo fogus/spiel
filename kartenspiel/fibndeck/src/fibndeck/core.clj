@@ -1,9 +1,7 @@
 (ns fibndeck.core
   (:require [card-shuffle :as shuffle]))
 
-(comment
-
-  (def fibn [{:rank 0,  :suit :circle,   :color :blue          :unicode :○  }
+(def fibn [{:rank 0,  :suit :circle,   :color :blue          :unicode :○  }
              {:rank 13, :suit :circle,   :color :blue          :unicode :○  }
              {:rank 5,  :suit :ku,       :color :yellow        :unicode :く }
              {:rank 8,  :suit :ku,       :color :yellow        :unicode :く }
@@ -38,6 +36,8 @@
              {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn           :kanji :歩  :name :fuhyou}
              {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :promoted-pawn  :kanji :と  :name :tokin}
              ])
+
+(comment
   
   (-> fibn
       shuffle/riffle
