@@ -28,15 +28,15 @@
              {:rank 13, :suit :square,   :color :green         :unicode :□  }
              {:rank 13, :suit :square,   :color :green         :unicode :□  }
              {:rank 13, :suit :square,   :color :green         :unicode :□  }
-             {:rank 1,  :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 2,  :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 3,  :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 5,  :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  }
-             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  }
+             {:rank 1,  :suit :shogi,    :color :orange        :unicode :☖  :piece :king           :kanji}
+             {:rank 2,  :suit :shogi,    :color :orange        :unicode :☖  :piece :king}
+             {:rank 3,  :suit :shogi,    :color :orange        :unicode :☖  :piece :rook}
+             {:rank 5,  :suit :shogi,    :color :orange        :unicode :☖  :piece :rook}
+             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  :piece :bishop}
+             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  :piece :bishop}
+             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn}
+             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn}
+             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :promoted-pawn}
              ])
   
   (-> fibn
