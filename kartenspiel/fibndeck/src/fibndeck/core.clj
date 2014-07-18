@@ -43,13 +43,12 @@
       shuffle/riffle
       shuffle/overhand
       shuffle/riffle)
-
-
-
-
   )
 
 (defn pprint-deck [deck]
-  )
+  (doseq [card deck]
+    (println (str (:rank card) (name (:unicode card))))))
+
+(pprint-deck fibn)
 
 
