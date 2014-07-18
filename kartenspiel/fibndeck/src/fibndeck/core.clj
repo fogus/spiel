@@ -44,21 +44,6 @@
   (doseq [card deck]
     (println (str (:rank card) (name (:unicode card))))))
 
-(comment
-
-  (pprint-deck 
-   (-> fibn
-       shuffle/riffle
-       shuffle/overhand
-       shuffle/riffle
-       shuffle/overhand
-       shuffle/riffle))
-
-  (deal fibn 3 11)
-
-
-  
-)
 
 (defn deal
   ([deck hands per]
@@ -78,4 +63,20 @@
     (doseq [hand compr-hands]
       (println (string/join " " hand)))))
 
-(pprint-hands (deal fibn 2 11))
+(defn shuffle-deck [deck]
+  (-> deck
+      shuffle/riffle
+      shuffle/overhand
+      shuffle/riffle
+      shuffle/overhand
+      shuffle/riffle))
+
+(comment
+
+  (-> fibn
+      shuffle-deck
+      (deal 2 11)
+      pprint-hands)
+
+)
+
