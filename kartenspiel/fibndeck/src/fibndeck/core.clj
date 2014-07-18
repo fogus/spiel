@@ -53,14 +53,16 @@
        shuffle/overhand
        shuffle/riffle))
 
-  (defn deal [deck hands per each]
-    (assert (< (* hands per) (count deck)))
-    (loop [piles (repeat hands [])
-           hands hands
-           ]
-      2))
+  (defn deal
+    ([deck hands per]
+       (assert (< (* hands per) (count deck)))
+       (let [deals (partition-all hands per deck)
+             stock (last deals)
+             deals (butlast deals)]
+         {:deals (vec (map vec deals))
+          :stock stock})))
 
-  (deal fibn 3 11 2)
+  (deal fibn 3 11)
 
 
   
