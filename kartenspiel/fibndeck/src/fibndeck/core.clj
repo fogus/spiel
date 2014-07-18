@@ -5,9 +5,9 @@
 
   (def fibn [{:rank 0,  :suit :circle,   :color :blue}
              {:rank 13, :suit :circle,   :color :blue}
-             {:rank 5,  :suit :line,     :color :yellow}
-             {:rank 8,  :suit :line,     :color :yellow}
-             {:rank 13, :suit :line,     :color :yellow}
+             {:rank 5,  :suit :ku,       :color :yellow}
+             {:rank 8,  :suit :ku,       :color :yellow}
+             {:rank 13, :suit :ku,       :color :yellow}
              {:rank 5,  :suit :heart,    :color :purple}
              {:rank 8,  :suit :heart,    :color :purple}
              {:rank 13, :suit :heart,    :color :purple}
@@ -47,4 +47,6 @@
 
 
 
-)
+  )
+
+
