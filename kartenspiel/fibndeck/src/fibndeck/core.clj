@@ -28,15 +28,15 @@
              {:rank 13, :suit :square,   :color :green         :unicode :□  }
              {:rank 13, :suit :square,   :color :green         :unicode :□  }
              {:rank 13, :suit :square,   :color :green         :unicode :□  }
-             {:rank 1,  :suit :shogi,    :color :orange        :unicode :☖  :piece :king           :kanji}
-             {:rank 2,  :suit :shogi,    :color :orange        :unicode :☖  :piece :king}
-             {:rank 3,  :suit :shogi,    :color :orange        :unicode :☖  :piece :rook}
-             {:rank 5,  :suit :shogi,    :color :orange        :unicode :☖  :piece :rook}
-             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  :piece :bishop}
-             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  :piece :bishop}
-             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn}
-             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn}
-             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :promoted-pawn}
+             {:rank 1,  :suit :shogi,    :color :orange        :unicode :☖  :piece :king           :kanji :王  :name :oushou}
+             {:rank 2,  :suit :shogi,    :color :orange        :unicode :☖  :piece :king           :kanji :王  :name :oushou}
+             {:rank 3,  :suit :shogi,    :color :orange        :unicode :☖  :piece :rook           :kanji :飛  :name :hisha}
+             {:rank 5,  :suit :shogi,    :color :orange        :unicode :☖  :piece :rook           :kanji :飛  :name :hisha}
+             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  :piece :bishop         :kanji :角  :name :kakugyou}
+             {:rank 8,  :suit :shogi,    :color :orange        :unicode :☖  :piece :bishop         :kanji :角  :name :kakugyou}
+             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn           :kanji :歩  :name :fuhyou}
+             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :pawn           :kanji :歩  :name :fuhyou}
+             {:rank 13, :suit :shogi,    :color :orange        :unicode :☖  :piece :promoted-pawn  :kanji :と  :name :tokin}
              ])
   
   (-> fibn
