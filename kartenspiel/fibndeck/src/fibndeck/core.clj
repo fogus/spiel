@@ -1,5 +1,6 @@
 (ns fibndeck.core
-  (:require [card-shuffle :as shuffle]))
+  (:require [card-shuffle :as shuffle]
+            [clojure.string :as string]))
 
 (def fibn [{:rank 0,  :suit :circle,   :color :blue          :unicode :○  }
              {:rank 13, :suit :circle,   :color :blue          :unicode :○  }
@@ -72,7 +73,9 @@
 
 (defn pprint-hands [{:keys [hands stock]}]
   (let [compr-hands (map (fn [hand] (map #(str (:rank %) (name (:unicode %))) hand))
-                         hands)]
-    compr-hands))
+                         hands)
+        compr-hands (map sort compr-hands)]
+    (doseq [hand compr-hands]
+      (println (string/join " " hand)))))
 
-(pprint-hands (deal fibn 2 3))
+(pprint-hands (deal fibn 2 11))
