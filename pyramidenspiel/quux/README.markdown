@@ -34,14 +34,11 @@ TODO
 
 There are constraints about how pyramids may be moved however:
 
- * While you can move pyramids into your opponent's home row, 
-   you may never move pyramids out of there
- * You can however move pyramids within an opponent's home row
  * No pyramid can land, even in passing, on a smaller pyramid
 
 ## The controlled roll
 
-When a player can no longer move she may twist the die either to the left, right, or in one other direction.  It doesn't matter which axis the 3rd kind of twist occurs, but it must happen the same way for both players for the entire game.
+TODO
 
 Variations
 ==========
