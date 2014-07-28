@@ -25,11 +25,8 @@ TODO
 
  * Based on color shown
  * Moves number of spaces ortho equal to its pips
- * If no legal moves remain then you can use the remaining moves 
-   on another pyramid
- * If you can move, you must move, except in home row where you
-   must move sideways but can choose to reserve moves if you can
-   only move forward
+ * If no legal moves then you must pass
+ * If you can move, you must move
  * A pile of pyramids or a segment can move, as long as the color 
    at the base of the moving pile matches the color on the die
 
