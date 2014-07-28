@@ -53,4 +53,4 @@ Instead of allowing the opposing player to choose which way to flip to movement 
 Acknowledgments
 ===============
 
-*Quux* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi),  [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie), and [Pungo]().
+*Quux* is inspired by the fun game [Kamisado]() created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi),  [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie), and [Pungo]().
