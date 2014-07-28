@@ -1,4 +1,4 @@
-*<unnamed>* is a simple abstract game of perfect information involving pyramid stacking and movement determined by *controlled movement* of a special 6-sided die.
+*Quux* is a simple abstract game of perfect information involving pyramid stacking and movement determined by *controlled movement* of a special 6-sided die.
 
 Setup
 =====
@@ -58,9 +58,9 @@ When a player can no longer move she may twist the die either to the left, right
 Variations
 ==========
 
-There are tweaks to the base rules that you can use to change the way that *<unnamed>* plays.
+There are tweaks to the base rules that you can use to change the way that *Quux* plays.
 
-## Chaos <unnamed>
+## Chaos Quux
 
 Instead of allowing the opposing player to choose which way to flip to movement die, the choice on each turn can be randomized.  That is, before a player moves she rolls the movement die.  The value on the die still determines which pyramid can move.
 
@@ -71,4 +71,4 @@ TODO
 Acknowledgments
 ===============
 
-*<unnamed>* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
+*Quux* is inspired by the fun game [Pink Hijinks](http://www.looneylabs.com/games/pink-hijinks) created by [Looney Labs](http://www.looneylabs.com) and my older design [Machipungo](https://github.com/fogus/spiel/tree/master/taschenspiele/machipongo).  The controlled die rolling mechanism is inspired by both [Bushi Shogi](http://boardgamegeek.com/boardgame/15874/bushi-shogi) and [Pew Pew, Die](http://icehousegames.org/wiki/index.php?title=PewPewDie).
