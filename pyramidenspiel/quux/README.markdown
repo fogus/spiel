@@ -14,15 +14,6 @@ One player is assigned a row of three cells to be their "home row" while the oth
 Goal
 ====
 
-There are three ways to win:
-
- 1. You get a symmetrically sized arrangement of pyramids in your home 
-    row, where each cell has at least one pyramid occupying it
- 2. You get a symmetrically colored arrangement of pyramids in your
-    home row, where each cell has at least one pyramid occupying it
- 2. Your opponent's home row contains at least one pyramid of each
-    color or size, in any legal arrangement and in any or all cells
-
 TODO
 
 Turns
