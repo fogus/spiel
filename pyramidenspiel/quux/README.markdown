@@ -9,7 +9,7 @@ You should setup the board in the following configuration:
 
 ![todo](https://raw.githubusercontent.com/fogus/spiel/master/graphics/todo.jpg)
 
-One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players, in the centef square of the 3x3 grid, with the 1 facing up.  Once setup, the game can begin.
+One player is assigned a row of three cells to be their "home row" while the other player gets the row on the opposite end. Now, place the die between the two players, in the centef square of the 3x3 grid, with the atomic symbol facing up.  Once setup, the game can begin.
 
 Goal
 ====
