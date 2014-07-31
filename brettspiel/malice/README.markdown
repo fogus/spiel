@@ -8,7 +8,7 @@ To be the player or team with the highest captured point total when the game end
 Materials and setup
 ===================
 
-Malice requires two special 4x8 gameboards to play, although a checkers board can be used in a pinch.  In addition, Malice requires 18 pieces ([Icehouse pieces](http://www.looneylabs.com/looney-pyramids) work very nicely too) of differing sizes: 6 small, 6 medium, and 6 large.  You can use 18 stones or pieces of paper or even coins: 6 dimes, 6 pennies, and 6 nickels.  The color of the game pieces does not matter, in fact all 18 can be the same color.
+Malice requires two special 4x8 gameboards to play, although a Checkers board can be used in a pinch.  In addition, Malice requires 24 pieces ([Icehouse pieces](http://www.looneylabs.com/looney-pyramids) work very nicely too) of differing sizes: 6 small, 6 medium, and 6 large.  You can use 24 stones or pieces of paper or even coins: 8 dimes, 8 pennies, and 8 nickels.  The color of the game pieces does not matter, in fact all 24 can be the same color.
 
 In any case, the starting setup for Malice is as follows:
 
