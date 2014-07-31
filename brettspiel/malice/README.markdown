@@ -43,7 +43,7 @@ In other words, smalls move like Chess kings.
 
 ### Medium pieces
 
-Medium pieces can move three squares away, in an L-shaped fashion, as shown below:
+Medium pieces can move three squares away, in an L-shaped fashion, even over other pieces, as shown below:
 
 ![move-med](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/malice/graphics/medium-movement.png)
 
