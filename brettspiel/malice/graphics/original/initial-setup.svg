@@ -8256,7 +8256,7 @@
          style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-1546.821,994.26532)"
+       transform="translate(-1548.821,998.26532)"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
        id="g9944"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
@@ -9425,6 +9425,280 @@
            width="744.09448"
            height="1052.3622" />
       </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
+       id="g4174"
+       style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+       transform="translate(-2037.2012,1107.7513)">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="e:\home\Rain\Documents\Projects\icehouse.png"
+         style="fill:#747474;fill-opacity:0.89177503;fill-rule:nonzero;stroke:#939393;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4176"
+         width="68.269997"
+         height="68.269997"
+         x="-582.19879"
+         y="609.07941" />
+      <g
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="e:\home\Rain\Documents\Projects\icehouse.png"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.30708671;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4178"
+         transform="matrix(0.76506021,0,0,0.76506021,699.13063,-582.50065)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4180"
+           d="m -117.07734,1433.7557 87.980004,87.98"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.30708671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4182"
+           d="m -29.097336,1433.7557 -87.980004,87.98"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.30708671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g4184"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path4128"
+           id="use4186"
+           transform="translate(775.95984,514.98728)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(764.95984,514.98728)"
+           id="use4188"
+           xlink:href="#path4128"
+           y="0"
+           x="0"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(0,1,-1,0,1191.2782,-95.150635)"
+         id="g4190"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(775.95984,514.98728)"
+           id="use4192"
+           xlink:href="#path4128"
+           y="0"
+           x="0"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path4128"
+           id="use4194"
+           transform="translate(764.95984,514.98728)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,1286.4289,1096.1276)"
+         id="g4196"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path4128"
+           id="use4198"
+           transform="translate(775.95984,514.98728)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(764.95984,514.98728)"
+           id="use4200"
+           xlink:href="#path4128"
+           y="0"
+           x="0"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(0,-1,1,0,95.150721,1191.2782)"
+         id="g4202"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(775.95984,514.98728)"
+           id="use4204"
+           xlink:href="#path4128"
+           y="0"
+           x="0"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path4128"
+           id="use4206"
+           transform="translate(764.95984,514.98728)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
+       transform="translate(-2229.3609,996.26532)"
+       style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+       id="g4208">
+      <rect
+         style="fill:#747474;fill-opacity:0.89177503;fill-rule:nonzero;stroke:#939393;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4210"
+         width="48.650002"
+         height="48.650002"
+         x="-582.15533"
+         y="709.07941"
+         inkscape:export-filename="e:\home\Rain\Documents\Projects\icehouse.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <g
+         id="g4212"
+         transform="matrix(0.54205499,0,0,0.54205499,773.02176,-243.1891)"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.84483135;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="e:\home\Rain\Documents\Projects\icehouse.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           id="path4214"
+           d="m -117.07734,1433.7557 87.980004,87.98"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.84483135;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4216"
+           d="m -29.097336,1433.7557 -87.980004,87.98"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.84483135;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <use
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(866.14984,514.98728)"
+         id="use4218"
+         xlink:href="#path4128"
+         y="0"
+         x="0" />
+      <use
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+         x="0"
+         y="0"
+         xlink:href="#path4128"
+         id="use4220"
+         transform="matrix(0,1,-1,0,776.24744,690.57575)"
+         width="744.09448"
+         height="1052.3622" />
+      <use
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-1,0,0,-1,600.65909,600.67334)"
+         id="use4222"
+         xlink:href="#path4128"
+         y="0"
+         x="0" />
+      <use
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+         x="0"
+         y="0"
+         xlink:href="#path4128"
+         id="use4224"
+         transform="matrix(0,-1,1,0,690.56144,425.08489)"
+         width="744.09448"
+         height="1052.3622" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
+       id="g4226"
+       style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
+       transform="translate(-1645.0413,996.51586)">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="e:\home\Rain\Documents\Projects\icehouse.png"
+         y="709.07941"
+         x="-582.15533"
+         height="48.650002"
+         width="48.650002"
+         id="rect4228"
+         style="fill:#747474;fill-opacity:0.89177503;fill-rule:nonzero;stroke:#939393;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="e:\home\Rain\Documents\Projects\icehouse.png"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.84483135;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.54205499,0,0,0.54205499,773.02176,-243.1891)"
+         id="g4231">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.84483135;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m -117.07734,1433.7557 87.980004,87.98"
+           id="path4233" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-width:1.84483135;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m -29.097336,1433.7557 -87.980004,87.98"
+           id="path4235" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path4128"
+         id="use4237"
+         transform="translate(866.14984,514.98728)"
+         width="744.09448"
+         height="1052.3622"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(0,1,-1,0,776.24744,690.57575)"
+         id="use4239"
+         xlink:href="#path4128"
+         y="0"
+         x="0"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path4128"
+         id="use4241"
+         transform="matrix(-1,0,0,-1,600.65909,600.67334)"
+         width="744.09448"
+         height="1052.3622"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(0,-1,1,0,690.56144,425.08489)"
+         id="use4243"
+         xlink:href="#path4128"
+         y="0"
+         x="0"
+         style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
     </g>
   </g>
 </svg>
