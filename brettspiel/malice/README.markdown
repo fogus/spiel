@@ -1,9 +1,9 @@
-*Malice* is an abstract strategy game of piece movement, capture and teleportation.  
+*Malice* is an abstract strategy game of piece movement, capture and teleportation for two or four players.  
 
 Goal
 ====
 
-To be the player with the highest captured point total when the game ends.
+To be the player or team with the highest captured point total when the game ends.
 
 Materials and setup
 ===================
