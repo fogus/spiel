@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7231,7 +7231,7 @@
          style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-1458.1299,1008.032)"
+       transform="translate(-1937.482,1106.0018)"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
        id="g9661"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
@@ -7524,7 +7524,7 @@
       </g>
     </g>
     <g
-       transform="translate(-2031.1708,899.79448)"
+       transform="translate(-2025.9224,997.76424)"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
        id="g9737"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
@@ -7599,7 +7599,7 @@
     <g
        id="g9755"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
-       transform="translate(-1449.4535,1114.4976)"
+       transform="translate(-2028.5248,1116.2471)"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -8055,7 +8055,7 @@
       </g>
     </g>
     <g
-       transform="translate(-1560.5964,1009.7815)"
+       transform="translate(-1558.5964,1107.7513)"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
        id="g9873"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
@@ -8185,7 +8185,7 @@
     <g
        id="g9926"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
-       transform="translate(-2129.6417,900.04502)"
+       transform="translate(-2127.8922,998.01478)"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -8256,7 +8256,7 @@
          style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-1926.4538,898.04502)"
+       transform="translate(-1546.821,994.26532)"
        style="fill:#747474;fill-opacity:0.89177503;stroke:#939393;stroke-opacity:1"
        id="g9944"
        inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/malice/graphics/inital-setp.png"
