@@ -13,4 +13,9 @@ TODO
 Winning the game
 ----------------
 
+TOD
+
+Design Notes
+============
+
 TODO
