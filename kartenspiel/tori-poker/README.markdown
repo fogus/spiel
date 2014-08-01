@@ -11,13 +11,12 @@ Gameplay
 A game of *Tori Poker* is played over the course of a number of rounds.  The number of rounds in a game doesn't matter and can be limited or expanded as the participants desire.  Each rounds consists of a number of steps:
 
  * Hands are dealt
- * Betting commences
- * Community cards are revealed
- * Betting continues
+ * Buy-in bet occurs
+ * Community cards are revealed, with bets interspersed
  * Hands are revealed
  * Chips are paid
 
-TODO
+
 
 Community cards
 ---------------
