@@ -18,6 +18,11 @@ A game of *Tori Poker* is played over the course of a number of rounds.  The num
 
 Each of these stages will be described below:
 
+The deal
+--------
+
+TODO
+
 Community cards
 ---------------
 
