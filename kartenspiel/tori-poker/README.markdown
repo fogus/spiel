@@ -1,4 +1,4 @@
-*Tori Poker* is a traditional card game inspired by Poker using only 17 cards, for 2-4 players.  
+*Tori Poker* is a traditional card game inspired by Texas Hold Em Poker using only 17 cards, for 2-4 players.  
 
 Setup and deal
 ==============
