@@ -55,3 +55,18 @@ Design Notes
 ============
 
 TODO
+
+Why 17 cards?
+-------------
+
+TODO
+
+Betting structure
+-----------------
+
+TODO (consume chips)
+
+Probabilities
+-------------
+
+TODO
