@@ -52,7 +52,7 @@ Wild cards
 
 Although the spades suit is used for the wild cards, the suit does not matter in the least.  Instead, the rank of the card is the important feature of the wild cards.  That is, the rank of the wild cards describe how they're constrained in standing in for any given card in a hand.
 
-Normally, wild cards can stand in for any card in a hand, but in *Tori Poker* 
+Normally, wild cards can stand in for any card in a hand, but in *Tori Poker* the ranks determine the range of cards that a wild card can stand in for.  That is, the rank of a wild card says that it can stand in for any other card of that rank or lower.  For example, the 4-wild can only stand in for the 4, 3, 2, and low-Ace, but the King-wild can stand in for every card except the high-Ace.
 
 The Ace
 -------
