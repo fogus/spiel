@@ -26,7 +26,8 @@ To start a round each player is dealt three cards face down in front of them.  T
 Card buy-in
 -----------
 
-TODO 
+In order to look at their cards players must "buy" them.  What this means is that a player can pay some pre-determined number of chips to the pot (5% of their starting amount works well) to look at one of their face-down cards.  Therefore, to look at all three starting cards requires three payments of the pre-determined amount to the pot.  A player can buy each card one at a time or all at once.  Likewise, a player can fold after buying any number of their starting cards.  When a player buys their cards none of the other players should see them.
+
 Community card reveal and betting
 ---------------------------------
 
