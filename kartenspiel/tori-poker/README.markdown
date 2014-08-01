@@ -57,7 +57,7 @@ Normally, wild cards can stand in for any card in a hand, but in *Tori Poker* th
 The Ace
 -------
 
-TODO
+The Aces in *Tori Poker* can be used in a hand as either a low-card (a 1) or a high-card, but not both at the same time.  The Ace as a high card can never be substitued for using a wild card.  However, with the use of a wild card and an Ace a hand could be considered having both a low and a high Ace.  
 
 Ranking of possible hands
 -------------------------
