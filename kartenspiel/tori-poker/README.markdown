@@ -23,15 +23,23 @@ The deal
 
 TODO
 
-Community cards
----------------
+Card buy-in
+-----------
 
 TODO
 
-Betting structure
------------------
+Community card reveal and betting
+---------------------------------
 
 TODO
+
+The reveal
+----------
+
+TODO
+
+The *Tori Poker* deck
+=====================
 
 Wild cards
 ----------
@@ -40,11 +48,6 @@ TODO
 
 Ranking of possible hands
 -------------------------
-
-TODO
-
-Winning the game
-----------------
 
 TODO
 
