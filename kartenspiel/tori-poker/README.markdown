@@ -21,13 +21,12 @@ Each of these stages will be described below:
 The deal
 --------
 
-TODO
+To start a round each player is dealt three cards face down in front of them.  The players cannot look at their cards until they buy them from their reserve of chips.
 
 Card buy-in
 -----------
 
-TODO
-
+TODO 
 Community card reveal and betting
 ---------------------------------
 
