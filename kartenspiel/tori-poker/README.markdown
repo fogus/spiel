@@ -40,7 +40,7 @@ Once players have bought their cards the community cards are revealed to allow f
 The reveal
 ----------
 
-TODO
+Once all of the community cards have been revealed and the corresponding betting has occured, the players will reveal their hands.  The player with the best hand built from their three hand cards and 2 of the 3 community cards wins the pot.  If more than one player has equally strong hands then the pot is split amongst them.
 
 The *Tori Poker* deck
 =====================
