@@ -26,12 +26,16 @@ To start a round each player is dealt three cards face down in front of them.  T
 Card buy-in
 -----------
 
-In order to look at their cards players must "buy" them.  What this means is that a player can pay some pre-determined number of chips to the pot (5% of their starting amount works well) to look at one of their face-down cards.  Therefore, to look at all three starting cards requires three payments of the pre-determined amount to the pot.  A player can buy each card one at a time or all at once.  Likewise, a player can fold after buying any number of their starting cards.  When a player buys their cards none of the other players should see them.
+In order to look at their cards players must "buy" them.  What this means is that a player can pay some pre-determined number of chips to the pot (5% of their starting amount works well) for the priviledge of looking at one of their face-down cards.  Therefore, to look at all three starting cards requires three payments of the pre-determined amount to the pot.  This buy-in occurs in a clockwise-fashion starting with the player to the left of the dealer.
+
+A player can buy each card one at a time or all at once.  Likewise, a player can fold after buying any number of their starting cards.  When a player buys their cards none of the other players should see them.  Bought cards can be held in a player's hand or placed on the table.
+
+If all but one player folds in the buy-in phase then the reamining player gest the pot, otherwise the game continues as follows.
 
 Community card reveal and betting
 ---------------------------------
 
-TODO
+Once players have bought their cards the community cards are revealed to allow for betting.  The community cards are a set of three cards revealed one at a time to a common pool of cards.
 
 The reveal
 ----------
