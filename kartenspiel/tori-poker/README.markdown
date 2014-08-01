@@ -35,7 +35,7 @@ If all but one player folds in the buy-in phase then the reamining player gest t
 Community card reveal and betting
 ---------------------------------
 
-Once players have bought their cards the community cards are revealed to allow for betting.  The community cards are a set of three cards revealed one at a time to a common pool of cards.
+Once players have bought their cards the community cards are revealed to allow for betting.  The community cards are a set of three cards revealed one at a time to a common pool of cards.  These common cards can be used by all of the players to build their best possible 5-card hands.  As each community card is revealed a round of betting (and possibly folding) occurs leading up the the revelation of the remaining players' hands.
 
 The reveal
 ----------
