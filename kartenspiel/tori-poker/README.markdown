@@ -8,15 +8,15 @@ Setup and deal
 Gameplay
 ========
 
-A game of *Tori Poker* is played over the course of a number of rounds.  The number of rounds in a game doesn't matter and can be limited or expanded as the participants desire.  Each rounds consists of a number of steps:
+A game of *Tori Poker* is played over the course of a number of rounds.  The number of rounds in a game doesn't matter and can be limited or expanded as the participants desire.  Each rounds consists of a number of stages:
 
  * Hands are dealt
- * Buy-in bet occurs
+ * Card buy-in occurs
  * Community cards are revealed, with bets interspersed
  * Hands are revealed
  * Chips are paid
 
-
+Each of these stages will be described below:
 
 Community cards
 ---------------
