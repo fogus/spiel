@@ -45,6 +45,8 @@ Once all of the community cards have been revealed and the corresponding betting
 The *Tori Poker* deck
 =====================
 
+As mentioned, the *Tori Poker* deck contains onely 17 cards consisting of 13 standard playing cards (of the hearts suit) and 4 wild cards (4, 7, 10, and King of spades).  The suit of the wild cards is unimportant and as a result the cards should be considered a single suit.  Therefore, the dynamics of building Poker-like hands is simpler and less rich in possibilities by design.  
+
 Wild cards
 ----------
 
