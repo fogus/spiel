@@ -14,8 +14,8 @@
    height="313.17737"
    id="svg6450"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="Documento nuevo 6">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="d6-1pip-white.svg">
   <defs
      id="defs6452">
     <inkscape:perspective
@@ -175,11 +175,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="613"
-     inkscape:window-height="504"
-     inkscape:window-x="1"
-     inkscape:window-y="78"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata6455">
     <rdf:RDF>
@@ -199,7 +199,10 @@
      transform="translate(-740.41348,-164.34498)">
     <g
        id="g10389"
-       transform="matrix(4,0,0,4,462.29935,-3508.6573)">
+       transform="matrix(4,0,0,4,462.29935,-3508.6573)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-1.png"
+       inkscape:export-xdpi="14.083255"
+       inkscape:export-ydpi="14.083255">
       <rect
          style="opacity:0.72244903;fill:#888a85;fill-opacity:1;stroke:#888a85;stroke-width:0.44291338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter10343)"
          id="rect10391"

@@ -14,8 +14,8 @@
    height="313.17737"
    id="svg6450"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="dado_1.svg">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="d6-2pips-white.svg">
   <defs
      id="defs6452">
     <inkscape:perspective
@@ -433,7 +433,10 @@
        x="96.107147"
        y="683.7193"
        ry="9.2857141"
-       transform="matrix(4,0,0,4,-180.00216,-2477.0527)" />
+       transform="matrix(4,0,0,4,-180.00216,-2477.0527)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <rect
        ry="37.142857"
        y="251.82439"
@@ -441,7 +444,10 @@
        height="297.14285"
        width="297.14285"
        id="rect10551"
-       style="fill:url(#linearGradient6311-7);fill-opacity:1;stroke:url(#linearGradient6313-6);stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:url(#linearGradient6311-7);fill-opacity:1;stroke:url(#linearGradient6313-6);stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        sodipodi:type="arc"
        style="opacity:0.76326533;fill:url(#radialGradient6385);fill-opacity:1;stroke:none;filter:url(#filter9518-9)"
@@ -451,7 +457,10 @@
        sodipodi:rx="25.809397"
        sodipodi:ry="21.920311"
        d="m 129.40054,94.287537 c 0,12.106253 -11.55526,21.920313 -25.8094,21.920313 -14.254135,0 -25.809396,-9.81406 -25.809396,-21.920313 0,-12.106254 11.555261,-21.920311 25.809396,-21.920311 14.25414,0 25.8094,9.814057 25.8094,21.920311 z"
-       transform="matrix(3.4288818,0,0,2.1937586,-70.417171,95.920139)" />
+       transform="matrix(3.4288818,0,0,2.1937586,-70.417171,95.920139)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        transform="matrix(1.4249037,0,0,1.7581474,299.81176,342.4493)"
        d="m 129.40054,94.287537 c 0,12.106253 -11.55526,21.920313 -25.8094,21.920313 -14.254135,0 -25.809396,-9.81406 -25.809396,-21.920313 0,-12.106254 11.555261,-21.920311 25.809396,-21.920311 14.25414,0 25.8094,9.814057 25.8094,21.920311 z"
@@ -461,7 +470,10 @@
        sodipodi:cx="103.59114"
        id="path10555"
        style="opacity:0.76326533;fill:url(#radialGradient6383);fill-opacity:1;stroke:none;filter:url(#filter9518-9)"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        transform="matrix(3.5070298,0,0,3.5070298,174.57385,204.3523)"
        d="m 80.963729,28.526606 c 0,4.491029 -3.640699,8.131728 -8.131728,8.131728 -4.49103,0 -8.131728,-3.640699 -8.131728,-8.131728 0,-4.49103 3.640698,-8.131729 8.131728,-8.131729 4.491029,0 8.131728,3.640699 8.131728,8.131729 z"
@@ -471,7 +483,10 @@
        sodipodi:cx="72.832001"
        id="path10565"
        style="fill:url(#linearGradient6381);fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient6379);fill-opacity:1;stroke:none"
@@ -481,14 +496,23 @@
        sodipodi:rx="8.1317282"
        sodipodi:ry="8.1317282"
        d="m 80.963729,28.526606 c 0,4.491029 -3.640699,8.131728 -8.131728,8.131728 -4.49103,0 -8.131728,-3.640699 -8.131728,-8.131728 0,-4.49103 3.640698,-8.131729 8.131728,-8.131729 4.491029,0 8.131728,3.640699 8.131728,8.131729 z"
-       transform="matrix(3.5070298,0,0,3.5070298,-1.4261615,388.3523)" />
+       transform="matrix(3.5070298,0,0,3.5070298,-1.4261615,388.3523)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        id="path10579"
        d="m 225.60456,491.54106 c -0.0972,0.95872 -0.0952,1.8692 -0.0952,2.8536 0,15.75016 12.69069,28.53596 28.44085,28.53596 15.7502,0 28.53604,-12.7858 28.53604,-28.53596 0,-0.9844 0.002,-1.89488 -0.0948,-2.8536 -1.5884,14.24616 -13.77088,25.30188 -28.44092,25.30188 -14.67005,0 -26.75744,-11.05572 -28.34572,-25.30188 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        id="path10583"
        d="m 401.60452,307.54106 c -0.0972,0.95872 -0.0952,1.8692 -0.0952,2.8536 0,15.75016 12.69064,28.53596 28.4408,28.53596 15.7502,0 28.53607,-12.7858 28.53607,-28.53596 0,-0.9844 0,-1.89488 -0.095,-2.8536 -1.5884,14.24616 -13.77091,25.30188 -28.44095,25.30188 -14.67,0 -26.7574,-11.05572 -28.34572,-25.30188 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-2.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
   </g>
 </svg>
