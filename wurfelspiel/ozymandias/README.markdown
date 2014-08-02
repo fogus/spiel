@@ -23,7 +23,7 @@ Ozymandias
 Setup of Ozymandias
 ===================
 
-*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) version would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
+*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either of the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or  [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) versions would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
@@ -90,8 +90,8 @@ Scoring in Ozymandias
  Additive set (e.g. 4=1+3)       | (5 + count) * colors
  Multiplicative set (e.g. 3=1*3) | (6 + count) * colors
                                  |
- Single die                      | -5
- Double dice                     | -10
+ Single die                      | 1
+ Double dice                     | 2
 
 The scoring can be layered.  That is, certain combinations fall into more than category, but the color multiplier is applied only once.  The table below shows scoring on a few interesting sets:
 
