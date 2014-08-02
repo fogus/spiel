@@ -90,8 +90,8 @@ Scoring in Ozymandias
  Additive set (e.g. 4=1+3)       | (5 + count) * colors
  Multiplicative set (e.g. 3=1*3) | (6 + count) * colors
                                  |
- Single die                      | 1
- Double dice                     | 2
+ Two of a kind                   | 2
+ Single die                      | -5
 
 The scoring can be layered.  That is, certain combinations fall into more than category, but the color multiplier is applied only once.  The table below shows scoring on a few interesting sets:
 
