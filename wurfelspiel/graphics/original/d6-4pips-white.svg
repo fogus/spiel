@@ -14,8 +14,8 @@
    height="313.17737"
    id="svg7075"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="Documento nuevo 15">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="d6-4pips-white.svg">
   <defs
      id="defs7077">
     <inkscape:perspective
@@ -232,7 +232,10 @@
        width="74.285713"
        id="rect10647"
        style="opacity:0.72244903;fill:#888a85;fill-opacity:1;stroke:#888a85;stroke-width:0.44291338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter10343)"
-       transform="matrix(4,0,0,4,-180.00217,-2751.0864)" />
+       transform="matrix(4,0,0,4,-180.00217,-2751.0864)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <rect
        style="fill:url(#linearGradient6285);fill-opacity:1;stroke:url(#linearGradient6287);stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect10649"
@@ -240,7 +243,10 @@
        height="297.14285"
        x="193.42641"
        y="377.79068"
-       ry="37.142857" />
+       ry="37.142857"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        transform="matrix(3.4288818,0,0,2.1937586,-70.417176,221.88645)"
        d="m 129.40054,94.287537 c 0,12.106253 -11.55526,21.920313 -25.8094,21.920313 -14.254135,0 -25.809396,-9.81406 -25.809396,-21.920313 0,-12.106254 11.555261,-21.920311 25.809396,-21.920311 14.25414,0 25.8094,9.814057 25.8094,21.920311 z"
@@ -250,7 +256,10 @@
        sodipodi:cx="103.59114"
        id="path10651"
        style="opacity:0.76326533;fill:url(#radialGradient6367);fill-opacity:1;stroke:none;filter:url(#filter9518)"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        sodipodi:type="arc"
        style="opacity:0.76326533;fill:url(#radialGradient6365);fill-opacity:1;stroke:none;filter:url(#filter9518)"
@@ -260,7 +269,10 @@
        sodipodi:rx="25.809397"
        sodipodi:ry="21.920311"
        d="m 129.40054,94.287537 c 0,12.106253 -11.55526,21.920313 -25.8094,21.920313 -14.254135,0 -25.809396,-9.81406 -25.809396,-21.920313 0,-12.106254 11.555261,-21.920311 25.809396,-21.920311 14.25414,0 25.8094,9.814057 25.8094,21.920311 z"
-       transform="matrix(1.4249037,0,0,1.7581474,299.81175,468.41561)" />
+       transform="matrix(1.4249037,0,0,1.7581474,299.81175,468.41561)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        transform="matrix(3.5070298,0,0,3.5070298,-1.4261658,330.31861)"
        d="m 80.963729,28.526606 c 0,4.491029 -3.640699,8.131728 -8.131728,8.131728 -4.49103,0 -8.131728,-3.640699 -8.131728,-8.131728 0,-4.49103 3.640698,-8.131729 8.131728,-8.131729 4.491029,0 8.131728,3.640699 8.131728,8.131729 z"
@@ -270,7 +282,10 @@
        sodipodi:cx="72.832001"
        id="path10661"
        style="fill:url(#linearGradient6363);fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient6361);fill-opacity:1;stroke:none"
@@ -280,7 +295,10 @@
        sodipodi:rx="8.1317282"
        sodipodi:ry="8.1317282"
        d="m 80.963729,28.526606 c 0,4.491029 -3.640699,8.131728 -8.131728,8.131728 -4.49103,0 -8.131728,-3.640699 -8.131728,-8.131728 0,-4.49103 3.640698,-8.131729 8.131728,-8.131729 4.491029,0 8.131728,3.640699 8.131728,8.131729 z"
-       transform="matrix(3.5070298,0,0,3.5070298,174.57384,330.31861)" />
+       transform="matrix(3.5070298,0,0,3.5070298,174.57384,330.31861)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        transform="matrix(3.5070298,0,0,3.5070298,-1.4261658,514.31861)"
        d="m 80.963729,28.526606 c 0,4.491029 -3.640699,8.131728 -8.131728,8.131728 -4.49103,0 -8.131728,-3.640699 -8.131728,-8.131728 0,-4.49103 3.640698,-8.131729 8.131728,-8.131729 4.491029,0 8.131728,3.640699 8.131728,8.131729 z"
@@ -290,7 +308,10 @@
        sodipodi:cx="72.832001"
        id="path10665"
        style="fill:url(#linearGradient6359);fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient6357);fill-opacity:1;stroke:none"
@@ -300,22 +321,37 @@
        sodipodi:rx="8.1317282"
        sodipodi:ry="8.1317282"
        d="m 80.963729,28.526606 c 0,4.491029 -3.640699,8.131728 -8.131728,8.131728 -4.49103,0 -8.131728,-3.640699 -8.131728,-8.131728 0,-4.49103 3.640698,-8.131729 8.131728,-8.131729 4.491029,0 8.131728,3.640699 8.131728,8.131729 z"
-       transform="matrix(3.5070298,0,0,3.5070298,174.57384,514.31861)" />
+       transform="matrix(3.5070298,0,0,3.5070298,174.57384,514.31861)"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        id="path10675"
        d="m 401.60451,617.50737 c -0.0972,0.95872 -0.0952,1.8692 -0.0952,2.8536 0,15.75016 12.69064,28.53596 28.4408,28.53596 15.7502,0 28.53604,-12.7858 28.53604,-28.53596 0,-0.9844 0.002,-1.89488 -0.0948,-2.8536 -1.58832,14.24616 -13.77088,25.30188 -28.44092,25.30188 -14.67,0 -26.7574,-11.05572 -28.34572,-25.30188 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 225.60455,617.50737 c -0.0972,0.95872 -0.0952,1.8692 -0.0952,2.8536 0,15.75016 12.69068,28.53596 28.44084,28.53596 15.7502,0 28.53604,-12.7858 28.53604,-28.53596 0,-0.9844 0.002,-1.89488 -0.0948,-2.8536 -1.5884,14.24616 -13.77088,25.30188 -28.44092,25.30188 -14.67004,0 -26.75744,-11.05572 -28.34572,-25.30188 z"
-       id="path10677" />
+       id="path10677"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        id="path10679"
        d="m 225.60455,433.50737 c -0.0972,0.95872 -0.0952,1.8692 -0.0952,2.8536 0,15.75016 12.69068,28.53596 28.44084,28.53596 15.7502,0 28.53604,-12.7858 28.53604,-28.53596 0,-0.9844 0.002,-1.89488 -0.0948,-2.8536 -1.5884,14.24616 -13.77088,25.30188 -28.44092,25.30188 -14.67004,0 -26.75744,-11.05572 -28.34572,-25.30188 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 401.60451,433.50737 c -0.0972,0.95872 -0.0952,1.8692 -0.0952,2.8536 0,15.75016 12.69064,28.53596 28.4408,28.53596 15.7502,0 28.53604,-12.7858 28.53604,-28.53596 0,-0.9844 0.002,-1.89488 -0.0948,-2.8536 -1.58832,14.24616 -13.77088,25.30188 -28.44092,25.30188 -14.67,0 -26.7574,-11.05572 -28.34572,-25.30188 z"
-       id="path10681" />
+       id="path10681"
+       inkscape:export-filename="/Users/fogus/src/spiel/wurfelspiel/graphics/d6-4.png"
+       inkscape:export-xdpi="14.1"
+       inkscape:export-ydpi="14.1" />
   </g>
 </svg>
