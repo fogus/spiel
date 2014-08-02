@@ -62,17 +62,16 @@ The Aces in *Tori Poker* can be used in a hand as either a low-card (a 1) or a h
 Ranking of possible hands
 -------------------------
 
- * High card
- * A sum
- * A multiplication
- * Two of a kind
- * Straight
- * Three of a kind
- * Four of a kind
- * Five of a kind
- * Royal flush (with wild)
  * Royal flush (without wild)
-
+ * Royal flush (with wild)
+ * Five of a kind
+ * Four of a kind
+ * Three of a kind
+ * Straight 
+ * Two of a kind
+ * A sum
+ * High card
+ 
 Design Notes
 ============
 
