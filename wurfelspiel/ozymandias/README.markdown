@@ -27,7 +27,7 @@ Setup of Ozymandias
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
-![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-pyramid.png)
+![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-pyramid.png)
 
 The game consists of alternating turns where each player will take some number of dice from the pyramid and place them exactly as taken into their vault for end of game scoring.  The description of turns, taking, and scoring rules follow next.
 
@@ -36,7 +36,7 @@ Turns in Ozymandias
 
 On each turn in *Ozymandias* a player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
 
-![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-takes.png)
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-takes.png)
 
 More details of the principles for taking are described next.
 
@@ -55,11 +55,11 @@ Squares of any size can be taken as long as part of the square comprises an edge
 
 During the course of play inner dice and dice on other faces will be exposed.  The image below shows the same pyramid as in the setup image above, except a group of 1, 2, and 3 pip dice have been removed.  The gold die has thus fallen lower in the pyramid:
 
-![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layers.png)
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-layers.png)
 
 You can take these exposed dice if they create either a line or square when viewed straight on.  An example of a 3D take in a line is shown below:
 
-![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/protong/graphics/dice-layered-takes.png)
+![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-layered-takes.png)
 
 3D takes are a powerful technique for manipulating multiple pyramid faces at once.
 
