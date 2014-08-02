@@ -78,7 +78,6 @@ The players will continue to take dice from the pyramid until one of the followi
 
 Once either of these conditions occur then scoring commences.
 
-
 Scoring in Ozymandias
 =====================
 
