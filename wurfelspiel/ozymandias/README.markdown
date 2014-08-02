@@ -107,6 +107,11 @@ The scoring can be layered.  That is, certain combinations fall into more than c
 
 As you can see, some combinations, especially those spanning multiple categories are worth a lot of points.
 
+Using a Spiel Mini set
+----------------------
+
+If you decide to use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set then colored layers and the wild die will not be scoring options unless you happen to have extra, differently colored dice to use for your pyramid.
+
 Credits
 =======
 
