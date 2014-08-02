@@ -96,9 +96,9 @@ The scoring can be layered.  That is, certain combinations fall into more than c
 
  Set                        | Categories                         | Score
  :--------------------------|:-----------------------------------|:----:
- ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-4.png)⚃                    | Run, all green                     | 2
- ⚁  ⚂  ⚃                    | Run, red/green                     | 6
- ⚁  ⚁  ⚁                    | Three of a kind, all green         | 3
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-4.png)                    | Run, all green                     | 2
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-4.png)                    | Run, red/green                     | 6
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2.png)                    | Three of a kind, all green         | 3
  ⚁  ⚁  ⚁  ⚁                 | Four of a kind, r/g/b/black        | 16
  ⚀  ⚁  ⚂  ⚅                 | Multiplicative, additive, r/g/b    | 57
  ⚀  ⚀  ⚀  ⚀  ⚀  ⚀  ⚅        | Additive, all green                | 13
