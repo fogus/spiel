@@ -68,7 +68,7 @@ You can take these exposed dice if they create either a line or square when view
 Wild takes
 ----------
 
-The gold die serves as a wild color die.  The number shown on the gold die must be a legal number for a take, but once taken it can be scored as any color.  Additionally, when you take the gold die you must place it back into the pyramid replacing a die of the same number and color as what the wild die is scored as.
+The gold die serves as a wild color die.  The number shown on the gold die must be a legal number for a take, but once taken it can be scored as any color.  Additionally, when you take the gold die you must place it back anywhere in the pyramid replacing a visible die of the same number and color as what the wild die was scored as.
 
 Ending the game
 ---------------
@@ -113,9 +113,3 @@ Using a Spiel Mini set
 ----------------------
 
 If you decide to use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set then colored layers and the wild die will not be scoring options unless you happen to have extra, differently colored dice to use for your pyramid.
-
-Credits
-=======
-
- *  is the designer of Das Spiel.
- 
