@@ -1,7 +1,7 @@
 Ozymandias
 -------
 
-*Ozymandias* is a dice game of pyramidal deconstruction for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) game system.
+*Ozymandias* is a dice game of pyramidal deconstruction for two players.
 
 > I met a traveller from an antique land
 > Who said: "Two vast and trunkless legs of stone
@@ -29,12 +29,14 @@ To set up the dice pyramid for play simply pour dice randomly onto the Spiel bas
 
 ![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-pyramid.png)
 
-The game consists of alternating turns where each player will take some number of dice from the pyramid and place them exactly as taken into their vault for end of game scoring.  The description of turns, taking, and scoring rules follow next.
+The game consists of alternating turns consisting of two *takes*, except for the starting player who make only a single take. A "take" is the act of removing some number of dice from the pyramid and scoring them according to their original orientation in the dice pyramid.
+
+The description of turns, taking, and scoring rules follow next.
 
 Turns in Ozymandias
 ===================
 
-On each turn in *Ozymandias* a player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
+A player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
 
 ![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-takes.png)
 
