@@ -113,3 +113,9 @@ Using a Spiel Mini set
 ----------------------
 
 If you decide to use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set then colored layers and the wild die will not be scoring options unless you happen to have extra, differently colored dice to use for your pyramid.
+
+Solitaire play
+--------------
+
+You can also play *Ozymandias* solitaire without changing any of the scoring rules.  However, rather than taking from any location at all you should take from a side, then rotate and take, repeating until the endgame conditions are triggered.  Rebuild and try to beat your high-score.
+
