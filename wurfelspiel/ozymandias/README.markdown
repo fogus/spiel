@@ -1,7 +1,7 @@
 Ozymandias
 -------
 
-*Ozymandias* is a dice game of pyramidal deconstruction for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) game system.
+*Ozymandias* is a dice game of pyramidal deconstruction for two players.
 
 > I met a traveller from an antique land
 > Who said: "Two vast and trunkless legs of stone
@@ -23,18 +23,20 @@ Ozymandias
 Setup of Ozymandias
 ===================
 
-*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either of the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or  [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) versions would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
+*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set designed by [Reinhold Wittig](http://www.perlhuhn.de/).  Either of the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or  [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) versions will suffice.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
 ![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-pyramid.png)
 
-The game consists of alternating turns where each player will take some number of dice from the pyramid and place them exactly as taken into their vault for end of game scoring.  The description of turns, taking, and scoring rules follow next.
+The game consists of alternating turns consisting of two *takes*, except for the starting player who performs only a single take. A "take" is the act of removing some number of dice from the pyramid and scoring them according to their original orientation in the dice pyramid.
+
+The description of turns, taking, and scoring rules follow next.
 
 Turns in Ozymandias
 ===================
 
-On each turn in *Ozymandias* a player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
+A player may take a group of dice from the pyramid according to certain principles.  The only commonality in any of the taking principles is that each must take at least one die from an edge.  That is, you cannot take dice from the middle of a side or and exposed inner side.  A graphical overview of legal takes is shown below:
 
 ![takes](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-takes.png)
 
@@ -66,14 +68,14 @@ You can take these exposed dice if they create either a line or square when view
 Wild takes
 ----------
 
-The gold die serves as a wild color die.  The number shown on the gold die must be a legal number for a take, but once taken it can be scored as any color.  Additionally, when you take the gold die you must place it back into the pyramid replacing a die of the same number and color as what the wild die is scored as.
+The gold die serves as a wild color die.  The number shown on the gold die must be a legal number for a take, but once taken it can be scored as any color.  Additionally, when you take the gold die you must place it back anywhere in the pyramid replacing a visible die of the same number and color as what the wild die was scored as.
 
 Ending the game
 ---------------
 
 The players will continue to take dice from the pyramid until one of the following conditions occur:
 
- 1. Both players take negative points on successive turns
+ 1. Both players take negative points on successive turns, or...
  2. All of the dice have been removed from the pyramid
 
 Once either of these conditions occur then scoring commences.
@@ -83,27 +85,27 @@ Scoring in Ozymandias
 
  Set category                    | Point value
  :-------------------------------|:----------:
- Run                             |  2 * colors
- Three of a kind                 |  3 * colors
- Four of a kind                  |  4 * colors
- Additive set (e.g. 4=1+3)       | (5 + count) * colors
- Multiplicative set (e.g. 3=1*3) | (6 + count) * colors
+ Run of three or more            |  Number of dice taken * unique colors
+ Three of a kind                 |  3 * unique colors
+ Four of a kind                  |  4 * unique colors
+ Additive set (e.g. 4=1+3)       | (5 + count) * unique colors
+ Multiplicative set (e.g. 3=1*3) | (6 + count) * unique colors
                                  |
  Two of a kind                   | 2
- Single die                      | -5
+ Single die                      | -10
 
 The scoring can be layered.  That is, certain combinations fall into more than category, but the color multiplier is applied only once.  The table below shows scoring on a few interesting sets:
 
  Set                        | Categories                         | Score
  :--------------------------|:-----------------------------------|:----:
- ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-4-green.png)                    | Run, all green                     | 2
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-4-green.png)                    | Run, all green                     | 3
  ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-4-green.png)                    | Run, red/green                     | 6
  ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-green.png)                    | Three of a kind, all green         | 3
  ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-black.png)                 | Four of a kind, r/g/b/black        | 16
  ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-2-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-3-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-blue.png)                 | Multiplicative, additive, r/g/b    | 57
- ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-green.png)                 | Additive, all green                | 13
- ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-black.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-green.png)        | Additive, r/g/b/black              | 52
- ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-black.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-black.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-green.png)                 | Multiplicative, r/g/b/black        | 60
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-green.png)                 | Additive, all green                | 12
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-black.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-green.png)        | Additive, r/g/b/black              | 48
+ ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-black.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-black.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-green.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-1-blue.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-red.png) ![d62](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/graphics/d6-6-green.png)                 | Multiplicative, r/g/b/black        | 56
 
 As you can see, some combinations, especially those spanning multiple categories are worth a lot of points.
 
@@ -111,9 +113,3 @@ Using a Spiel Mini set
 ----------------------
 
 If you decide to use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set then colored layers and the wild die will not be scoring options unless you happen to have extra, differently colored dice to use for your pyramid.
-
-Credits
-=======
-
- * [Reinhold Wittig](http://www.perlhuhn.de/) is the designer of Das Spiel.
- 
