@@ -75,7 +75,7 @@ Ending the game
 
 The players will continue to take dice from the pyramid until one of the following conditions occur:
 
- 1. Both players take negative points on successive turns
+ 1. Both players take negative points on successive turns, or...
  2. All of the dice have been removed from the pyramid
 
 Once either of these conditions occur then scoring commences.
@@ -85,14 +85,14 @@ Scoring in Ozymandias
 
  Set category                    | Point value
  :-------------------------------|:----------:
- Run                             |  2 * colors
- Three of a kind                 |  3 * colors
- Four of a kind                  |  4 * colors
- Additive set (e.g. 4=1+3)       | (5 + count) * colors
- Multiplicative set (e.g. 3=1*3) | (6 + count) * colors
+ Run of three or more            |  Number of dice taken * unique colors
+ Three of a kind                 |  3 * unique colors
+ Four of a kind                  |  4 * unique colors
+ Additive set (e.g. 4=1+3)       | (5 + count) * unique colors
+ Multiplicative set (e.g. 3=1*3) | (6 + count) * unique colors
                                  |
  Two of a kind                   | 2
- Single die                      | -5
+ Single die                      | -10
 
 The scoring can be layered.  That is, certain combinations fall into more than category, but the color multiplier is applied only once.  The table below shows scoring on a few interesting sets:
 
