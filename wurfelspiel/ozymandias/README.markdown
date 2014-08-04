@@ -23,13 +23,13 @@ Ozymandias
 Setup of Ozymandias
 ===================
 
-*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set, either of the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or  [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) versions would do.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
+*Ozymandias* requires a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set designed by [Reinhold Wittig](http://www.perlhuhn.de/).  Either of the [KOSMOS](http://boardgamegeek.com/boardgameversion/28556/german-third-edition) or  [ABACUSSPIELE](http://boardgamegeek.com/boardgamepublisher/29/abacusspiele) versions will suffice.  For a very quick game you could even use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, or only use a segment of the larger Spiel base.
 
 To set up the dice pyramid for play simply pour dice randomly onto the Spiel base, layer upon layer using different colored dice.  Finally, you should put a uniquely colored die, known as the *wild die*, at the apex of the pyramid.
 
 ![pyramid](https://raw.githubusercontent.com/fogus/spiel/master/wurfelspiel/ozymandias/graphics/dice-pyramid.png)
 
-The game consists of alternating turns consisting of two *takes*, except for the starting player who make only a single take. A "take" is the act of removing some number of dice from the pyramid and scoring them according to their original orientation in the dice pyramid.
+The game consists of alternating turns consisting of two *takes*, except for the starting player who performs only a single take. A "take" is the act of removing some number of dice from the pyramid and scoring them according to their original orientation in the dice pyramid.
 
 The description of turns, taking, and scoring rules follow next.
 
@@ -117,5 +117,5 @@ If you decide to use a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/sp
 Credits
 =======
 
- * [Reinhold Wittig](http://www.perlhuhn.de/) is the designer of Das Spiel.
+ *  is the designer of Das Spiel.
  
