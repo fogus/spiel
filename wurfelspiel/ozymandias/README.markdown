@@ -1,7 +1,7 @@
 Ozymandias
 -------
 
-*Ozymandias* is a dice game of pyramidal deconstruction for two players.
+*Ozymandias* is a dice game of pyramidal deconstruction for one or two players.
 
 > I met a traveller from an antique land
 > Who said: "Two vast and trunkless legs of stone
