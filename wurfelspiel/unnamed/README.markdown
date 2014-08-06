@@ -21,11 +21,13 @@ WIP
 
 On turn
 * make an optional capture
-* place a die
-  - if it's your die, you place the face that's showing
-    + if it'll show two or three faces then then one must be 
-	  the smallest face on the perpendicular edge
-  - if 
+* when you place a die you always place the face that's showing
+  on the side of your choice
+  - if it'll show two or three faces:
+  - if it's your die then one must be the smallest 
+    face on the perpendicular edge
+  - if it's your opponent's die then one must be the
+    largest face on the perpendicular edge
 
 Capture
 -------
