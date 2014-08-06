@@ -7,6 +7,8 @@ WIP
 
 Each player gets 10 dice of differing colors.
 
+(?) maybe place a neutral die in the center square?
+
 Goal
 ====
 
