@@ -25,7 +25,8 @@ TODO
 
  * If you can move, you must move
  * Based on color shown
- * Any number of blank spaces
+ * Any number of blank spaces, stopping at the last blank before 
+   any sized piece
  * Stops at first larger or smaller, perfectly nestable piece
  * Can travel over any number of like-sized pieces to land on 
    legal spot
