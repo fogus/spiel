@@ -10,6 +10,8 @@ Each player gets 10 dice of differing colors.
 Goal
 ====
 
+TODO
+
 To have the most points on 2 of the 3 sides
 
 Gameplay
