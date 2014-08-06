@@ -25,11 +25,11 @@ TODO
 
  * If you can move, you must move
  * Based on color shown
- * Any number of blank spaces, stopping at the last blank before 
-   any sized piece
+ * Any number of blank spaces, stopping on top of the first piece
  * Stops at first larger or smaller, perfectly nestable piece
  * Can travel over any number of like-sized pieces to land on 
-   legal spot
+   legal spot, pieces of a like size can be on top of a 
+   larger piece
  * If no legal moves then you must pass
  * A pile of pyramids or a segment can move, as long as a piece
    somewhere in the moving pile matches the color on the die
