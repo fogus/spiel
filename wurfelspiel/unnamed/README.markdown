@@ -20,8 +20,12 @@ Gameplay
 WIP
 
 On turn
-- make an optional capture
-- place a die
+* make an optional capture
+* place a die
+  - if it's your die, you place the face that's showing
+    + if it'll show two or three faces then then one must be 
+	  the smallest face on the perpendicular edge
+  - if 
 
 Capture
 -------
