@@ -1,1 +1,7 @@
 *unnamed* is a game of pyramid construction for two players using a Das Spiel set.
+
+Preparation
+===========
+
+TODO
+
