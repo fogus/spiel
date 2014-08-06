@@ -21,3 +21,10 @@ On turn
 - make an optional capture
 - place a die
 
+Capture
+-------
+
+TODO
+
+- Blue 4 and 2 captures red 6
+- Blue 4 and 2 are rerolled and must be placed as is by opponent
