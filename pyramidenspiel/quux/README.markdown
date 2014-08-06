@@ -14,7 +14,7 @@ One player is assigned a row of three cells to be their "home row" while the oth
 Goal
 ====
 
-TODO
+Get all three pieces of your color in the opponent's home row
 
 Turns
 =====
