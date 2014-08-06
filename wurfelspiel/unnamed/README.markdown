@@ -36,5 +36,6 @@ Capture
 
 WIP
 
-- Blue 4 and 2 captures red 6
-- Blue 4 and 2 are rerolled and must be placed as is by opponent
+- Blue 4 and 2 captures Red 6
+- The 6 is rerolled but must later be placed by Blue player
+- Blue 4 and 2 must be later placed by Red player
