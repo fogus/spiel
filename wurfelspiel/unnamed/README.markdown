@@ -3,21 +3,21 @@
 Preparation
 ===========
 
-TODO
+WIP
 
 Each player gets 10 dice of differing colors.
 
 Goal
 ====
 
-TODO
+WIP
 
 To have the most points on 2 of the 3 sides
 
 Gameplay
 ========
 
-TODO
+WIP
 
 On turn
 - make an optional capture
@@ -26,7 +26,7 @@ On turn
 Capture
 -------
 
-TODO
+WIP
 
 - Blue 4 and 2 captures red 6
 - Blue 4 and 2 are rerolled and must be placed as is by opponent
