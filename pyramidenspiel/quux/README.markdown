@@ -23,12 +23,17 @@ TODO
 
 ## Movement
 
- * Based on color shown
- * Moves number of spaces ortho equal to its pips
- * If no legal moves then you must pass
  * If you can move, you must move
- * A pile of pyramids or a segment can move, as long as the color 
-   at the base of the moving pile matches the color on the die
+ * Based on color shown
+ * Any number of blank spaces
+ * Stops at first larger or smaller, perfectly nestable piece
+ * Can travel over any number of like-sized pieces to land on 
+   legal spot
+ * If no legal moves then you must pass
+ * A pile of pyramids or a segment can move, as long as a piece
+   somewhere in the moving pile matches the color on the die
+   - Only the base moves however, be it from the bottom or 
+     a segment. Those on top go for the ride
 
 ## Movement constraints
 
