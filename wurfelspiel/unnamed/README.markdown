@@ -5,3 +5,9 @@ Preparation
 
 TODO
 
+Each player gets 10 dice of differing colors.
+
+Gameplay
+========
+
+TODO
