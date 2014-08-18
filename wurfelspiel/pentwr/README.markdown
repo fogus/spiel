@@ -3,7 +3,7 @@
 Preparation
 ===========
 
-Each player gets 10 dice of differing colors, however a single color can be used if desired.
+Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play.
 
 Goal
 ====
