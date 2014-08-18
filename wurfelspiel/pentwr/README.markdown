@@ -13,11 +13,22 @@ To have the most points on the majority of the three dice pyramid faces.
 Gameplay
 ========
 
-WIP
+The players take alternating turns consisting of one of the following actions:
 
-On turn
-* make an optional capture
-* place a die
+ * make a capture
+ * place a die
+ 
+The player taking a turn can pick only one of the actions on her turn.
+
+Capture
+-------
+
+TODO
+
+Placing
+-------
+
+TODO
 
 * when you place a die you always place the face that's showing
   on the side of your choice
