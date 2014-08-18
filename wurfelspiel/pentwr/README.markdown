@@ -3,14 +3,12 @@
 Preparation
 ===========
 
-Each player gets 10 dice of differing colors, however a single color can be used which would slightly change the way a game is scored.
+Each player gets 10 dice of differing colors, however a single color can be used if desired.
 
 Goal
 ====
 
-WIP
-
-To have the most points on 2 of the 3 sides
+To have the most points on the majority of the three dice pyramid faces.
 
 Gameplay
 ========
