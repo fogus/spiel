@@ -1,13 +1,9 @@
-*unnamed* is a game of pyramid construction for two players using a Das Spiel set.
+*unnamed* is a game of pyramid construction for two players using either a [Das Spiel]() or [Spiel Mini]() set.
 
 Preparation
 ===========
 
-WIP
-
-Each player gets 10 dice of differing colors.
-
-(?) maybe place a neutral die in the center square?
+Each player gets 10 dice of differing colors, however a single color can be used which would slightly change the way a game is scored.
 
 Goal
 ====
