@@ -15,8 +15,8 @@ Gameplay
 
 The players take alternating turns consisting of one of the following actions:
 
- * make a capture
- * place a die
+ * Capture a die
+ * Place a die
  
 The player taking a turn can pick only one of the actions on her turn.
 
