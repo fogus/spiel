@@ -3,9 +3,9 @@
 Preparation
 ===========
 
-Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play and these numbers are called the *stock*.
+Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The dice rolled will constitute the values available for play. This set of dice is called the *nest*.
 
-If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set then only the cells on a triangular region of 4x4x4 should be used.
+*note: If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set then only the cells on a triangular region of 4x4x4 should be used.*
 
 Goal
 ====
@@ -17,7 +17,7 @@ Gameplay
 
 The players take alternating turns consisting of *one* of the following actions:
 
- * Capture a die
+ * Infect a nest
  * Place a die
  * Pass
  
@@ -26,12 +26,12 @@ A player can only pass if they've run out of dice to play before the other playe
 Capture
 -------
 
-To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then re-rolled and placed into the opponent's stock.  Likewise, the die captured is taken into the capturing player's stock and dice and also re-rolled.
+To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then re-rolled and placed into the opponent's nest.  Likewise, the die captured is taken into the capturing player's nest and dice and also re-rolled.
 
 Placing
 -------
 
-It's an important aspect of *Cuckoo* that the players are ultimately Responsible for placing all of the dice in theor stock onto the pyramid, including those belonging to their opponent.  When placing a die it must *always* be placed such that its upturned face is exposed on at least one side of the pyramid.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements, detailed next.
+It's an important aspect of *Cuckoo* that the players are ultimately Responsible for placing all of the dice in theor nest onto the pyramid, including those belonging to their opponent.  When placing a die it must *always* be placed such that its upturned face is exposed on at least one side of the pyramid.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements, detailed next.
 
 ### Multi-side placements
 
@@ -60,7 +60,7 @@ When all of the dice have been placed onto the pyramid the players sum the point
 
 ### Continuous scoring
 
-If you only have dice of a single color then scoring can be done as dice are placed onto the pyramid rather than at the end.  Keeping score on a piece of paper while playing and separating captured and capturing dice from the stocks will help simplify this process.
+If you only have dice of a single color then scoring can be done as dice are placed onto the pyramid rather than at the end.  Keeping score on a piece of paper while playing and separating captured and capturing dice from the nests will help simplify this process.
 
 Design notes
 ============
