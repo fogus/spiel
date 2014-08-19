@@ -37,7 +37,7 @@ That is, if the placement of a die will show two faces, then the second showing 
   - If the die belongs to the placing player then the second face must 
     be the smallest face on the perpendicular edge.
 
-
+For example, if a player wishes to place a die showing a `6` on a corner space then the `6` must show on one side and the `1`, since it's the smallest perpendicular value, must show on the other pyramid side.
 
   - if it's your opponent's die then one must be the
     largest face on the perpendicular edge
