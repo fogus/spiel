@@ -36,7 +36,7 @@ Placing
 
 The dice that a player has in stock must all be placed on the pyramid.  When placing a die it must *always* be placed such that its face value is showing on one of the pyramid sides.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements.
 
-### Two-side placements
+### Multi-side placements
 
 That is, if the placement of a die will show two faces, then the second showing face must adhere to the following rules:
 
@@ -49,10 +49,6 @@ For example, if a player wishes to place his die showing a `6` on a corner space
     be the largest face on the perpendicular edge.
 
 For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on the other pyramid side.
-
-### Apex placement
-
-TODO
 
 ### The middle die exception
 
