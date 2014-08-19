@@ -26,7 +26,7 @@ A player can only pass if they've run out of dice to play before the other playe
 Infecting a nest
 ----------------
 
-A player can infect an opponent's nest by putting some of her dice into it.  This is done by adding the values showing on the faces of two or more of her dice to equal the value on a single opponent die.  These dice are then swapped with the opponent's single die in both player's nests.  Before making the exchange all of the dice involved in the infection are re-rolled.
+A player can infect an opponent's nest by putting some of their own dice into it.  This is done by adding the values of two or more of their own dice to equal the value on a single opponent die.  These dice are then swapped with the opponent's single die in both player's nests.  However, before making the exchange all of the dice involved in the infection are re-rolled.  A player must use at least two dice in the exchange with their opponent.
 
 Placing
 -------
