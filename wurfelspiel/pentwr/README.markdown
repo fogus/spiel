@@ -25,6 +25,10 @@ Capture
 
 To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then rerolled and given to the opponent.  Likewise, the die captured is taken into the capturing player's stock and dice and also rerolled.  If you're using dice of the same color then just put the captured and capturing dice aside apart from the others.
 
+- Blue 4 and 2 captures Red 6
+- The 6 is rerolled but must eventually be placed by Blue player
+- Blue 4 and 2 must be later placed by Red player
+
 Both players are ultimately responsible for placing dice for their opponent according to the placement rules explained next.
 
 Placing
@@ -37,20 +41,16 @@ That is, if the placement of a die will show two faces, then the second showing 
   - If the die belongs to the placing player then the second face must 
     be the smallest face on the perpendicular edge.
 
-For example, if a player wishes to place a die showing a `6` on a corner space then the `6` must show on one side and the `1`, since it's the smallest perpendicular value, must show on the other pyramid side.
+For example, if a player wishes to place his die showing a `6` on a corner space then that `6` must show on one side and a `1`, since it's the smallest perpendicular value, must show on the other pyramid side.
 
-  - if it's your opponent's die then one must be the
-    largest face on the perpendicular edge
+  - If it's an opponent's die that's placed then the second face must
+    be the largest face on the perpendicular edge.
+
+For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on the other pyramid side.
+
+The placement game 
 
 ### The middle die exception
 
 There is one exception to this rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  
 
-Capture
--------
-
-WIP
-
-- Blue 4 and 2 captures Red 6
-- The 6 is rerolled but must eventually be placed by Blue player
-- Blue 4 and 2 must be later placed by Red player
