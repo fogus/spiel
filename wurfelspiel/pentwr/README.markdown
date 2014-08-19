@@ -23,7 +23,7 @@ The player taking a turn can pick only one of the actions on her turn.
 Capture
 -------
 
-TODO
+To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.
 
 Placing
 -------
