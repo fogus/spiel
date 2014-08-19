@@ -5,7 +5,7 @@ Preparation
 
 Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play.
 
-If the players use a 
+If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set then only the cells on a point 4x4x4 cells large are used.
 
 Goal
 ====
@@ -59,12 +59,7 @@ Therefore, a player can willingly place any die on the center cell and receive t
 
 ### Scoring
 
-When all of the dice have been placed onto the pyramid the players sum the points showing and any dungeon bonuses to determine the scores for each side.  The player with the highest total on the majority of sides wins the game.  If a tie occurs then the following tie-breakers take affect:
-
- - The player with the least captures wins
- - The player who took the dungeon wins
-
-If neither tie-breaker applies or cancel out then both players win!
+When all of the dice have been placed onto the pyramid the players sum the points showing and any dungeon bonuses to determine the scores for each side.  The player with the highest total on the majority of sides wins the game.  If a tie occurs then the player who took the dungeon wins.
 
 Design notes
 ============
