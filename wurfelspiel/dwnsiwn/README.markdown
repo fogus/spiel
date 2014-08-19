@@ -62,5 +62,5 @@ When all of the dice have been placed onto the pyramid the players sum the point
 Design notes
 ============
 
-*Dwnsiwn* is clearly inspired by [Inside](http://boardgamegeek.com/boardgame/30179/inside), designed by [Henrik Morast](http://boardgamegeek.com/boardgamedesigner/9007/henrik-morast).  It started as a direct adaptation of Inside to a Spiel Mini set, but I found that less than inspiring.  Instead, I tried to use the nature of the Spiel set's dicey nature to inform an Inside-like game.  I hope that I succeeded.
+*Dwnsiwn* is clearly inspired by [Inside](http://boardgamegeek.com/boardgame/30179/inside), designed by [Henrik Morast](http://boardgamegeek.com/boardgamedesigner/9007/henrik-morast).  It started as a direct adaptation of Inside to a Spiel Mini set, but I found that less than inspiring.  Instead, I tried to use the nature of the Spiel set's dicey nature to inform an Inside-like side-win majority theme.  I hope that I succeeded.
 
