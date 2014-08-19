@@ -55,9 +55,14 @@ The placing player can always decide which side of the pyramid the die values re
 
 There is one exception to the placement rule and that is if a die is placed on the center-most square, named the *dungeon*.  Naturally, the die placed in the dungeon will eventually be buried.  In this case a player will receive zero-points for this die.  However, the dungeon is important should ties occur.
 
-### Scoring
+Scoring
+-------
 
 When all of the dice have been placed onto the pyramid the players sum the points showing and any dungeon bonuses to determine the scores for each side.  The player with the highest total on the majority of sides wins the game.  If a tie occurs then the player who took the dungeon wins.
+
+### Continuous scoring
+
+If you only have dice of a single color then scoring can be done as dice are placed onto the pyramid rather than at the end.  Keeping score on a piece of paper while playing and separating captured and capturing dice from the stocks will help simplify this process.
 
 Design notes
 ============
