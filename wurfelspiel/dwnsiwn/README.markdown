@@ -53,9 +53,7 @@ The placing player can always decide which side of the pyramid the die values re
 
 ### The dungeon
 
-There is one exception to the placement rule and that is if a die is placed on the center-most square, named the *dungeon*.  Naturally, the die placed in the dungeon will eventually be buried.  In this case a player will receive zero-points for this die.  However, the dungeon is important should ties occur.  
-
-Therefore, a player can willingly place any die on the center cell and receive the smallest value for an apex placement, 1-2-3 points for the sides showing the values on the die for the player owning the placed die.  These points are added to the final score for the corresponding sides should a tie occur.
+There is one exception to the placement rule and that is if a die is placed on the center-most square, named the *dungeon*.  Naturally, the die placed in the dungeon will eventually be buried.  In this case a player will receive zero-points for this die.  However, the dungeon is important should ties occur.
 
 ### Scoring
 
