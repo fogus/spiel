@@ -28,7 +28,7 @@ Capture
 
 To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then re-rolled and placed into the opponent's stock.  Likewise, the die captured is taken into the capturing player's stock and dice and also re-rolled.
 
-Both players are ultimately responsible for placing dice for their opponent according to the placement rules explained next.
+It's an important aspect of *Dwnsiwn* that the players are ultimately responsible for placing all of the dice in theor stock onto the pyramid, including those belonging to their opponent.
 
 Placing
 -------
