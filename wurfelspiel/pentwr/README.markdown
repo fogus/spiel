@@ -19,7 +19,7 @@ The players take alternating turns consisting of one of the following actions:
  * Place a die
  * Pass
  
-The player taking a turn can pick only one of the actions on her turn.  Likewise, a player can only pass if they've run out of dice to play before the other player.
+The player taking a turn can pick only one of the actions on her turn.  Likewise, a player can only pass if they've run out of dice to play before the other player has.
 
 Capture
 -------
