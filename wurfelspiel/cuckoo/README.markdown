@@ -1,4 +1,4 @@
-*Cuckoo* is a game of pyramid construction for Two Players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, designed by [Reinhold Wittig](http://www.perlhuhn.de/).
+*Pidan* is a game of pyramid construction for Two Players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, designed by [Reinhold Wittig](http://www.perlhuhn.de/).
 
 Preparation
 ===========
@@ -31,7 +31,7 @@ A player can infect an opponent's nest by putting some of their own dice into it
 Placing
 -------
 
-It's an important aspect of *Cuckoo* that the players are ultimately responsible for placing all of the dice in their nest onto the pyramid, including those belonging to their opponent.  When placing a die it must *always* be placed such that its upturned face is exposed on at least one side of the pyramid.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements, detailed next.
+It's an important aspect of *Pidan* that the players are ultimately responsible for placing all of the dice in their nest onto the pyramid, including those belonging to their opponent.  When placing a die it must *always* be placed such that its upturned face is exposed on at least one side of the pyramid.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements, detailed next.
 
 ### Multi-side placements
 
@@ -66,5 +66,5 @@ If you only have dice of a single color then scoring can be done as dice are pla
 Design notes
 ============
 
-*Cuckoo* is clearly inspired by [Inside](http://boardgamegeek.com/boardgame/30179/inside), designed by [Henrik Morast](http://boardgamegeek.com/boardgamedesigner/9007/henrik-morast).  It started as a direct adaptation of Inside to a Spiel Mini set, but I found that less than inspiring.  Instead, I tried to use the nature of the Spiel set's dicey nature to inform an Inside-like side-win majority theme.  I hope that I succeeded.
+*Pidan* is clearly inspired by [Inside](http://boardgamegeek.com/boardgame/30179/inside), designed by [Henrik Morast](http://boardgamegeek.com/boardgamedesigner/9007/henrik-morast).  It started as a direct adaptation of Inside to a Spiel Mini set, but I found that less than inspiring.  Instead, I tried to use the nature of the Spiel set's dicey nature to inform an Inside-like side-win majority theme.  I hope that I succeeded.
 
