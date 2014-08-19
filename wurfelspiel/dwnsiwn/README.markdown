@@ -10,7 +10,7 @@ If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229
 Goal
 ====
 
-To have the most points on the majority of the three dice pyramid faces.
+To have the most points on the majority of the three pyramid faces.
 
 Gameplay
 ========
