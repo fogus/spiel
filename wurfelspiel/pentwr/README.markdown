@@ -52,9 +52,11 @@ For example, if a player wishes to place her opponent's die showing a `2` on a c
 
 The placing player can always decide which side of the pyramid the die values reside.
 
-### The middle die exception
+### The dungeon exception
 
-There is one exception to the placement rules rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  In this case a player will receive zero-points for this die.  Therefore, the first player of the game can choose to place any die on the center cell and receive the smallest value for an apex placement, 1-2-3 points for the sides showing the values on the die.  These points are added to the final score for the corresponding sides.
+There is one exception to the placement rules rule and that is if a die is placed on the center-most square, named *the dungeon*.  Naturally, the die placed in the dungeon will eventually be buried.  In this case a player will receive zero-points for this die. 
+
+Therefore, a player can, on their first move, choose to willingly place any die on the center cell and receive the smallest value for an apex placement, 1-2-3 points for the sides showing the values on the die.  These points are added to the final score for the corresponding sides.  Should the players choose to forego placing on the center square on their first move then whomever inevitably places a die into the dungeon will receive no extra points for the final score.
 
 ### Scoring
 
