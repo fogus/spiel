@@ -23,10 +23,10 @@ The players take alternating turns consisting of *one* of the following actions:
  
 A player can only pass if they've run out of dice to play before the other player has.
 
-Capture
--------
+Infecting a nest
+----------------
 
-To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then re-rolled and placed into the opponent's nest.  Likewise, the die captured is taken into the capturing player's nest and dice and also re-rolled.
+A player can infect an opponent's nest by putting some of her dice into it.  This is done by adding the values showing on the faces of two or more of her dice to equal the value on a single opponent die.  These dice are then swapped with the opponent's single die in both player's nests.  Before making the exchange all of the dice involved in the infection are re-rolled.
 
 Placing
 -------
