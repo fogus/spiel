@@ -5,7 +5,7 @@ Preparation
 
 Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play.
 
-If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set then only the cells on a point 4x4x4 cells large are used.
+If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set then only the cells on a triangular region of 4x4x4 should be used.
 
 Goal
 ====
@@ -15,13 +15,13 @@ To have the most points on the majority of the three pyramid faces.
 Gameplay
 ========
 
-The players take alternating turns consisting of one of the following actions:
+The players take alternating turns consisting of *one* of the following actions:
 
  * Capture a die
  * Place a die
  * Pass
  
-The player taking a turn can pick only one of the actions on her turn.  Likewise, a player can only pass if they've run out of dice to play before the other player has.
+A player can only pass if they've run out of dice to play before the other player has.
 
 Capture
 -------
