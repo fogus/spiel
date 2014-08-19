@@ -1,9 +1,11 @@
-*Dwnsiwn* (pronounced Duneshoon) is a game of pyramid construction for two players using either a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) or [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, both designed by [Reinhold Wittig](http://www.perlhuhn.de/).
+*Dwnsiwn* (pronounced Duneshoon) is a game of pyramid construction for two players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, designed by [Reinhold Wittig](http://www.perlhuhn.de/).
 
 Preparation
 ===========
 
 Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play.
+
+If the players use a 
 
 Goal
 ====
