@@ -3,7 +3,7 @@
 Preparation
 ===========
 
-Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play.
+Each player gets 10 dice of differing colors, however a single color can be used if desired.  Once the dice have been allocated, each player rolls all of the dice at the same time.  The numbers rolled will constitute the values available for play and these numbers are called the *stock*.
 
 If the players use a larger  [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) set then only the cells on a triangular region of 4x4x4 should be used.
 
@@ -26,7 +26,7 @@ A player can only pass if they've run out of dice to play before the other playe
 Capture
 -------
 
-To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then re-rolled and given to the opponent.  Likewise, the die captured is taken into the capturing player's stock and dice and also re-rolled.  If you're using dice of the same color then just put the captured and capturing dice aside apart from the others.
+To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then re-rolled and placed into the opponent's stock.  Likewise, the die captured is taken into the capturing player's stock and dice and also re-rolled.  If you're using dice of the same color then just put the captured and capturing dice aside apart from the others.
 
 Both players are ultimately responsible for placing dice for their opponent according to the placement rules explained next.
 
