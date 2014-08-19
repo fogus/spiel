@@ -31,19 +31,20 @@ A player can infect an opponent's nest by putting some of their own dice into it
 Placing
 -------
 
-It's an important aspect of *Cuckoo* that the players are ultimately Responsible for placing all of the dice in theor nest onto the pyramid, including those belonging to their opponent.  When placing a die it must *always* be placed such that its upturned face is exposed on at least one side of the pyramid.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements, detailed next.
+It's an important aspect of *Cuckoo* that the players are ultimately responsible for placing all of the dice in their nest onto the pyramid, including those belonging to their opponent.  When placing a die it must *always* be placed such that its upturned face is exposed on at least one side of the pyramid.  The placements continue until all of the dice have been added to the pyramid.  However, the rules for placement require that certain other edges must also show in certain multi-side placements, detailed next.
 
 ### Multi-side placements
 
-That is, if the placement of a die will show multiple faces (i.e. on a corner or the apex) then a second showing face must adhere to the following rules:
+If the placement of a die will show multiple faces (i.e. on a corner or the apex) then a second showing face must adhere to the following rules:
 
   - If the die belongs to the placing player then the second face must 
-    be the smallest face on the perpendicular edge.
+    be the smallest value available on the perpendicular edge.
 
-For example, if a player wishes to place his die showing a `6` on a corner space then that `6` must show on one side and a `1`, since it's the smallest perpendicular value, must show on the other pyramid side.
+For example, if a player wishes to place his die showing a `6` on a corner space then that `6` must show on one side and a `1`, since it's the smallest perpendicular value, must show on another pyramid side.
 
-  - If it's an opponent's die that's placed then the second face must
-    be the largest face on the perpendicular edge.
+  - However, if it's an opponent's die that's placed then the second
+    face must show the largest available value on the perpendicular
+	edge.
 
 For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on the other pyramid side.
 
