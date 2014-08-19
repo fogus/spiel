@@ -38,7 +38,7 @@ The dice that a player has in stock must all be placed on the pyramid.  When pla
 
 ### Multi-side placements
 
-That is, if the placement of a die will show two faces, then the second showing face must adhere to the following rules:
+That is, if the placement of a die will show multiple faces (i.e. on a corner or the apex) then a second showing face must adhere to the following rules:
 
   - If the die belongs to the placing player then the second face must 
     be the smallest face on the perpendicular edge.
@@ -50,9 +50,11 @@ For example, if a player wishes to place his die showing a `6` on a corner space
 
 For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on the other pyramid side.
 
+The placing player can always decide which side of the pyramid the die values reside.
+
 ### The middle die exception
 
-There is one exception to the placement rules rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  
+There is one exception to the placement rules rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  In this case a player will receive zero-points for this die.  Therefore, the first player of the game can choose to place any die on the center cell and receive the smallest value for an apex placement, 1-2-3 points for the sides showing the values on the die.  These points are added to the final score for the corresponding sides.
 
 ### Scoring
 
