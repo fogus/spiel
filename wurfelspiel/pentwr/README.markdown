@@ -30,13 +30,17 @@ Both players are ultimately responsible for placing dice for their opponent acco
 Placing
 -------
 
-The dice that a player has in stock must all be placed on the pyramid.  When placing a die it must always be placed such that its face value is showing on one of the pyramid sides.  However, the rules for placement require that certain other edges must also show in certain multi-side placements.
+The dice that a player has in stock must all be placed on the pyramid.  When placing a die it must *always* be placed such that its face value is showing on one of the pyramid sides.  However, the rules for placement require that certain other edges must also show in certain multi-side placements.
 
-That is, if it'll show two or three faces:
-    - if it's your die then one must be the smallest 
-      face on the perpendicular edge
-    - if it's your opponent's die then one must be the
-      largest face on the perpendicular edge
+That is, if the placement of a die will show two faces, then the second showing face must adhere to the following rules:
+
+  - If the die belongs to the placing player then the second face must 
+    be the smallest face on the perpendicular edge.
+
+
+
+  - if it's your opponent's die then one must be the
+    largest face on the perpendicular edge
 
 ### The middle die exception
 
