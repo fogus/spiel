@@ -1,4 +1,4 @@
-*unnamed* is a game of pyramid construction for two players using either a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) or [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, both designed by 
+*unnamed* is a game of pyramid construction for two players using either a [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel) or [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, both designed by [Reinhold Wittig](http://www.perlhuhn.de/).
 
 Preparation
 ===========
