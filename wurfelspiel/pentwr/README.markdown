@@ -61,6 +61,14 @@ Therefore, a player can, on their first move, choose to willingly place any die 
 
 ### Scoring
 
-When all of the dice have 
+When all of the dice have been placed onto the pyramid the players sum the points showing and any dungeon bonuses to determine the scores for each side.  The player with the highest total on the majority of sides wins the game.  If a tie occurs then the following tie-breakers take affect:
 
+ - The player with the least captures wins
+ - The player who took the dungeon wins
 
+If neither tie-breaker applies or cancel out then both players win!
+
+Design notes
+============
+
+TODO
