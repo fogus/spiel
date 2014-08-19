@@ -26,10 +26,6 @@ Capture
 
 To capture, a player can add the values showing on the faces of two or more of their dice to equal the value on a single opponent die.  The dice used to capture are then rerolled and given to the opponent.  Likewise, the die captured is taken into the capturing player's stock and dice and also rerolled.  If you're using dice of the same color then just put the captured and capturing dice aside apart from the others.
 
-- Blue 4 and 2 captures Red 6
-- The 6 is rerolled but must eventually be placed by Blue player
-- Blue 4 and 2 must be later placed by Red player
-
 Both players are ultimately responsible for placing dice for their opponent according to the placement rules explained next.
 
 Placing
