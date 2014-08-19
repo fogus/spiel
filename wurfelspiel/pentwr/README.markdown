@@ -30,7 +30,7 @@ Both players are ultimately responsible for placing dice for their opponent acco
 Placing
 -------
 
-The dice that a player has in stock must all be placed on the pyramid.  When placing a die it must always be placed such that its face value is showing on one of the pyramid sides.  There is one exception to this rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  
+The dice that a player has in stock must all be placed on the pyramid.  When placing a die it must always be placed such that its face value is showing on one of the pyramid sides.  
 
 
 - if it'll show two or three faces:
@@ -38,6 +38,10 @@ The dice that a player has in stock must all be placed on the pyramid.  When pla
       face on the perpendicular edge
     - if it's your opponent's die then one must be the
       largest face on the perpendicular edge
+
+### The middle die exception
+
+There is one exception to this rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  
 
 Capture
 -------
