@@ -48,9 +48,14 @@ For example, if a player wishes to place his die showing a `6` on a corner space
 
 For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on the other pyramid side.
 
-The placement game 
+The placements continue until all of the dice have been added to the pyramid.
 
 ### The middle die exception
 
 There is one exception to this rule and that is if a die is placed on the center-most square where naturally the die thus placed will eventually be buried.  
+
+### Scoring
+
+TODO
+
 
