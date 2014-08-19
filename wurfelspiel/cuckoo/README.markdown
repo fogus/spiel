@@ -1,4 +1,4 @@
-*Cuckoo* (pronounced Duneshoon) is a game of pyramid construction for Two Players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, designed by [Reinhold Wittig](http://www.perlhuhn.de/).
+*Cuckoo* is a game of pyramid construction for Two Players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, designed by [Reinhold Wittig](http://www.perlhuhn.de/).
 
 Preparation
 ===========
@@ -46,18 +46,18 @@ For example, if a player wishes to place his die showing a `6` on a corner space
     face must show the largest available value on the perpendicular
 	edge.
 
-For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on the other pyramid side.
+For example, if a player wishes to place her opponent's die showing a `2` on a corner space then that `2` must show on one side and a `6`, since it's the largest perpendicular value, must show on another pyramid side.
 
 The placing player can always decide which side of the pyramid the die values reside.
 
-### The dungeon
+### The pidan
 
-There is one exception to the placement rule and that is if a die is placed on the center-most square, named the *dungeon*.  Naturally, the die placed in the dungeon will eventually be buried.  In this case a player will receive zero-points for this die.  However, the dungeon is important should ties occur.
+There is one exception to the placement rule and that is when a die, named the *pidan*, is placed on the center-most square.  Naturally, the pidan will be buried, causing a player to receive zero-points for it in the end.  However, the pidan is important should ties occur.
 
 Scoring
 -------
 
-When all of the dice have been placed onto the pyramid the players sum the points showing and any dungeon bonuses to determine the scores for each side.  The player with the highest total on the majority of sides wins the game.  If a tie occurs then the player who took the dungeon wins.
+When all of the dice have been placed onto the pyramid the players sum the points showing to determine the scores for each side.  The player with the highest total on the majority of sides wins the game.  If a tie occurs then the player who played the pidan wins.
 
 ### Continuous scoring
 
