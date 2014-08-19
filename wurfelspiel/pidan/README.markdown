@@ -1,4 +1,4 @@
-*Pidan* is a game of pyramid construction for Two Players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set, designed by [Reinhold Wittig](http://www.perlhuhn.de/).
+*Pidan* is a game of pyramid construction for Two Players using a [Spiel Mini](http://boardgamegeek.com/boardgame/110073/spiel-mini) set.
 
 Preparation
 ===========
