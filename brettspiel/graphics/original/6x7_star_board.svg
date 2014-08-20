@@ -1,0 +1,188 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path id="hex" fill-opacity="100" fill="yellow" stroke-width="0.1" stroke="black" d="M 2,0 L 1,1 -1,1 -2,0 -1,-1 1,-1 Z"/>
+		<path id="partl" fill-opacity="100" fill="brown" stroke-width="0.1" stroke="black" d="M -1,-1  L 1,-1 2,0 1,1 -1,1"/>
+		<path id="partul" fill-opacity="100" fill="brown" stroke-width="0.1" stroke="black" d="M 1,-1  L 2,0 1,1 -1,1 -2,0"/>
+		<path id="partur" fill-opacity="100" fill="brown" stroke-width="0.1" stroke="black" d="M 2,0  L 1,1 -1,1 -2,0 -1,-1"/>
+		<path id="cornerll" fill-opacity="100" fill="brown" stroke-width="0.1" stroke="black" d="M -1,-1  L 1,-1 2,0 1,1"/>
+		<path id="cornerul" fill-opacity="100" fill="brown" stroke-width="0.1" stroke="black" d="M 1,-1  L 2,0 1,1 -1,1"/>
+		<path id="corneru" fill-opacity="100" fill="brown" stroke-width="0.1" stroke="black" d="M 2,0  L 1,1 -1,1 -2,0"/>
+		
+		<g id="cornerur"><use xlink:href="#cornerll" transform="rotate(180)"/></g>
+		<g id="cornerlr"><use xlink:href="#cornerul" transform="rotate(180)"/></g>
+		<g id="cornerl"><use xlink:href="#corneru" transform="rotate(180)"/></g>
+		<g id="partr"><use xlink:href="#partl" transform="rotate(180)"/></g>
+		<g id="partll"><use xlink:href="#partur" transform="rotate(180)"/></g>
+		<g id="partlr"><use xlink:href="#partul" transform="rotate(180)"/></g>
+	</defs>
+	<g transform="scale(10,17.32)">
+		<use xlink:href="#cornerul" transform="translate( 2, 8)"/>
+		<use xlink:href="#cornerll" transform="translate( 2,20)"/>
+		<use xlink:href="#cornerur" transform="translate(41, 7)"/>
+		<use xlink:href="#cornerlr" transform="translate(41,21)"/>
+		<use xlink:href="#corneru" transform="translate(23, 1)"/>
+		<use xlink:href="#cornerl" transform="translate(23,27)"/>
+
+		<use xlink:href="#partl" transform="translate( 2,10)"/>
+		<use xlink:href="#partl" transform="translate( 2,12)"/>
+		<use xlink:href="#partl" transform="translate( 2,14)"/>
+		<use xlink:href="#partl" transform="translate( 2,16)"/>
+		<use xlink:href="#partl" transform="translate( 2,18)"/>
+	
+		<use xlink:href="#partul" transform="translate( 5, 7)"/>
+		<use xlink:href="#partul" transform="translate( 8, 6)"/>
+		<use xlink:href="#partul" transform="translate(11, 5)"/>
+		<use xlink:href="#partul" transform="translate(14, 4)"/>
+		<use xlink:href="#partul" transform="translate(17, 3)"/>
+		<use xlink:href="#partul" transform="translate(20, 2)"/>
+	
+		<use xlink:href="#partur" transform="translate(26, 2)"/>
+		<use xlink:href="#partur" transform="translate(29, 3)"/>
+		<use xlink:href="#partur" transform="translate(32, 4)"/>
+		<use xlink:href="#partur" transform="translate(35, 5)"/>
+		<use xlink:href="#partur" transform="translate(38, 6)"/>
+	
+		<use xlink:href="#partll" transform="translate( 5,21)"/>
+		<use xlink:href="#partll" transform="translate( 8,22)"/>
+		<use xlink:href="#partll" transform="translate(11,23)"/>
+		<use xlink:href="#partll" transform="translate(14,24)"/>
+		<use xlink:href="#partll" transform="translate(17,25)"/>
+		<use xlink:href="#partll" transform="translate(20,26)"/>
+	
+		<use xlink:href="#partlr" transform="translate(26,26)"/>
+		<use xlink:href="#partlr" transform="translate(29,25)"/>
+		<use xlink:href="#partlr" transform="translate(32,24)"/>
+		<use xlink:href="#partlr" transform="translate(35,23)"/>
+		<use xlink:href="#partlr" transform="translate(38,22)"/>
+
+		<use xlink:href="#partr" transform="translate(41, 9)"/>
+		<use xlink:href="#partr" transform="translate(41,11)"/>
+		<use xlink:href="#partr" transform="translate(41,13)"/>
+		<use xlink:href="#partr" transform="translate(41,15)"/>
+		<use xlink:href="#partr" transform="translate(41,17)"/>
+		<use xlink:href="#partr" transform="translate(41,19)"/>
+
+		<use xlink:href="#hex" transform="translate( 5, 9)"/>
+		<use xlink:href="#hex" transform="translate( 5,11)"/>
+		<use xlink:href="#hex" transform="translate( 5,13)"/>
+		<use xlink:href="#hex" transform="translate( 5,15)"/>
+		<use xlink:href="#hex" transform="translate( 5,17)"/>
+		<use xlink:href="#hex" transform="translate( 5,19)"/>
+
+		<use xlink:href="#hex" transform="translate( 8, 8)"/>
+		<use xlink:href="#hex" transform="translate( 8,10)"/>
+		<use xlink:href="#hex" transform="translate( 8,12)"/>
+		<use xlink:href="#hex" transform="translate( 8,14)"/>
+		<use xlink:href="#hex" transform="translate( 8,16)"/>
+		<use xlink:href="#hex" transform="translate( 8,18)"/>
+		<use xlink:href="#hex" transform="translate( 8,20)"/>
+
+		<use xlink:href="#hex" transform="translate(11, 7)"/>
+		<use xlink:href="#hex" transform="translate(11, 9)"/>
+		<use xlink:href="#hex" transform="translate(11,11)"/>
+		<use xlink:href="#hex" transform="translate(11,13)"/>
+		<use xlink:href="#hex" transform="translate(11,15)"/>
+		<use xlink:href="#hex" transform="translate(11,17)"/>
+		<use xlink:href="#hex" transform="translate(11,19)"/>
+		<use xlink:href="#hex" transform="translate(11,21)"/>
+
+		<use xlink:href="#hex" transform="translate(14, 6)"/>
+		<use xlink:href="#hex" transform="translate(14, 8)"/>
+		<use xlink:href="#hex" transform="translate(14,10)"/>
+		<use xlink:href="#hex" transform="translate(14,12)"/>
+		<use xlink:href="#hex" transform="translate(14,14)"/>
+		<use xlink:href="#hex" transform="translate(14,16)"/>
+		<use xlink:href="#hex" transform="translate(14,18)"/>
+		<use xlink:href="#hex" transform="translate(14,20)"/>
+		<use xlink:href="#hex" transform="translate(14,22)"/>
+
+		<use xlink:href="#hex" transform="translate(17, 5)"/>
+		<use xlink:href="#hex" transform="translate(17, 7)"/>
+		<use xlink:href="#hex" transform="translate(17, 9)"/>
+		<use xlink:href="#hex" transform="translate(17,11)"/>
+		<use xlink:href="#hex" transform="translate(17,13)"/>
+		<use xlink:href="#hex" transform="translate(17,15)"/>
+		<use xlink:href="#hex" transform="translate(17,17)"/>
+		<use xlink:href="#hex" transform="translate(17,19)"/>
+		<use xlink:href="#hex" transform="translate(17,21)"/>
+		<use xlink:href="#hex" transform="translate(17,23)"/>
+
+		<use xlink:href="#hex" transform="translate(20, 4)"/>
+		<use xlink:href="#hex" transform="translate(20, 6)"/>
+		<use xlink:href="#hex" transform="translate(20, 8)"/>
+		<use xlink:href="#hex" transform="translate(20,10)"/>
+		<use xlink:href="#hex" transform="translate(20,12)"/>
+		<use xlink:href="#hex" transform="translate(20,14)"/>
+		<use xlink:href="#hex" transform="translate(20,16)"/>
+		<use xlink:href="#hex" transform="translate(20,18)"/>
+		<use xlink:href="#hex" transform="translate(20,20)"/>
+		<use xlink:href="#hex" transform="translate(20,22)"/>
+		<use xlink:href="#hex" transform="translate(20,24)"/>
+
+		<use xlink:href="#hex" transform="translate(23, 3)"/>
+		<use xlink:href="#hex" transform="translate(23, 5)"/>
+		<use xlink:href="#hex" transform="translate(23, 7)"/>
+		<use xlink:href="#hex" transform="translate(23, 9)"/>
+		<use xlink:href="#hex" transform="translate(23,11)"/>
+		<use xlink:href="#hex" transform="translate(23,13)"/>
+		<use xlink:href="#hex" transform="translate(23,15)"/>
+		<use xlink:href="#hex" transform="translate(23,17)"/>
+		<use xlink:href="#hex" transform="translate(23,19)"/>
+		<use xlink:href="#hex" transform="translate(23,21)"/>
+		<use xlink:href="#hex" transform="translate(23,23)"/>
+		<use xlink:href="#hex" transform="translate(23,25)"/>
+
+		<use xlink:href="#hex" transform="translate(26, 4)"/>
+		<use xlink:href="#hex" transform="translate(26, 6)"/>
+		<use xlink:href="#hex" transform="translate(26, 8)"/>
+		<use xlink:href="#hex" transform="translate(26,10)"/>
+		<use xlink:href="#hex" transform="translate(26,12)"/>
+		<use xlink:href="#hex" transform="translate(26,14)"/>
+		<use xlink:href="#hex" transform="translate(26,16)"/>
+		<use xlink:href="#hex" transform="translate(26,18)"/>
+		<use xlink:href="#hex" transform="translate(26,20)"/>
+		<use xlink:href="#hex" transform="translate(26,22)"/>
+		<use xlink:href="#hex" transform="translate(26,24)"/>
+
+		<use xlink:href="#hex" transform="translate(29, 5)"/>
+		<use xlink:href="#hex" transform="translate(29, 7)"/>
+		<use xlink:href="#hex" transform="translate(29, 9)"/>
+		<use xlink:href="#hex" transform="translate(29,11)"/>
+		<use xlink:href="#hex" transform="translate(29,13)"/>
+		<use xlink:href="#hex" transform="translate(29,15)"/>
+		<use xlink:href="#hex" transform="translate(29,17)"/>
+		<use xlink:href="#hex" transform="translate(29,19)"/>
+		<use xlink:href="#hex" transform="translate(29,21)"/>
+		<use xlink:href="#hex" transform="translate(29,23)"/>
+
+		<use xlink:href="#hex" transform="translate(32, 6)"/>
+		<use xlink:href="#hex" transform="translate(32, 8)"/>
+		<use xlink:href="#hex" transform="translate(32,10)"/>
+		<use xlink:href="#hex" transform="translate(32,12)"/>
+		<use xlink:href="#hex" transform="translate(32,14)"/>
+		<use xlink:href="#hex" transform="translate(32,16)"/>
+		<use xlink:href="#hex" transform="translate(32,18)"/>
+		<use xlink:href="#hex" transform="translate(32,20)"/>
+		<use xlink:href="#hex" transform="translate(32,22)"/>
+
+		<use xlink:href="#hex" transform="translate(35, 7)"/>
+		<use xlink:href="#hex" transform="translate(35, 9)"/>
+		<use xlink:href="#hex" transform="translate(35,11)"/>
+		<use xlink:href="#hex" transform="translate(35,13)"/>
+		<use xlink:href="#hex" transform="translate(35,15)"/>
+		<use xlink:href="#hex" transform="translate(35,17)"/>
+		<use xlink:href="#hex" transform="translate(35,19)"/>
+		<use xlink:href="#hex" transform="translate(35,21)"/>
+
+		<use xlink:href="#hex" transform="translate(38, 8)"/>
+		<use xlink:href="#hex" transform="translate(38,10)"/>
+		<use xlink:href="#hex" transform="translate(38,12)"/>
+		<use xlink:href="#hex" transform="translate(38,14)"/>
+		<use xlink:href="#hex" transform="translate(38,16)"/>
+		<use xlink:href="#hex" transform="translate(38,18)"/>
+		<use xlink:href="#hex" transform="translate(38,20)"/>
+	</g>
+</svg>
+
