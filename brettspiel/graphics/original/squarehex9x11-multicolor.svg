@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- W3C validated 2014-02-23 -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="542" height="542" id="svg2" viewBox="-1 -1 542 542">
+	<title>Hexagonal Tiling 4 Colors</title>
+	<g id="G1" style="stroke:black;stroke-width:1;stroke-linejoin:miter">
+		<path style="fill:blue"	d="M 0,0 30.310889,-17.5 60.621778,0 60.621778,35 30.310889,52.5 0,35 z" />
+		<path style="fill:aqua"	d="M 60.621778,0 90.932667,-17.5 121.24356,0 121.24356,35 90.932667,52.5 60.621778,35 z" />
+		<path style="fill:red"	d="M 30.310889,-52.5 60.621778,-70 90.932667,-52.5 90.932667,-17.5 60.621778,0 30.310889,-17.5 z" />
+		<path style="fill:yellow"	d="M 60.621778,105 30.310889,87.5 30.310889,52.5 60.621778,35 90.932667,52.5 90.932667,87.5 z" />
+	</g>
+	<use xlink:href="#G1" transform="translate(121.24356,0)" />
+	<use xlink:href="#G1" transform="translate(242.48711,0)" />
+	<use xlink:href="#G1" transform="translate(363.73067,0)" />
+	<use xlink:href="#G1" transform="translate(484.97423,0)" />
+	<use xlink:href="#G1" transform="translate(-60.621778,105)" />
+	<use xlink:href="#G1" transform="translate(60.621779,105)" />
+	<use xlink:href="#G1" transform="translate(181.86534,105)" />
+	<use xlink:href="#G1" transform="translate(303.10889,105)" />
+	<use xlink:href="#G1" transform="translate(424.35245,105)" />
+	<use xlink:href="#G1" transform="translate(0,210)" />
+	<use xlink:href="#G1" transform="translate(121.24356,210)" />
+	<use xlink:href="#G1" transform="translate(242.48711,210)" />
+	<use xlink:href="#G1" transform="translate(363.73067,210)" />
+	<use xlink:href="#G1" transform="translate(484.97423,210)" />
+	<use xlink:href="#G1" transform="translate(-60.621778,315)" />
+	<use xlink:href="#G1" transform="translate(60.621779,315)" />
+	<use xlink:href="#G1" transform="translate(181.86534,315)" />
+	<use xlink:href="#G1" transform="translate(303.10889,315)" />
+	<use xlink:href="#G1" transform="translate(424.35245,315)" />
+	<use xlink:href="#G1" transform="translate(0,420)" />
+	<use xlink:href="#G1" transform="translate(121.24356,420)" />
+	<use xlink:href="#G1" transform="translate(242.48711,420)" />
+	<use xlink:href="#G1" transform="translate(363.73067,420)" />
+	<use xlink:href="#G1" transform="translate(484.97423,420)" />
+	<use xlink:href="#G1" transform="translate(-60.621778,525)" />
+	<use xlink:href="#G1" transform="translate(60.621779,525)" />
+	<use xlink:href="#G1" transform="translate(181.86534,525)" />
+	<use xlink:href="#G1" transform="translate(303.10889,525)" />
+	<use xlink:href="#G1" transform="translate(424.35245,525)" />
+	<rect x="0" y="0" width="540" height="540" style="fill:none;stroke:black;stroke-width:2;stroke-linejoin:miter" />
+</svg>
