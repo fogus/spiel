@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="800" height="345" viewBox="0 0 800 345" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<title>DVONN game board</title>
+<defs><g id="Hex" fill="none">
+<path stroke-width="4" stroke="#000000" d="M34.64101615,-20 V20 L0,40 L-34.6410161,20 V-20 L0,-40Z"/>
+<circle r="22" stroke-width="8" stroke="#dddddd"/></g>
+<g id="RowNine"><use xlink:href="#Hex"/>
+<use x="69.2820323" xlink:href="#Hex"/>
+<use x="138.5640646" xlink:href="#Hex"/>
+<use x="207.8460969" xlink:href="#Hex"/>
+<use x="277.1281292" xlink:href="#Hex"/>
+<use x="346.4101615" xlink:href="#Hex"/>
+<use x="415.6921938" xlink:href="#Hex"/>
+<use x="484.9742261" xlink:href="#Hex"/>
+<use x="554.2562584" xlink:href="#Hex"/></g></defs>
+<g transform="translate(70,8) scale(1.02,1.02)">
+<use x="47" y="42" xlink:href="#RowNine"/>
+<use x="81.64101615" y="102" xlink:href="#RowNine"/>
+<use x="12.35898385" y="102" xlink:href="#Hex"/>
+<use x="47" y="162" xlink:href="#RowNine"/>
+<use x="-22.2820323" y="162" xlink:href="#Hex"/>
+<use x="670.5382907" y="162" xlink:href="#Hex"/>
+<use x="81.64101615" y="222" xlink:href="#RowNine"/>
+<use x="12.35898385" y="222" xlink:href="#Hex"/>
+<use x="47" y="282" xlink:href="#RowNine"/>
+</g></svg>
