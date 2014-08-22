@@ -9,4 +9,5 @@ You'll need the following materials to play *unnamed*:
  * 20 rings wide enough to hold the balls
  * 1 *shield* per player
  
- 
+ For a 2-player game each player starts with 8 balls of each color.  For a 3-player game each player gets 5 balls of each color.
+
