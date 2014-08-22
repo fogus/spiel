@@ -25,6 +25,11 @@ TODO
 
  * Games starts with single pedestal
  * Players hide bid and simultaneously reveal
+ * Player wins pedestal
+ * Losers get their bids
+ * Highest bid goes into the next bid
+ * Repeat until all pedestals are won
+ 
 
 
 Values
