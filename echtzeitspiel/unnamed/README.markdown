@@ -20,3 +20,8 @@ Gameplay
 ========
 
 The games consists of some number of turns where all players make a simultaneous bid on a pedestal and some available balls.
+
+TODO
+
+ * Games starts with single pedestal
+ * Players hide bid and simultaneously reveal
