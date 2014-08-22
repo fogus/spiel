@@ -25,3 +25,13 @@ TODO
 
  * Games starts with single pedestal
  * Players hide bid and simultaneously reveal
+
+
+Values
+------
+
+ * A pedestal beats 
+ * A red ball beats
+ * A white ball beats
+ * A black ball
+
