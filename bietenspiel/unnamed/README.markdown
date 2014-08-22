@@ -11,3 +11,8 @@ You'll need the following materials to play *unnamed*:
  
  For a 2-player game each player starts with 8 balls of each color.  For a 3-player game each player gets 5 balls of each color.
 
+Goal
+====
+
+The player with the most valuable display of pedestalized balls wins the game.
+
