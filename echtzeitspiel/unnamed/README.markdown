@@ -40,10 +40,14 @@ At any time players can put any of their balls onto the pedestals that they've w
 Values
 ------
 
+Starting:
+
  * A pedestal beats 
  * A red ball beats
  * A white ball beats
  * A black ball
+
+(?) Should the most pedestalized color be the highest?
 
 TODO: mixes examples
 
