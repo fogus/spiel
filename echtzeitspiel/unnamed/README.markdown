@@ -30,7 +30,12 @@ TODO
  * Highest bid goes into the next bid
  * Repeat until all pedestals are won
  
+Pedestalization
+---------------
 
+At any time players can put any of their balls onto the pedestals that they've won.  Only pedestalized balls will count toward the final score.
+
+(?) ties?
 
 Values
 ------
