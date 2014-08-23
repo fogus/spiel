@@ -47,7 +47,7 @@ Starting:
  * A white ball beats
  * A black ball
 
-(?) Should the most pedestalized color be the highest?
+However, after the first round the relative values may change depending on the pedestalized balls currently in play.  
 
 TODO: mixes examples
 
