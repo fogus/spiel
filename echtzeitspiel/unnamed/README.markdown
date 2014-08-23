@@ -24,8 +24,8 @@ Gameplay
 The games consists of some number of turns where all players make a simultaneous bid on a pedestal and some available balls. The game starts with bidding on a single pedestal.
 
  * Players adjust their pedestals (if applicable)
- * Players hide bid and simultaneously reveal
- * Player wins pedestal
+ * Players hide bids in their hands and simultaneously reveal
+ * Player wins pedestal and any additional balls
  * Highest bid goes into the next auction
  * Lowest bids go back to players
  * Repeat until all pedestals are won, or one player wins 9
