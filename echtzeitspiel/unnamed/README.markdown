@@ -28,8 +28,8 @@ TODO
  * Games starts with single pedestal
  * Players hide bid and simultaneously reveal
  * Player wins pedestal
- * Losers get their bids
- * Highest bid goes into the next bid
+ * Highest bid goes into the vault
+ * Lowest bids go into next auction
  * Repeat until all pedestals are won
  
 Pedestalization
