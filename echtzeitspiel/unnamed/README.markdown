@@ -21,11 +21,9 @@ TODO: insert example
 Gameplay
 ========
 
-The games consists of some number of turns where all players make a simultaneous bid on a pedestal and some available balls.
+The games consists of some number of turns where all players make a simultaneous bid on a pedestal and some available balls. The game starts with bidding on a single pedestal.
 
-TODO
-
- * Games starts with single pedestal
+ * Players adjust their pedestals (if applicable)
  * Players hide bid and simultaneously reveal
  * Player wins pedestal
  * Highest bid goes into the next auction
