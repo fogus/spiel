@@ -47,7 +47,7 @@ Starting and final color values:
  * A white ball beats
  * A black ball
 
-However, after the first round the relative values may change depending on the pedestalized balls currently in play.  That is, the color on the most active pedestals for any bidding round will determine the highest valued color.  Likewise, the second-most pedestalized color will be the second most valuable color.  For ties, the relative values revert to the starting ranking.  
+However, after the first round the relative values may change depending on the pedestalized balls currently in play.  That is, the color on the most active pedestals for any bidding round will determine the highest valued color.  Likewise, the second-most pedestalized color will be the second most valuable color.  For ties, the relative values revert to the starting ranking.  Bear in mind that a pedestal used in a bid always beats a ball.
 
 TODO: mixes examples
 
