@@ -18,6 +18,8 @@ Goal
 
 The player with the most valuable display of pedestalized balls wins the game.
 
+TODO: insert example
+
 Gameplay
 ========
 
@@ -31,13 +33,13 @@ TODO
  * Highest bid goes into the vault
  * Lowest bids go into next auction
  * Repeat until all pedestals are won
- 
+
+(?) Players can also choose to bid on the "won pot."
+
 Pedestalization
 ---------------
 
 At any time players can put any of their balls onto the pedestals that they've won.  Only pedestalized balls will count toward the final score.
-
-(?) ties?
 
 Values
 ------
