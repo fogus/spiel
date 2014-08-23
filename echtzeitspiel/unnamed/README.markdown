@@ -30,7 +30,7 @@ TODO
  * Player wins pedestal
  * Highest bid goes into the next auction
  * Lowest bids go back to players
- * Repeat until all pedestals are won
+ * Repeat until all pedestals are won, or one player wins 9
 
 Pedestalization
 ---------------
