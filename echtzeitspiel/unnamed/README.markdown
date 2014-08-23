@@ -54,4 +54,4 @@ TODO: mixes examples
 Scoring
 =======
 
-TODO: set collection!!!
+TODO: Special sets.
