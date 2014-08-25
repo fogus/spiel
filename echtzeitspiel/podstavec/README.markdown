@@ -16,8 +16,6 @@ Goal
 
 The player with the most valuable display of pedestalized balls wins the game.
 
-TODO: insert example
-
 Gameplay
 ========
 
