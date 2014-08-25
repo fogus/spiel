@@ -31,7 +31,7 @@ The games consists of some number of turns where all players make a simultaneous
 Pedestalization
 ---------------
 
-At any time players can put any of their balls onto the pedestals that they've won.  Only pedestalized balls will count toward the final score.  Additionally, pedestalized balls can influence the relative value of the balls used for bidding.
+Before a bidding round begins, players can put any of their balls onto the pedestals in their inventory.  Pedestalized balls can influence the relative value of the balls used for bidding.  Additionally, only pedestalized balls will count toward the final score.  
 
 Values
 ------
