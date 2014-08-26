@@ -40,18 +40,14 @@
    <stop offset="0" stop-opacity="0.996094" stop-color="#d9df4a"/>
    <stop offset="1" stop-opacity="0.996094" stop-color="#c4c942"/>
   </linearGradient>
-  <linearGradient y2="1" x2="1" y1="0" x1="1" id="svg_6">
-   <stop offset="0" stop-opacity="0.992188" stop-color="#de5c36"/>
-   <stop offset="1" stop-opacity="0.992188" stop-color="#cb512f"/>
-  </linearGradient>
  </defs>
  <metadata id="metadata5784">image/svg+xmlThorsten Pankninsnooker red ball billiardsA red snooker ball.Red snooker ball2007-02-21</metadata>
  <g>
   <title>Layer 1</title>
   <g externalResourcesRequired="false" id="layer1">
-   <path fill="url(#svg_6)" fill-rule="nonzero" stroke="#a03318" stroke-width="3.840115" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" filter="url(#filter6829)" id="path5806" d="m119.238998,134.442001a44.238899,5.56657 0 1 1 -88.477898,0a44.238899,5.56657 0 1 1 88.477898,0z"/>
-   <path fill="url(#svg_6)" fill-rule="nonzero" stroke="#a03318" stroke-width="0.945554" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" filter="url(#filter4666)" d="m138.587997,74.706802a63.588299,63.875 0 1 1 -127.176297,0a63.588299,63.875 0 1 1 127.176297,0z" id="path5172"/>
-   <path fill="#ed8a6f" fill-rule="evenodd" stroke="#a03318" stroke-width="1px" filter="url(#filter5843)" d="m56.798302,22.587999c-1.626801,-0.3489 -10.568501,3.083401 -17.076302,8.6915c-6.507702,5.608101 -9.1929,12.126602 -8.954599,13.740902c0.296598,2.010399 3.250998,7.414799 8.933298,11.954098c5.682201,4.539303 13.349503,6.905701 13.795502,6.203003c0.294399,-0.463802 -0.132801,-9.442703 3.083599,-16.271c3.2164,-6.828403 9.563702,-9.4524 9.782001,-11.0424c0.138901,-1.012001 -1.847702,-4.555302 -4.238602,-7.874302c-2.3908,-3.319 -4.098801,-5.1388 -5.324898,-5.4018z" id="path5174"/>
+   <path fill="url(#svg_5)" fill-rule="nonzero" stroke="#959a2e" stroke-width="3.840115" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" filter="url(#filter6829)" id="path5806" d="m119.238998,134.442001a44.238899,5.56657 0 1 1 -88.477898,0a44.238899,5.56657 0 1 1 88.477898,0z"/>
+   <path fill="url(#svg_5)" fill-rule="nonzero" stroke="#959a2e" stroke-width="0.945554" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" filter="url(#filter4666)" d="m138.587997,74.706802a63.588299,63.875 0 1 1 -127.176297,0a63.588299,63.875 0 1 1 127.176297,0z" id="path5172"/>
+   <path fill="#e9ed82" fill-rule="evenodd" stroke="#959a2e" stroke-width="1px" filter="url(#filter5843)" d="m56.798302,22.587999c-1.626801,-0.3489 -10.568501,3.083401 -17.076302,8.6915c-6.507702,5.608101 -9.1929,12.126602 -8.954599,13.740902c0.296598,2.010399 3.250998,7.414799 8.933298,11.954098c5.682201,4.539303 13.349503,6.905701 13.795502,6.203003c0.294399,-0.463802 -0.132801,-9.442703 3.083599,-16.271c3.2164,-6.828403 9.563702,-9.4524 9.782001,-11.0424c0.138901,-1.012001 -1.847702,-4.555302 -4.238602,-7.874302c-2.3908,-3.319 -4.098801,-5.1388 -5.324898,-5.4018z" id="path5174"/>
   </g>
  </g>
 </svg>
