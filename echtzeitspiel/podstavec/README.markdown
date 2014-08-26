@@ -21,7 +21,9 @@ Gameplay
 
 The games consists of some number of turns where all players make a simultaneous bid on a pedestal and some available balls. The game starts with bidding on a single pedestal.
 
- * Players adjust their pedestals by placing pedestalized balls 
+For each turn in the game, the following steps are taken:
+
+ * Players may adjust their pedestals by placing pedestalized balls 
    into their display, swapping balls already in the display, or
    removing balls and pedestals from their display into their bags.
  * Players calculate the relative color values
@@ -29,10 +31,10 @@ The games consists of some number of turns where all players make a simultaneous
  * Player wins pedestal and any additional balls
  * Highest bid goes into the next auction
  * Lowest bids go back to players
- * Repeat taking turns until all pedestals are won, or one 
-   player holds 13
  
-Once the game ends, the current displays are tallied and the player with the most valuable set wins the game.
+
+
+The steps above are repeated until all pedestals are won, or one player holds 13.  Once the game ends, the current displays are tallied and the player with the most valuable set wins the game.
 
 Pedestalization
 ---------------
@@ -42,16 +44,13 @@ Before a bidding round begins, players can put any of their balls onto the pedes
 Values
 ------
 
-When players place pedestalized balls into their display they can influence the relative values of the colors for a given turn.
+When players place pedestalized balls into their display they can potentially influence the relative values of the colors for a given turn.  For example, if the number of total pedestalized black balls is 5, red 4, and white 2 then the relative color values are likewise black, red, then white.  However, if there are no pedestalized balls in any displays or the same amounts of each color then by default the relative values are as follows:
 
-color values:
-
- * A pedestal beats 
  * A red ball beats
  * A white ball beats
  * A black ball
 
-However, after the first round the relative values may change depending on the pedestalized balls currently in play.  That is, the color on the most active pedestals for any bidding round will determine the highest valued color.  Likewise, the second-most pedestalized color will be the second most valuable color.  For ties, the relative values revert to the starting ranking.  Bear in mind that a pedestal used in a bid always beats a ball.
+On the other hand, a pedestal is used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
 TODO: mixes examples
 
