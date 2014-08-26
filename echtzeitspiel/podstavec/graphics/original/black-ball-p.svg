@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="250"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="black-ball-p.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     id="namedview66"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="-12.07627"
+     inkscape:cy="267.84636"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <title
+     id="title4">Red snooker ball</title>
+  <defs
+     id="defs6">
+    <filter
+       id="filter5843"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5845"
+         stdDeviation="1.190867" />
+    </filter>
+    <linearGradient
+       id="linearGradient5859">
+      <stop
+         stop-color="#f9f9f9"
+         id="stop5861"
+         offset="0" />
+      <stop
+         stop-color="#f9f9f9"
+         stop-opacity="0"
+         id="stop5863"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="29.392904"
+       fy="606.59503"
+       fx="340.73431"
+       cy="606.59503"
+       cx="340.73431"
+       gradientTransform="matrix(1.3169786,1.389673,-2.9073692,2.7552785,1655.5902,-1539.944)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5616"
+       xlink:href="#linearGradient5859" />
+    <filter
+       id="filter4666"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4668"
+         stdDeviation="0.518941" />
+    </filter>
+    <linearGradient
+       id="linearGradient4630">
+      <stop
+         stop-color="#d40000"
+         id="stop4632"
+         offset="0" />
+      <stop
+         stop-color="#080000"
+         id="stop4634"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="73.189621"
+       fy="562.78595"
+       fx="321.24704"
+       cy="562.78595"
+       cx="321.24704"
+       gradientTransform="matrix(-2.0445649,0,0,-1.913294,913.59917,1645.4915)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5614"
+       xlink:href="#linearGradient4630" />
+    <filter
+       id="filter6829"
+       height="1.363678"
+       y="-0.181839"
+       width="1.379655"
+       x="-0.189827"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6831"
+         stdDeviation="13.983349" />
+    </filter>
+    <linearGradient
+       y1="0"
+       x1="1"
+       y2="1"
+       x2="0.97265601"
+       spreadMethod="pad"
+       id="svg_1">
+      <stop
+         offset="0"
+         stop-opacity="0.996094"
+         stop-color="#d9df4a"
+         id="stop23" />
+      <stop
+         offset="1"
+         stop-opacity="0.996094"
+         stop-color="#c4c942"
+         id="stop25" />
+    </linearGradient>
+    <linearGradient
+       y1="0"
+       x1="1"
+       y2="1"
+       x2="0.97265601"
+       spreadMethod="pad"
+       id="svg_2">
+      <stop
+         offset="0"
+         stop-opacity="0.996094"
+         stop-color="#d9df4a"
+         id="stop28" />
+      <stop
+         offset="1"
+         stop-opacity="0.996094"
+         stop-color="#c4c942"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="svg_3">
+      <stop
+         offset="0"
+         stop-color="#b2b207"
+         id="stop33" />
+      <stop
+         offset="1"
+         stop-color="#4d4df8"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="svg_4">
+      <stop
+         offset="0"
+         stop-color="#b2b207"
+         id="stop38" />
+      <stop
+         offset="1"
+         stop-color="#4d4df8"
+         id="stop40" />
+    </linearGradient>
+    <linearGradient
+       y2="1"
+       x2="1"
+       y1="0"
+       x1="1"
+       id="svg_5">
+      <stop
+         offset="0"
+         stop-opacity="0.996094"
+         stop-color="#d9df4a"
+         id="stop43" />
+      <stop
+         offset="1"
+         stop-opacity="0.996094"
+         stop-color="#c4c942"
+         id="stop45" />
+    </linearGradient>
+    <linearGradient
+       y2="1"
+       x2="1"
+       y1="0"
+       x1="1"
+       id="svg_6">
+      <stop
+         offset="0"
+         stop-opacity="0.992188"
+         stop-color="#de5c36"
+         id="stop48" />
+      <stop
+         offset="1"
+         stop-opacity="0.992188"
+         stop-color="#cb512f"
+         id="stop50" />
+    </linearGradient>
+    <linearGradient
+       y2="1"
+       x2="1"
+       y1="0"
+       x1="1"
+       id="svg_7">
+      <stop
+         offset="0"
+         stop-opacity="0.988281"
+         stop-color="#757575"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-opacity="0.988281"
+         stop-color="#3a3a3a"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#svg_7"
+       id="linearGradient3043"
+       x1="111.02016"
+       y1="131.55052"
+       x2="111.02016"
+       y2="245.95683"
+       gradientTransform="matrix(1.3936126,0,0,0.71755952,-1.2711864,-54.661017)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#svg_7"
+       id="linearGradient3045"
+       x1="140.76289"
+       y1="9.9422455"
+       x2="140.76289"
+       y2="140.9803"
+       gradientTransform="matrix(0.99675681,0,0,1.0032537,0.44915262,-74.457628)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5784">image/svg+xmlThorsten Pankninsnooker red ball billiardsA red snooker ball.Red snooker ball2007-02-21<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Red snooker ball</dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="layer1"
+     externalResourcesRequired="false"
+     transform="translate(0,100)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3043);fill-rule:nonzero;stroke:#282828;stroke-width:3.84011507;stroke-miterlimit:4;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter6829)"
+       d="m 117.96781,80.780983 a 44.23895,5.5665764 0 0 1 -88.477896,0 44.23895,5.5665764 0 1 1 88.477896,0 z"
+       id="path5806"
+       stroke-miterlimit="4" />
+    <g
+       id="g3330"
+       transform="matrix(0.17799797,0,0,0.16483232,17.432616,14.310167)">
+      <path
+         inkscape:export-ydpi="7.0392704"
+         inkscape:export-xdpi="7.0392704"
+         inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+         id="path2105"
+         d="m 37.026548,151.51781 34.663819,162.155 c 33.755303,58.25299 69.303693,123.595 241.379693,122.32401 128.93,0.74398 214.922,-40.098 254.616,-96.77002 27.10999,-43.551 40.776,-193.46799 40.776,-193.46799 0,0 -56.46698,118.616 -295.819,118.616 -239.351081,0 -275.616482,-112.857 -275.616482,-112.857 l -2e-5,0 -1e-5,0 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:1px" />
+      <path
+         inkscape:export-ydpi="7.0392704"
+         inkscape:export-xdpi="7.0392704"
+         inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+         id="path1295"
+         d="M 41.646923,165.26339 75.317678,312.8584 c 33.061292,55.20362 67.867782,117.11828 237.277072,116.4383 126.92636,1.09582 211.70268,-37.27463 250.94614,-90.7597 26.81698,-41.11289 42.22719,-178.4534 42.22719,-178.4534 0,0 -57.46584,110.5491 -293.10205,109.82207 C 77.029273,269.17863 41.646924,165.26339 41.646924,165.26339 l -2e-5,0 2e-5,0 z"
+         inkscape:connector-curvature="0"
+         style="fill:#e6f9eb;fill-opacity:1;fill-rule:evenodd;stroke-width:1px" />
+      <path
+         inkscape:export-ydpi="7.0392704"
+         inkscape:export-xdpi="7.0392704"
+         inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+         id="path2056"
+         d="M 272.43007,52.664117 C 59.974867,57.985017 37.231377,151.67681 37.231408,151.67681 c 0,0 -5.96948,-7.763 11.91776,23.23401 17.8873,30.99699 101.399902,95.48498 258.409912,89.22799 200.73498,11.67899 300.06796,-93.124 300.06796,-118.309 0,-25.18399 -35.73395,-85.185697 -290.13098,-92.934896 -15.89999,-0.484299 -30.90299,-0.585602 -45.06599,-0.230797 l 0,0 z m 1.341,5.769997 c 13.772,-0.335297 28.34498,-0.303802 43.804,0.1539 247.34799,7.321899 282.15903,64.061806 282.15903,87.857796 -9.93702,37.746 -118.23502,115.17399 -290.10904,115.986 -175.84891,-9.15301 -235.507283,-65.212 -248.924093,-80.54899 -13.41672,-13.345 -15.57698,-29.97501 -15.57698,-29.97501 2e-5,0 22.07888,-88.446192 228.647083,-93.473695 z"
+         inkscape:connector-curvature="0"
+         style="fill:#331902;fill-rule:evenodd;stroke-width:1px" />
+      <path
+         inkscape:export-ydpi="7.0392704"
+         inkscape:export-xdpi="7.0392704"
+         inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+         inkscape:connector-curvature="0"
+         id="path3765"
+         d="M 290.20339,260.73353 C 206.24661,253.30859 145.08368,237.44428 100.0339,211.4078 86.25256,203.44289 76.331982,195.99526 65.634691,185.58343 c -9.92659,-9.6617 -14.654812,-16.62854 -17.954732,-26.45553 -2.089986,-6.22387 -2.115523,-6.73815 -0.539501,-10.86491 2.539748,-6.65023 8.736939,-15.63631 16.427939,-23.8209 C 107.26211,77.944216 197.92741,55.045841 321.22034,59.369666 c 112.91716,3.959951 188.83091,17.084132 236.17707,40.830954 23.42286,11.74791 39.1444,27.80834 41.08564,41.97127 2.0092,14.6587 -23.13694,41.03313 -59.90221,62.82819 -48.35037,28.66291 -110.78664,47.56993 -179.22491,54.27309 -19.12376,1.87307 -55.74184,2.64637 -69.15254,1.46036 z"
+         style="opacity:0.41379311;fill:#d5ceeb;fill-opacity:1;fill-rule:evenodd;stroke:#00002e;stroke-width:5.08474588;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3045);fill-opacity:1;fill-rule:nonzero;stroke:#282828;stroke-width:0.94555402;stroke-miterlimit:4;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter4666)"
+       id="path5172"
+       d="m 139.03715,1.2491744 a 63.588299,63.875 0 1 1 -127.176298,0 63.588299,63.875 0 1 1 127.176298,0 z"
+       stroke-miterlimit="4" />
+    <path
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke:#969696;stroke-width:1px;filter:url(#filter5843)"
+       inkscape:connector-curvature="0"
+       id="path5174"
+       d="m 49.620336,-45.784883 c -1.626801,-0.3489 -10.568501,3.083401 -17.076302,8.6915 -6.507702,5.608101 -9.1929,12.126602 -8.954599,13.740902 0.296598,2.010399 3.250998,7.414799 8.933298,11.954098 5.682201,4.5393034 13.349503,6.9057044 13.795502,6.2030074 0.294399,-0.463806 -0.132801,-9.4427074 3.083599,-16.2710044 3.2164,-6.828403 9.563702,-9.4524 9.782001,-11.0424 0.138901,-1.012001 -1.847702,-4.555302 -4.238602,-7.874302 -2.3908,-3.319 -4.098801,-5.1388 -5.324898,-5.4018 z" />
+  </g>
+</svg>
