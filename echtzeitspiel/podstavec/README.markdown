@@ -29,7 +29,8 @@ The games consists of some number of turns where all players make a simultaneous
  * Player wins pedestal and any additional balls
  * Highest bid goes into the next auction
  * Lowest bids go back to players
- * Repeat until all pedestals are won, or one player holds 13
+ * Repeat taking turns until all pedestals are won, or one 
+   player holds 13
  
 Once the game ends, the current displays are tallied and the player with the most valuable set wins the game.
 
