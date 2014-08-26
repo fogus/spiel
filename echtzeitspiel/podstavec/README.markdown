@@ -53,10 +53,16 @@ When players place pedestalized balls into their display they can potentially in
  * A red ball beats
  * A white ball beats
  * A black ball
+ 
+The relative values above are also used to determine the most valuable diaplay at game's end.
 
-On the other hand, a pedestal is used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
+### Using pedestals in a bid
+
+A pedestal is used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
 Some examples of bids are below.  The default relative values are assumed:
+
+
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
