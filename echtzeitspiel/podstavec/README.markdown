@@ -60,6 +60,9 @@ The relative values above are also used to determine the most valuable diaplay a
 
 A pedestal used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
+Example bids
+------------
+
 Some examples of bids are below.  The default relative values are assumed:
 
  Bidder                  | Bid                    
