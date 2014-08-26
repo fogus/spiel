@@ -58,11 +58,9 @@ The relative values above are also used to determine the most valuable diaplay a
 
 ### Using pedestals in a bid
 
-A pedestal is used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
+A pedestal used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
 Some examples of bids are below.  The default relative values are assumed:
-
-
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
@@ -71,7 +69,16 @@ Some examples of bids are below.  The default relative values are assumed:
  Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png) 
 
 
-Scoring
-=======
+ Bidder                  | Bid                    
+ :-----------------------|:--------------------------
+ Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ **Player 2**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
+ Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) 
 
-TODO: Special sets.
+ Bidder                  | Bid                    
+ :-----------------------|:--------------------------
+ Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
+ **Player 3**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/pedestal.png) 
+
+And so on.
