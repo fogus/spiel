@@ -616,7 +616,7 @@
        inkscape:connector-curvature="0"
        id="path4154"
        d="m 825.67647,281.8813 0,177.58236"
-       style="fill:none;stroke:#000000;stroke-width:16.68307877;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+       style="fill:none;stroke:#000000;stroke-width:16.68307877000000161;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
     <path
        inkscape:connector-curvature="0"
        id="path4156"
@@ -627,5 +627,15 @@
        id="path4158"
        d="M 1007.3856,141.85535 854.7213,229.9961"
        style="fill:none;stroke:#000000;stroke-width:16.56086922000000072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:16.68307877;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+       d="M 796.55412,265.1128 642.76328,353.90398"
+       id="path4160"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:16.68307877;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+       d="m 857.51722,267.11279 153.79088,88.79118"
+       id="path4162"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
