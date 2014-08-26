@@ -1,9 +1,84 @@
-<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
- <title>bowl w</title>
- <g>
-  <title>Layer 1</title>
-  <path fill="#000000" fill-rule="evenodd" stroke-width="1px" id="path2105" d="m-1.61752,167.789001l34.663819,162.154999c33.755299,58.252991 69.303692,123.595001 241.379696,122.324005c128.929993,0.743988 214.921997,-40.097992 254.615997,-96.77002c27.109985,-43.550995 40.776001,-193.467987 40.776001,-193.467987c0,0 -56.46698,118.615997 -295.819,118.615997c-239.351082,0 -275.616483,-112.856995 -275.616483,-112.856995l-0.00002,0l-0.00001,0z"/>
-  <path transform="rotate(0.17678 284.657 310.551)" fill="#bf8f5b" fill-rule="evenodd" stroke-width="1px" id="path1295" d="m2.60613,182.404205l34.125983,147.490417c33.231464,55.101349 68.228817,116.908325 237.635197,115.705658c126.929138,0.704193 211.58667,-37.927643 250.664917,-91.533539c26.690002,-41.195435 41.676392,-178.58284 41.676392,-178.58284c0,0 -57.124481,110.725876 -292.76181,110.725876c-235.637878,0 -271.340678,-103.805573 -271.340678,-103.805573l-0.00002,0l0.00002,0z"/>
-  <path fill="#331902" fill-rule="evenodd" stroke-width="1px" id="path2056" d="m233.785995,68.935303c-212.455196,5.3209 -235.198686,99.012695 -235.198655,99.012695c0,0 -5.96948,-7.763 11.91776,23.234009c17.8873,30.996994 101.399899,95.484985 258.409908,89.227997c200.734985,11.678986 300.067963,-93.124008 300.067963,-118.309006c0,-25.18399 -35.733948,-85.185699 -290.130981,-92.934898c-15.899994,-0.484299 -30.902985,-0.585602 -45.065994,-0.230797l0,0zm1.341003,5.769997c13.772003,-0.335297 28.344986,-0.303802 43.804001,0.1539c247.347992,7.321899 282.159027,64.061806 282.159027,87.857796c-9.937012,37.746002 -118.235016,115.173996 -290.109039,115.986008c-175.8489,-9.153015 -235.507278,-65.212006 -248.924088,-80.548996c-13.41672,-13.345001 -15.57698,-29.975006 -15.57698,-29.975006c0.00002,0 22.07888,-88.446198 228.647079,-93.473701z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="pedestal.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bowl w</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.98333333"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">bowl w</title>
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke-width:1px"
+     inkscape:connector-curvature="0"
+     d="m 37.026548,151.51781 34.663819,162.155 c 33.755303,58.25299 69.303693,123.595 241.379693,122.32401 128.93,0.74398 214.922,-40.098 254.616,-96.77002 27.10999,-43.551 40.776,-193.46799 40.776,-193.46799 0,0 -56.46698,118.616 -295.819,118.616 -239.351081,0 -275.616482,-112.857 -275.616482,-112.857 l -2e-5,0 -1e-5,0 z"
+     id="path2105"
+     inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+     inkscape:export-xdpi="7.0392704"
+     inkscape:export-ydpi="7.0392704" />
+  <path
+     style="fill:#e6f9eb;fill-rule:evenodd;stroke-width:1px;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="M 41.646923,165.26339 75.317678,312.8584 c 33.061292,55.20362 67.867782,117.11828 237.277072,116.4383 126.92636,1.09582 211.70268,-37.27463 250.94614,-90.7597 26.81698,-41.11289 42.22719,-178.4534 42.22719,-178.4534 0,0 -57.46584,110.5491 -293.10205,109.82207 C 77.029273,269.17863 41.646924,165.26339 41.646924,165.26339 l -2e-5,0 2e-5,0 z"
+     id="path1295"
+     inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+     inkscape:export-xdpi="7.0392704"
+     inkscape:export-ydpi="7.0392704" />
+  <path
+     style="fill:#331902;fill-rule:evenodd;stroke-width:1px"
+     inkscape:connector-curvature="0"
+     d="M 272.43007,52.664117 C 59.974867,57.985017 37.231377,151.67681 37.231408,151.67681 c 0,0 -5.96948,-7.763 11.91776,23.23401 17.8873,30.99699 101.399902,95.48498 258.409912,89.22799 200.73498,11.67899 300.06796,-93.124 300.06796,-118.309 0,-25.18399 -35.73395,-85.185697 -290.13098,-92.934896 -15.89999,-0.484299 -30.90299,-0.585602 -45.06599,-0.230797 l 0,0 z m 1.341,5.769997 c 13.772,-0.335297 28.34498,-0.303802 43.804,0.1539 247.34799,7.321899 282.15903,64.061806 282.15903,87.857796 -9.93702,37.746 -118.23502,115.17399 -290.10904,115.986 -175.84891,-9.15301 -235.507283,-65.212 -248.924093,-80.54899 -13.41672,-13.345 -15.57698,-29.97501 -15.57698,-29.97501 2e-5,0 22.07888,-88.446192 228.647083,-93.473695 z"
+     id="path2056"
+     inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+     inkscape:export-xdpi="7.0392704"
+     inkscape:export-ydpi="7.0392704" />
+  <path
+     style="opacity:0.41379311000000002;fill:#d5ceeb;fill-opacity:1;fill-rule:evenodd;stroke:#00002e;stroke-width:5.08474587999999983;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 290.20339,260.73353 C 206.24661,253.30859 145.08368,237.44428 100.0339,211.4078 86.25256,203.44289 76.331982,195.99526 65.634691,185.58343 c -9.92659,-9.6617 -14.654812,-16.62854 -17.954732,-26.45553 -2.089986,-6.22387 -2.115523,-6.73815 -0.539501,-10.86491 2.539748,-6.65023 8.736939,-15.63631 16.427939,-23.8209 C 107.26211,77.944216 197.92741,55.045841 321.22034,59.369666 c 112.91716,3.959951 188.83091,17.084132 236.17707,40.830954 23.42286,11.74791 39.1444,27.80834 41.08564,41.97127 2.0092,14.6587 -23.13694,41.03313 -59.90221,62.82819 -48.35037,28.66291 -110.78664,47.56993 -179.22491,54.27309 -19.12376,1.87307 -55.74184,2.64637 -69.15254,1.46036 z"
+     id="path3765"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/fogus/src/spiel/echtzeitspiel/podstavec/graphics/pedestal.png"
+     inkscape:export-xdpi="7.0392704"
+     inkscape:export-ydpi="7.0392704" />
 </svg>
