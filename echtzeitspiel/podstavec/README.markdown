@@ -45,16 +45,18 @@ Pedestalization
 
 Before a bidding round begins, players can put any of their balls onto the pedestals in their inventory.  Only pedestalized balls will count toward the final score.  Additionally, pedestalized balls can influence the relative value of the balls used for bidding for a given round, described next.
 
-Values
-------
+Ball color values
+-----------------
 
-When players place pedestalized balls into their display they can potentially influence the relative values of the colors for a given round.  For example, if the number of total pedestalized black balls is 5, red 4, and white 2 then the relative color values are likewise black, red, then white.  However, if there are no pedestalized balls in any displays or the same amounts of each color then by default the relative values are as follows:
+When players place pedestalized balls into their display they can potentially influence the relative values of the colors for a given round.  For example, if the number of total pedestalized black balls is 5, red 4, and white 2 then the relative color values are likewise black, red, then white.
+
+However, if there are no pedestalized balls in any displays or the same amounts of each color then by default the relative values are as follows:
 
  * A red ball beats
  * A white ball beats
  * A black ball
  
-The relative values above are also used to determine the most valuable diaplay at game's end.
+The relative values above are also used to determine the most valuable display at game's end.
 
 ### Using pedestals in a bid
 
@@ -91,3 +93,16 @@ Some examples of bids are below.  The default relative values are assumed:
  **Player 3**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png) 
 
 And so on.
+
+Final scoring
+=============
+
+As mentioned, the value of the players' dsiplay is determined by the default relative color values:
+
+ * A red ball beats
+ * A white ball beats
+ * A black ball
+
+Only the actively pedestalized balls in the players' display at game's end count toward the score.  If all three displays are the same value at game's end then the player who won the first round wins the game.
+
+
