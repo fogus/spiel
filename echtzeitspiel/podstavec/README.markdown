@@ -60,7 +60,7 @@ Some examples of bids are below.  The default relative values are assumed:
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
- Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
+ **Player 1**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
  Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
  Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png) 
 
