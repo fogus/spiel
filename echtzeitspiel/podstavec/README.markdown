@@ -103,6 +103,14 @@ As mentioned, the value of the players' dsiplay is determined by the default rel
  * A white ball beats
  * A black ball
 
-Only the actively pedestalized balls in the players' display at game's end count toward the score.  If all three displays are the same value at game's end then the player who won the first round wins the game.
+Only the actively pedestalized balls in the players' display at game's end count toward the score.  An example scoring for a truncated game is as follows:
+
+ Bidder                  | Bid                    
+ :-----------------------|:--------------------------
+ Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball-p.png)
+ **Player 2**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png)
+ Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png) 
+
+If all three displays are the same value at game's end then the player who won the first round wins the game.
 
 
