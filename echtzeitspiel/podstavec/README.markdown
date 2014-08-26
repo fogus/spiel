@@ -9,7 +9,7 @@ You'll need the following materials to play *Podstavec*:
  * 25 rings wide enough to hold the balls, called *pedestals*
  * 1 cloth bag per player
  
- For a 2-player game each player starts with 8 balls of each color.  For a 3-player game each player gets 5 balls of each color.  In both circumstances each player gets 3 pedestals to start.
+ For a 2-player game each player starts with 8 balls of each color.  For a 3-player game each player gets 5 balls of each color.  In both circumstances each player gets 3 pedestals to start.  The pedestals a player starts and (optionally) those won are placed in plain view in front of the players; this is called *the display*.
 
 Goal
 ====
@@ -37,12 +37,14 @@ Once the game ends, the current displays are tallied and the player with the mos
 Pedestalization
 ---------------
 
-Before a bidding round begins, players can put any of their balls onto the pedestals in their inventory.  Pedestalized balls can influence the relative value of the balls used for bidding.  Additionally, only pedestalized balls will count toward the final score.  
+Before a bidding round begins, players can put any of their balls onto the pedestals in their inventory.  Only pedestalized balls will count toward the final score.  Additionally, pedestalized balls can influence the relative value of the balls used for bidding for a given turn, described next.
 
 Values
 ------
 
-Starting and final color values:
+When players place pedestalized balls into their display they can influence the relative values of the colors for a given turn.
+
+color values:
 
  * A pedestal beats 
  * A red ball beats
