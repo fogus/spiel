@@ -52,6 +52,8 @@ When players place pedestalized balls into their display they can potentially in
 
 On the other hand, a pedestal is used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
+Some examples of bids are below:
+
 TODO: mixes examples
 
 Scoring
