@@ -27,14 +27,18 @@ For each turn in the game, the following steps are taken:
    into their display, swapping balls already in the display, or
    removing balls and pedestals from their display into their bags.
  * Players calculate the relative color values
+ * A new pedestal is added to the current auction spoils
  * Players hide bids in their hands and simultaneously reveal
  * Player wins pedestal and any additional balls
  * Highest bid goes into the next auction
  * Lowest bids go back to players
  
-
-
 The steps above are repeated until all pedestals are won, or one player holds 13.  Once the game ends, the current displays are tallied and the player with the most valuable set wins the game.
+
+Bidding
+-------
+
+Bids are all revealed at the same time and are resolved according to the relative color values.  In any bid there will be a maximum of only one winner, but there may be none.  That is, if all players show the same bid on a turn then none of them win and all of the bids go into the spoils for the next auction.  In a 3-player game, if two players bid the same high bid then the player with the lowest bid wins that turn.  
 
 Pedestalization
 ---------------
@@ -49,14 +53,32 @@ When players place pedestalized balls into their display they can potentially in
  * A red ball beats
  * A white ball beats
  * A black ball
+ 
+The relative values above are also used to determine the most valuable diaplay at game's end.
 
-On the other hand, a pedestal is used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
+### Using pedestals in a bid
 
-Some examples of bids are below:
+A pedestal used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
-TODO: mixes examples
+Some examples of bids are below.  The default relative values are assumed:
 
-Scoring
-=======
+ Bidder                  | Bid                    
+ :-----------------------|:--------------------------
+ **Player 1**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
+ Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png) 
 
-TODO: Special sets.
+
+ Bidder                  | Bid                    
+ :-----------------------|:--------------------------
+ Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ **Player 2**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
+ Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) 
+
+ Bidder                  | Bid                    
+ :-----------------------|:--------------------------
+ Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
+ **Player 3**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/pedestal.png) 
+
+And so on.
