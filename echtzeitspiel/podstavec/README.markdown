@@ -1,4 +1,4 @@
-*Podstavec* is a game of blind bidding for 2-3 players.
+*Podstavec* is a game of blind bidding and resource management for 2-3 players.
 
 Preparation
 ===========
@@ -56,11 +56,11 @@ However, if there are no pedestalized balls in any displays or the same amounts 
  * A white ball beats
  * A black ball
  
-The relative values above are also used to determine the most valuable display at game's end.
+The default relative values above are also used to determine the most valuable display at game's end.
 
 ### Using pedestals in a bid
 
-A pedestal used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
+Pedestals used for bidding always beats a ball of any color.  However, tied pedestal bids are determined by any additional balls based on the current relative values.
 
 Example bids
 ------------
@@ -97,13 +97,15 @@ And so on.
 Final scoring
 =============
 
-As mentioned, the value of the players' dsiplay is determined by the default relative color values:
+As mentioned, the value of the players' display is determined by the default relative color values:
 
  * A red ball beats
  * A white ball beats
  * A black ball
 
-Only the actively pedestalized balls in the players' display at game's end count toward the score.  An example scoring for a truncated game is as follows:
+Only the actively pedestalized balls in the players' display at game's end count toward the score.
+
+An example scoring for a truncated game is as follows:
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
@@ -112,5 +114,4 @@ Only the actively pedestalized balls in the players' display at game's end count
  Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) 
 
 If all three displays are the same value at game's end then the player who won the first round wins the game.
-
 
