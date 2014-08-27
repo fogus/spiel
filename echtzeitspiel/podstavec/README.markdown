@@ -69,28 +69,28 @@ Some examples of bids are below.  The default relative values are assumed:
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
- **Player 1**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
- Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
- Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png) 
+ **Player 1**            | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
+ Player 2                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ Player 3                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png) 
 
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
- Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
- **Player 2**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
- Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) 
+ Player 1                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ **Player 2**            | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
+ Player 3                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) 
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
- Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
- Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
- **Player 3**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/pedestal.png) 
+ Player 1                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png)
+ Player 2                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball.png)
+ **Player 3**            | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/pedestal.png) 
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
- Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
- Player 2                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
- **Player 3**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png) 
+ Player 1                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
+ Player 2                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball.png)
+ **Player 3**            | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball.png) 
 
 And so on.
 
@@ -109,9 +109,9 @@ An example scoring for a truncated game is as follows:
 
  Bidder                  | Bid                    
  :-----------------------|:--------------------------
- Player 1                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball-p.png)
- **Player 2**            | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png)
- Player 3                | ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://github.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) 
+ Player 1                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/black-ball-p.png)
+ **Player 2**            | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png)
+ Player 3                | ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/red-ball-p.png) ![](https://raw.githubusercontent.com/fogus/spiel/blob/master/echtzeitspiel/podstavec/graphics/white-ball-p.png) 
 
 If all three displays are the same value at game's end then the player who won the first round wins the game.
 
