@@ -38,12 +38,12 @@ The steps above are repeated until all pedestals are won, or one player holds 13
 Bidding
 -------
 
-Bids are all revealed at the same time and are resolved according to the relative color values.  In any bid there will be a maximum of only one winner, but there may be none.  That is, if all players show the same bid in a round then none of them win and all of the bids go into the spoils for the next auction.  In a 3-player game, if two players bid the same high bid then the player with the lowest bid wins that round.  
+Bids are all revealed at the same time and are resolved according to their count and relative color values.  In any bid there will be a maximum of only one winner, but there may be none.  That is, if all players show the same bid in a round then none of them win and all of the bids go into the spoils for the next auction.  In a 3-player game, if two players bid the same high bid then the player with the lowest bid wins that round.  
 
 Pedestalization
 ---------------
 
-Before a bidding round begins, players can put any of their balls onto the pedestals in their inventory.  Only pedestalized balls will count toward the final score.  Additionally, pedestalized balls can influence the relative value of the balls used for bidding for a given round, described next.
+Before a round begins, players can put any of their balls onto the pedestals in their inventory.  This is of primary importance because, only pedestalized balls will count toward the final score.  Additionally, pedestalized balls can influence the relative value of the balls used for bidding in a given round, described next.
 
 Ball color values
 -----------------
