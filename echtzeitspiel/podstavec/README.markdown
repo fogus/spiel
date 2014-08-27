@@ -33,7 +33,7 @@ For each round in the game, the following steps are taken:
  * Highest bid goes into the next auction
  * Lowest bids go back to players
  
-The steps above are repeated until all pedestals are won, or one player holds 13.  Once the game ends, the current displays are tallied and the player with the most valuable set wins the game.
+The steps above are repeated until all pedestals are won, or one player holds 13 in a 2-player game or 9 in a 3-player game.  Once the game ends, the current displays are tallied and the player with the most valuable set wins the game.
 
 Bidding
 -------
