@@ -6,19 +6,17 @@
 </description>
     <link>http://fogus.github.com/spiel/</link>
     <atom:link href="http://fogus.github.com/spiel/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 29 Aug 2014 10:46:54 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Aug 2014 10:46:54 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2014 10:57:11 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2014 10:57:11 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Welcome to open source game design.</title>
         <description>&lt;p&gt;This is a blog about my adventures in board and card game design.  I will tend to focus on games of abstract strategy and card games, but I’ll mix it up a bit if the mood strikes.  I’ll also post occassionally about the ideas behind game design.  That said, &lt;a href=&quot;https://github.com/fogus/spiel/wiki&quot;&gt;my raw game design notes will be kept on my wiki&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I’m a rank amateur at this, so my explorations will be open for all to see.  Feedback is always welcomed at my email address me -at- fogus -dot- me.&lt;/p&gt;
-
 &lt;p&gt;The interesting thing about this blog is that it’s the next step in my attempt to make my game design efforts open.  I wrote about this a bit in a blog post entitled &lt;em&gt;&lt;a href=&quot;http://blog.fogus.me/2013/10/31/open-source-boardcarddice-game-design/&quot;&gt;Open Source Game Design&lt;/a&gt;&lt;/em&gt;, but the culmination of that initial brain-dump exists here.  Additionally, I work through my designs on my &lt;a href=&quot;https://www.github.com/fogus/spiel&quot;&gt;Spiel Github repository&lt;/a&gt;.  Naturally, my designs can only become viable through play-testing, so if you’re interested in playing then please do so.  I will respond to feedback &lt;a href=&quot;https://github.com/fogus/spiel/issues&quot;&gt;on my Spiel discussion/issues system&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Finally, if you wish to follow along then please do subscribe to my &lt;a href=&quot;http://fogus.github.io/spiel/feed.xml&quot;&gt;game design RSS feed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, if you wish to follow along then please do subscribe to my &lt;a href=&quot;http://fogus.github.io/spiel/feed.xml&quot;&gt;game design RSS feed&lt;/a&gt;. I’m a rank amateur at this, so my explorations will be open for all to see.  Feedback is always welcomed at my email address me -at- fogus -dot- me.&lt;/p&gt;
 
 &lt;p&gt;Thanks for reading.&lt;/p&gt;
 
