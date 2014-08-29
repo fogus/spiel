@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fogus Spiel</title>
+    <title>Fogus/Spiel</title>
     <description>Board and card game development and thoughts.
 </description>
     <link>http://fogus.github.com/spiel/</link>
     <atom:link href="http://fogus.github.com/spiel/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 29 Aug 2014 10:59:54 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Aug 2014 10:59:54 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2014 11:10:15 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2014 11:10:15 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
