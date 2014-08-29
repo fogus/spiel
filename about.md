@@ -16,7 +16,7 @@ This blog[^1] (entitled [Fogus/Spiel](http://fogus.github.io/spiel/)) is my expl
 
 ---
 
-In the 'real world' I'm a programmer for [Cognitect](http://www.cognitect.com) working on and with the [Clojure programming language](http://www.clojure.org) and the [Datomic database](http://www.datomic.com).
+In the 'real world' I'm a programmer for [Cognitect](http://www.cognitect.com) working on and with the [Clojure programming language](http://www.clojure.org) and the [Datomic database](http://www.datomic.com).  Additionally I've authored two books: [The Joy of Clojure](http://www.joyofclojure.com) (with Chris Houser) and [Functional JavaScript](http://www.functionaljavascript.com).
 
 
 [^0]: Not exactly true as I played countless hours of various RPGs and LARPs as a kid/teen.
