@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fogus/Spiel designs
+title: Game designs
 permalink: /designs/
 ---
 
