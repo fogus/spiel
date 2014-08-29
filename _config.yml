@@ -3,7 +3,7 @@ title: Fogus Spiel
 email: me@fogus.me
 description: > # this means to ignore newlines until "baseurl:"
   Board and card game development and thoughts.
-baseurl: "/spiel/" # the subpath of your site, e.g. /blog/
+baseurl: "/spiel" # the subpath of your site, e.g. /blog/
 url: "http://fogus.github.com" # the base hostname & protocol for your site
 twitter_username: fogus
 github_username:  fogus
