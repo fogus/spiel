@@ -45,7 +45,11 @@ Also, when a player sows the pyramids on a card containing a Tree then the Tree 
 
 ### Unstoppable captures
 
-TODO
+While a tree will prevent capture of itself and the pyramids occupying the same card, it is not entirely immune from capture.  That is, if a large pyramid is sown onto a preexisting stack consisting of a medium on top of a small then a *Nest* is created.
+
+![nest]()
+
+If the nest is created opposite of an opponent's card containing a Tree then the Tree, the Nest and all of the opposing pyramids are captured in one fell swoop.
 
 ### Capture powers
 
