@@ -51,7 +51,7 @@ While a tree will prevent capture of itself and the pyramids occupying the same 
 
 ![nest]()
 
-If the nest is created opposite of an opponent's card containing a Tree then the Tree, the Nest and all of the opposing pyramids are captured in one fell swoop.
+If the nest is created opposite of an opponent's card containing a Tree then the Tree, the Nest and all of the opposing pyramids are captured in one fell swoop.  Nests cannot move as a single unit, that is, they're considered a regular stack for the purposes of Sowing.
 
 ### Capture powers
 
@@ -61,7 +61,8 @@ Capturing pyramids not only brings pyramids into a player's vault for final scor
    place it into their Stock.
  * **Yellow or Clear** - take the top piece from the stack on your
    last card and put it into your Stock
- * **Red or Orange** - 
+ * **Red or Orange** - you may leave the capturing piece on the 
+   play area if you choose
  * **Blue or Purple** - 
  * **Black or White** - 
  
