@@ -26,7 +26,7 @@ Gameplay
 
 On each player's first turn they may take up to four pyramids, of any size, and *Sow* them onto the playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on her side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.
 
-If the last pyramid in a sowing action lands in the player's Vault then they may choose to sow another set from their Stock or from an occupied card, or instead pass.  If the pyramids on a card are sown then they are done so in order from the top of the stack to the bottom.
+If the last pyramid in a sowing action lands in the player's Vault then they may choose to sow another set from their Stock or from an occupied card, or instead pass.  The pyramids on a card may only be sown if the number of pyramids is less than or equal to the number of cards needed to reach the Vault.  Finally, if the pyramids on a card are sown then they are done so in order from the top of the stack to the bottom.
 
 Capture
 -------
@@ -77,7 +77,7 @@ TODO
 Ending the game
 ---------------
 
-TODO
+The game ends when there are no more pyramids left to play.
 
 Final scoring
 =============
