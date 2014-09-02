@@ -5,7 +5,10 @@ Preparation
 
 You'll need the following materials to play *Logistics*:
 
- * TODO
+ * 8-10 playing cards (suit doesn't matter) or index cards.
+ * 1 [IceDice set]() per player (i.e. 4 [Treehouse sets]() total)
+ 
+
 
 Goal
 ====
