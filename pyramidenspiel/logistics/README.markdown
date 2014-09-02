@@ -17,7 +17,7 @@ You may also use larger layouts for even larger games.  Indeed, you can build a 
 Goal
 ====
 
-TOOD
+The player with the most valuable set of captured and transported pyramids wins the game.  See the *scoring* section below to learn how to calculate the final score.
 
 Gameplay
 ========
@@ -48,6 +48,11 @@ TODO
 
 Examples
 --------
+
+TODO
+
+Ending the game
+---------------
 
 TODO
 
