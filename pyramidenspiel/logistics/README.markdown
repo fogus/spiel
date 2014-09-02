@@ -63,8 +63,9 @@ Capturing pyramids not only brings pyramids into a player's vault for final scor
    last card and put it into your Stock
  * **Red or Orange** - you may leave the capturing piece on the 
    play area if you choose
- * **Blue or Purple** - 
- * **Black or White** - 
+ * **Blue or Purple** - swap any two pieces on your play area
+ * **Black or White** - swap any two pieces on your opponent's 
+   play area
  
 The special actions are taken immediately after the captured pieces are placed into the capturing player's Vault.
 
