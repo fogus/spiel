@@ -55,13 +55,15 @@ If the nest is created opposite of an opponent's card containing a Tree then the
 
 ### Capture powers
 
-Capturing pyramids not only brings pyramids into a player's vault for final scoring, it also provide certain additional turn actions.  Depending on the color of the pyramid used to capture then certain actions will be available to the capturing player immediately after the captured pieces are placed into their Vault.
+Capturing pyramids not only brings pyramids into a player's vault for final scoring, it also provide certain additional turn actions.  Depending on the color of the pyramid used to capture then certain actions will be available to the capturing player:
 
  * Green or Cyan - 
  * Yellow or Clear - 
  * Red or Orange - 
  * Blue or Purple - 
  * Black or White - 
+ 
+The special actions are taken immediately after the captured pieces are placed into the capturing player's Vault.
 
 Examples
 --------
