@@ -12,6 +12,8 @@ For a short game, the cards should be layed out in a 2x3 grid with an card to ea
 
 ![setup]()
 
+The playing area is initially empty save for the cards in the playing area.  Each player takes their 30 pyramids and keeps them close at hand; this is known as the *Stock*.
+
 You may also use larger layouts for even larger games.  Indeed, you can build a grid of up to 2x10, but you need an extra Treehouse set per player to facilitate a game of this size.
 
 Goal
