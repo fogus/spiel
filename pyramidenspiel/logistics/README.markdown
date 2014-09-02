@@ -35,7 +35,11 @@ If the last pyramid in a sowing action lands on an empty card that is opposite f
 
 ### Preventing capture
 
-TODO
+A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *Tree*.
+
+![tree]()
+
+A Tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it is separated and placed on the same card next to the existing stack.  
 
 ### Unstoppable captures
 
