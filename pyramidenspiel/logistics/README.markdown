@@ -39,7 +39,9 @@ A stack of pyramids either alone or on the top of an existing stack consisting o
 
 ![tree]()
 
-A Tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it is separated and placed on the same card next to the existing stack.  
+A Tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it's separated and placed on the same card next to the existing stack.  When a Tree is on a card then it and all of the pyramids on it the same card are safe from capture (with an exception, described next). 
+
+Also, when a player sows the pyramids on a card containing a Tree then the Tree is sown as a single piece.  That is, all of the pyramids on a card are sown in the regular order and the Tree is sown last in whole.  Trees can capture if they land on an empty card opposing an opponent's pyramids and will allow a player to sow again if sown into the Vault.
 
 ### Unstoppable captures
 
