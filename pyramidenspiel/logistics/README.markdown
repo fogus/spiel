@@ -10,7 +10,9 @@ You'll need the following materials to play *Logistics*:
  
 For a short game, the cards should be layed out in a 2x3 grid with an card to each player's right turned to the side.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right.  The layout for the long game is as follows:
 
+![setup]()
 
+You may also use larger layouts for even larger games.  Indeed, you can build a grid of up to 2x10, but you need an extra Treehouse set per player to facilitate a game of this size.
 
 Goal
 ====
@@ -31,6 +33,8 @@ Capture
 -------
 
 TODO
+
+
 
 Special structures
 ------------------
