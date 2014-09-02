@@ -29,7 +29,7 @@ On each player's first turn they may take up to four pyramids, of any size, and 
 Capture
 -------
 
-TODO
+If the last pyramid in a sowing action lands on an empty card that is opposite from an occupied opponent card then the sowed pyramid and all of the opposite pyramids are captured.  However, capturing can be prevented by the existence of certain pyramidal structures, described next.
 
 ### Preventing capture
 
