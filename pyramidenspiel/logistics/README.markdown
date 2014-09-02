@@ -8,6 +8,8 @@ You'll need the following materials to play *Logistics*:
  * 8-10 playing cards (suit doesn't matter) or index cards.
  * 1 [IceDice set]() per player (i.e. 4 [Treehouse sets]() total)
  
+For a short game, the cards should be layed out in a 2x3 grid with an card to each player's right turned to the side.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right.  The layout for the long game is as follows:
+
 
 
 Goal
