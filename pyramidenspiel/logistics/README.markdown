@@ -26,11 +26,6 @@ Gameplay
 
 On each player's first turn they may take up to four pyramids, of any size, and *Sow* them onto the playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area in her side.
 
-Movement
---------
-
-TODO
-
 Capture
 -------
 
