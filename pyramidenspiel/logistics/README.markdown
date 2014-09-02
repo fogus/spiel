@@ -34,10 +34,15 @@ Capture
 
 TODO
 
+### Preventing capture
 
+TODO
 
-Special structures
-------------------
+### Unstoppable captures
+
+TODO
+
+### Capture powers
 
 TODO
 
