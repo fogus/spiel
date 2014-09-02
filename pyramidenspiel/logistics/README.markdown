@@ -31,7 +31,9 @@ If the last pyramid in a sowing action lands in the player's Vault then they may
 Capture
 -------
 
-If the last pyramid in a sowing action lands on an empty card that is opposite from an occupied opponent card then the sowed pyramid and all of the opposite pyramids are captured.  However, capturing can be prevented by the existence of certain pyramidal structures, described next.
+If the last pyramid in a sowing action lands on an empty card that is opposite from an occupied opponent card then the sowed pyramid and all of the opposite pyramids are captured.  Capturing can be prevented by the existence of certain pyramidal structures, described next.
+
+Making a capture ends a player's turn.  
 
 ### Preventing capture
 
