@@ -8,7 +8,7 @@ You'll need the following materials to play *Logistics*:
  * 8-10 playing cards (suit doesn't matter) or index cards.
  * 1 [IceDice set](http://www.looneylabs.com/games/icedice) per player (i.e. 4 [Treehouse sets](http://www.looneylabs.com/games/treehouse) total)
  
-For a short game, the cards should be layed out in a 2x3 grid with an card to each player's right turned to the side; this is known as the *Vault*.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right serving as the Vault.  The layout for the long game is as follows:
+For a short game, the cards should be laid out in a 2x3 grid with an card to each player's right turned to the side; this is known as the *Vault*.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right serving as the Vault.  The layout for the long game is as follows:
 
 ![setup]()
 
