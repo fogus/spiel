@@ -65,6 +65,5 @@ When the game ends look at the pyramids in your Vault and score according to the
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
 
-To start scoring, just add up all of the scores of the pyramids according to the groupings listed above.
-
+To start scoring, just add up all of the scores of the pyramids according to the groupings listed above.  The player with the highest score wins.
 
