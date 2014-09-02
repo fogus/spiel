@@ -77,7 +77,7 @@ TODO
 Ending the game
 ---------------
 
-The game ends when there are no more pyramids left to play.
+The game ends when there are no more pyramids left to play.  If one player runs out of pyramids before the other then the opponent may continue sowing until they too have run out of pyramids.
 
 Final scoring
 =============
