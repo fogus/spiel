@@ -10,7 +10,7 @@ You'll need the following materials to play *Logistics*:
  
 For a short game, the cards should be laid out in a 2x3 grid with an card to each player's right turned to the side; this is known as the *Vault*.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right serving as the Vault.  The layout for the long game is as follows:
 
-![setup]()
+![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/setup.png)
 
 The playing area is initially empty save for the cards in the playing area.  Each player takes their 30 pyramids and keeps them close at hand; this is known as the *Stock*.
 
