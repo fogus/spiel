@@ -39,7 +39,7 @@ Making a capture ends a player's turn.
 
 A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *Tree*.
 
-![tree]()
+![tree](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
 
 A Tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it's separated and placed on the same card next to the existing stack.  When a Tree is on a card then it and all of the pyramids on it the same card are safe from capture (with an exception, described next). 
 
@@ -49,7 +49,7 @@ Also, when a player sows the pyramids on a card containing a Tree then the Tree 
 
 While a tree will prevent capture of itself and the pyramids occupying the same card, it is not entirely immune from capture.  That is, if a large pyramid is sown onto a preexisting stack consisting of a medium on top of a small then a *Nest* is created.
 
-![nest]()
+![nest](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/nest.png)
 
 If the nest is created opposite of an opponent's card containing a Tree then the Tree, the Nest and all of the opposing pyramids are captured in one fell swoop.  Nests cannot move as a single unit, that is, they're considered a regular stack for the purposes of Sowing.
 
