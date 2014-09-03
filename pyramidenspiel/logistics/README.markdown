@@ -37,7 +37,7 @@ Making a capture ends a player's turn.
 
 ### Preventing capture
 
-A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *Tree*.
+A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *Tree*.  Trees can be any mix of colors, as shown below:
 
 ![tree](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
 
@@ -47,7 +47,7 @@ Also, when a player sows the pyramids on a card containing a Tree then the Tree 
 
 ### Unstoppable captures
 
-While a tree will prevent capture of itself and the pyramids occupying the same card, it is not entirely immune from capture.  That is, if a large pyramid is sown onto a preexisting stack consisting of a medium on top of a small then a *Nest* is created.
+While a tree will prevent capture of itself and the pyramids occupying the same card, it is not entirely immune from capture.  That is, if a large pyramid is sown onto a preexisting stack consisting of a medium on top of a small then a *Nest* is created.  Like Trees, Nests too can be any mix of colors:
 
 ![nest](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/nest.png)
 
