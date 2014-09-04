@@ -80,7 +80,7 @@ When the game ends the pyramids in the players' vaults are score according to th
 
 * 7 points for each solid-color tree
 * 5 points for each mixed-color tree
-* 1 point for each of the rest of your pieces
+* 1 point for each of the rest of the pieces
 
 The player with the highest score wins.
 
