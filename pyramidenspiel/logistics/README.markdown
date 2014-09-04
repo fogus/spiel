@@ -51,37 +51,32 @@ While a tree will prevent capture of itself and the pyramids occupying the same 
 
 ![nest](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/nest.png)
 
-If the nest is created opposite of an opponent's card containing a tree then the tree, the nest and all of the opposing pyramids are captured in one fell swoop.  nests cannot move as a single unit, that is, they're considered a regular stack for the purposes of Sowing.
+If a nest is created opposite of an opponent's card containing a tree then the tree and all of the opposing pyramids are captured in one fell swoop.  Nests cannot move as a single unit like trees, instead they're considered a regular stack for the purposes of sowing.
 
 ### Capture powers
 
 Capturing pyramids not only brings pyramids into a player's vault for final scoring, it also provide certain additional turn actions.  Depending on the color of the pyramid used to capture then certain actions will be available to the capturing player:
 
- * **Green or Cyan** - take a piece out of the opponent's vault and 
-   place it into their stock.
- * **Yellow or Clear** - take the top piece from the stack on your
-   last card and put it into your stock
- * **Red or Orange** - you can move any top piece one card forward
+ * **Green or Cyan** - take any piece out of any vault and 
+   place it into the respective stock
+ * **Yellow or Clear** - move any top pyramid back into the
+   respective stock
+ * **Red or Orange** - move any top piece one card forward
  * **Blue or Purple** - swap any two pieces on your play area
  * **Black or White** - swap any two pieces on your opponent's 
    play area
  
 The special actions are taken immediately after the captured pieces are placed into the capturing player's vault.
 
-Examples
---------
-
-TODO
-
 Ending the game
 ---------------
 
-The game ends when there are no more pyramids left to play.  If one player runs out of pyramids before the other then the opponent may continue sowing until they too have run out of pyramids.
+The game ends when there are no more legal plays.  If one player can no longer move then the opponent may continue sowing until they too have run out of legal moves.
 
 Final scoring
 =============
 
-When the game ends look at the pyramids in your vault and score according to the following:
+When the game ends the pyramids in the players' vaults are score according to the following:
 
 * 7 points for each solid-color tree
 * 5 points for each mixed-color tree
