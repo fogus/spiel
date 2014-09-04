@@ -87,5 +87,5 @@ The player with the highest score wins.
 Design Notes
 ============
 
-TODO
+*Logistics* is inspired by the great Manacala game [Cups](http://boardgamegeek.com/boardgame/19916/cups) designed by Wald and Arthur Amberstone.  Additionally, the scoring scheme is taken from the pyramid game [Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html) designed by the amazing [Kristin Looney](http://wunderland.com/WTS/Kristin/Kristin.html).
 
