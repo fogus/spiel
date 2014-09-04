@@ -24,9 +24,12 @@ The player with the most valuable set of captured and transported pyramids wins 
 Gameplay
 ========
 
-On each player's first turn they may take up to four pyramids of any size and *sow* them onto their playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on their side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.
+On each player's first turn they may take up to four pyramids of any size and *sow* them onto their playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on their side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.  Likewise, if the pyramids on a card are sown then they are done so from the top of the stack to the bottom.
 
-If the last pyramid in a sowing action that started on the playing area lands in the player's vault then the player may choose to sow another set from their stock or from an occupied card.  The pyramids on a card may only be sown into the vault if the number of pyramids is less than or equal to the number of cards needed to reach it.  Finally, if the pyramids on a card are sown then they are done so in order from the top of the stack to the bottom.
+Sowing into the vault
+---------------------
+
+The last pyramid in a sowing action starting on the playing area that lands in the player's vault is out of play.  When this occurs then the player may choose to sow another set from their stock or from an occupied card.  The pyramids on a card may only be sown into the vault if the number of pyramids is less than or equal to the number of cards needed to reach it.
 
 Capture
 -------
