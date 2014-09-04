@@ -8,11 +8,11 @@ You'll need the following materials to play *Logistics*:
  * 8-10 playing cards (suit doesn't matter) or index cards.
  * 1 [IceDice set](http://www.looneylabs.com/games/icedice) per player (i.e. 4 [Treehouse sets](http://www.looneylabs.com/games/treehouse) total)
  
-For a short game, the cards should be laid out in a 2x3 grid with a card to each player's right turned to the side; this is known as the *Vault*.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right serving as the *vault*.  The layout for the long game is as follows:
+For a short game, the cards should be laid out in a 2x3 grid with a card to each player's right turned to the side known as the *vault*.  For the longer game the cards should be in a 2x4 grid, also with a turned card to the right serving as the vault.  The layout for the long game is as follows:
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/setup.png)
 
-The playing area is initially empty save for the cards in the playing area.  Each player takes their 30 pyramids and keeps them close at hand; this is known as the *Stock*.
+The playing area is initially empty save for the cards in the playing area.  Each player takes their 30 pyramids and keeps them close at hand; this is known as the *stock*.
 
 *note: You may also use larger layouts for even larger games.  Indeed, you can build a grid of up to 2x10, but you need an extra Treehouse set per player to facilitate a game of this size.*
 
@@ -24,9 +24,9 @@ The player with the most valuable set of captured and transported pyramids wins 
 Gameplay
 ========
 
-On each player's first turn they may take up to four pyramids, of any size, and *Sow* them onto the playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on her side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.
+On each player's first turn they may take up to four pyramids, of any size, and *sow* them onto the playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on her side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.
 
-If the last pyramid in a sowing action lands in the player's *vault* then they may choose to sow another set from their *stock* or from an occupied card, or instead pass.  The pyramids on a card may only be sown if the number of pyramids is less than or equal to the number of cards needed to reach the *vault*.  Finally, if the pyramids on a card are sown then they are done so in order from the top of the stack to the bottom.
+If the last pyramid in a sowing action lands in the player's vault then they may choose to sow another set from their stock or from an occupied card, or instead pass.  The pyramids on a card may only be sown if the number of pyramids is less than or equal to the number of cards needed to reach the vault.  Finally, if the pyramids on a card are sown then they are done so in order from the top of the stack to the bottom.
 
 Capture
 -------
@@ -43,7 +43,7 @@ A stack of pyramids either alone or on the top of an existing stack consisting o
 
 A Tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it's separated and placed on the same card next to the existing stack.  When a Tree is on a card then it and all of the pyramids on it the same card are safe from capture (with an exception, described next). 
 
-Also, when a player sows the pyramids on a card containing a Tree then the Tree is sown as a single piece.  That is, all of the pyramids on a card are sown in the regular order and the Tree is sown last in whole.  Trees can capture if they land on an empty card opposing an opponent's pyramids and will allow a player to sow again if sown into the *vault*.
+Also, when a player sows the pyramids on a card containing a Tree then the Tree is sown as a single piece.  That is, all of the pyramids on a card are sown in the regular order and the Tree is sown last in whole.  Trees can capture if they land on an empty card opposing an opponent's pyramids and will allow a player to sow again if sown into the vault.
 
 ### Unstoppable captures
 
@@ -57,16 +57,16 @@ If the nest is created opposite of an opponent's card containing a Tree then the
 
 Capturing pyramids not only brings pyramids into a player's vault for final scoring, it also provide certain additional turn actions.  Depending on the color of the pyramid used to capture then certain actions will be available to the capturing player:
 
- * **Green or Cyan** - take a piece out of the opponent's *vault* and 
-   place it into their *stock*.
+ * **Green or Cyan** - take a piece out of the opponent's vault and 
+   place it into their stock.
  * **Yellow or Clear** - take the top piece from the stack on your
-   last card and put it into your *stock*
- * **Red or Orange** - you can move any top piece one space forward.
+   last card and put it into your stock
+ * **Red or Orange** - you can move any top piece one card forward
  * **Blue or Purple** - swap any two pieces on your play area
  * **Black or White** - swap any two pieces on your opponent's 
    play area
  
-The special actions are taken immediately after the captured pieces are placed into the capturing player's *vault*.
+The special actions are taken immediately after the captured pieces are placed into the capturing player's vault.
 
 Examples
 --------
@@ -81,7 +81,7 @@ The game ends when there are no more pyramids left to play.  If one player runs 
 Final scoring
 =============
 
-When the game ends look at the pyramids in your *vault* and score according to the following:
+When the game ends look at the pyramids in your vault and score according to the following:
 
 * 7 points for each solid-color tree
 * 5 points for each mixed-color tree
