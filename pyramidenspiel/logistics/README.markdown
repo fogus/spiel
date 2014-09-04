@@ -31,27 +31,27 @@ If the last pyramid in a sowing action lands in the player's vault then they may
 Capture
 -------
 
-If the last pyramid in a sowing action lands on an empty card that is opposite from an occupied opponent card then the sowed pyramid and all of the opposite pyramids are captured.  Capturing can be prevented by the existence of certain pyramidal structures, described next.
+If the last pyramid in a sowing action lands on an empty card that is opposite from an occupied opponent card then all of the opponent's occupying pyramids are captured.  However, capturing can be prevented by the existence of certain pyramidal structures, described next.
 
 Making a capture ends a player's turn.  
 
 ### Preventing capture
 
-A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *Tree*.  Trees can be any mix of colors, as shown below:
+A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *tree*.  trees can be any mix of colors, as shown below:
 
 ![tree](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
 
-A Tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it's separated and placed on the same card next to the existing stack.  When a Tree is on a card then it and all of the pyramids on it the same card are safe from capture (with an exception, described next). 
+A tree is handled differently than other pyramidal structures.  First, if such a structure is created on an existing stack then it's separated and placed on the same card next to the existing stack.  When a tree is on a card then it and all of the pyramids on it the same card are safe from capture (with an exception, described next). 
 
-Also, when a player sows the pyramids on a card containing a Tree then the Tree is sown as a single piece.  That is, all of the pyramids on a card are sown in the regular order and the Tree is sown last in whole.  Trees can capture if they land on an empty card opposing an opponent's pyramids and will allow a player to sow again if sown into the vault.
+Also, when a player sows the pyramids on a card containing a tree then the tree is sown as a single piece.  That is, all of the pyramids on a card are sown in the regular order and the tree is sown last in whole.  trees can capture if they land on an empty card opposing an opponent's pyramids and will allow a player to sow again if sown into the vault.
 
 ### Unstoppable captures
 
-While a tree will prevent capture of itself and the pyramids occupying the same card, it is not entirely immune from capture.  That is, if a large pyramid is sown onto a preexisting stack consisting of a medium on top of a small then a *Nest* is created.  Like Trees, Nests too can be any mix of colors:
+While a tree will prevent capture of itself and the pyramids occupying the same card, it is not entirely immune from capture.  That is, if a large pyramid is sown onto a preexisting stack consisting of a medium on top of a small then a *nest* is created.  Like trees, nests too can be any mix of colors:
 
 ![nest](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/nest.png)
 
-If the nest is created opposite of an opponent's card containing a Tree then the Tree, the Nest and all of the opposing pyramids are captured in one fell swoop.  Nests cannot move as a single unit, that is, they're considered a regular stack for the purposes of Sowing.
+If the nest is created opposite of an opponent's card containing a tree then the tree, the nest and all of the opposing pyramids are captured in one fell swoop.  nests cannot move as a single unit, that is, they're considered a regular stack for the purposes of Sowing.
 
 ### Capture powers
 
