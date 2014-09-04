@@ -55,7 +55,7 @@ The special actions are taken immediately after the captured pieces are placed i
 
 ### Guarding capture
 
-A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *tree*.  trees can be any mix of colors, as shown below:
+A stack of pyramids either alone or on the top of an existing stack consisting of a small on a medium on a large is known as a *tree*.  Trees can be any mix of colors, as shown below:
 
 ![tree](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
 
