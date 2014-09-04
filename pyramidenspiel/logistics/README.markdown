@@ -1,4 +1,4 @@
-*Logistics* is a game of pyramid transportation and capture using a  movement and capture mechanism inspired by Mancala for 2 players.
+*Logistics* is a game of pyramid transportation and capture using a  Mancala-like movement and capture mechanism for 2 players.
 
 Preparation
 ===========
