@@ -71,7 +71,7 @@ The special actions are taken immediately after the captured pieces are placed i
 Ending the game
 ---------------
 
-The game ends when there are no more legal plays.  If one player can no longer move then the opponent may continue sowing until they too have run out of legal moves.
+The game ends when there are no more legal sows.  If one player can no longer sow then the other may continue sowing until they too have run out of legal moves.
 
 Final scoring
 =============
@@ -82,5 +82,10 @@ When the game ends the pyramids in the players' vaults are score according to th
 * 5 points for each mixed-color tree
 * 1 point for each of the rest of your pieces
 
-To start scoring, just add up all of the scores of the pyramids according to the groupings listed above.  The player with the highest score wins.
+The player with the highest score wins.
+
+Design Notes
+============
+
+TODO
 
