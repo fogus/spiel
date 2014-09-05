@@ -24,7 +24,6 @@ Piece capture
 
 Capturing in *Insurrection* occurs exactly as in Chess, but the real fun begins once captures occur.
 
-
 Succession and decline via capture
 ----------------------------------
 
@@ -97,8 +96,5 @@ Assassination
 
 If there is more than one piece active for the government in power then all but the last one can be captured, or assasinated.  However, the final piece of a government in power **must** be checkmated.
 
-Acknowledgments
-===============
 
-The idea for coups came from a comment that my son said during one of our games about how I might have won if my king was just a regular piece.  The basic idea for succession and decline came from a [Twitter comment by Daniel Solis](https://twitter.com/DanielSolis/status/459756349745020928).
-
+Insurrection is © 2014, [Michael Fogus](http://www.fogus.me/fun/spiel)
