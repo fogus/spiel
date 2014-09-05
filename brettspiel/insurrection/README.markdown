@@ -77,6 +77,8 @@ In the diagram above, should the black king take the attacking pawn then the fol
 
 Unfortunately for white, the coup leads to a catastrophe as the pawn on a2 is placed into check.  When a coup leads to a check then the player in danger has one attempt to get out of it.  If they are unable to remove the check then they lose.  In the case above white has no move that can release the check on the a2 pawn and is therefore checkmated.
 
+In *Insurrection* it's possible (and a strong tactical choice) to check two pieces at the same time.  This is known as a forked-check.  Save for the loss of the checking piece, a forked-check spells the end of the game.
+
 Types of coups
 --------------
 
@@ -94,6 +96,6 @@ It's fun to yell these names out when a coup occurs.
 Variant: Assassination
 ======================
 
-Rather than wining via the checkmate of any piece of the government in power you can allow assasination instead.  That is, if there is more than one piece active for the government in power then all but the last one can be captured, or assasinated.  However, the final piece of a government in power **must** be checkmated.
+Rather than wining via the checkmate of any piece of the government in power you can allow assasination instead.  That is, if there is more than one piece active for the government in power then all but the last one can be captured, or assasinated.  However, the final piece of a government in power **must** be checkmated.  
 
 Insurrection is © 2014, [Michael Fogus](http://www.fogus.me/fun/spiel)
