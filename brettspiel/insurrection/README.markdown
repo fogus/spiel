@@ -1,4 +1,4 @@
-*Insurrection* is a Chess variant where individual pieces can move up in rank and governments are toppled.
+*Insurrection* is a Chess variant where individual pieces can move up or down in rank via capture, and governments are toppled.
 
 Setup
 =====
@@ -7,7 +7,7 @@ Setup
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/setup.png)
 
-Because of succession (described later) you might wish to have addional sets of pieces on hand.
+The game uses the standard set of chess pieces.  However, because of succession (described later) you might wish to have addional sets of pieces on hand.
 
 Piece movement
 ==============
