@@ -91,10 +91,9 @@ The type of coup that occurs depends on the piece captured by an opponent govern
 
 It's fun to yell these names out when a coup occurs.
 
-Assassination
-============
+Variant: Assassination
+======================
 
-If there is more than one piece active for the government in power then all but the last one can be captured, or assasinated.  However, the final piece of a government in power **must** be checkmated.
-
+Rather than wining via the checkmate of any piece of the government in power you can allow assasination instead.  That is, if there is more than one piece active for the government in power then all but the last one can be captured, or assasinated.  However, the final piece of a government in power **must** be checkmated.
 
 Insurrection is © 2014, [Michael Fogus](http://www.fogus.me/fun/spiel)
