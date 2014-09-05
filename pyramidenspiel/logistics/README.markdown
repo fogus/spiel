@@ -24,7 +24,9 @@ The player with the most valuable set of captured and transported pyramids wins 
 Gameplay
 ========
 
-On each player's first turn they may take up to four pyramids of any size and *sow* them onto their playing area, each on a separate card.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on their side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.  Likewise, if the pyramids on a card are sown then they are done so from the top of the stack to the bottom.
+In *Logistics* players always play on the cards laid out in front of them and will only ever play on their opponent's play area if a capture power dictates that they can.  Additionally, play occurs from left to right, again unless a capture power dictates otherwise.
+
+On each player's first turn they may take up to four pyramids of any size and *sow* them onto their playing area, each on a separate card starting from the left-most and proceeding to the right.  On subsequent turns, a player may play from his reserve up to four pyramids or all of the pyramids on a card in the playing area on their side.  When placing a pyramid on a card already containing pyramids then it's stacked on top of those in place.  Likewise, if the pyramids on a card are sown then they are done so from the top of the stack to the bottom.
 
 Sowing into the vault
 ---------------------
