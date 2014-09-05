@@ -7,12 +7,12 @@ Setup
 
 ![setup](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/insurrection/graphics/setup.png)
 
-Because of succession you might wish to have addional sets of pieces on hand.
+Because of succession (described later) you might wish to have addional sets of pieces on hand.
 
 Piece movement
 ==============
 
-All of the pieces in *Insurrection* move in the same way that they move in Chess.  
+All of the pieces in *Insurrection* move in the same way that they move in regular Chess.
 
 Pawn promotion
 ==============
