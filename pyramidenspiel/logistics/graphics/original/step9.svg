@@ -480,56 +480,6 @@
        inkscape:export-ydpi="28.23"
        inkscape:export-xdpi="28.23"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/step9.png"
-       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(799.4531,-721.19692)"
-       id="g6614">
-      <g
-         id="use6616"
-         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
-         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7317"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           style="fill-opacity:1" />
-        <g
-           style="fill-opacity:1"
-           id="g7319"
-           transform="translate(514.35419,-1019.4414)">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             id="use7321"
-             sodipodi:nodetypes="csssc" />
-        </g>
-      </g>
-      <g
-         id="use6618"
-         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
-         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7325"
-           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-           style="fill-opacity:1" />
-        <g
-           style="fill-opacity:1"
-           id="g7327"
-           transform="translate(514.35419,-1019.4414)">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-             id="use7329"
-             sodipodi:nodetypes="csssc" />
-        </g>
-      </g>
-    </g>
-    <g
-       inkscape:export-ydpi="28.23"
-       inkscape:export-xdpi="28.23"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/step9.png"
        id="g6620"
        transform="translate(830.3147,-719.0756)"
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
@@ -2389,7 +2339,7 @@
        inkscape:export-xdpi="28.23"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/step9.png"
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(627.16901,-1384.2246)"
+       transform="translate(915.66857,-1853.7435)"
        id="g8741">
       <g
          style="fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -3219,7 +3169,7 @@
        inkscape:export-xdpi="28.23"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/step9.png"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(797.169,-1770.5434)"
+       transform="translate(635.94866,-1383.0489)"
        id="g9031">
       <g
          style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -4265,7 +4215,7 @@
        inkscape:export-xdpi="28.23"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/step9.png"
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(1369.173,-972.92692)"
+       transform="translate(916.62467,-715.54006)"
        id="g6740">
       <g
          id="use6742"
@@ -4356,6 +4306,56 @@
              style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
              id="use7393"
+             sodipodi:nodetypes="csssc" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="28.23"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/step9.png"
+       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(1458.4766,-1097.3777)"
+       id="g6614">
+      <g
+         id="use6616"
+         transform="matrix(0.62785179,-0.25881904,0.16823238,0.96592583,-39.293335,311.18718)"
+         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7317"
+           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
+           style="fill-opacity:1" />
+        <g
+           style="fill-opacity:1"
+           id="g7319"
+           transform="translate(514.35419,-1019.4414)">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
+             id="use7321"
+             sodipodi:nodetypes="csssc" />
+        </g>
+      </g>
+      <g
+         id="use6618"
+         transform="matrix(0.62785179,0.25881905,-0.16823238,0.96592583,97.731872,223.213)"
+         style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3.72104192;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7325"
+           d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
+           style="fill-opacity:1" />
+        <g
+           style="fill-opacity:1"
+           id="g7327"
+           transform="translate(514.35419,-1019.4414)">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
+             id="use7329"
              sodipodi:nodetypes="csssc" />
         </g>
       </g>

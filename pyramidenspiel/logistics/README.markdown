@@ -102,7 +102,7 @@ Player B chooses a small black, small red, and a small yellow from the stock and
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step2.png)
 
-Player A then chooses a small blue, small green, small yellow, and another small yellow from the stock and sows them, capturing Player B's small black.  Player A then uses the yellow capture power to move her own small blue one card forward on top of the small red.
+Player A then chooses a small blue, small green, small red, and another small yellow from the stock and sows them, capturing Player B's small black.  Player A then uses the yellow capture power to move her own small blue one card forward on top of the small red.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step3.png)
 
