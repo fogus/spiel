@@ -92,7 +92,7 @@ The player with the highest score wins.
 Example
 =======
 
-TODO
+The fragment of a game below is meant to give a better idea of how pyramids are moved around the playing area from the stock and into the vault.  The sequence of plays are not meant to be optimal but are merely illustrative.
 
 Player A chooses a small red, medium blue, and a small blue from the stock and sows them.
 
@@ -114,23 +114,23 @@ Player A then chooses a small black, medium yellow, and a medium green from the 
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step5.png)
 
-
+Player B then takes the small yellow from the last card and sows it forward into the vault.  This gives Player B another turn.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step6.png)
 
-TODO
+Player B then takes the stack from the 3rd card and sows the small blue onto the last card and the small yellow into the vault.  This gives player B another turn.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step7.png)
 
-TODO
+Player B then takes the small blue from the last card and sows it forward into the vault.  This gives Player B another turn.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step8.png)
 
-TODO
+Player B then takes the stack from the 2nd card and sows the small black to the 3rd card, the small green to the last card, and the small red into the vault.  This gives Player B another turn.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step9.png)
 
-TODO
+At this point you should have a good idea how pyramids are sown from the stock into the play area and from the play area into the vault.  Additionally, you should see how setting up certain configurations can result in useful captures and extra turns.  At this point Player B has only one more extra play.  Do you see what it is?
 
 Design Notes
 ============
