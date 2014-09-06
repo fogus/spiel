@@ -102,11 +102,11 @@ Player B chooses a small black, small red, and a small yellow from the stock and
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step2.png)
 
-Player A then chooses a small blue, small green, small red, and another small yellow from the stock and sows them, capturing Player B's small black.  Player A then uses the yellow capture power to move her own small blue one card forward on top of the small red.
+Player A then chooses a small blue, small green, small yellow, and a small red from the stock and sows them, capturing Player B's small black.  Player A then uses the red capture power to move her own small blue one card forward on top of the small green.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step3.png)
 
-Player B chooses a small black, small green, small blue, and a small yellow from the stock and sows them, capturing Player A's small red.  Player B then uses the yellow capture power to move his own small black one card forward on top of the small green and small red.
+Player B chooses a small black, small green, small blue, and a small red from the stock and sows them, capturing Player A's small red.  Player B then uses the red capture power to move his own small black one card forward on top of the small green and small red.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step4.png)
 
@@ -114,7 +114,7 @@ Player A then chooses a small black, medium yellow, and a medium green from the 
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step5.png)
 
-Player B then takes the small yellow from the last card and sows it forward into the vault.  This gives Player B another turn.
+Player B then takes the small red from the last card and sows it forward into the vault.  This gives Player B another turn.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step6.png)
 
