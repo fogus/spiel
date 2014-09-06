@@ -89,6 +89,47 @@ When the game ends the pyramids in the players' vaults are score according to th
 
 The player with the highest score wins.
 
+Example
+=======
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+TODO
+
 Design Notes
 ============
 
