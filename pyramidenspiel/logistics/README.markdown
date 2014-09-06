@@ -94,27 +94,27 @@ Example
 
 TODO
 
-Player A chooses a small red, medium blue, and a small blue and sows them.
+Player A chooses a small red, medium blue, and a small blue from the stock and sows them.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
 
-Player B chooses a small black, small red, and a small yellow and sows them, capturing Player A's medium red.  Player B then uses the yellow capture power to move Player A's small blue back into the stock. 
+Player B chooses a small black, small red, and a small yellow from the stock and sows them, capturing Player A's medium red.  Player B then uses the yellow capture power to move Player A's small blue back into the stock. 
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step2.png)
 
-
+Player A then chooses a small blue, small green, small yellow, and another small yellow from the stock and sows them, capturing Player B's small black.  Player A then uses the yellow capture power to move her own small blue one card forward on top of the small red.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step3.png)
 
-TODO
+Player B chooses a small black, small green, small blue, and a small yellow from the stock and sows them, capturing Player A's small red.  Player B then uses the yellow capture power to move his own small black one card forward on top of the small green and small red.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step4.png)
 
-TODO
+Player A then chooses a small black, medium yellow, and a medium green from the stock and sows them.
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step5.png)
 
-TODO
+
 
 ![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step6.png)
 
