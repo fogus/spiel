@@ -89,6 +89,49 @@ When the game ends the pyramids in the players' vaults are score according to th
 
 The player with the highest score wins.
 
+Example
+=======
+
+The fragment of a game below is meant to give a better idea of how pyramids are moved around the playing area from the stock and into the vault.  The sequence of plays are not meant to be optimal but are merely illustrative.
+
+Player A chooses a small red, medium blue, and a small blue from the stock and sows them.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step1.png)
+
+Player B chooses a small black, small red, and a small yellow from the stock and sows them, capturing Player A's medium red.  Player B then uses the yellow capture power to move Player A's small blue back into the stock. 
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step2.png)
+
+Player A then chooses a small blue, small green, small yellow, and a small red from the stock and sows them, capturing Player B's small black.  Player A then uses the red capture power to move her own small blue one card forward on top of the small green.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step3.png)
+
+Player B chooses a small black, small green, small blue, and a small red from the stock and sows them, capturing Player A's small red.  Player B then uses the red capture power to move his own small black one card forward on top of the small green and small red.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step4.png)
+
+Player A then chooses a small black, medium yellow, and a medium green from the stock and sows them.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step5.png)
+
+Player B then takes the small red from the last card and sows it forward into the vault.  This gives Player B another turn.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step6.png)
+
+Player B then takes the stack from the 3rd card and sows the small blue onto the last card and the small yellow into the vault.  This gives player B another turn.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step7.png)
+
+Player B then takes the small blue from the last card and sows it forward into the vault.  This gives Player B another turn.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step8.png)
+
+Player B then takes the stack from the 2nd card and sows the small black to the 3rd card, the small green to the last card, and the small red into the vault.  This gives Player B another turn.
+
+![s1](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/step9.png)
+
+At this point you should have a good idea how pyramids are sown from the stock into the play area and from the play area into the vault.  Additionally, you should see how setting up certain configurations can result in useful captures and extra turns.  At this point Player B has only one more extra play.  Do you see what it is?
+
 Design Notes
 ============
 
