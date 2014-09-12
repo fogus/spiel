@@ -12,7 +12,7 @@ You can use any color you like, but all of the pieces *must* look exactly the sa
 Pieces
 ======
 
-TODO
+The game uses the standard set of chess pieces that move in the same way that they move in orthodox Chess.  Indeed, the only rule that changes from orthodox Chess is that when a pawn promotes it can only do so to a captured piece by your opponent.
 
 Rules
 =====
