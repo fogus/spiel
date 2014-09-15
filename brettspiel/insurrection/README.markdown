@@ -1,5 +1,7 @@
 *Insurrection* is a Chess variant where individual pieces can move up or down in rank via capture, and governments are toppled.
 
+*note: these are living rules, but the latest rules are always found on the [Insurrection page at Chess Variants](http://www.chessvariants.org/index/msdisplay.php?itemid=MSinsurrection)*
+
 Setup
 =====
 
