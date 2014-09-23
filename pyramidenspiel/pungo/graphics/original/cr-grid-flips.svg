@@ -824,7 +824,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25943033"
-     inkscape:cx="445.451"
+     inkscape:cx="1305.0267"
      inkscape:cy="817.2438"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -843,7 +843,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -992,10 +992,10 @@
       </g>
     </g>
     <g
-       transform="translate(1010.6736,-767.43943)"
+       transform="translate(1399.9881,-771.29403)"
        id="layer1-4"
        inkscape:label="Capa 1"
-       style="opacity:0.75"
+       style="opacity:1"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-flips.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1083,27 +1083,13 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g3357"
-       transform="matrix(2.6245344,-3.1277983,1.5441553,1.2957002,1232.8155,1.3257488)"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-flips.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <title
-         id="title3359">Layer 1</title>
-      <path
-         transform="matrix(-0.7581571,-0.65207194,0.65207194,-0.7581571,31.486479,53.559424)"
-         d="M 1.926818,-44.38818 C 37.476841,-6.283189 24.409273,65.583267 26.290445,49.086677 l -11.762968,0 18.951309,37.183197 15.945286,-37.490459 -11.89362,0 c 0,0 11.709354,-79.646395 -35.603634,-93.167595 z"
-         id="path968"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:#333333;stroke-width:1.80091;stroke-linecap:round;stroke-linejoin:round" />
-    </g>
-    <g
-       transform="translate(1403.8427,-649.18233)"
+       transform="translate(1010.6736,-649.18233)"
        id="layer1-95"
        inkscape:label="Capa 1"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-flips.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       style="opacity:0.75">
       <rect
          transform="matrix(4,0,0,4,-180.00216,-2477.0527)"
          ry="9.2857141"
@@ -1112,9 +1098,9 @@
          height="74.285713"
          width="74.285713"
          id="rect10549"
-         style="opacity:0.72244903;fill:#888a85;fill-opacity:1;stroke:#888a85;stroke-width:0.44291338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter10343-3)" />
+         style="opacity:0.72244903000000005;fill:#888a85;fill-opacity:1;stroke:#888a85;stroke-width:0.44291338000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter10343-3)" />
       <rect
-         style="fill:url(#linearGradient6311-7);fill-opacity:1;stroke:url(#linearGradient6313-6);stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:url(#linearGradient6311-7);fill-opacity:1;stroke:url(#linearGradient6313-6);stroke-width:1.77165353000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect10551"
          width="297.14285"
          height="297.14285"
@@ -1129,11 +1115,11 @@
          sodipodi:cy="94.287537"
          sodipodi:cx="103.59114"
          id="path10553"
-         style="opacity:0.76326533;fill:url(#radialGradient6385);fill-opacity:1;stroke:none;filter:url(#filter9518-9)"
+         style="opacity:0.76326532999999996;fill:url(#radialGradient6385);fill-opacity:1;stroke:none;filter:url(#filter9518-9)"
          sodipodi:type="arc" />
       <path
          sodipodi:type="arc"
-         style="opacity:0.76326533;fill:url(#radialGradient6383);fill-opacity:1;stroke:none;filter:url(#filter9518-9)"
+         style="opacity:0.76326532999999996;fill:url(#radialGradient6383);fill-opacity:1;stroke:none;filter:url(#filter9518-9)"
          id="path10555"
          sodipodi:cx="103.59114"
          sodipodi:cy="94.287537"
@@ -1186,6 +1172,21 @@
          id="path4443"
          d="M 1.926818,-44.38818 C 37.476841,-6.283189 24.409273,65.583267 26.290445,49.086677 l -11.762968,0 18.951309,37.183197 15.945286,-37.490459 -11.89362,0 c 0,0 11.709354,-79.646395 -35.603634,-93.167595 z"
          transform="matrix(-0.7581571,-0.65207194,0.65207194,-0.7581571,31.486479,53.559424)" />
+    </g>
+    <g
+       id="g3357"
+       transform="matrix(2.6245344,-3.1277983,1.5441553,1.2957002,1232.8155,1.3257488)"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-flips.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <title
+         id="title3359">Layer 1</title>
+      <path
+         transform="matrix(-0.7581571,-0.65207194,0.65207194,-0.7581571,31.486479,53.559424)"
+         d="M 1.926818,-44.38818 C 37.476841,-6.283189 24.409273,65.583267 26.290445,49.086677 l -11.762968,0 18.951309,37.183197 15.945286,-37.490459 -11.89362,0 c 0,0 11.709354,-79.646395 -35.603634,-93.167595 z"
+         id="path968"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#333333;stroke-width:1.80091;stroke-linecap:round;stroke-linejoin:round" />
     </g>
   </g>
   <g
