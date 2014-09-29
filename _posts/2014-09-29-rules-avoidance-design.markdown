@@ -25,6 +25,8 @@ Rather than run off and download the rules from BGG, I instead tinkered around w
 
 That's for your drink.
 
+This game is not only fun, it's practical!
+
 ## Results
 
 But how well, does this game play?  In my head it seems pretty fun, but I've not gotten it to a table yet.  That said, I looked up the actual rules for Ring-A-Round and I feel that at this moment I would rather play my fictitious game on this board than the actual game designed for it.  Granted, there are some holes in my design that I've yet to rectify, so your mileage may vary.
