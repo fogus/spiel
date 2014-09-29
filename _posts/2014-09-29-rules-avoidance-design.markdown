@@ -13,7 +13,7 @@ Recently I found an interesting looking game at the thrift store named [Ring-A-R
 
 ![whatamthis](https://farm3.staticflickr.com/2944/15370639186_5fc3e9353b_c_d.jpg)
 
-If you look closely at the image you'll notice there are dice.  However, my purchase didn't have any dice, nor did it have any rules -- all that it had were a bunch of rings and a board with four hexhex3 playing areas on it, where each cell contains a number on it.
+If you look closely at the image you'll notice there are dice.  However, my purchase didn't have any dice, nor did it have any rules -- all that it had were a bunch of rings and a board with four hex3 playing areas on it, where each cell contains a number on it.
 
 Given only this information ask yourself: how do I play this game?
 
