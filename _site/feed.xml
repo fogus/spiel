@@ -6,9 +6,46 @@
 </description>
     <link>http://fogus.github.com/spiel/</link>
     <atom:link href="http://fogus.github.com/spiel/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Sep 2014 16:01:10 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2014 16:01:10 -0400</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2014 14:24:25 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 14:24:25 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Rules Avoidance Design</title>
+        <description>&lt;p&gt;An activity that I’ve found useful for thinking of game designs is to avoid reading rules.  This seems counter-intuitive since an understanding of the possibilities in the domain of game rules seems critical in growing as a game designer.  While I definitely think this is true, active rules avoidance has helped me to generate some interesting design paths.  Let me explain.&lt;/p&gt;
+
+&lt;h2 id=&quot;avoid-reading-the-rules-at-all-costs&quot;&gt;Avoid reading the rules at all costs&lt;/h2&gt;
+
+&lt;p&gt;Recently I found an interesting looking game at the thrift store named &lt;a href=&quot;http://boardgamegeek.com/boardgame/21777/number-rings&quot;&gt;Ring-A-Round&lt;/a&gt; and picked it up on a whim for a buck.  Upon opening the sealed lid I was presented with the following scene:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2944/15370639186_5fc3e9353b_c_d.jpg&quot; alt=&quot;whatamthis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you look closely at the image you’ll notice there are dice.  However, my purchase didn’t have any dice, nor did it have any rules – all that it had were a bunch of rings and a board with four hexhex3 playing areas on it, where each cell contains a number on it.&lt;/p&gt;
+
+&lt;p&gt;Given only this information ask yourself: how do I play this game?&lt;/p&gt;
+
+&lt;h2 id=&quot;rules-avoidance-design-rad&quot;&gt;Rules Avoidance Design (RAD)&lt;/h2&gt;
+
+&lt;p&gt;This is the core of &lt;em&gt;Rules Avoidance Design&lt;/em&gt;, aka. &lt;em&gt;RAD&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Rather than run off and download the rules from BGG, I instead tinkered around with some ideas about what these components were saying to me about this game.  There were numbers on the hex cells, but after trying to noodle through that aspect for a while I decided to ignore them – they weren’t speaking to me, if you catch my drift.  Instead, I envisioned a 2-player game similar to &lt;a href=&quot;http://boardgamegeek.com/boardgame/68199/catchup&quot;&gt;Catchup&lt;/a&gt; with the &lt;a href=&quot;http://boardgamegeek.com/article/16478892#16478892&quot;&gt;Mures rule simplification in place&lt;/a&gt; and each player controlling two different colors.  The game is played on all four of the hex areas and groups can span across multiple areas along adjacent edge cells.  Finally, the colored center squares are free cells for the color listed.&lt;/p&gt;
+
+&lt;p&gt;But how well, does this game play?  In my head it seems pretty fun, but I’ve not gotten it to a table yet.  That said, I looked up the actual rules for Ring-A-Round and I feel that at this moment I would rather play my fictitious game on this board than the actual game designed for it.  Granted, there are some holes in my design that I’ve yet to rectify, so your mileage may vary.&lt;/p&gt;
+
+&lt;h2 id=&quot;finis&quot;&gt;Finis&lt;/h2&gt;
+
+&lt;p&gt;I’ve performed this process numerous times in the past and while it’s rare that a new game is discovered, it’s always a fun activity.  I have no illusions about a future game design career and anything that I do in this realm is done in the spirit of personal enrichment.  So far, I’ve found &lt;em&gt;RAD&lt;/em&gt; to be a wonderful way to stimulate the neurons of the brain dedicated to game design.  I doubt that this idea is new to veteran designers, but I hope that at least the name will catch on.&lt;/p&gt;
+
+&lt;p&gt;:F&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Sep 2014 08:36:15 -0400</pubDate>
+        <link>http://fogus.github.com/spiel/design/2014/09/29/rules-avoidance-design.html</link>
+        <guid isPermaLink="true">http://fogus.github.com/spiel/design/2014/09/29/rules-avoidance-design.html</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>New game design: Pidan</title>
