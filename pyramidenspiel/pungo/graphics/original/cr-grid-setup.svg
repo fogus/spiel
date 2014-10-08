@@ -311,7 +311,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.25943033"
      inkscape:cx="1127.7151"
-     inkscape:cy="817.2438"
+     inkscape:cy="1208.1825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -339,80 +339,100 @@
      id="layer1"
      transform="translate(0,747.641)"
      style="display:inline">
-    <g
-       id="g3221"
-       transform="translate(273.46894,-0.78059)"
+    <path
+       inkscape:connector-curvature="0"
+       id="path9163"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
+       d="m 774.97426,-422.66672 359.18534,0 0,359.185362 -359.18534,0 z"
+       inkscape:tile-cx="420.61111"
+       inkscape:tile-cy="311.58247"
+       inkscape:tile-w="539.00232"
+       inkscape:tile-h="359.00232"
+       inkscape:tile-x0="151.10995"
+       inkscape:tile-y0="132.08131"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:tile-y0="132.08131"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-h="359.00232"
-         inkscape:tile-w="539.00232"
-         inkscape:tile-cy="311.58247"
-         inkscape:tile-cx="420.61111"
-         d="m 501.50532,-421.88613 359.18535,0 0,359.185362 -359.18535,0 z"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
-         id="path9163"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9165"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
-         d="m 501.50532,-26.453093 359.18535,0 0,359.185363 -359.18535,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9167"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
-         d="m 501.50532,368.97995 359.18535,0 0,359.18536 -359.18535,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9171"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
-         d="m 896.93831,-421.88613 359.18529,0 0,359.185358 -359.18529,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9173"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
-         d="m 896.93839,-26.453093 359.18531,0 0,359.185363 -359.18531,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9175"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
-         d="m 896.93831,368.97995 359.18529,0 0,359.18536 -359.18529,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9179"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
-         d="m 1292.3715,-421.88613 359.1853,0 0,359.185354 -359.1853,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9181"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
-         d="m 1292.3715,-26.453093 359.1853,0 0,359.185363 -359.1853,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9183"
-         style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
-         d="m 1292.3715,368.97995 359.1853,0 0,359.18536 -359.1853,0 z"
-         inkscape:tile-x0="151.10995"
-         inkscape:tile-y0="132.08131" />
-    </g>
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 774.97426,-27.233683 359.18534,0 0,359.185363 -359.18534,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
+       id="path9165"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 774.97426,368.19936 359.18534,0 0,359.18536 -359.18534,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
+       id="path9167"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 1170.4073,-422.66672 359.1852,0 0,359.185358 -359.1853,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
+       id="path9171"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 1170.4073,-27.233683 359.1853,0 0,359.185363 -359.1853,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
+       id="path9173"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 1170.4073,368.19936 359.1852,0 0,359.18536 -359.1853,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
+       id="path9175"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 1565.8404,-422.66672 359.1853,0 0,359.185354 -359.1853,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
+       id="path9179"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 1565.8404,-27.233683 359.1853,0 0,359.185363 -359.1853,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
+       id="path9181"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       d="m 1565.8404,368.19936 359.1853,0 0,359.18536 -359.1853,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464887;stroke-opacity:1"
+       id="path9183"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        transform="translate(456.67359,-164.69632)"
        id="layer1-9"
@@ -476,6 +496,40 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <path
+       inkscape:tile-y0="132.08131"
+       inkscape:tile-x0="151.10995"
+       inkscape:tile-h="359.00232"
+       inkscape:tile-w="539.00232"
+       inkscape:tile-cy="311.58247"
+       inkscape:tile-cx="420.61111"
+       d="m 380.09592,-422.81212 359.18534,0 0,359.185361 -359.18534,0 z"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
+       id="path3066"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3068"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
+       d="m 380.09592,-27.379084 359.18534,0 0,359.185364 -359.18534,0 z"
+       inkscape:tile-x0="151.10995"
+       inkscape:tile-y0="132.08131"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3070"
+       style="opacity:0.45689655;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81464881;stroke-opacity:1"
+       d="m 380.09592,368.05396 359.18534,0 0,359.18536 -359.18534,0 z"
+       inkscape:tile-x0="151.10995"
+       inkscape:tile-y0="132.08131"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/pungo/graphics/cr-grid-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
