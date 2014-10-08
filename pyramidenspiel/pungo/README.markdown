@@ -3,9 +3,9 @@
 Setup
 =====
 
-To play you'll need both a 3x4 board and a 3x3 board (you can simply draw them on paper), a normal 6-sided, and 9 [Looney Pyramids](http://www.looneylabs.com/looney-pyramids) of any color, 3 each of small medium and large sizes.  
+To play you'll need two 3x4 boards (you can simply draw them on paper), a normal 6-sided, and 9 [Looney Pyramids](http://www.looneylabs.com/looney-pyramids) of any color, 3 each of small medium and large sizes.  
 
-The 3x4 board should be placed between the players —  this is the *game arena*.  The 3x3 board should be placed to the side of the game arena with the die showing the 1-pip placed in the center square —  this is the *controlled roll* surface:
+One 3x4 board should be placed between the players —  this is the *game arena*.  The other 3x4 board should be placed to the side of the game arena with the die showing the 1-pip placed in one of the center squares —  this is the *controlled roll* surface:
 
 ![Setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/cr-grid-setup.png)
 
@@ -48,11 +48,11 @@ On each turn the player to move is allocated a certain number of movement points
 
 ## The controlled roll
 
-A *controlled roll* is a way to utilize a die in such a way as to eliminate random results.  To do this a player flips a die along the 3x3 grid from one face to another, as shown below:
+A *controlled roll* is a way to utilize a die in such a way as to eliminate random results.  To do this a player tumbles a die along the 3x4 grid from one face to another, as shown below:
 
 ![Setup](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/pungo/graphics/cr-grid-flips.png)
 
-The only constraints on movement is that a die cannot exit the bounds of the grid nor be be flipped into a square where is came from previously.
+The only constraints on movement is that a die cannot exit the bounds of the grid nor be be flipped into a square where it came from previously.
 
 ## Pyramid movement
 
