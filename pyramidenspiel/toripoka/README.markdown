@@ -22,6 +22,17 @@ The reveal
 
 TODO
 
+Scoring
+-------
+
+When the game ends group and score your won pyramids according to the following:
+
+ * 7 points for each solid-color tree
+ * 5 points for each mixed-color tree
+ * 1 point for each of the rest of your pieces
+
+TODO - ties?
+
 The *Toripoka* deck
 =====================
 
