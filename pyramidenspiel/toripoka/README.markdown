@@ -25,7 +25,7 @@ TODO
 Placing pyramids
 ----------------
 
-TODO
+TODO - pyramids can be used to adjust the ranks of non-wild cards by the number of pips.  are they placed back into the bags?
 
 Scoring
 -------
