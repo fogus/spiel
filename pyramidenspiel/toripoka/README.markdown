@@ -12,6 +12,11 @@ Gameplay
 
 TODO - 3-card hands (2 + either of the publics)
 
+
+ * Deal 2 to each player
+ * Deal 1 card to the public
+ * Each player lays one to the pyramid of thier choice
+
 The deal
 --------
 
