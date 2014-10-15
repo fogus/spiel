@@ -22,15 +22,21 @@ The reveal
 
 TODO
 
+Placing pyramids
+----------------
+
+TODO
+
 Scoring
 -------
 
 When the game ends group and score your won pyramids according to the following:
 
- * 7 points for each solid-color tree
- * 5 points for each mixed-color tree
+ * 7 points for each solid-color tree without black pieces
+ * 5 points for each mixed-color tree without black pieces
  * 1 point for each of the rest of your pieces
-
+ * negative points of value for any black pieces or trees
+ 
 TODO - ties?
 
 The *Toripoka* deck
