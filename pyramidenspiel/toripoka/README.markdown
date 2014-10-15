@@ -15,7 +15,18 @@ TODO - 3-card hands (2 + either of the publics)
  * Draw two pyramids
  * Deal 2 to each player
  * Deal 1 card to the public
- * Each player lays one to the pyramid of their choice
+ * Each player places a card anywhere, face up
+ * Deal 1 card to the public
+ * Each player draws 1-card
+ * Each player places a card anywhere, face down
+ * Each player draws 1-card
+ * Each player places a card anywhere, face up
+ * Each player draws 2-cards
+ * Each player places a card anywhere, face down
+ * Each player places a card anywhere, face up
+ * Each player places a card anywhere, face up
+ * Each player alternates placing adjusting pyramids
+ * Cards are revealed
 
 The deal
 --------
