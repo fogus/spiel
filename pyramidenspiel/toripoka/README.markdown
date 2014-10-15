@@ -25,11 +25,15 @@ TODO - 3-card hands (2 + either of the publics)
  * Each player draws 1-card
  * Each player places a card anywhere, face up
  * Each player alternates placing adjusting pyramids (opt) 
+ * Players may choose to fold, keeping their adjusters at the
+   pyramid they're withdrawing from
  * Each player draws 2-cards
+ * Players may choose to fold, keeping their adjusters at the
+   pyramid they're withdrawing from 
  * Each player places a card anywhere, face down
  * Each player alternates placing adjusting pyramids (opt) 
  * Each player places a card anywhere, face up
- * Each player alternates placing adjusting pyramids (opt) 
+ * Each player alternates placing adjusting pyramids (opt)
  * Each player places a card anywhere, face up
  * Each player alternates placing adjusting pyramids (opt)
  * Each player alternates placing adjusting pyramids
