@@ -10,7 +10,7 @@ TODO - [Treehouse set](http://www.looneylabs.com/rules/treehouse)
 Gameplay
 ========
 
-TODO
+TODO - 3-card hands (2 + either of the publics)
 
 The deal
 --------
