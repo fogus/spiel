@@ -3,9 +3,7 @@
 Setup
 =====
 
-*Toripoka* is played with a truncated card deck of 17 cards consisting of those in the suit of hearts and the 4, 7, 10, and King of Spades.
-
-TODO - [Treehouse set](http://www.looneylabs.com/rules/treehouse)
+*Toripoka* is played with a truncated card deck of 17 cards consisting of those in the suit of hearts and the 4, 7, 10, and King of Spades. In addition, a [Treehouse set](http://www.looneylabs.com/rules/treehouse) is used for final scoring and card manipulation.
 
 Gameplay
 ========
