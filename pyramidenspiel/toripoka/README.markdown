@@ -1,4 +1,4 @@
-*Toripoka* is a set-collection card game inspired by Poker, for 2 players.  
+*Toripoka* is a set-collecting, bluffing card game inspired by Poker, for 2 players.  
 
 Setup
 =====
@@ -8,7 +8,7 @@ Setup
 Gameplay
 ========
 
-TODO - 3-card hands (2 + either of the publics)
+TODO - Best-3-card hands (2 + either of the publics)
 
  * Draw two pyramids
  * Deal 2 to each player
