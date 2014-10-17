@@ -39,16 +39,6 @@ TODO - 3-card hands (2 + either of the publics)
  * Each player alternates placing adjusting pyramids
  * Cards are revealed
 
-The deal
---------
-
-TODO
-
-The reveal
-----------
-
-TODO
-
 Placing pyramids
 ----------------
 
