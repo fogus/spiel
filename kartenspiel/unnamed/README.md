@@ -5,15 +5,24 @@ Preparation
 
 TODO
 
+
 Goal
 ----
 
 TODO
 
+
 Deal
 ----
 
 TODO
+
+
+Tiles
+-----
+
+TODO
+
 
 Gameplay
 --------
