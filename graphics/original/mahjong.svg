@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="mahjong.svg">
   <defs
      id="defs4" />
@@ -32,9 +32,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1276"
-     inkscape:window-height="997"
-     inkscape:window-x="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1392"
+     inkscape:window-x="4000"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -1369,52 +1369,5 @@
        x="634.36841"
        y="883.08118"
        ry="5.4056678" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GL-MahjongTile;-inkscape-font-specification:GL-MahjongTile Medium"
-       x="1181.6949"
-       y="412.41132"
-       id="text3351"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3353"
-         x="1181.6949"
-         y="412.41132"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">一二三四伍六七八九筒</tspan><tspan
-         sodipodi:role="line"
-         x="1181.6949"
-         y="462.41132"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         id="tspan3355">萬索東南西北紅中白板</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:343.02059937px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GL-MahjongTile;-inkscape-font-specification:GL-MahjongTile Medium"
-       x="1168.6431"
-       y="603.8291"
-       id="text8802-4"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/eefi/Vectors/rect6731-9-60-3.png"
-       inkscape:export-xdpi="262.92999"
-       inkscape:export-ydpi="262.92999"><tspan
-         sodipodi:role="line"
-         id="tspan8804-5"
-         x="1168.6431"
-         y="603.8291"
-         style="font-size:85.75514984px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">南</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:202.69558716px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GL-MahjongTile;-inkscape-font-specification:GL-MahjongTile Medium"
-       x="1171.3826"
-       y="670.13342"
-       id="text8717-7-3-9"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/eefi/Vectors/rect6731-9-60-3.png"
-       inkscape:export-xdpi="262.92999"
-       inkscape:export-ydpi="262.92999"><tspan
-         sodipodi:role="line"
-         id="tspan8719-5-6-6"
-         x="1171.3826"
-         y="670.13342"
-         style="font-size:50.67389679px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">THIRTEEN ORPHANS</tspan></text>
   </g>
 </svg>
