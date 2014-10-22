@@ -23,6 +23,21 @@ Tiles
 
 TODO
 
+### Ranks
+
+TODO
+
+### Suits
+
+TODO
+
+### Flowers
+
+TODO
+
+### Wilds
+
+TODO
 
 Gameplay
 --------
