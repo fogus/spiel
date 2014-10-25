@@ -3,12 +3,14 @@
 Setup
 =====
 
-*Toripoka* is played with a truncated card deck of 17 cards consisting of those in the suit of hearts and the 4, 7, 10, and King of Spades. In addition, a [Treehouse set](http://www.looneylabs.com/rules/treehouse) is hidden in some sort of opaque bag.  To start, each player is dealt three cards and each player pulls one pyramid each, of their prefered size from the bag.  These pyramids are placed on the table between the two players.
+*Toripoka* is played with a truncated card deck of 17 cards consisting of those in the suit of hearts and the 4, 7, 10, and King of Spades. In addition, a [Treehouse set](http://www.looneylabs.com/rules/treehouse) is hidden in some sort of opaque bag.
+
+To start, each player is dealt three cards and each player pulls one pyramid each, of their prefered size from the bag.  These pyramids are placed on the table between the two players.
 
 Gameplay
 ========
 
-Each round begins with each player being dealt a starting hand of three cards and two drawn pyrmids.  
+Play alternates between the players.   
 
 TODO - Best-3-card hands (2 + either of the publics)
 
