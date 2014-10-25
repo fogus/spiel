@@ -1,4 +1,4 @@
-*Toripoka* is a set-collecting, bluffing card game based loosely on Three Card Poker, for 2 players.
+*Toripoka* is a set-collecting, bluffing card game based loosely on Three Card Poker, for 2 players.  The game takes place over a series of rounds, each played to determine the winner of one or both of the pyramids available for capture.  Pyramids are captured by players building the best possible three-card Poker hands given three lain cards and two exposed public cards.  The player who captures the most points when the pyramids run out wins the game.
 
 Setup
 =====
@@ -8,7 +8,7 @@ Setup
 Gameplay
 ========
 
-*Toripoka* takes place over a series of rounds, each played to determine the winner of one or both of the available pyramids.  each round begins with each player being dealt a starting hand of three cards and two drawn pyrmids.  
+Each round begins with each player being dealt a starting hand of three cards and two drawn pyrmids.  
 
 TODO - Best-3-card hands (2 + either of the publics)
 
