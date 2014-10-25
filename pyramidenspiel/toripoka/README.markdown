@@ -8,6 +8,8 @@ Setup
 Gameplay
 ========
 
+*Toripoka* takes place over a series of rounds, each played to determine the winner of one or both of the available pyramids.  each round begins with each player being dealt a starting hand of three cards and two drawn pyrmids.  
+
 TODO - Best-3-card hands (2 + either of the publics)
 
  * Draw two pyramids
