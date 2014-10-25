@@ -10,9 +10,9 @@ To start, the deck is shuffled and three cards placed aside face down.  Next, ea
 Gameplay
 ========
 
-Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock.  
+Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock.  Play continues in this manner until the stock is exhausted, leaving each player with three remaining cards in their hand.  Play continues until all cards have been placed.  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
 
-TODO - Best-3-card hands (2 + either of the publics)
+
 
  * Draw two pyramids
  * Deal 2 to each player
