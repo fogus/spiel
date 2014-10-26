@@ -10,7 +10,7 @@ To start, the deck is shuffled and three cards placed aside face down.  Next, ea
 Gameplay
 ========
 
-Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. 
+Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. On each subsequent turn each player plays one of their cards adjacent to a pyramid but may choose to play their cards face-down.  Additionally any played cards can be placed with a pyramid on top of them to manipulate the rank of the card played.  More will be said about this below.
 
 Play continues in this manner until the stock is exhausted, leaving each player with three remaining cards in their hand.  Play continues until all cards have been placed.  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
 
