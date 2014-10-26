@@ -10,16 +10,14 @@ To start, the deck is shuffled and three cards placed aside face down.  Next, ea
 Gameplay
 ========
 
-Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. On each subsequent turn each player plays one of their cards adjacent to a pyramid but may choose to play their cards face-down.  Additionally any played cards can be placed with a pyramid on top of them to manipulate the rank of the card played (more will be said about this below).  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.  
+Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. On each subsequent turn each player plays one of their cards adjacent to a pyramid but may choose to play their cards face-down.  Additionally any played cards can be placed with a pyramid on top of them to manipulate the rank of the card played (more will be said about this below).  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
 
 Play continues in this manner until the stock is exhausted, leaving each player with three remaining cards in their hand.  Play continues until all cards have been placed.  Once complete, the hands are revealed and ranks adjusted and the players collect their winnings.
 
 Placing pyramids
 ----------------
 
-TODO - pyramids can be used to adjust the ranks of non-wild cards by the number of pips.  are they placed back into the bags?
-
-
+After the first card, players can use any previously captured pyramids to adjust the ranks of non-wild cards up to the number of pips.  These pyramids are placed on cards as they are played and cannot be removed thereafter.  Additionally, pyramids cannot be used to adjust the rank of any wild cards, although they can be placed on them all the same.  For example, a 2-pip pyramid placed on an 8 can be used to adjust it to a 6, 7, 9, or 10.  Any pyramids placed are then removed from the game and not available for bidding.
 
 Scoring
 -------
