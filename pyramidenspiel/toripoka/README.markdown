@@ -3,12 +3,29 @@
 Setup
 =====
 
-*Toripoka* is played with a truncated card deck of 17 cards consisting of those in the suit of hearts and the 4, 7, 10, and King of Spades. In addition, a [Treehouse set](http://www.looneylabs.com/rules/treehouse) is hidden in some sort of opaque bag.
+*Toripoka* is played with a truncated card deck of playing cards. In addition, a [Treehouse set](http://www.looneylabs.com/rules/treehouse) is hidden in some sort of opaque bag.
 
-To start, the deck is shuffled and three cards placed aside face down.  Next, each player is dealt three cards and each player pulls one pyramid each, of their prefered size from the bag.  These pyramids are placed on the table between the two players.  Finally, two cards are drawn and placed face up between the pyramids, first left then right.  These cards will be available to both players for use in building the best possible three-card hands at the adjacent pyramid.
+The *Toripoka* deck
+-------------------
+
+As mentioned, the *Toripoka* deck contains only 17 cards consisting of 13 standard playing cards (of the hearts suit) and 4 wild cards (4, 7, 10, and King of spades).  The suit of the wild cards is unimportant and as a result the cards should be considered a single suit.  Therefore, the dynamics of building Poker-like hands is simpler and less rich in possibilities by design.
+
+Wild cards
+----------
+
+Although the spades suit is used for the wild cards, the suit does not matter in the least.  Instead, the rank of the card is the important feature of the wild cards.  That is, the rank of the wild cards describe how they're constrained in standing in for any given card in a hand.
+
+Normally, wild cards can stand in for any card in a hand, but in *Toripoka* the ranks determine the range of cards that a wild card can stand in for.  That is, the rank of a wild card says that it can stand in for any other card of that rank or lower.  For example, the 4-wild can only stand in for the 4, 3, 2, and low-Ace, but the King-wild can stand in for every card except the high-Ace.
+
+The Ace
+-------
+
+The Aces in *Toripoka* can be used in a hand as either a low-card (a 1) or a high-card, but not both at the same time.  The Ace as a high card can never be substitued for using a wild card.  However, with the use of a wild card and an Ace a hand could be considered having both a low and a high Ace.  
 
 Gameplay
 ========
+
+To start, the deck is shuffled and three cards placed aside face down.  Next, each player is dealt three cards and each player pulls one pyramid each, of their prefered size from the bag.  These pyramids are placed on the table between the two players.  Finally, two cards are drawn and placed face up between the pyramids, first left then right.  These cards will be available to both players for use in building the best possible three-card hands at the adjacent pyramid.
 
 Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. On each subsequent turn each player plays one of their cards adjacent to a pyramid but may choose to play their cards face-down.  Additionally any played cards can be placed with a pyramid on top of them to manipulate the rank of the card played (more will be said about this below).  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
 
@@ -30,23 +47,6 @@ When the game ends group and score your won pyramids according to the following:
  * negative points of value for any black pieces or trees
  
 TODO - ties?
-
-The *Toripoka* deck
-=====================
-
-As mentioned, the *Toripoka* deck contains only 17 cards consisting of 13 standard playing cards (of the hearts suit) and 4 wild cards (4, 7, 10, and King of spades).  The suit of the wild cards is unimportant and as a result the cards should be considered a single suit.  Therefore, the dynamics of building Poker-like hands is simpler and less rich in possibilities by design.
-
-Wild cards
-----------
-
-Although the spades suit is used for the wild cards, the suit does not matter in the least.  Instead, the rank of the card is the important feature of the wild cards.  That is, the rank of the wild cards describe how they're constrained in standing in for any given card in a hand.
-
-Normally, wild cards can stand in for any card in a hand, but in *Toripoka* the ranks determine the range of cards that a wild card can stand in for.  That is, the rank of a wild card says that it can stand in for any other card of that rank or lower.  For example, the 4-wild can only stand in for the 4, 3, 2, and low-Ace, but the King-wild can stand in for every card except the high-Ace.
-
-The Ace
--------
-
-The Aces in *Toripoka* can be used in a hand as either a low-card (a 1) or a high-card, but not both at the same time.  The Ace as a high card can never be substitued for using a wild card.  However, with the use of a wild card and an Ace a hand could be considered having both a low and a high Ace.  
 
 Ranking of possible hands
 -------------------------
