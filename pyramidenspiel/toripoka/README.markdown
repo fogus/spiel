@@ -42,7 +42,7 @@ Play continues in this manner until the stock is exhausted, leaving each player 
  * A sum (highest card or most cards)
  * High card
 
-
+Play continues until there are no more pyramids available to fill both bidding slots.
 
 Placing pyramids
 ----------------
@@ -58,7 +58,9 @@ When the game ends group and score your won pyramids according to the following:
  * 5 points for each mixed-color tree without black pieces
  * 1 point for each of the rest of your pieces
  * negative points of value for any black pieces or trees
-  
+
+The player with the most points wins.  In the result of a tie, the player with the fewest pyramids wins.  Again, if there's still a tie then the player with the fewest distinct colors wins.  If there is still a tie then both players win.
+
 Design Notes
 ============
 
