@@ -10,41 +10,16 @@ To start, the deck is shuffled and three cards placed aside face down.  Next, ea
 Gameplay
 ========
 
-Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock.  Play continues in this manner until the stock is exhausted, leaving each player with three remaining cards in their hand.  Play continues until all cards have been placed.  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
+Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. 
 
-
-
- * Draw two pyramids
- * Deal 2 to each player
- * Deal 1 card to the public
- * Each player places a card anywhere, face up
- * Deal 1 card to the public
- * Each player draws 1-card
- * Each player places a card anywhere, face down
- * Each player alternates placing adjusting pyramids (opt)
- * Players may choose to fold, keeping their adjusters at the
-   pyramid they're withdrawing from
- * Each player draws 1-card
- * Each player places a card anywhere, face up
- * Each player alternates placing adjusting pyramids (opt) 
- * Players may choose to fold, keeping their adjusters at the
-   pyramid they're withdrawing from
- * Each player draws 2-cards
- * Players may choose to fold, keeping their adjusters at the
-   pyramid they're withdrawing from 
- * Each player places a card anywhere, face down
- * Each player alternates placing adjusting pyramids (opt) 
- * Each player places a card anywhere, face up
- * Each player alternates placing adjusting pyramids (opt)
- * Each player places a card anywhere, face up
- * Each player alternates placing adjusting pyramids (opt)
- * Each player alternates placing adjusting pyramids
- * Cards are revealed
+Play continues in this manner until the stock is exhausted, leaving each player with three remaining cards in their hand.  Play continues until all cards have been placed.  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
 
 Placing pyramids
 ----------------
 
 TODO - pyramids can be used to adjust the ranks of non-wild cards by the number of pips.  are they placed back into the bags?
+
+
 
 Scoring
 -------
