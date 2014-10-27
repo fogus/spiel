@@ -8,7 +8,11 @@ Setup
 The *Toripoka* deck
 -------------------
 
-As mentioned, the *Toripoka* deck contains only 17 cards consisting of 13 standard playing cards (of the hearts suit) and 4 wild cards (4, 7, 10, and King of spades).  The suit of the wild cards is unimportant and as a result the cards should be considered a single suit.  Therefore, the dynamics of building Poker-like hands is simpler and less rich in possibilities by design.
+As mentioned, the *Toripoka* deck contains only 17 cards consisting of 13 standard playing cards (of the hearts suit) and 4 wild cards (4, 7, 10, and King of spades).
+
+![the-deck](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/the-deck.png)
+
+The suit of the wild cards is unimportant and as a result the cards should be considered a single suit. 
 
 Wild cards
 ----------
