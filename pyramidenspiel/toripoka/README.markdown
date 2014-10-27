@@ -32,11 +32,10 @@ Play alternates between the players.  On each player's first turn they choose on
 Play continues in this manner until the stock is exhausted, leaving each player with three remaining cards in their hand.  Play continues until all cards have been placed.  Once complete, the hands are revealed and ranks adjusted and the players collect their winnings based on the following rankings of possible hands:
 
  * Mini Royal (no wild)
- * Three of a kind (no wilds)
  * Straight  (no wilds)
- * Mini Royal (fewest wilds)
- * Three of a kind (fewest wilds)
- * Straight  (fewest wilds)
+ * Mini Royal (with wilds)
+ * Three of a kind
+ * Straight  (with wilds)
  * Two of a kind
  * A multiplication (highest card or most cards)
  * A sum (highest card or most cards)
