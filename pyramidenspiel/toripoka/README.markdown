@@ -14,17 +14,15 @@ As mentioned, the *Toripoka* deck contains only 17 cards consisting of 13 standa
 
 The suit of the wild cards is unimportant and as a result the cards should be considered a single suit. 
 
-Wild cards
-----------
-
-Although the spades suit is used for the wild cards, the suit does not matter in the least.  Instead, the rank of the card is the important feature of the wild cards.  That is, the rank of the wild cards describe how they're constrained in standing in for any given card in a hand.
-
-Normally, wild cards can stand in for any card in a hand, but in *Toripoka* the ranks determine the range of cards that a wild card can stand in for.  That is, the rank of a wild card says that it can stand in for any other card of that rank or lower.  For example, the 4-wild can only stand in for the 4, 3, 2, and low-Ace, but the King-wild can stand in for every card except the high-Ace.
-
 The Ace
 -------
 
 The Aces in *Toripoka* can be used in a hand as either a low-card (a 1) or a high-card, but not both at the same time.  The Ace as a high card can never be substitued for using a wild card.  However, with the use of a wild card and an Ace a hand could be considered having both a low and a high Ace.  
+
+Wild cards
+----------
+
+The rank of the wild cards describe how they're constrained in standing in for any given card in a hand.  That is, in *Toripoka* the ranks determine the range of cards that a wild card can stand in for.  That is, the rank of a wild card says that it can stand in for any other card of that rank or lower.  For example, the 4-wild can only stand in for the 4, 3, 2, and low-Ace, but the King-wild can stand in for every card except the high-Ace.
 
 Gameplay
 ========
@@ -48,6 +46,16 @@ Name | Example
  High card | ![mini-royal-ww](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/high-card.png)
 
 Play continues until there are no more pyramids available to fill both bidding slots.
+
+Hand fitting
+------------
+
+Occassionally, a situation will occur where a hand is effectively the same:
+
+![fits](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/fits.png)
+
+That is, the three hands above all represent a straight from 2-3.  However, one hand is an *exact fit*, one is a *tight fit*, and the other is a *loose fit*.  When determining which hand wins a pyramid *fitness* will determine the winner.  A hand that is closer to an exact fit will always beat a looser hand.
+
 
 Placing pyramids
 ----------------
