@@ -28,9 +28,9 @@
      inkscape:window-height="720"
      id="namedview4142"
      showgrid="false"
-     inkscape:zoom="0.44340484"
-     inkscape:cx="513.5"
-     inkscape:cy="307.5"
+     inkscape:zoom="0.88680967"
+     inkscape:cx="648.81652"
+     inkscape:cy="533.02754"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -6756,7 +6756,7 @@
        transform="translate(39.5,307.5)" />
   </g>
   <g
-     transform="translate(-767.92126,63.147709)"
+     transform="translate(-711.53938,85.700463)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-no-wilds.png"
@@ -7667,7 +7667,7 @@
        transform="translate(936,264)" />
   </g>
   <g
-     transform="translate(-767.92126,63.147709)"
+     transform="translate(-711.53938,85.700463)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-no-wilds.png"
@@ -9173,7 +9173,7 @@
        transform="translate(961,264)" />
   </g>
   <g
-     transform="translate(257.24333,62.630212)"
+     transform="translate(313.62521,85.182966)"
      id="g5224"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-no-wilds.png"
      inkscape:export-xdpi="70.110001"
@@ -9229,18 +9229,18 @@
   <text
      xml:space="preserve"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="9.0211"
-     y="356.51569"
+     x="65.402985"
+     y="379.06845"
      id="text5238"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5240"
-       x="9.0211"
-       y="356.51569"
+       x="65.402985"
+       y="379.06845"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Mini</tspan><tspan
        sodipodi:role="line"
-       x="9.0211"
-       y="396.51569"
+       x="65.402985"
+       y="419.06845"
        id="tspan5242"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Royal</tspan></text>
   <g
@@ -9248,7 +9248,7 @@
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(-769.0489,199.59187)">
+     transform="translate(-712.66702,222.14462)">
     <use
        id="use5625"
        x="948"
@@ -10754,7 +10754,7 @@
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png"
      id="g6227"
-     transform="translate(256.11569,199.07437)">
+     transform="translate(312.49757,221.62712)">
     <use
        xlink:href="#cf"
        height="615"
@@ -10806,27 +10806,27 @@
   <text
      sodipodi:linespacing="125%"
      id="text6241"
-     y="476.95984"
-     x="7.8934622"
+     y="499.5126"
+     x="64.275345"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       y="476.95984"
-       x="7.8934622"
+       y="499.5126"
+       x="64.275345"
        id="tspan6243"
        sodipodi:role="line">Mini</tspan><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        id="tspan6245"
-       y="516.95984"
-       x="7.8934622"
+       y="539.51257"
+       x="64.275345"
        sodipodi:role="line">Royal</tspan><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       y="556.95984"
-       x="7.8934622"
+       y="579.51257"
+       x="64.275345"
        sodipodi:role="line"
        id="tspan6247">(wild)</tspan></text>
   <g
-     transform="translate(-847.11117,76.679362)"
+     transform="translate(-790.72929,99.232116)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png"
@@ -11732,7 +11732,7 @@
        transform="translate(961,386)" />
   </g>
   <g
-     transform="translate(414.12044,68.785897)"
+     transform="translate(470.50232,91.338651)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-no-wilds.png"
@@ -11794,7 +11794,7 @@
        transform="matrix(-1,0,0,-1,118.5,347.5)" />
   </g>
   <g
-     transform="translate(414.12044,68.785897)"
+     transform="translate(470.50232,91.338651)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-no-wilds.png"
@@ -11864,7 +11864,7 @@
        transform="matrix(-1,0,0,-1,197.5,347.5)" />
   </g>
   <g
-     transform="translate(414.12044,68.785897)"
+     transform="translate(470.50232,91.338651)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-no-wilds.png"
@@ -11944,21 +11944,21 @@
   <text
      sodipodi:linespacing="125%"
      id="text6680"
-     y="382.77097"
-     x="358.58878"
+     y="405.32373"
+     x="414.97067"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        id="tspan6684"
-       y="382.77097"
-       x="358.58878"
+       y="405.32373"
+       x="414.97067"
        sodipodi:role="line">Straight</tspan></text>
   <g
      id="g6688"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-with-wilds.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(416.37572,204.10242)">
+     transform="translate(472.7576,226.65517)">
     <use
        id="use6690"
        x="79"
@@ -12020,7 +12020,7 @@
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-with-wilds.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(416.37572,204.10242)">
+     transform="translate(472.7576,226.65517)">
     <use
        id="use6706"
        x="158"
@@ -12088,22 +12088,22 @@
   <text
      xml:space="preserve"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="360.84406"
-     y="506.08746"
+     x="417.22595"
+     y="528.6402"
      id="text6742"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="360.84406"
-       y="506.08746"
+       x="417.22595"
+       y="528.6402"
        id="tspan6744"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Straight</tspan><tspan
        sodipodi:role="line"
-       x="360.84406"
-       y="546.08746"
+       x="417.22595"
+       y="568.6402"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        id="tspan6766">(wild)</tspan></text>
   <g
-     transform="translate(416.0983,81.189912)"
+     transform="translate(472.48018,103.74267)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-with-wilds.png"
@@ -12181,7 +12181,7 @@
        transform="matrix(-1,0,0,-1,292.5,470.5)" />
   </g>
   <g
-     transform="translate(451.05508,69.913536)"
+     transform="translate(507.43696,92.46629)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/three-of-a-kind.png"
@@ -12275,7 +12275,7 @@
        transform="matrix(-1,0,0,-1,450.5,347.5)" />
   </g>
   <g
-     transform="translate(451.05507,-52.998972)"
+     transform="translate(507.43695,-30.446218)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/three-of-a-kind.png"
@@ -12377,7 +12377,7 @@
        transform="matrix(-1,0,0,-1,529.5,470.5)" />
   </g>
   <g
-     transform="translate(293.1858,-52.998972)"
+     transform="translate(349.56768,-30.446218)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/three-of-a-kind.png"
@@ -12505,18 +12505,18 @@
   <text
      sodipodi:linespacing="125%"
      id="text6850"
-     y="369.53677"
-     x="746.49615"
+     y="392.08954"
+     x="802.87805"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        id="tspan6854"
-       y="369.53677"
-       x="746.49615"
+       y="392.08954"
+       x="802.87805"
        sodipodi:role="line">3 of a</tspan><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       y="409.53677"
-       x="746.49615"
+       y="432.08954"
+       x="802.87805"
        sodipodi:role="line"
        id="tspan6858">kind</tspan></text>
   <g
@@ -12524,7 +12524,7 @@
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/two-of-a-kind.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(452.6498,216.62782)">
+     transform="translate(509.03168,239.18057)">
     <use
        id="use6862"
        x="395"
@@ -12618,7 +12618,7 @@
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/two-of-a-kind.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(214.78052,93.715314)">
+     transform="translate(271.1624,116.26807)">
     <use
        id="use6912"
        x="711"
@@ -12742,22 +12742,22 @@
   <text
      xml:space="preserve"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="748.09088"
-     y="516.25104"
+     x="804.47278"
+     y="538.80377"
      id="text6942"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="748.09088"
-       y="516.25104"
+       x="804.47278"
+       y="538.80377"
        id="tspan6944"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">2 of a</tspan><tspan
        id="tspan6946"
        sodipodi:role="line"
-       x="748.09088"
-       y="556.25104"
+       x="804.47278"
+       y="578.80377"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">kind</tspan></text>
   <g
-     transform="translate(24.808029,-85.385609)"
+     transform="translate(81.189913,-62.832855)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/multiplication.png"
@@ -12819,7 +12819,7 @@
        transform="matrix(-1,0,0,-1,118.5,347.5)" />
   </g>
   <g
-     transform="translate(24.808029,-85.385609)"
+     transform="translate(81.189913,-62.832855)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/multiplication.png"
@@ -12889,7 +12889,7 @@
        transform="matrix(-1,0,0,-1,197.5,347.5)" />
   </g>
   <g
-     transform="translate(-133.0693,-85.790888)"
+     transform="translate(-76.687416,-63.238134)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/multiplication.png"
@@ -12985,18 +12985,18 @@
   <text
      sodipodi:linespacing="125%"
      id="text7006"
-     y="208.20668"
-     x="9.0211"
+     y="230.75943"
+     x="65.402985"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        id="tspan7010"
-       y="208.20668"
-       x="9.0211"
+       y="230.75943"
+       x="65.402985"
        sodipodi:role="line">Multi</tspan><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       y="248.20668"
-       x="9.0211"
+       y="270.75943"
+       x="65.402985"
        sodipodi:role="line"
        id="tspan7014">ply</tspan></text>
   <g
@@ -13004,7 +13004,7 @@
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/addition.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(415.51455,-77.412006)">
+     transform="translate(471.89643,-54.859252)">
     <use
        id="use7018"
        x="79"
@@ -13066,7 +13066,7 @@
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/addition.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
-     transform="translate(415.51455,-77.412006)">
+     transform="translate(471.89643,-54.859252)">
     <use
        id="use7034"
        x="158"
@@ -13134,22 +13134,22 @@
   <text
      xml:space="preserve"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="399.72763"
-     y="216.18028"
+     x="456.10953"
+     y="238.73303"
      id="text7074"
      sodipodi:linespacing="125%"><tspan
        id="tspan7078"
        sodipodi:role="line"
-       x="399.72763"
-       y="216.18028"
+       x="456.10953"
+       y="238.73303"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Addi</tspan><tspan
        sodipodi:role="line"
-       x="399.72763"
-       y="256.1803"
+       x="456.10953"
+       y="278.73306"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        id="tspan7082">tion</tspan></text>
   <g
-     transform="translate(335.37325,-77.006727)"
+     transform="translate(391.75513,-54.453973)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/addition.png"
@@ -13235,7 +13235,7 @@
        transform="matrix(-1,0,0,-1,371.5,347.5)" />
   </g>
   <g
-     transform="translate(766.35306,-77.412006)"
+     transform="translate(822.73494,-54.859252)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/high-card.png"
@@ -13297,7 +13297,7 @@
        transform="matrix(-1,0,0,-1,118.5,347.5)" />
   </g>
   <g
-     transform="translate(766.35306,-77.412006)"
+     transform="translate(822.73494,-54.859252)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/high-card.png"
@@ -13369,22 +13369,22 @@
   <text
      sodipodi:linespacing="125%"
      id="text7140"
-     y="216.18028"
-     x="750.56616"
+     y="238.73303"
+     x="806.94806"
      style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        id="tspan7144"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       y="216.18028"
-       x="750.56616"
+       y="238.73303"
+       x="806.94806"
        sodipodi:role="line">High</tspan><tspan
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       y="256.1803"
-       x="750.56616"
+       y="278.73306"
+       x="806.94806"
        sodipodi:role="line"
        id="tspan7171">card</tspan></text>
   <g
-     transform="translate(214.57977,-77.412006)"
+     transform="translate(270.96165,-54.859252)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
      inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/high-card.png"
@@ -14458,5 +14458,759 @@
        x="0"
        id="use7599"
        transform="translate(804,264)" />
+  </g>
+  <g
+     id="g10085"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(80.339682,-226.65517)">
+    <use
+       id="use10087"
+       x="79"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use10089"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it2"
+       style="stroke:#df0000" />
+    <use
+       id="use10091"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib2"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(87.5,270.5)"
+       id="use10093"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,149.5,344.5)"
+       id="use10095"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(118.5,267.5)"
+       id="use10097"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,118.5,347.5)"
+       id="use10099"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <g
+     id="g10101"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(80.339682,-226.65517)">
+    <use
+       id="use10103"
+       x="158"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use10105"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it3"
+       style="stroke:#df0000" />
+    <use
+       id="use10107"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib3"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(166.5,270.5)"
+       id="use10109"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,228.5,344.5)"
+       id="use10111"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(197.5,267.5)"
+       id="use10113"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="translate(197.5,307.5)"
+       id="use10115"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,197.5,347.5)"
+       id="use10117"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <g
+     id="g10119"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(80.339682,-226.65517)">
+    <use
+       id="use10121"
+       x="237"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use10123"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it4"
+       style="stroke:#df0000" />
+    <use
+       id="use10125"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib4"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(245.5,270.5)"
+       id="use10127"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,307.5,344.5)"
+       id="use10129"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(260.5,267.5)"
+       id="use10131"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,260.5,347.5)"
+       id="use10133"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="translate(292.5,267.5)"
+       id="use10135"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,292.5,347.5)"
+       id="use10137"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <g
+     transform="translate(462.24704,-224.39989)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     id="g10139">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="246"
+       x="79"
+       id="use10141" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#it2"
+       height="615"
+       width="1027"
+       y="245.5"
+       x="1"
+       id="use10143" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#ib2"
+       height="615"
+       width="1027"
+       y="246.5"
+       x="-1"
+       id="use10145" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10147"
+       transform="translate(87.5,270.5)" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10149"
+       transform="matrix(-1,0,0,-1,149.5,344.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10151"
+       transform="translate(118.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10153"
+       transform="matrix(-1,0,0,-1,118.5,347.5)" />
+  </g>
+  <g
+     transform="translate(462.24704,-224.39989)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     id="g10173">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="246"
+       x="237"
+       id="use10175" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#it4"
+       height="615"
+       width="1027"
+       y="245.5"
+       x="1"
+       id="use10177" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#ib4"
+       height="615"
+       width="1027"
+       y="246.5"
+       x="-1"
+       id="use10179" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10181"
+       transform="translate(245.5,270.5)" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10183"
+       transform="matrix(-1,0,0,-1,307.5,344.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10185"
+       transform="translate(260.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10187"
+       transform="matrix(-1,0,0,-1,260.5,347.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10189"
+       transform="translate(292.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10191"
+       transform="matrix(-1,0,0,-1,292.5,347.5)" />
+  </g>
+  <g
+     id="g10193"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(850.94236,-226.65517)">
+    <use
+       id="use10195"
+       x="79"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use10197"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it2"
+       style="stroke:#df0000" />
+    <use
+       id="use10199"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib2"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(87.5,270.5)"
+       id="use10201"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,149.5,344.5)"
+       id="use10203"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(118.5,267.5)"
+       id="use10205"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,118.5,347.5)"
+       id="use10207"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <g
+     id="g10227"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(850.94236,-226.65517)">
+    <use
+       id="use10229"
+       x="237"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use10231"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it4"
+       style="stroke:#df0000" />
+    <use
+       id="use10233"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib4"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(245.5,270.5)"
+       id="use10235"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,307.5,344.5)"
+       id="use10237"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(260.5,267.5)"
+       id="use10239"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,260.5,347.5)"
+       id="use10241"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="translate(292.5,267.5)"
+       id="use10243"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,292.5,347.5)"
+       id="use10245"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="52.558449"
+     y="80.45974"
+     id="text10247"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"><tspan
+       id="tspan10251"
+       sodipodi:role="line"
+       x="52.558449"
+       y="80.45974"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Exact</tspan><tspan
+       sodipodi:role="line"
+       x="52.558449"
+       y="120.45974"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan10255">fit</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text10257"
+     y="80.715012"
+     x="443.33817"
+     style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"><tspan
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       y="80.715012"
+       x="443.33817"
+       sodipodi:role="line"
+       id="tspan10259">Tight</tspan><tspan
+       id="tspan10261"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       y="120.71501"
+       x="443.33817"
+       sodipodi:role="line">fit</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="830.07568"
+     y="75.842651"
+     id="text10263"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"><tspan
+       id="tspan10265"
+       sodipodi:role="line"
+       x="830.07568"
+       y="75.842651"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Loose</tspan><tspan
+       sodipodi:role="line"
+       x="830.07568"
+       y="115.84265"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan10267">fit</tspan></text>
+  <g
+     transform="translate(383.75056,-347.68908)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     id="g10269">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="369"
+       x="237"
+       id="use10271" />
+    <use
+       style="stroke:#000000"
+       xlink:href="#it4"
+       height="615"
+       width="1027"
+       y="368.5"
+       x="1"
+       id="use10273" />
+    <use
+       style="stroke:#000000"
+       xlink:href="#ib4"
+       height="615"
+       width="1027"
+       y="369.5"
+       x="-1"
+       id="use10275" />
+    <use
+       xlink:href="#ss"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10277"
+       transform="translate(245.5,393.5)" />
+    <use
+       xlink:href="#ss"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10279"
+       transform="matrix(-1,0,0,-1,307.5,467.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10281"
+       transform="translate(260.5,390.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10283"
+       transform="matrix(-1,0,0,-1,260.5,470.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10285"
+       transform="translate(292.5,390.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10287"
+       transform="matrix(-1,0,0,-1,292.5,470.5)" />
+  </g>
+  <g
+     transform="translate(298.0501,-349.94435)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/fits.png"
+     id="g10289">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="369"
+       x="711"
+       id="use10291" />
+    <use
+       style="stroke:#000000"
+       xlink:href="#it10"
+       height="615"
+       width="1027"
+       y="368.5"
+       x="1"
+       id="use10293" />
+    <use
+       style="stroke:#000000"
+       xlink:href="#ib10"
+       height="615"
+       width="1027"
+       y="369.5"
+       x="-1"
+       id="use10295" />
+    <use
+       xlink:href="#ss"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10297"
+       transform="translate(719.5,393.5)" />
+    <use
+       xlink:href="#ss"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10299"
+       transform="matrix(-1,0,0,-1,781.5,467.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10301"
+       transform="translate(734.5,390.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10303"
+       transform="translate(734.5,417.25)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10305"
+       transform="matrix(-1,0,0,-1,734.5,443.75)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10307"
+       transform="matrix(-1,0,0,-1,734.5,470.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10309"
+       transform="translate(750.5,403.875)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10311"
+       transform="matrix(-1,0,0,-1,750.5,457.125)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10313"
+       transform="translate(766.5,390.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10315"
+       transform="translate(766.5,417.25)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10317"
+       transform="matrix(-1,0,0,-1,766.5,443.75)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use10319"
+       transform="matrix(-1,0,0,-1,766.5,470.5)" />
   </g>
 </svg>
