@@ -8,6 +8,7 @@ I've designed numerous board, dice, and card games -- none of which will you fin
 
  * [Logistics](http://fogus.me/fun/spiel/logistics/) - a Mancala game
  for 2-players with pattern matching goals and capture powers.
+ * [Toripoka](http://fogus.me/fun/spiel/toripoka/) - a card game of bluffing, hand-management, and set collecting.
  * [Ozymandias](http://fogus.me/fun/spiel/ozymandias/) - a Rummy game
    for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel)
    set.
@@ -19,6 +20,6 @@ I've designed numerous board, dice, and card games -- none of which will you fin
    [2014 NESTORGAMES RINGS game design contest](http://www.boardgamegeek.com/geeklist/177816/nestorgames-rings-game-design-contest).
  * [Pew Pew, Die](http://fogus.me/fun/spiel/pewpewdie/) a Martian version of Rock-Paper-Scissors using a 
    die with special faces.
- 
+
 More to come.
 
