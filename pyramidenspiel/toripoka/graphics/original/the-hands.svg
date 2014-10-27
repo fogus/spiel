@@ -12999,4 +12999,239 @@
        x="9.0211"
        sodipodi:role="line"
        id="tspan7014">ply</tspan></text>
+  <g
+     id="g7016"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/addition.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(415.51455,-77.412006)">
+    <use
+       id="use7018"
+       x="79"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use7020"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it2"
+       style="stroke:#df0000" />
+    <use
+       id="use7022"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib2"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(87.5,270.5)"
+       id="use7024"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,149.5,344.5)"
+       id="use7026"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(118.5,267.5)"
+       id="use7028"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,118.5,347.5)"
+       id="use7030"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <g
+     id="g7032"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/addition.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(415.51455,-77.412006)">
+    <use
+       id="use7034"
+       x="158"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use7036"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it3"
+       style="stroke:#df0000" />
+    <use
+       id="use7038"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib3"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(166.5,270.5)"
+       id="use7040"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,228.5,344.5)"
+       id="use7042"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(197.5,267.5)"
+       id="use7044"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="translate(197.5,307.5)"
+       id="use7046"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,197.5,347.5)"
+       id="use7048"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="399.72763"
+     y="216.18028"
+     id="text7074"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan7078"
+       sodipodi:role="line"
+       x="399.72763"
+       y="216.18028"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Addi</tspan><tspan
+       sodipodi:role="line"
+       x="399.72763"
+       y="256.1803"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan7082">tion</tspan></text>
+  <g
+     transform="translate(335.37325,-77.006727)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/addition.png"
+     id="g7084">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="246"
+       x="316"
+       id="use7086" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#it5"
+       height="615"
+       width="1027"
+       y="245.5"
+       x="1"
+       id="use7088" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#ib5"
+       height="615"
+       width="1027"
+       y="246.5"
+       x="-1"
+       id="use7090" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7092"
+       transform="translate(324.5,270.5)" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7094"
+       transform="matrix(-1,0,0,-1,386.5,344.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7096"
+       transform="translate(339.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7098"
+       transform="matrix(-1,0,0,-1,339.5,347.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7100"
+       transform="translate(355.5,307.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7102"
+       transform="translate(371.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use7104"
+       transform="matrix(-1,0,0,-1,371.5,347.5)" />
+  </g>
 </svg>
