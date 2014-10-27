@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "New game design: Toripoka"
+date:   2014-10-27 04:36:15
+categories: gamedes, game
+---
+
+Toripoka is a set-collecting, bluffing card game for 2 players based loosely on Three Card Poker played with a truncated deck. The game takes place over a series of rounds, each played to determine the winner of one or both of the pyramids available for capture. Pyramids are captured by players building the best possible three-card Poker hands given three personal cards and two exposed public cards. The player who captures the most points when the pyramids run out wins the game.
+
+![the-deck](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/the-deck.png)
+
+This game requires a deck of playing cards and a [Treehouse set](http://store.looneylabs.com/Treehouse).
+
+The rules are on the Icehouse games wiki at <http://icehousegames.org/wiki/index.php?title=Toripoka>
+
+Please consider trying it out.
+
+:F
