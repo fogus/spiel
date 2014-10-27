@@ -17,17 +17,17 @@ The suit of the wild cards is unimportant and as a result the cards should be co
 The Ace
 -------
 
-The Aces in *Toripoka* can be used in a hand as either a low-card (a 1) or a high-card, but not both at the same time.  The Ace as a high card can never be substitued for using a wild card.  However, with the use of a wild card and an Ace a hand could be considered having both a low and a high Ace.  
+The Aces in *Toripoka* can be used in a hand as either a low-card (a 1) or a high-card, but not both at the same time.  The Ace as a high card can never be substituted for using a wild card.  However, with the use of a wild card and an Ace a hand could be considered having both a low and a high Ace.  
 
 Wild cards
 ----------
 
 The rank of the wild cards describe how they're constrained in standing in for any given card in a hand.  That is, in *Toripoka* the ranks determine the range of cards that a wild card can stand in for.  That is, the rank of a wild card says that it can stand in for any other card of that rank or lower.  For example, the 4-wild can only stand in for the 4, 3, 2, and low-Ace, but the King-wild can stand in for every card except the high-Ace.
 
-Gameplay
+Game-play
 ========
 
-To start, the deck is shuffled and three cards placed aside face down.  Next, each player is dealt three cards and each player pulls one pyramid each, of their prefered size from the bag.  These pyramids are placed on the table between the two players.  Finally, two cards are drawn and placed face up between the pyramids, first left then right.  These cards will be available to both players for use in building the best possible three-card hands at the adjacent pyramid.
+To start, the deck is shuffled and three cards placed aside face down.  Next, each player is dealt three cards and each player pulls one pyramid each, of their preferred size from the bag.  These pyramids are placed on the table between the two players.  Finally, two cards are drawn and placed face up between the pyramids, first left then right.  These cards will be available to both players for use in building the best possible three-card hands at the adjacent pyramid.
 
 Play alternates between the players.  On each player's first turn they choose one of their cards and place it face up in front of either of the displayed pyramids and then draw the top card from the stock. On each subsequent turn each player plays one of their cards adjacent to a pyramid but may choose to play their cards face-down.  Additionally any played cards can be placed with a pyramid on top of them to manipulate the rank of the card played (more will be said about this below).  At any time before either player's final card is placed, either player can fold one of their hands, taking all of the placed pyramids on either of the played hands at the adjacent pyramid.
 
@@ -50,7 +50,7 @@ Play continues until there are no more pyramids available to fill both bidding s
 Hand fitting
 ------------
 
-Occassionally, a situation will occur where a hand is effectively the same:
+Occasionally, a situation will occur where a hand is effectively the same:
 
 ![fits](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/fits.png)
 
