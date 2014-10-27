@@ -81,5 +81,7 @@ In the result of a tie, the player with the fewest pyramids wins.  Again, if the
 Design Notes
 ============
 
-TODO
+*Toripoka* was inspired by a discussion of a 17-card deck in John Conway's book *[The Book of Numbers](http://www.amazon.com/Book-Numbers-John-H-Conway/dp/038797993X/ref=sr_1_1?s=books&ie=UTF8&qid=1414431447&sr=1-1&tag=fogus-20)*.  The deck in that book had wilds that instead of covering ranges, acted as wilds relative to their possible positions in the hand.  The discussion was fascinating, and I encourage you to check it out.  That said, while the deck in Conway's book is interesting as a study in probabilities, it doesn't make for a great play deck.  However, I suspected that there might be a deck hiding inside.
+
+After some experimentation I landed on the ranged wild cards and felt that it provided nice possibilities in such a small package.  At first, *Toripoka* started as an adaptation of [Schotten-Totten](http://boardgamegeek.com/boardgame/372/schotten-totten) clone, but eventually morphed into a game of bluffing and calculated risks.  The influence of Schotten-Totten should be apparent to those who've played it.
 
