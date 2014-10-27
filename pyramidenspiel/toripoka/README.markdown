@@ -37,18 +37,15 @@ Play continues in this manner until the stock is exhausted, leaving each player 
 
 Name | Example 
  :---: | :---
- Mini Royal | ![puppy](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png)
-
-
- * Mini Royal (no wild)
- * Straight  (no wilds)
- * Mini Royal (with wilds)
- * Three of a kind
- * Straight  (with wilds)
- * Two of a kind
- * A multiplication (highest card or most cards)
- * A sum (highest card or most cards)
- * High card
+ Mini Royal | ![mini-royal](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/mini-royal-no-wilds.png)
+ Straight (no wilds) | ![straight-nw](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/straight-no-wilds.png)
+ Mini Royal (with wilds) | ![mini-royal-ww](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png)
+ Three of a kind | ![3oak](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/three-of-a-kind.png)
+ Straight (with wilds) | ![straight-ww](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/straight-with-wilds.png)
+ Two of a kind | ![2oak](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/two-of-a-kind.png)
+ Multiplication | ![mult](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/multiplication.png)
+ Sum | ![sum](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/addition.png)
+ High card | ![mini-royal-ww](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/high-card.png)
 
 Play continues until there are no more pyramids available to fill both bidding slots.
 
