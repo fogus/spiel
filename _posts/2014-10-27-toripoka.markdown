@@ -2,7 +2,7 @@
 layout: post
 title:  "New game design: Toripoka"
 date:   2014-10-27 04:36:15
-categories: gamedes, game
+categories: gamedes game
 ---
 
 Toripoka is a set-collecting, bluffing card game for 2 players based loosely on Three Card Poker played with a truncated deck. The game takes place over a series of rounds, each played to determine the winner of one or both of the pyramids available for capture. Pyramids are captured by players building the best possible three-card Poker hands given three personal cards and two exposed public cards. The player who captures the most points when the pyramids run out wins the game.

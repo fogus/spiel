@@ -6,9 +6,34 @@
 </description>
     <link>http://fogus.github.com/spiel/</link>
     <atom:link href="http://fogus.github.com/spiel/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Sep 2014 15:53:44 -0400</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2014 15:53:44 -0400</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2014 16:36:57 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2014 16:36:57 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>New game design: Toripoka</title>
+        <description>&lt;p&gt;Toripoka is a set-collecting, bluffing card game for 2 players based loosely on Three Card Poker played with a truncated deck. The game takes place over a series of rounds, each played to determine the winner of one or both of the pyramids available for capture. Pyramids are captured by players building the best possible three-card Poker hands given three personal cards and two exposed public cards. The player who captures the most points when the pyramids run out wins the game.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/toripoka/graphics/the-deck.png&quot; alt=&quot;the-deck&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This game requires a deck of playing cards and a &lt;a href=&quot;http://store.looneylabs.com/Treehouse&quot;&gt;Treehouse set&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The rules are on the Icehouse games wiki at &lt;a href=&quot;http://icehousegames.org/wiki/index.php?title=Toripoka&quot;&gt;http://icehousegames.org/wiki/index.php?title=Toripoka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please consider trying it out.&lt;/p&gt;
+
+&lt;p&gt;:F&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2014 00:36:15 -0400</pubDate>
+        <link>http://fogus.github.com/spiel/gamedes/game/2014/10/27/toripoka.html</link>
+        <guid isPermaLink="true">http://fogus.github.com/spiel/gamedes/game/2014/10/27/toripoka.html</guid>
+        
+        
+        <category>gamedes</category>
+        
+        <category>game</category>
+        
+      </item>
     
       <item>
         <title>Rules Avoidance Design</title>
