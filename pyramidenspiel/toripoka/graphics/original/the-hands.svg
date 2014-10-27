@@ -9243,7 +9243,7 @@
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Royal</tspan></text>
   <g
      id="g5623"
-     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-no-wilds.png"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png"
      inkscape:export-xdpi="70.110001"
      inkscape:export-ydpi="70.110001"
      transform="translate(-769.0489,199.59187)">
@@ -10750,7 +10750,7 @@
   <g
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
-     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-no-wilds.png"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png"
      id="g6227"
      transform="translate(256.11569,199.07437)">
     <use
@@ -10827,7 +10827,7 @@
      transform="translate(-847.11117,76.679362)"
      inkscape:export-ydpi="70.110001"
      inkscape:export-xdpi="70.110001"
-     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/the-deck.png"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/mini-royal-with-wilds.png"
      id="g6249">
     <use
        xlink:href="#cf"
@@ -11728,5 +11728,454 @@
        x="0"
        id="use6610"
        transform="translate(961,386)" />
+  </g>
+  <g
+     transform="translate(414.12044,68.785897)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-no-wilds.png"
+     id="g6612">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="246"
+       x="79"
+       id="use6614" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#it2"
+       height="615"
+       width="1027"
+       y="245.5"
+       x="1"
+       id="use6616" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#ib2"
+       height="615"
+       width="1027"
+       y="246.5"
+       x="-1"
+       id="use6618" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6620"
+       transform="translate(87.5,270.5)" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6622"
+       transform="matrix(-1,0,0,-1,149.5,344.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6624"
+       transform="translate(118.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6626"
+       transform="matrix(-1,0,0,-1,118.5,347.5)" />
+  </g>
+  <g
+     transform="translate(414.12044,68.785897)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-no-wilds.png"
+     id="g6628">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="246"
+       x="158"
+       id="use6630" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#it3"
+       height="615"
+       width="1027"
+       y="245.5"
+       x="1"
+       id="use6632" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#ib3"
+       height="615"
+       width="1027"
+       y="246.5"
+       x="-1"
+       id="use6634" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6636"
+       transform="translate(166.5,270.5)" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6638"
+       transform="matrix(-1,0,0,-1,228.5,344.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6640"
+       transform="translate(197.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6642"
+       transform="translate(197.5,307.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6644"
+       transform="matrix(-1,0,0,-1,197.5,347.5)" />
+  </g>
+  <g
+     transform="translate(414.12044,68.785897)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-no-wilds.png"
+     id="g6660">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="246"
+       x="237"
+       id="use6662" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#it4"
+       height="615"
+       width="1027"
+       y="245.5"
+       x="1"
+       id="use6664" />
+    <use
+       style="stroke:#df0000"
+       xlink:href="#ib4"
+       height="615"
+       width="1027"
+       y="246.5"
+       x="-1"
+       id="use6666" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6668"
+       transform="translate(245.5,270.5)" />
+    <use
+       xlink:href="#hs"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6670"
+       transform="matrix(-1,0,0,-1,307.5,344.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6672"
+       transform="translate(260.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6674"
+       transform="matrix(-1,0,0,-1,260.5,347.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6676"
+       transform="translate(292.5,267.5)" />
+    <use
+       xlink:href="#hl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6678"
+       transform="matrix(-1,0,0,-1,292.5,347.5)" />
+  </g>
+  <text
+     sodipodi:linespacing="125%"
+     id="text6680"
+     y="382.77097"
+     x="358.58878"
+     style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan6684"
+       y="382.77097"
+       x="358.58878"
+       sodipodi:role="line">Straight</tspan></text>
+  <g
+     id="g6688"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-with-wilds.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(416.37572,204.10242)">
+    <use
+       id="use6690"
+       x="79"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use6692"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it2"
+       style="stroke:#df0000" />
+    <use
+       id="use6694"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib2"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(87.5,270.5)"
+       id="use6696"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,149.5,344.5)"
+       id="use6698"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(118.5,267.5)"
+       id="use6700"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,118.5,347.5)"
+       id="use6702"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <g
+     id="g6704"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-with-wilds.png"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-ydpi="70.110001"
+     transform="translate(416.37572,204.10242)">
+    <use
+       id="use6706"
+       x="158"
+       y="246"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use6708"
+       x="1"
+       y="245.5"
+       width="1027"
+       height="615"
+       xlink:href="#it3"
+       style="stroke:#df0000" />
+    <use
+       id="use6710"
+       x="-1"
+       y="246.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib3"
+       style="stroke:#df0000" />
+    <use
+       transform="translate(166.5,270.5)"
+       id="use6712"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="matrix(-1,0,0,-1,228.5,344.5)"
+       id="use6714"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hs" />
+    <use
+       transform="translate(197.5,267.5)"
+       id="use6716"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="translate(197.5,307.5)"
+       id="use6718"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+    <use
+       transform="matrix(-1,0,0,-1,197.5,347.5)"
+       id="use6720"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#hl" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="360.84406"
+     y="506.08746"
+     id="text6742"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="360.84406"
+       y="506.08746"
+       id="tspan6744"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Straight</tspan><tspan
+       sodipodi:role="line"
+       x="360.84406"
+       y="546.08746"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan6766">(wild)</tspan></text>
+  <g
+     transform="translate(416.0983,81.189912)"
+     inkscape:export-ydpi="70.110001"
+     inkscape:export-xdpi="70.110001"
+     inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/toripoka/graphics/straight-with-wilds.png"
+     id="g6746">
+    <use
+       xlink:href="#cf"
+       height="615"
+       width="1027"
+       y="369"
+       x="237"
+       id="use6748" />
+    <use
+       style="stroke:#000000"
+       xlink:href="#it4"
+       height="615"
+       width="1027"
+       y="368.5"
+       x="1"
+       id="use6750" />
+    <use
+       style="stroke:#000000"
+       xlink:href="#ib4"
+       height="615"
+       width="1027"
+       y="369.5"
+       x="-1"
+       id="use6752" />
+    <use
+       xlink:href="#ss"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6754"
+       transform="translate(245.5,393.5)" />
+    <use
+       xlink:href="#ss"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6756"
+       transform="matrix(-1,0,0,-1,307.5,467.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6758"
+       transform="translate(260.5,390.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6760"
+       transform="matrix(-1,0,0,-1,260.5,470.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6762"
+       transform="translate(292.5,390.5)" />
+    <use
+       xlink:href="#sl"
+       height="615"
+       width="1027"
+       y="0"
+       x="0"
+       id="use6764"
+       transform="matrix(-1,0,0,-1,292.5,470.5)" />
   </g>
 </svg>
