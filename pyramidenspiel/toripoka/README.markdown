@@ -72,7 +72,11 @@ When the game ends group and score your won pyramids according to the following:
  * 1 point for each of the rest of your pieces
  * negative points of value for any black pieces or trees
 
-The player with the most points wins.  In the result of a tie, the player with the fewest pyramids wins.  Again, if there's still a tie then the player with the fewest distinct colors wins.  If there is still a tie then both players win.
+The player with the most points wins.
+
+![trees](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
+
+In the result of a tie, the player with the fewest pyramids wins.  Again, if there's still a tie then the player with the fewest distinct colors wins.  If there is still a tie then both players win.
 
 Design Notes
 ============
