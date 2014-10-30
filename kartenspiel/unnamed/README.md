@@ -1,5 +1,23 @@
 *unnamed* is a climbing game played with Mah Jong style tiles for two players.
 
+ * suits are ranked
+   - same seq/set of higher suit wins
+ * dragons are wild for same color, bombs, higher suit than flowers
+ * flowers are wild except for dragons
+ * bombs are:
+   - circle/triangle dragons
+   - triangle/square dragons
+   - 3 flowers
+   - circle/triangle/square dragons
+   - 4 flowers
+ * simple scoring (Big Two)
+ * sets 1-3 card of the same rank
+ * seqs 3+ cards in sequence
+ * layoffs are an extra card added to 3-card set
+   - pure sets, not wildcard sets
+ 
+ 
+
 Preparation
 -----------
 
