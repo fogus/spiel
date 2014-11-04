@@ -3,6 +3,9 @@
  * suits are ranked
    - same seq/set of higher suit wins
  * dragons are wild for same color, bombs, higher suit than flowers
+   - 6 wilds are available
+   - Can only play one lower or higher wild-type than opponent
+   - 
  * flowers are wild except for dragons
  * bombs are:
    - circle/triangle dragons
@@ -10,7 +13,7 @@
    - 3 flowers
    - circle/triangle/square dragons
    - 4 flowers
- * simple scoring (Big Two)
+ * simple scoring (Big Two?)
  * sets 1-3 card of the same rank
  * seqs 3+ cards in sequence
  * layoffs are an extra card added to 3-card set
