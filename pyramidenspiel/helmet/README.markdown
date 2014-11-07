@@ -1,10 +1,12 @@
 *Helmet* is a press-your-luck game of abtsract philosophical debate for 2 players.
 
- Face | Name 
- :---: | :---
- puppy | ![knowledge](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die1.png) | ![knowledge](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png)
+ Topic | Pyramid | Die
+ :---: | :---: | :---:
+ Knowledge | ![knowledge](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png) | ![knowledge6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die1.png)
+ Conduct | ![conduct](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png) | ![conduct6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die2.png)
+ Governance | ![govern](http://images.fogus.me/games/pyramid-games/images/pd-brute.png) | ![govern6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die3.png)
  
-
+---
 
 
  ![philosopher](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png) | philosopher
