@@ -16,13 +16,15 @@ In any good philosophical debate there are three critical topics of discussion:
  * The problem of conduct
  * The problem of governance
 
-In *Helmet* it is your task to participate in a philosophical debate that 
+In *Helmet* it is your task to participate in a philosophical debate that covers, preferably in equal parts, these three core topics.  These topics are abstractly represented as symbols on a special pyramid die, or as the first three numbers on a regular die: 
 
  Topic | Pyramid | Die
  :---: | :---: | :---:
  Knowledge | ![knowledge](http://images.fogus.me/games/pyramid-games/images/pd-puppy.png) | ![knowledge6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die1.png)
  Conduct | ![conduct](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png) | ![conduct6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die2.png)
  Governance | ![govern](http://images.fogus.me/games/pyramid-games/images/pd-brute.png) | ![govern6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die3.png)
+
+
 
 Nuanced arguments 
 -----------------
