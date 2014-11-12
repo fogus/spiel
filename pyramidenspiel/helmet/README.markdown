@@ -38,6 +38,9 @@ Nuanced arguments feature combined aspects of the core arguments and are represe
  ![d31](http://images.fogus.me/games/pyramid-games/images/pd-catoblepas.png) | ![d5](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die5.png)
  ![d32](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut.png) | ![govern6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die6.png)
 
+
+When formulating an argument using nuanced arguments are a good way to ensure a powerful case and meet the demands of the three core arguments.
+
 Preparing a statement and retort
 --------------------------------
 
