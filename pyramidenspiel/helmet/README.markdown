@@ -7,6 +7,7 @@ You'll need the following materials to play *Helmet*:
 
  * 5 pyramid dice, or 5 six-sided dice
  * 3 [rainbow pyramid sets](http://www.looneylabs.com/looney-pyramids)
+ * 10 playing cards or index cards
 
 Core arguments
 --------------
@@ -24,10 +25,12 @@ In *Helmet* it is your task to participate in a philosophical debate that covers
  Conduct | ![conduct](http://images.fogus.me/games/pyramid-games/images/pd-philosopher.png) | ![conduct6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die2.png)
  Governance | ![govern](http://images.fogus.me/games/pyramid-games/images/pd-brute.png) | ![govern6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die3.png)
 
-
+Any constructed argument *must* have at least one each of the three core argument topics.  However, there are other ways to cover these topics without focusing solely on them by the way of *nuanced arguments*.
 
 Nuanced arguments 
 -----------------
+
+Nuanced arguments feature combined aspects of the core arguments and are represented as faces on a pyramid or regular die:
 
  Pyramid | Die
  :---: | :---:
