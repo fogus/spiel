@@ -1,9 +1,9 @@
-*Helmet* is a press-your-luck dice game of philosophical debating for 2 players.
+*Gorgias* is a press-your-luck dice game of philosophical debating for 2 players.
 
 Preparation
 -----------
 
-You'll need the following materials to play *Helmet*:
+You'll need the following materials to play *Gorgias*:
 
  * 5 pyramid dice, or 5 six-sided dice
  * 3 [rainbow pyramid sets](http://www.looneylabs.com/looney-pyramids)
@@ -17,7 +17,7 @@ In any good philosophical debate there are three critical topics of discussion:
  * The problem of conduct
  * The problem of governance
 
-In *Helmet* it is your task to participate in a philosophical debate that covers, preferably in equal parts, these three core topics.  These topics are abstractly represented as symbols on a special pyramid die, or as the first three numbers on a regular die: 
+In *Gorgias* it is your task to participate in a philosophical debate that covers, preferably in equal parts, these three core topics.  These topics are abstractly represented as symbols on a special pyramid die, or as the first three numbers on a regular die: 
 
  Topic | Pyramid | Die
  :---: | :---: | :---:
