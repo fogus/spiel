@@ -13,6 +13,7 @@ Core arguments
 --------------
 
 In any good philosophical debate there are three critical topics of discussion:
+
  * The problem of knowledge
  * The problem of conduct
  * The problem of governance
@@ -39,7 +40,12 @@ Nuanced arguments feature combined aspects of the core arguments and are represe
  ![d32](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut.png) | ![govern6](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/helmet/graphics/die6.png)
 
 
-When formulating an argument using nuanced arguments are a good way to ensure a powerful case and meet the demands of the three core arguments.
+Nuanced arguments are a good way to ensure a powerful case and meet the demands of the three core arguments.
+
+Gameplay
+--------
+
+A game of *Gorgias* consists of eight rounds, or *statements*, that consist of five groups of pyramids representing the results of rolling the arguments dice.  These groups are secretly arranged and
 
 Preparing a statement and retort
 --------------------------------
