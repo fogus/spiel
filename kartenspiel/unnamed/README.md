@@ -1,4 +1,4 @@
-*unnamed* is a climbing game played with Mah Jong style tiles for two players.
+*Dornholzhausen* is a climbing game played with Mah Jong style tiles for two players.
 
  * suits are ranked
    - same seq/set of higher suit wins
@@ -8,6 +8,7 @@
    - Can only play one lower or higher wild-type than opponent
    - 
  * flowers are wild except for dragons
+   - can be ten or zero
  * bombs are:
    - circle/triangle dragons
    - triangle/square dragons
