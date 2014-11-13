@@ -55,8 +55,8 @@ Statements are built by rolling the arguments dice up to three times and keeping
 Debating
 --------
 
- * secretly align the arguments in your statement and retort
- * reveal
+Before a debate begins the players place a sheild between their play areas and secretly arrange their arguments in a row of five.  Once arranged the players reveal their layouts and calculate the argument resolutions.
+
  * calculate argument resolution
  * set aside pyramids of won colors
 
