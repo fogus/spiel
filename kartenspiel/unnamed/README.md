@@ -2,6 +2,7 @@
 
  * suits are ranked
    - same seq/set of higher suit wins
+ * combos of 6 or fewer?
  * dragons are wild for same color, bombs, higher suit than flowers
    - 6 wilds are available
    - Can only play one lower or higher wild-type than opponent
@@ -16,6 +17,8 @@
  * simple scoring (Big Two?)
  * sets 1-3 card of the same rank
  * seqs 3+ cards in sequence
+ * tubes - 3 consecutive pairs in natural order
+ * plates - 2 consecutive triples in natural order
  * layoffs are an extra card added to 3-card set
    - pure sets, not wildcard sets
  
