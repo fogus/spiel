@@ -45,10 +45,12 @@ Nuanced arguments are a good way to ensure a powerful case and meet the demands 
 Gameplay
 --------
 
-A game of *Gorgias* consists of eight rounds, or *statements*, that consist of five groups of pyramids representing the results of rolling the arguments dice.  These groups are secretly arranged behind a shield across from the opponent's groups.  Once both players' groups are revealed the results are calculated and won pyramids dispersed.
+A game of *Gorgias* consists of eight rounds, or *statements*, that consist of five sets of pyramids representing the results of rolling the arguments dice.  These sets are secretly arranged behind a shield across from the opponent's sets.  Once both players' sets are revealed the results are calculated and won pyramids dispersed.
 
-Preparing a statement and retort
---------------------------------
+Preparing statements
+---------------------
+
+Statements are built by rolling the arguments dice up to three times and keeping any number of dice aside during each roll to formulate the set.
 
  * must have at least one of each core argument
  * roll up to 3 times
