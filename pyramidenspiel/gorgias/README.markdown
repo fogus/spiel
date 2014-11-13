@@ -50,10 +50,7 @@ A game of *Gorgias* consists of eight rounds, or *statements*, that consist of f
 Preparing statements
 ---------------------
 
-Statements are built by rolling the arguments dice up to three times and keeping any number of dice aside during each roll to formulate the set.  However, the lone caveat in building a set is that each of the three core arguments must be represented either as their exact faces or within nuanced arguments.  Whenever a set is  rolled without represention in all three core arguments then a set of the arguing player's choice will be removed from play for that round.  Finally, once a set is formed via the pyramid dice rolls then the players take alternating turns pulling pyramids from a their personal stock of any color of the size needed to fulfill the dictates of the faces of the dice.
-
- * take whichever colors you desire in alternating fashion
-   - lowest value goes first
+Statements are built by rolling the arguments dice up to three times and keeping any number of dice aside during each roll to formulate the set.  However, the lone caveat in building a set is that each of the three core arguments must be represented either as their exact faces or within nuanced arguments.  Whenever a set is  rolled without represention in all three core arguments then a set of the arguing player's choice will be removed from play for that round.  Finally, once a set is formed via the pyramid dice rolls then the players pull pyramids from a their personal stock of any color of the size needed to fulfill the pyramids shown on the faces of the dice.  Once chosen, the debate can begin.
 
 Debating
 --------
