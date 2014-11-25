@@ -1,4 +1,4 @@
-*Gorgias* is a press-your-luck dice game of philosophical debating for 2 players.
+*Gorgias* is a press-your-luck dice game of philosophical debates for 2 players.
 
 Preparation
 -----------
