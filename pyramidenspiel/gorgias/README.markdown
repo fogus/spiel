@@ -11,6 +11,10 @@ You'll need the following materials to play *Gorgias*:
 
 Each player receives a single rainbow set and the third is placed between them and considered a *common set*.  The playing cards are placed face-down in two rows of five where each card is adjacent to one other card.
 
+![setup](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/setup.png)
+
+Once the play area is setup the game can begin.
+
 Core arguments
 --------------
 
