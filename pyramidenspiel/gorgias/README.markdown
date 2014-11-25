@@ -9,6 +9,8 @@ You'll need the following materials to play *Gorgias*:
  * 3 [rainbow pyramid sets](http://www.looneylabs.com/looney-pyramids)
  * 10 playing cards or index cards
 
+Each player receives a single rainbow set and the third is placed between them and considered a *common set*.  The playing cards are placed face-down in two rowns of five where each card is adjacent to one other card.
+
 Core arguments
 --------------
 
