@@ -72,7 +72,11 @@ Therefore, for that group a yellow medium pyramid is set aside for final scoring
 Scoring
 -------
 
- * Volcano? Other? (most balanced -- undercut?)
+Every individual pyramid captured will score 1 debate point.  However, certain combinations can combine to score more points:
+
+![trees](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
+
+Any combination of three differently sized pyramids will form either a single-color tree or a multi-color tree.
 
 Design notes
 ------------
