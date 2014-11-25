@@ -55,9 +55,9 @@ Statements are built by rolling the arguments dice up to three times and keeping
 Debating
 --------
 
-The results of the dice describe five groups of pyramids that will be aligned with the opponent's five groups.  Any individual group will consist of a single pyramid or two pyramids.
+The results of the dice describe five groups of pyramids that will be aligned with the opponent's five groups.  Any individual group will consist of a single pyramid or two pyramids.  The pyramid in a group of one can be arranged with its point facing the opposing group or its bottom facing.  When the point of the pyramid faces the opponent's group it projects the value of its pips.  When it faces away from the opponent's group it absorbs the value of its pips.
 
-Before a debate begins the players place a sheild between their play areas and secretly arrange their arguments in a row of five.  Once arranged the players reveal their layouts and calculate the argument resolutions.
+Before a debate begins the players place a shield between their play areas and secretly arrange their groups in a row.  Once arranged the players reveal their layouts and calculate the argument resolutions.
 
 
 For example:
