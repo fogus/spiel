@@ -9,7 +9,7 @@ You'll need the following materials to play *Gorgias*:
  * 3 [rainbow pyramid sets](http://www.looneylabs.com/looney-pyramids)
  * 10 playing cards or index cards
 
-Each player receives a single rainbow set and the third is placed between them and considered a *common set*.  The playing cards are placed face-down in two rowns of five where each card is adjacent to one other card.
+Each player receives a single rainbow set and the third is placed between them and considered a *common set*.  The playing cards are placed face-down in two rows of five where each card is adjacent to one other card.
 
 Core arguments
 --------------
@@ -52,7 +52,7 @@ A game of *Gorgias* consists of eight rounds, or *statements*, that consist of f
 Preparing statements
 ---------------------
 
-Statements are built by rolling the arguments dice up to three times and keeping any number of dice aside during each roll to formulate the set.  However, the lone caveat in building a set is that each of the three core arguments must be represented either as their exact faces or within nuanced arguments.  Whenever a set is rolled without represention in all three core arguments then a set of the arguing player's choice will be removed from play for that round.  Finally, once a set is formed via the pyramid dice rolls then the players pull pyramids from a their personal stock of any color of the size needed to fulfill the pyramids shown on the faces of the dice.  Once chosen, the debate can begin.
+Statements are built by rolling the arguments dice up to three times and keeping any number of dice aside during each roll to formulate the set.  However, the lone caveat in building a set is that each of the three core arguments must be represented either as their exact faces or within nuanced arguments.  Whenever a set is rolled without representation in all three core arguments then a set of the arguing player's choice will be removed from play for that round.  Finally, once a set is formed via the pyramid dice rolls then the players pull pyramids from a their personal stock of any color of the size needed to fulfill the pyramids shown on the faces of the dice.  Once chosen, the debate can begin.
 
 Debating
 --------
@@ -65,7 +65,7 @@ For example:
 
 ![vs](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/jugg-v-brute.png)
 
-The pyramids above are oriented in such a way that the left-side group projects 3-points toward the right-side group and absorbs two points.  When resolving an argument it's assumed that everything happens at once.  Therefore, in the debate above the red pyramid projects 3-points, 2 of which are absorbed by the blue.  Since blue only takes 2 of the 3 points, 1 additional flows through to the yellow, thus reducing it by 1.  At the same time the yellow pyramid projects 3-points, but since there is no rebutal the red is completely overwhelmed, leaving no points remaining.  At the end of the debate, the right-hand player retains 2-points of yellow, or a medium yellow pyramid fron their own stash.
+The pyramids above are oriented in such a way that the left-side group projects 3-points toward the right-side group and absorbs two points.  When resolving an argument it's assumed that everything happens at once.  Therefore, in the debate above the red pyramid projects 3-points, 2 of which are absorbed by the blue.  Since blue only takes 2 of the 3 points, 1 additional flows through to the yellow, thus reducing it by 1.  At the same time the yellow pyramid projects 3-points, but since there is no rebuttal the red is completely overwhelmed, leaving no points remaining.  At the end of the debate, the right-hand player retains 2-points of yellow, or a medium yellow pyramid from their own stash.
 
 ![y2](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/y2.png)
 
