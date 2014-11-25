@@ -55,16 +55,16 @@ Statements are built by rolling the arguments dice up to three times and keeping
 Debating
 --------
 
+The results of the dice describe five groups of pyramids that will be aligned with the opponent's five groups.  Any individual group will consist of a single pyramid or two pyramids.
+
 Before a debate begins the players place a sheild between their play areas and secretly arrange their arguments in a row of five.  Once arranged the players reveal their layouts and calculate the argument resolutions.
 
 
-For
-example:
+For example:
 
 ![vs](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/jugg-v-brute.png)
 
-The dice above are oriented in such a way that the left-side die
-projects 3-points of power toward the right-side. However, the left-side die has a 2-point shield facing the attack thus absorbing 2-points of power leaving only 1-point remaining, not enough to destroy it. At the same time, the left-side die projects 3-points of power which is enough to destroy the right-side die.
+The pyramids above are oriented in such a way that the left-side die projects 3-points of power toward the right-side. However, the left-side die has a 2-point shield facing the attack thus absorbing 2-points of power leaving only 1-point remaining, not enough to destroy it. At the same time, the left-side die projects 3-points of power which is enough to destroy the right-side die.
 
  * set aside pyramids of won colors
 
