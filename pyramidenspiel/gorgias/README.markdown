@@ -85,8 +85,5 @@ Any combination of three differently sized pyramids will form either a solid-col
 
 Whomever has the most points wins the debate.
 
-Design notes
-------------
-
-TODO
+*Gorgias* is &copy;2014, Michael Fogus
 
