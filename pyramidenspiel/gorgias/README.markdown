@@ -24,7 +24,7 @@ In any good philosophical debate there are three critical topics of discussion:
  * The problem of conduct
  * The problem of governance
 
-In *Gorgias* it is your task to participate in a philosophical debate that covers, preferably in equal parts, these three core topics.  These topics are abstractly represented as symbols on a special pyramid die, or as the first three numbers on a regular die: 
+In *Gorgias* it is your task to participate in a philosophical debate that covers, preferably in equal parts, the three core topics.  These topics are abstractly represented as symbols on a special pyramid die, or as the first three numbers on a regular die: 
 
  Topic | Pyramid | Die
  :---: | :---: | :---:
@@ -71,7 +71,7 @@ For example:
 
 The pyramids above are oriented in such a way that the left-side group projects 3-points toward the right-side group and absorbs two points.  When resolving an argument it's assumed that everything happens at once.  Therefore, in the debate above the red pyramid projects 3-points, 2 of which are absorbed by the blue.  Since blue only takes 2 of the 3 points, 1 additional flows through to the yellow, thus reducing it by 1.  At the same time the yellow pyramid projects 3-points, but since there is no rebuttal the red is completely overwhelmed, leaving no points remaining.  At the end of the debate, the right-hand player retains 2-points of yellow, or a medium yellow pyramid from their own stash.
 
-![y2](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/y2.png)
+![y2](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/y2.png)
 
 Therefore, for that group a yellow medium pyramid is set aside for final scoring.  The remaining groups are resolved similarly.  After 7 rounds the debate ends and the scores are tallied.
 
@@ -80,7 +80,7 @@ Scoring
 
 Every individual pyramid captured will score 1 debate point.  However, certain combinations can combine to score more points:
 
-![trees](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
+![trees](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
 
 Any combination of three differently sized pyramids will form either a solid-color tree or a multi-color tree.  Trees score more points than individual pyramids:
 
