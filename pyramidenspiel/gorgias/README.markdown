@@ -67,7 +67,7 @@ The pyramids above are oriented in such a way that the left-side group projects 
 
 ![y2](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/gorgias/graphics/y2.png)
 
-Therefore, for that group a yellow medium pyramid is set aside for final scoring.  The remaining groups are resolved similarly.  After 7 rounds, whomever has the most points wins the debate.
+Therefore, for that group a yellow medium pyramid is set aside for final scoring.  The remaining groups are resolved similarly.  After 7 rounds the debate ends and the scores are tallied.
 
 Scoring
 -------
@@ -76,7 +76,12 @@ Every individual pyramid captured will score 1 debate point.  However, certain c
 
 ![trees](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/logistics/graphics/trees.png)
 
-Any combination of three differently sized pyramids will form either a single-color tree or a multi-color tree.
+Any combination of three differently sized pyramids will form either a solid-color tree or a multi-color tree.  Trees score more points than individual pyramids:
+
+ * 7 points for each solid-color tree
+ * 5 points for each mixed-color tree
+
+Whomever has the most points wins the debate.
 
 Design notes
 ------------
