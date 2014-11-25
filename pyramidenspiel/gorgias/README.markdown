@@ -65,10 +65,7 @@ For example:
 
 The pyramids above are oriented in such a way that the left-side group projects 3-points toward the right-side group and absorbs two points.  When resolving an argument it's assumed that everything happens at once.  Therefore, in the debate above the red pyramid projects 3-points, 2 of which are absorbed by the blue.  Since blue only takes 2 of the 3 points, 1 additional flows through to the yellow, thus reducing it by 1.  At the same time the yellow pyramid projects 3-points, but since there is no rebutal the red is completely overwhelmed, leaving no points remaining.  At the end of the debate, the right-hand player retains 2-points of yellow, or a medium yellow pyramid fron their own stash.
 
-
-However, the left-side die has a 2-point shield facing the attack thus absorbing 2-points of power leaving only 1-point remaining, not enough to destroy it. At the same time, the left-side die projects 3-points of power which is enough to destroy the right-side die.
-
- * set aside pyramids of won colors
+Therefore, for that group a yellow medium pyramid is set aside for final scoring.  The remaining groups are resolved similarly.  This 
 
 Scoring
 -------
