@@ -12,5 +12,5 @@
 * ribbon matches ribbon orthogonally
 * creature matches creature orthogonally
 
-*also, majority element can match in enclosed space*
+*also, majority or tied element can match in enclosed space*
 
