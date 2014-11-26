@@ -14,3 +14,6 @@
 
 *also, majority or tied element can match in enclosed space*
 
+play until each player only has two cards, only those can be played if they result is captures.
+
+
