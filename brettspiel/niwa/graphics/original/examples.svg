@@ -232,35 +232,11 @@
      transform="translate(0,747.641)"
      style="display:inline">
     <g
-       style="overflow:hidden"
-       id="g7510"
-       transform="translate(2841.1701,-695.16141)">
-      <circle
-         id="circle7499"
-         r="125"
-         cy="125"
-         cx="125"
-         sodipodi:cx="125"
-         sodipodi:cy="125"
-         sodipodi:rx="125"
-         sodipodi:ry="125"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0"
-         d="M 250,125 C 250,194.03559 194.03559,250 125,250 55.964406,250 0,194.03559 0,125 0,55.964406 55.964406,0 125,0 194.03559,0 250,55.964406 250,125 z" />
-      <circle
-         id="circle7501"
-         r="125"
-         cy="125"
-         cx="125"
-         style="fill:url(#1r_0.75_0.75__A0A0A0-_000);fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-opacity:0.3"
-         sodipodi:cx="125"
-         sodipodi:cy="125"
-         sodipodi:rx="125"
-         sodipodi:ry="125"
-         d="M 250,125 C 250,194.03559 194.03559,250 125,250 55.964406,250 0,194.03559 0,125 0,55.964406 55.964406,0 125,0 194.03559,0 250,55.964406 250,125 z" />
-    </g>
-    <g
        id="g10395"
-       transform="translate(61.568855,-514.28102)">
+       transform="translate(-302.08274,-263.3102)"
+       inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/niwa/graphics/single-placement.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <g
          transform="matrix(0.89910546,0,0,0.90383326,425.83205,149.38981)"
          id="g8326">
@@ -1870,7 +1846,7 @@
     </g>
     <g
        id="g14252"
-       transform="translate(1338.4063,112.27262)">
+       transform="translate(974.7547,363.24344)">
       <g
          transform="matrix(1,0,0,0.86488244,-888.94893,134.76924)"
          id="g12389">
@@ -3938,7 +3914,10 @@
     <g
        style="overflow:hidden"
        id="g7589"
-       transform="translate(512.8483,-265.13558)">
+       transform="translate(149.1967,-10.164758)"
+       inkscape:export-filename="/Users/fogus/src/spiel/brettspiel/niwa/graphics/single-placement.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <circle
          id="circle7578"
          r="125"
@@ -3956,6 +3935,33 @@
          cy="125"
          cx="125"
          style="fill:url(#1r_0.75_0.75__fff-_A0A0A0);fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-opacity:0.3"
+         sodipodi:cx="125"
+         sodipodi:cy="125"
+         sodipodi:rx="125"
+         sodipodi:ry="125"
+         d="M 250,125 C 250,194.03559 194.03559,250 125,250 55.964406,250 0,194.03559 0,125 0,55.964406 55.964406,0 125,0 194.03559,0 250,55.964406 250,125 z" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="g7510"
+       transform="translate(149.07516,571.9364)">
+      <circle
+         id="circle7499"
+         r="125"
+         cy="125"
+         cx="125"
+         sodipodi:cx="125"
+         sodipodi:cy="125"
+         sodipodi:rx="125"
+         sodipodi:ry="125"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0"
+         d="M 250,125 C 250,194.03559 194.03559,250 125,250 55.964406,250 0,194.03559 0,125 0,55.964406 55.964406,0 125,0 194.03559,0 250,55.964406 250,125 z" />
+      <circle
+         id="circle7501"
+         r="125"
+         cy="125"
+         cx="125"
+         style="fill:url(#1r_0.75_0.75__A0A0A0-_000);fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-opacity:0.3"
          sodipodi:cx="125"
          sodipodi:cy="125"
          sodipodi:rx="125"
