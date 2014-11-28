@@ -41,11 +41,13 @@ In the case above, any of an animal, October, or November card may be placed in 
 
 ### Majority placements
 
-A circumstance may arise where cards placed may create gaps with different matching features.  In these circumstances cards from the hand can be placed according to the majority feature. 
+A circumstance may arise where cards placed may create gaps with more matching features than others.  In these circumstances, cards from the hand can be placed according to the majority feature. 
 
 <img src="https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/niwa/graphics/majority-possible-placement.png" width="33%" height="33%">
 
-*also, majority or tied element can match in enclosed space*
+In the case above, the animal feature has the majority and therefore only an animal card can be placed in the gap.
+
+
 
 play until each player only has two cards, only those can be played if they result is captures.
 
