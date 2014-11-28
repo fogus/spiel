@@ -1,7 +1,23 @@
-*Hosokufuda* is a tile-laying area-control game using Hanafuda cards.
+*Niwa* is a tile-laying area-control game using [Hanafuda](http://www.pagat.com/class/flower.html) cards for 2-players.
 
-* deal 3 cards
+Preparation
+===========
 
+ * A Hanafuda deck
+ * A set of Go stones
+
+Shuffle the Hanafuda cards and deal three cards to each player.  Each player gets all of the stones of a single color.
+
+Gameplay
+========
+
+The player with the black stones starts the game.
+
+On each player's turn they must perform the following:
+
+ * Place a card with a stone on top
+ * 
+ 
 * place one card with matching stone
 * conversion capture
 * draw one card
