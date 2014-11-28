@@ -24,9 +24,9 @@ Play then alternates between players.
 Placement rules
 ----------------
 
-Cards can be placed either orthogonally or diagnonally to existing cards according to the following rules:
+Cards can be placed either orthogonally or diagnonally to existing cards. You may place any card from your hand that you desire, but if it can be placed orthogonally then it must be.  Cards are placed according to the following rules:
 
-* month matches month orthogonally
+* Cards that match by month can be placed orthogonally
 * ribbon matches ribbon orthogonally
 * creature matches creature orthogonally
 * otherwise place it corner-wise to any existing card
