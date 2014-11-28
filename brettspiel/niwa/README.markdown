@@ -64,4 +64,4 @@ Play continues until each player has only two cards.  These final cards can only
 Scoring
 -------
 
-The player with the most stones residing in continuous groups of at least 2 wins the game.  
+The player with the most stones residing in continuous groups of at least 2 wins the game.  In the case of a tie, the player with stones on the fewest groups wins.  In the case of yet another tie, both players may celebrate.
