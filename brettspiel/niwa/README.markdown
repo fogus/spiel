@@ -50,7 +50,11 @@ In the case above, the animal feature has the majority and therefore only an ani
 Capturing
 ---------
 
+Captures occur when a player places a card that results in stones occupying both sides of a line of the opponent's stones.  For example:
+
 <img src="https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/niwa/graphics/majority-placement.png" width="33%" height="33%">
+
+When a player places an animal card in the gap the black stone below it is captured and converted to a white stone.
 
 End
 ----
