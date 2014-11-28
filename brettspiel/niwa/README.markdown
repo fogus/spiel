@@ -16,13 +16,15 @@ The player with the black stones starts the game.
 On each player's turn they must perform the following:
 
  * Place a card with a stone on top
- * 
- 
-* place one card with matching stone
-* conversion capture
-* draw one card
+ * Replace any captured stones
+ * Draw a card
 
-# placement rules
+Play then alternates between players.
+
+Placement rules
+----------------
+
+Cards can be placed either orthogonally or diagnonally to existing cards according to the following rules:
 
 * month matches month orthogonally
 * ribbon matches ribbon orthogonally
