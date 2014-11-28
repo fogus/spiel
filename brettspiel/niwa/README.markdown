@@ -27,9 +27,11 @@ Placement rules
 Cards can be placed either orthogonally or diagnonally to existing cards. You may place any card from your hand that you desire, but if it can be placed orthogonally then it must be.  Cards are placed according to the following rules:
 
 * Cards that match by month can be placed orthogonally
-* ribbon matches ribbon orthogonally
-* creature matches creature orthogonally
-* otherwise place it corner-wise to any existing card
+* Cards with ribbons can be placed orthogonally to ribbon cards
+* Cards with creatures can be placed orthogonally to creature cards
+* Otherwise place it corner-wise to any existing cards
+
+
 
 *also, majority or tied element can match in enclosed space*
 
