@@ -59,18 +59,9 @@ When a player places an animal card in the gap the black stone below it is captu
 End
 ----
 
-play until each player only has two cards, only those can be played if they result is captures.
+Play continues until each player has only two cards.  These final cards can only be placed if by doing so they result in captures.
 
 Scoring
 -------
 
-the player with the most stones contained in orthogonal groups of at least 2 wins the game
-
-# notes
-
-* can this be played with iota cards?
-* can this be played with aquarius cards?
-* what happens if we add pyramids instead?
- - does it add a resource mgmt aspect too?
- 
- 
+The player with the most stones residing in continuous groups of at least 2 wins the game.  
