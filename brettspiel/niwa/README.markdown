@@ -47,9 +47,18 @@ A circumstance may arise where cards placed may create gaps with more matching f
 
 In the case above, the animal feature has the majority and therefore only an animal card can be placed in the gap.
 
+Capturing
+---------
 
+<img src="https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/niwa/graphics/majority-placement.png" width="33%" height="33%">
+
+End
+----
 
 play until each player only has two cards, only those can be played if they result is captures.
+
+Scoring
+-------
 
 the player with the most stones contained in orthogonal groups of at least 2 wins the game
 
