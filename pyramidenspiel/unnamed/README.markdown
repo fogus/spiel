@@ -12,4 +12,8 @@
  
  Done when player runs out of cards
  
- 
+Score the number of cards in groups of at least 2, occupied by the player with the most powerful presence.
+
+?Should I resolve the conflicts? Remaining pieces determine presence?
+
+Puppies -> Juggernauts
