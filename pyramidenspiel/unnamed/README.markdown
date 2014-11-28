@@ -17,3 +17,4 @@ Score the number of cards in groups of at least 2, occupied by the player with t
 ?Should I resolve the conflicts? Remaining pieces determine presence?
 
 Puppies -> Juggernauts
+
