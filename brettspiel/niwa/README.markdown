@@ -8,7 +8,7 @@ Preparation
 
 Shuffle the Hanafuda cards and deal three cards to each player.  Each player gets all of the stones of a single color.
 
-Gameplay
+Game-play
 ========
 
 The player with the black stones starts the game.
@@ -24,11 +24,11 @@ Play then alternates between players.
 Placement rules
 ----------------
 
-Cards can be placed either orthogonally or diagnonally to existing cards. You may place any card from your hand that you desire, but if it can be placed orthogonally then it must be.  Cards are placed according to the following rules:
+Cards can be placed either orthogonal or diagonal to existing cards. You may place any card from your hand that you desire, but if it can be placed orthogonal then it must be.  Cards are placed according to the following rules:
 
-* Cards that match by month can be placed orthogonally
-* Cards with ribbons can be placed orthogonally to ribbon cards
-* Cards with creatures can be placed orthogonally to creature cards
+* Cards that match by month can be placed orthogonal
+* Cards with ribbons can be placed orthogonal to ribbon cards
+* Cards with creatures can be placed orthogonal to creature cards
 * Otherwise place it corner-wise any one or more existing cards
 
 ### Corner placements
