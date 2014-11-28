@@ -61,3 +61,8 @@ Scoring
 -------
 
 The player with the most stones residing in continuous groups of at least 2 wins the game.  In the case of a tie, the player with stones on the fewest groups wins.  In the case of yet another tie, both players may celebrate.
+
+No luck variant (WiP)
+=====================
+
+One player gets the Spring and Summer (March - August) months, while the other gets the Autumn and Winter (September - Febrauary) months.  All cards are placed face up on front of the respective players to start.  The game is played exactly as described above, but without drawing cards on each turn.
