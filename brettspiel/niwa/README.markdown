@@ -29,9 +29,21 @@ Cards can be placed either orthogonally or diagnonally to existing cards. You ma
 * Cards that match by month can be placed orthogonally
 * Cards with ribbons can be placed orthogonally to ribbon cards
 * Cards with creatures can be placed orthogonally to creature cards
-* Otherwise place it corner-wise to any existing cards
+* Otherwise place it corner-wise any one or more existing cards
 
+### Corner placements
 
+In the case of two cards that form a corner, it's not necessary to match both features in order to place there:
+
+<img src="https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/niwa/graphics/corner-placement.png" width="20%" height="20%">
+
+In the case above, any of an animal, October, or November card may be placed in either corner.
+
+### Majority placements
+
+A circumstance may arise where cards placed may create gaps with different matching features.  In these circumstances cards from the hand can be placed according to the majority feature. 
+
+<img src="https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/niwa/graphics/majority-possible-placement.png" width="33%" height="33%">
 
 *also, majority or tied element can match in enclosed space*
 
