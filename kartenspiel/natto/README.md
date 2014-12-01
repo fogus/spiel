@@ -1,5 +1,25 @@
 *Natto* is a climbing game played with Mah Jong style tiles for two players.
 
+Preparation
+===========
+
+To play *Natto* the way that it's meant to be played (with lots of clacking), you'll need a set of the following Rum-Jong tiles:
+
+![]()
+
+You can also use a Mhing deck, Mah Jong tiles, or a standard deck (1-9 of three suits, 10s of missing suit for flowers, 2 sets of face cards for wilds).
+
+The deal
+========
+
+
+
+Game-play
+=========
+
+
+
+
  * suits are ranked
    - same seq/set of higher suit wins
  * combos of 6 or fewer?
@@ -88,3 +108,4 @@ Design notes
 TODO
 
 *unnamed* is is © 2014, Michael Fogus
+
