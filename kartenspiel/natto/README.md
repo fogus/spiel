@@ -17,7 +17,17 @@ Before shuffling, remove all of the wild cards and give each player a left, cent
 Ranks
 =====
 
-In *Natto* both the cards themselves and their suits are ranked.  The ranks are as follows:
+In *Natto* both the cards themselves and their suits are ranked.
+
+## Tile ranks
+
+The tile ranks are as follows:
+
+![]()
+
+That is, the tiles rank from lowest to highest as: flower, 1-9, flower, left facing dragon, center facing dragon, right facing dragon. That's right, the flower cards can be used as either a zero or a ten.
+
+## Ranked suits
 
 
 
