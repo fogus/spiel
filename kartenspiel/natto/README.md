@@ -29,7 +29,15 @@ That is, the tiles rank from lowest to highest as: flower, 1-9, flower, left fac
 
 ## Ranked suits
 
+The suits are also ranked:
 
+![]()
+
+That is, the square suit along with the right-facing dragon are the highest, the triangles along with the center-facing dragon are next, and finally the circles with the left-facing dragon are the lowest.  The flower cards do not have a suit per se, but instead take on the suit required to fulfill a sequence.
+
+## Wild dragons
+
+The dragon cards serve dual purposes, but the most immediate is that they are wild cards.  They can serve as any rank, including those 
 
 Goal
 ====
