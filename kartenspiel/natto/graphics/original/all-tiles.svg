@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="494.29293"
-     inkscape:cy="365.30818"
+     inkscape:zoom="0.95891147"
+     inkscape:cx="435.0111"
+     inkscape:cy="343.65899"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1366"
-     inkscape:window-height="720"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1586"
+     inkscape:window-height="1085"
+     inkscape:window-x="249"
+     inkscape:window-y="126"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      id="layer1"
      transform="translate(0,-287.36218)">
     <g
-       transform="translate(-249.79258,165.38642)"
+       transform="translate(-249.79258,163.38642)"
        id="layer1-9"
        inkscape:label="Layer 1">
       <g
@@ -103,7 +103,7 @@
       </g>
     </g>
     <g
-       transform="translate(-169.92962,166.35596)"
+       transform="translate(-169.92962,163.38642)"
        id="layer1-0"
        inkscape:label="Layer 1">
       <g
@@ -171,7 +171,7 @@
       </g>
     </g>
     <g
-       transform="translate(-89.076804,166.37627)"
+       transform="translate(-89.076804,163.38642)"
        id="layer1-4"
        inkscape:label="Layer 1">
       <g
@@ -259,7 +259,7 @@
       </g>
     </g>
     <g
-       transform="translate(-8.18338,166.39657)"
+       transform="translate(-8.18338,163.38642)"
        id="layer1-1"
        inkscape:label="Layer 1">
       <g
@@ -367,7 +367,7 @@
       </g>
     </g>
     <g
-       transform="translate(71.67959,166.41688)"
+       transform="translate(71.67959,163.38642)"
        id="layer1-8"
        inkscape:label="Layer 1">
       <g
@@ -495,7 +495,7 @@
       </g>
     </g>
     <g
-       transform="translate(151.58316,165.38642)"
+       transform="translate(151.58316,163.38642)"
        id="layer1-41"
        inkscape:label="Layer 1">
       <g
@@ -643,7 +643,7 @@
       </g>
     </g>
     <g
-       transform="translate(230.23293,164.37627)"
+       transform="translate(230.23293,163.38642)"
        id="layer1-3"
        inkscape:label="Layer 1">
       <g
@@ -811,7 +811,7 @@
       </g>
     </g>
     <g
-       transform="translate(308.9233,164.37625)"
+       transform="translate(308.9233,163.38641)"
        id="layer1-2"
        inkscape:label="Layer 1">
       <rect
@@ -1417,7 +1417,7 @@
        width="67.574951"
        height="90.365707"
        x="20.383659"
-       y="597.36243"
+       y="597.36237"
        rx="19.030001"
        ry="23.487064" />
     <image
@@ -1431,7 +1431,7 @@
     <g
        inkscape:label="Layer 1"
        id="layer1-28"
-       transform="translate(-252.0363,386.6707)">
+       transform="translate(-252.0363,385.66059)">
       <g
          transform="translate(-3453.8732,-2448.9445)"
          style="display:inline"
@@ -1466,7 +1466,7 @@
     <g
        inkscape:label="Layer 1"
        id="layer1-23"
-       transform="translate(-171.1835,387.6606)">
+       transform="translate(-171.1835,385.66059)">
       <g
          transform="translate(-3453.8732,-2448.9445)"
          style="display:inline"
@@ -1506,7 +1506,7 @@
       </g>
     </g>
     <g
-       transform="translate(-171.16313,276.58442)"
+       transform="translate(-171.16313,275.55396)"
        id="layer1-83"
        inkscape:label="Layer 1">
       <g
@@ -1597,7 +1597,7 @@
       </g>
     </g>
     <g
-       transform="translate(-8.467652,276.54381)"
+       transform="translate(-8.467652,275.55396)"
        id="layer1-82"
        inkscape:label="Layer 1">
       <g
@@ -1653,7 +1653,7 @@
       </g>
     </g>
     <g
-       transform="translate(70.385162,277.57426)"
+       transform="translate(70.385162,275.55396)"
        id="layer1-13"
        inkscape:label="Layer 1">
       <g
@@ -1716,7 +1716,7 @@
       </g>
     </g>
     <g
-       transform="translate(150.22782,276.56411)"
+       transform="translate(150.22782,275.55396)"
        id="layer1-40"
        inkscape:label="Layer 1">
       <g
@@ -1786,7 +1786,7 @@
       </g>
     </g>
     <g
-       transform="translate(229.10094,277.57427)"
+       transform="translate(229.10094,275.55396)"
        id="layer1-11"
        inkscape:label="Layer 1">
       <g
@@ -1947,7 +1947,7 @@
       </g>
     </g>
     <g
-       transform="translate(387.79642,275.57426)"
+       transform="translate(387.79642,275.55396)"
        id="layer1-98"
        inkscape:label="Layer 1">
       <g
@@ -2038,7 +2038,7 @@
       </g>
     </g>
     <g
-       transform="translate(-89.30016,387.68089)"
+       transform="translate(-89.30016,385.66059)"
        id="layer1-5"
        inkscape:label="Layer 1">
       <g
@@ -2087,7 +2087,7 @@
       </g>
     </g>
     <g
-       transform="translate(-8.467652,386.71135)"
+       transform="translate(-8.467652,385.66059)"
        id="layer1-825"
        inkscape:label="Layer 1">
       <g
@@ -2143,7 +2143,7 @@
       </g>
     </g>
     <g
-       transform="translate(71.37501,385.68089)"
+       transform="translate(71.37501,385.66059)"
        id="layer1-44"
        inkscape:label="Layer 1">
       <g
@@ -2206,7 +2206,7 @@
       </g>
     </g>
     <g
-       transform="translate(150.22782,386.67074)"
+       transform="translate(150.22782,385.66059)"
        id="layer1-50"
        inkscape:label="Layer 1">
       <g
@@ -2353,7 +2353,7 @@
       </g>
     </g>
     <g
-       transform="translate(310.9436,385.68089)"
+       transform="translate(310.9436,385.66059)"
        id="layer1-29"
        inkscape:label="Layer 1">
       <g
