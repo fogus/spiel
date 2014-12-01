@@ -27,9 +27,9 @@ The tile ranks are as follows:
 
 That is, the tiles rank from lowest to highest as: flower, 1-9, flower, left facing dragon, center facing dragon, right facing dragon. That's right, the flower cards can be used as either a zero or a ten.
 
-## Ranked suits
+## Hierarchical suits
 
-The suits are also ranked:
+*Natto* suits are hierarchical:
 
 ![]()
 
@@ -37,7 +37,15 @@ That is, the square suit along with the right-facing dragon are the highest, the
 
 ## Wild dragons
 
-The dragon cards serve dual purposes, but the most immediate is that they are wild cards.  They can serve as any rank, including those 
+The dragon cards serve dual purposes, but the most immediate is that they are wild cards.  They can serve as any rank, including non-existent ranks above or below the flower cards.  Dragons may only serve as wild cards for their associated suits or as bombs, described next.
+
+## Bombs
+
+There are five bombs in *Natto, shown below:
+
+![]()
+
+
 
 Goal
 ====
