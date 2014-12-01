@@ -1,4 +1,4 @@
-*Dornholzhausen* is a climbing game played with Mah Jong style tiles for two players.
+*Natto* is a climbing game played with Mah Jong style tiles for two players.
 
  * suits are ranked
    - same seq/set of higher suit wins
