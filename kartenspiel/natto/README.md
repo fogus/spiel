@@ -12,12 +12,17 @@ You can also use a Mhing deck, Mah Jong tiles, or a standard deck (1-9 of three 
 The deal
 ========
 
+Before shuffling, remove all of the wild cards and give each player a left, center, and right facing dragon.  The remaining tiles are placed face down on a surface and shuffled around.  Each player is dealt 13 tiles, with the remaining 5 left out and not shown to either player.
 
+Goal
+====
+
+The first player to exhaust their hand first in 3 rounds is the winner of the game.  You may also play to the best of 5, 7, 9, or even 777 hands if you so desire.  It's your life.
 
 Game-play
 =========
 
-
+N
 
 
  * suits are ranked
