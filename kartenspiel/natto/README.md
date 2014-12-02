@@ -77,12 +77,21 @@ In the case where dragons are used to represent the same logical seq, the one wi
 
 ## Sums
 
-Sums are groups of 3-5 tiles where all but one of the ranks are added together arithmetically to equal the final tile's rank:
+Sums are groups of 3-6 ranked tiles (no dragons) where all but one of the ranks are added together arithmetically to equal the final tile's rank:
 
+![sums](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/sums.png)
 
+As shown, sums are only bested by sums of the same size containing a higher ranked total, or the same total of a higher suit.
 
- * seqs 3+ cards in sequence
- * tubes - 3 consecutive pairs in natural order
+# Tubes
+
+Tubes are groups of three consecutive pairs in natural order:
+
+![tubes](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/tubes.png)
+
+# Plates
+
+\ * tubes - 3 consecutive pairs in natural order
  * plates - 2 consecutive triples in natural order
  * layoffs are an extra card added to 3-card set
    - pure sets, not wildcard sets
