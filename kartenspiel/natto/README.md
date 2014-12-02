@@ -57,25 +57,16 @@ Game-play
 
 Players attempt to win a number of tricks consisting of alternating turns playing special card combinations called sets, seqs, sums, tubes, or plates, each higher than the next.  Whenever a player cannot best a played combination the player who played the last combination wins the trick.  The player who won the last trick starts the next trick and so on until one player exhausts all of the cards in their hand.
 
+## Sets
+
+Sets are a group of 1-6 cards of the same rank including wild dragons.  A set can be bested by a set of the same size with a higher rank:
+
+![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/sets.png)
+
+And as you see, a set can be beat by the same rank of a higher suit.
 
 
- * suits are ranked
-   - same seq/set of higher suit wins
- * combos of 6 or fewer?
- * dragons are wild for same color, bombs, higher suit than flowers
-   - 6 wilds are available
-   - Can only play one lower or higher wild-type than opponent
-   - 
- * flowers are wild except for dragons
-   - can be ten or zero
- * bombs are:
-   - circle/triangle dragons
-   - triangle/square dragons
-   - 3 flowers
-   - circle/triangle/square dragons
-   - 4 flowers
- * simple scoring (Big Two?)
- * sets 1-3 card of the same rank
+
  * seqs 3+ cards in sequence
  * tubes - 3 consecutive pairs in natural order
  * plates - 2 consecutive triples in natural order
