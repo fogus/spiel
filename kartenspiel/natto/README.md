@@ -75,6 +75,12 @@ In the case where dragons are used to represent the same logical seq, the one wi
 
 ![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq2.png)
 
+## Sums
+
+Sums are groups of 3-5 tiles where all but one of the ranks are added together arithmetically to equal the final tile's rank:
+
+
+
  * seqs 3+ cards in sequence
  * tubes - 3 consecutive pairs in natural order
  * plates - 2 consecutive triples in natural order
