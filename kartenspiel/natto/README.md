@@ -65,7 +65,11 @@ Sets are a group of 1-6 cards of the same rank including wild dragons.  A set ca
 
 And as you see, a set can be beat by the same rank of a higher suit.
 
+# Seqs
 
+Seqs are groups of 2-6 cards of the same suit with increasing ranks.  A seq can be bested by another seq of the same size, with a higher starting rank (and of course, different suit):
+
+![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq1.png)
 
  * seqs 3+ cards in sequence
  * tubes - 3 consecutive pairs in natural order
