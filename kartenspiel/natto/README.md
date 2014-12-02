@@ -71,7 +71,9 @@ Seqs are groups of 2-6 cards of the same suit with increasing ranks.  A seq can 
 
 ![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq1.png)
 
-In the case where dragons are used to represent the same logical seq, the one with the higher ranking dragons is best:
+### Imaginary seqs
+
+There is a special type of seq called an *imaginary seq* that starts with a flower card followed by some number of dragons.  An imaginary seq technically has no suit, so any and all of the dragons may participate in it.  However, an imaginary seq may be followed by one of the same logical seq.  In the case where dragons are used to represent the same logical seq, the one with the higher ranking dragons is best:
 
 ![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq2.png)
 
