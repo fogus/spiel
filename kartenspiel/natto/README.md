@@ -55,7 +55,7 @@ The first player to exhaust their hand first in 3 rounds is the winner of the ga
 Game-play
 =========
 
-Players attempt to win a number of tricks consisting of alternating turns playing special card combinations called sets, seqs, sums, tubes, or plates, each higher than the next.  Whenever a player cannot best a played combination the player who played the last combination wins the trick.  The player who won the last trick starts the next trick and so on until one player exhausts all of the cards in their hand.
+Players attempt to win a number of tricks consisting of alternating turns playing special card combinations called sets, seqs, sums, tubes, or plates, each higher than the next.  When a combination starts a trick only combinations of the same type or bombs can be played in response.  Whenever a player cannot best a played combination the player who played the last combination wins the trick.  The player who won the last trick starts the next trick and so on until one player exhausts all of the cards in their hand.
 
 ## Sets
 
@@ -93,74 +93,6 @@ Only tubes with a higher starting pair beats another tube.
 
 # Plates
 
-\ * tubes - 3 consecutive pairs in natural order
- * plates - 2 consecutive triples in natural order
- * layoffs are an extra card added to 3-card set
-   - pure sets, not wildcard sets
- 
- 
-
-Preparation
------------
-
-TODO
-
-
-Goal
-----
-
-TODO
-
-
-Deal
-----
-
-TODO
-
-
-Tiles
------
-
-TODO
-
-### Ranks
-
-TODO
-
-### Suits
-
-TODO
-
-### Flowers
-
-TODO
-
-### Wilds
-
-TODO
-
-Gameplay
---------
-
-TODO
-
-### Sets
-
-TODO
-
-### Sequences
-
-TODO
-
-Wining
-------
-
-TODO
-
-Design notes
-------------
-
-TODO
+Plates are similar to tubes except that they are groups of two consecutive triples (with or without dragons) in natural order.  Only plates with a higher starting triple beats another plate.
 
 *Natto* is is © 2014, Michael Fogus
-
