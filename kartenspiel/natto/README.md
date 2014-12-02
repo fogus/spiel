@@ -71,6 +71,10 @@ Seqs are groups of 2-6 cards of the same suit with increasing ranks.  A seq can 
 
 ![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq1.png)
 
+In the case where dragons are used to represent the same logical seq, the one with the higher ranking dragons is best:
+
+![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq2.png)
+
  * seqs 3+ cards in sequence
  * tubes - 3 consecutive pairs in natural order
  * plates - 2 consecutive triples in natural order
