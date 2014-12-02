@@ -85,9 +85,11 @@ As shown, sums are only bested by sums of the same size containing a higher rank
 
 # Tubes
 
-Tubes are groups of three consecutive pairs in natural order:
+Tubes are groups of three consecutive pairs (with or without dragons) in natural order:
 
 ![tubes](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/tubes.png)
+
+Only tubes with a higher starting pair beats another tube.
 
 # Plates
 
