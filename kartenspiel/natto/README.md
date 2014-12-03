@@ -111,7 +111,7 @@ Instead of six possible bombs, you can reduce the number to five by removing the
 
 ## Shared dragons
 
-I've been toying around with a variant that uses shared dragon tiles.  That is, the available dragons available as wilds and bombs is shared by both players, but available only on a sliding scale.  The sliding scale is stated simply as: a player may only play a dragon combination that is maximally one tile larger than their opponent's largest dragon combination played so far.  I'll explain this in more detail presently using an example between two players Andy and Kristin.  
+I've been toying around with a variant that uses shared dragon tiles.  That is, the available dragons available as wilds and bombs is shared by both players, but available only on a sliding scale.  The sliding scale is stated simply as: a player may only play a dragon combination that is maximally one tile larger than their opponent's largest dragon combination played so far.  I'll explain this in more detail presently using an example situation between two players Andy and Kristin.  
 
 First, place the dragons in a pile, each kind on top of the same kind:
 
@@ -128,6 +128,12 @@ Andy has chosen to take the center-facing dragon and use it as a wild.  Therefor
 Indeed, Kristin chose to play the left and right-facing dragons.  However, this move opened up an opportunity for Andy to play a dragon combination of up to three tiles.  Keep in mind that Andy may still play combinations of up to two tiles from the remaining three, but no larger.
 
 Managing the shared dragons is a skill in itself and can lead to painful decisions at times.
+
+## Stricter shared dragons
+
+The sliding scale can also be stated more strictly as: a player may only play one more dragon combination then their opponent and the playable combinations are limited to those that are maximally one tile larger than their opponent's largest dragon combination played so far.  
+
+In the example above between Andy and Kristin, this stricter wording would prohibit Andy from being able to play any more combinations unless Kristin decided to do so later.
 
 # Design notes
 
