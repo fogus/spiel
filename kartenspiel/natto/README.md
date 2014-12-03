@@ -109,6 +109,10 @@ There are a few changes to the base game that are still a work in progress.
 
 Instead of six possible bombs, you can reduce the number to five by removing the double-flower bomb combination.
 
+## Widened sums
+
+Instead of requiring that sums match their lengths, you could also play such that only the total need be the same.  This would mean that responding to a sum like 2+3=5 would not be restricted to three cards, but instead could expand to something like flower+1+1+3=5 (the flower being zero of course).  This would make playing sums (especially with high totals) a bit more precarious because it would open up the possibility of an opponent shedding more cards in response.  This variant has played fairly well, though it needs more play time.
+
 ## Shared dragons
 
 I've been toying around with a variant that uses shared dragon tiles.  That is, the available dragons available as wilds and bombs is shared by both players, but available only on a sliding scale.  The sliding scale is stated simply as: a player may only play a dragon combination that is maximally one tile larger than their opponent's largest dragon combination played so far.  I'll explain this in more detail presently using an example situation between two players Andy and Kristin.  
@@ -137,6 +141,22 @@ In the example above between Andy and Kristin, this stricter wording would prohi
 
 # Design notes
 
-TODO
+The genesis of this game is wholly inspired by Haggis.  That is, I found myself in Japan for a vacation without a Haggis deck (shame on me) and had an incredible urge to play.  However, I did have a Jass deck on hand and tried to play with those with moderate success. I eventually got home and back to my Haggis deck and didn't think about it anymore.  However, one day thanks to a random question about small deck climbing games I was pointed, by Sean Ross nonetheless, to [Teech for Two]().  T42 is a 2-player climbing games by the inimitable Larry Levy using a truncated deck missing a suit and with two wild cards.  I liked it very much.
+
+The second part of this story is more mundane and is inspired by the game Lectio, which I've never played.  Despite my having never played the game itself, I have long drooled over the look and feel of the Lectio tiles.  Sadly for the world, Lectio is out of print and the cost of a set is quite high.  However, I did come across a different tile-card game called Rum Jong that was much easier and cheaper to come by.  While Rum Jong is a fairly interesting distillation of Mah Jong (a long-ago favorite), the tiles themselves are much more interesting.  Therefore, armed with a love for Haggis and the rules for Teech for Two I truncated the Rum Jong set into a svelte, lovely, portable, and indestructible Natto set.
+
+Of course, the available Rum Jong tiles are a bit different than the Haggis deck, so a straight-forward port of that gem was not satisfying.  Instead, the available mix of interesting tiles informed some rule changes away from both Haggis and Teech for Two to create something that I think is quite different.  Certainly, the use of the dragons is indicative of Haggis, and the three-suited cards are found in Teech for Two - that goes without saying.  However, since both of these games exist and I can play them any time, I've further moved Natto's rules away from both of them, mixing in interesting bits from other card games.  For example:
+
+ * The combination limit of six is from Dou Dizhu
+ * Plates and tubes are from [Guan Dan](http://www.pagat.com/climbing/guan_dan.html)
+ * The three personal wilds are from Haggis, though the shared dragon variant is an adaptation of Battle Line's rules around tactics cards
+ * The use of three suits and the simple scoring is from Teech for Two
+ * The hierarchical suits are from Big Two and Tien Len
+ * The low or high flowers are adapted from Guan Dan
+ * The insane desire for clacking is from Lectio and Mah Jong
+
+There are a couple of features in Natto that, as far as I know, are unique: sums and restricted wilds.  That is, I originally intended to allow cast-offs in certain combinations and in bombs to allow for the shedding of worthless cards.  However, I didn't like that if you were dealt a poor hand without the needed combos you were still stuck with poor cards.  Instead, I wanted a way that would allow shedding but be less luck driven and more a matter of weighing trade-offs.  So far sums have worked pretty well for that, though I need to play a bunch more games to be sure.  I do like the widened sums variant as it tends to be more vicious, but again this needs more play time.  The suit-restricted wild cards came about on a whim in an attempt to try and lengthen the duration, though not by too much, of each round.  So far it's played well, but only time and many more games will tell.
+
+I hope you enjoy *Natto*.
 
 *Natto* is is © 2014, Michael Fogus
