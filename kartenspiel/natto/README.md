@@ -153,7 +153,7 @@ Of course, the available Rum Jong tiles are a bit different than the Haggis deck
  * The use of three suits and the simple scoring is from Teech for Two
  * The hierarchical suits are from Big Two and Tien Len
  * The low or high flowers are adapted from Guan Dan
- * The insane desire for clacking is from Lectio and Mah Jong
+ * The insane desire for clacking is from Lectio and Mah Jong, indeed I would love to see a deluxe edition of Haggis with Lectio-style tiles.
 
 There are a couple of features in Natto that, as far as I know, are unique: sums and restricted wilds.  That is, I originally intended to allow cast-offs in certain combinations and in bombs to allow for the shedding of worthless cards.  However, I didn't like that if you were dealt a poor hand without the needed combos you were still stuck with poor cards.  Instead, I wanted a way that would allow shedding but be less luck driven and more a matter of weighing trade-offs.  So far sums have worked pretty well for that, though I need to play a bunch more games to be sure.  I do like the widened sums variant as it tends to be more vicious, but again this needs more play time.  The suit-restricted wild cards came about on a whim in an attempt to try and lengthen the duration, though not by too much, of each round.  So far it's played well, but only time and many more games will tell.
 
