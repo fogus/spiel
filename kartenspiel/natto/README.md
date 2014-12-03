@@ -41,7 +41,7 @@ The dragon cards serve dual purposes, but the most immediate is that they are wi
 
 ## Bombs
 
-There are six bombs in *Natto, shown below:
+Bombs can be played *in response to* any legal tile combination, as long as it ranks higher than what's led. There are six bombs in *Natto*, shown below:
 
 ![bombs](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/bombs.png)
 
@@ -69,13 +69,13 @@ And as you see, a set can be beat by the same rank of a higher suit.
 
 Seqs are groups of 2-6 cards of the same suit with increasing ranks.  A seq can be bested by another seq of the same size, with a higher starting rank (and of course, different suit):
 
-![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq1.png)
+![seqs](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq1.png)
 
 ### Imaginary seqs
 
 There is a special type of seq called an *imaginary seq* that starts with a flower card followed by some number of dragons.  An imaginary seq technically has no suit, so any and all of the dragons may participate in it.  However, an imaginary seq may be followed by one of the same logical seq.  In the case where dragons are used to represent the same logical seq, the one with the higher ranking dragons is best:
 
-![sets](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq2.png)
+![iseqs](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/seq2.png)
 
 ## Sums
 
@@ -111,10 +111,26 @@ Instead of six possible bombs, you can reduce the number to five by removing the
 
 ## Shared dragons
 
-I've been toying around with a variant that uses shared dragon tiles.  That is, the available dragons available as wilds and bombs is shared by both players, but available only on a sliding scale.
+I've been toying around with a variant that uses shared dragon tiles.  That is, the available dragons available as wilds and bombs is shared by both players, but available only on a sliding scale.  The sliding scale is stated simply as: a player may only play a dragon combination that is maximally one tile larger than their opponent's largest dragon combination played so far.  I'll explain this in more detail presently using an example between two players Andy and Kristin.  
 
 First, place the dragons in a pile, each kind on top of the same kind:
 
-![]()
+![pile](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/shared-dragon-pile.png)
+
+At the beginning of a round any one of the three dragons showing are available for use as wilds by either player.  When a round starts neither player had used any dragons, therefore, either player is able to use one at their leisure:
+
+![pile1](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/shared-dragon-pile1.png)
+
+Andy has chosen to take the center-facing dragon and use it as a wild.  Therefore, Kristin is able, if she so desires, to play a dragon combination of up to two tiles:
+
+![pile2](https://raw.githubusercontent.com/fogus/spiel/master/kartenspiel/natto/graphics/shared-dragon-pile2.png)
+
+Indeed, Kristin chose to play the left and right-facing dragons.  However, this move opened up an opportunity for Andy to play a dragon combination of up to three tiles.  Keep in mind that Andy may still play combinations of up to two tiles from the remaining three, but no larger.
+
+Managing the shared dragons is a skill in itself and can lead to painful decisions at times.
+
+# Design notes
+
+TODO
 
 *Natto* is is © 2014, Michael Fogus
