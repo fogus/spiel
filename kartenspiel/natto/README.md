@@ -65,7 +65,7 @@ Sets are a group of 1-6 cards of the same rank including wild dragons.  A set ca
 
 And as you see, a set can be beat by the same rank of a higher suit.
 
-# Seqs
+## Seqs
 
 Seqs are groups of 2-6 cards of the same suit with increasing ranks.  A seq can be bested by another seq of the same size, with a higher starting rank (and of course, different suit):
 
@@ -85,7 +85,7 @@ Sums are groups of 3-6 ranked tiles (no dragons) where all but one of the ranks 
 
 As shown, sums are only bested by sums of the same size containing a higher ranked total, or the same total of a higher suit.
 
-# Tubes
+## Tubes
 
 Tubes are groups of three consecutive pairs (with or without dragons) in natural order:
 
@@ -93,8 +93,24 @@ Tubes are groups of three consecutive pairs (with or without dragons) in natural
 
 Only tubes with a higher starting pair beats another tube.
 
-# Plates
+## Plates
 
 Plates are similar to tubes except that they are groups of two consecutive triples (with or without dragons) in natural order.  Only plates with a higher starting triple beats another plate.
+
+# Ending
+
+Play continues like this until a player wins three (or the designated number) rounds.
+
+# Variants
+
+There are a few changes to the base game that are still a work in progress.
+
+## Fewer bombs
+
+Instead of six possible bombs, you can reduce the number to five by removing the double-flower bomb combination.
+
+## Shared dragons
+
+
 
 *Natto* is is © 2014, Michael Fogus
