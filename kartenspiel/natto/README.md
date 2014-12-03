@@ -111,6 +111,10 @@ Instead of six possible bombs, you can reduce the number to five by removing the
 
 ## Shared dragons
 
-I've been toying around with a variant that uses shared dragon tiles.  That is, 
+I've been toying around with a variant that uses shared dragon tiles.  That is, the available dragons available as wilds and bombs is shared by both players, but available only on a sliding scale.
+
+First, place the dragons in a pile, each kind on top of the same kind:
+
+![]()
 
 *Natto* is is © 2014, Michael Fogus
