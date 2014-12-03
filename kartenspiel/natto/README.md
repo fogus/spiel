@@ -111,6 +111,6 @@ Instead of six possible bombs, you can reduce the number to five by removing the
 
 ## Shared dragons
 
-
+I've been toying around with a variant that uses shared dragon tiles.  That is, 
 
 *Natto* is is © 2014, Michael Fogus
