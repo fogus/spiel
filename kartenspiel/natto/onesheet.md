@@ -1,8 +1,8 @@
 *Natto* is a climbing game for two players that can be played with a deck of 37 playing cards:
 
- * A-9 of spades, hearts, and diamonds
+ * A-9 of spades, hearts, and clubs
  * 4x Jokers, called *flowers*
- * 2x each of J♤ , Q♡ , and K♢ , called the *dragons*
+ * 2x each of J♤ , Q♡ , and K♧ , called the *dragons*
 
 The player to win some number of pre-determined rounds wins the game.
 
@@ -14,17 +14,17 @@ The player to win some number of pre-determined rounds wins the game.
 
 # The deck
 
- * Card ranks are: Joker  <  A-9  <  Joker  <  J♤  <   Q♡  <  K♢
+ * Card ranks are: Joker  <  A-9  <  Joker  <  J♤  <   Q♡  <  K♧
    - *Flowers* can be either a zero or a ten and take on any
      suit needed to complete a combination.
- * Suit ranks are: ♤  <   ♡  <  ♢
+ * Suit ranks are: ♤  <   ♡  <  ♧
  * *Dragons* are wild and can stand in for any rank of the 
    same suit
  * Bombs beat any regular combination or lower bomb
-   - Joker  Joker  (lowest)
-   - J♤  Q♡
-   - Q♡  K♢
-   - J♤  Q♡  K♢
+   - J♤  Q♡  (lowest)
+   - J♤  K♧
+   - Q♡  K♧
+   - J♤  Q♡  K♧
    - Joker  Joker  Joker
    - Joker  Joker  Joker  Joker  (highest)
 
