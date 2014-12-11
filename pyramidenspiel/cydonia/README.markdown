@@ -55,6 +55,7 @@ Black is considered a wild color and can stand in for any color needed to comple
 
 solid v wild mix
 
+![solid-v-wild-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-wild-mixed.png)
 
 Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees and award the trick to the player with the higher color there.
 
