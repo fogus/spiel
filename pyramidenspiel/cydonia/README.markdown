@@ -35,12 +35,30 @@ The player winning the trick will reserve the pyramids for final scoring, while 
 Resolving tricks
 ----------------
 
-To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue.  Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color.  Trees of a single color will always beat trees of mixed colors, with the following stipulations:
+To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue.
+
+![]()
+
+Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color.  Trees of a single color will always beat trees of mixed colors, with the following stipulations:
 
  * Solid color trees of will resolve according to the color rankings
  * A purely solid tree will beat the equivalent tree using blacks
 
-Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees and award the trick to the player with the higher color there.  If the base colors are the same then the middle of the tree is compared.  If the middle of the trees are also the same color then the top of the tree is compared.  If the two trees are identical then the player who placed their tree first wins the trick.
+![]()
+
+Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees and award the trick to the player with the higher color there.
+
+![]()
+
+If the base colors are the same then the middle of the tree is compared.
+
+![]()
+
+If the middle of the trees are also the same color then the top of the tree is compared.
+
+![]()
+
+If the two trees are identical then the player who placed their tree first wins the trick.
 
 Final scoring
 =============
