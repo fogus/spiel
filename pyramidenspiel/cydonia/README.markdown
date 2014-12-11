@@ -41,12 +41,16 @@ To resolve tricks the color of the pyramids used determines the higher-ranking t
 
 ![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/color-ranks.png)
 
-Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color.  Trees of a single color will always beat trees of mixed colors, with the following stipulations:
+Solid color trees of will resolve according to the color rankings:
 
- * Solid color trees of will resolve according to the color rankings
+![solids](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-solid.png)
+
+Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color.  Trees of a single color will always beat trees of mixed colors:
+
+ * 
  * A purely solid tree will beat the equivalent tree using blacks
 
-![]()
+![tree-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/tree-res.png)
 
 Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees and award the trick to the player with the higher color there.
 
