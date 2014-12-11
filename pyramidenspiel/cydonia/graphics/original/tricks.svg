@@ -273,8 +273,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="894.95823"
-     inkscape:cy="605.34202"
+     inkscape:cx="1118.9263"
+     inkscape:cy="405.34202"
      inkscape:current-layer="layer1"
      id="namedview4547"
      showgrid="false"
@@ -534,27 +534,6 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(1405.1099,-566.17005)"
-       id="use4949">
-      <path
-         style="fill-opacity:1"
-         d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-         id="path4318"
-         inkscape:connector-curvature="0" />
-      <g
-         transform="translate(514.35419,-1019.4414)"
-         id="g4320"
-         style="fill-opacity:1">
-        <path
-           sodipodi:nodetypes="csssc"
-           id="use4322"
-           d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
        transform="translate(1601.3876,-463.46551)"
        style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="use5117">
@@ -603,27 +582,6 @@
          d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          inkscape:connector-curvature="0" />
-    </g>
-    <g
-       style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(1525.1099,-566.17005)"
-       id="use5121">
-      <path
-         style="fill-opacity:1"
-         d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-         id="path4358"
-         inkscape:connector-curvature="0" />
-      <g
-         transform="translate(514.35419,-1019.4414)"
-         id="g4360"
-         style="fill-opacity:1">
-        <path
-           sodipodi:nodetypes="csssc"
-           id="use4362"
-           d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
     </g>
     <g
        id="g3673"
@@ -1028,7 +986,10 @@
     <g
        transform="translate(736.3876,132.53449)"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="g6081">
+       id="g6081"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <path
          style="fill-opacity:1"
          d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
@@ -1056,7 +1017,10 @@
     <g
        style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(606.6506,89.13197)"
-       id="use4947">
+       id="use4947"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <path
          id="path4670"
          d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
@@ -2053,7 +2017,7 @@
     <g
        inkscape:export-ydpi="70.110001"
        inkscape:export-xdpi="70.110001"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/base-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        id="g7944"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(591.3876,132.53449)">
@@ -2084,7 +2048,10 @@
     <g
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(461.6506,87.13197)"
-       id="g6117">
+       id="g6117"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <path
          id="path6119"
          d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
@@ -2106,7 +2073,7 @@
     <g
        inkscape:export-ydpi="70.110001"
        inkscape:export-xdpi="70.110001"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/base-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        id="g7962"
        transform="translate(515.1099,29.82995)"
        style="opacity:0.21551723;fill:#000035;fill-opacity:1;stroke:#342a31;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97777776;stroke-dasharray:none">
@@ -2130,7 +2097,7 @@
     <text
        inkscape:export-ydpi="70.110001"
        inkscape:export-xdpi="70.110001"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/base-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        sodipodi:linespacing="125%"
        id="text7980"
        y="550.0271"
@@ -2145,7 +2112,7 @@
     <g
        inkscape:export-ydpi="70.110001"
        inkscape:export-xdpi="70.110001"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/base-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        style="opacity:0.21551723;fill:#000035;fill-opacity:1;stroke:#342a31;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97777776;stroke-dasharray:none"
        transform="translate(660.1099,35.82995)"
        id="g7992">
@@ -2163,6 +2130,175 @@
            id="path7998"
            d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
            style="fill:#000035;fill-opacity:1;fill-rule:nonzero;stroke:#342a31;stroke-opacity:0.97777776"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="70.110001"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       id="g8000"
+       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(510.3876,401.53449)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8002"
+         d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+         style="fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         id="path8004"
+         sodipodi:nodetypes="csssc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         id="path8006"
+         sodipodi:nodetypes="csssc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         id="path8008"
+         sodipodi:nodetypes="csssc" />
+    </g>
+    <g
+       transform="translate(365.3876,401.53449)"
+       style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="g8018"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
+      <path
+         style="fill-opacity:1"
+         d="m 52.009235,512.54534 41.666104,-155.50001 41.666101,155.50001 -83.332205,0 z"
+         id="path8020"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path8022"
+         d="m 97.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path8024"
+         d="m 69.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path8026"
+         d="m 83.04329,502.84443 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="70.110001"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       id="g8028"
+       transform="translate(235.6506,356.13197)"
+       style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill-opacity:1"
+         d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+         id="path8030" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         id="path8032"
+         sodipodi:nodetypes="csssc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         id="path8034"
+         sodipodi:nodetypes="csssc" />
+    </g>
+    <g
+       style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(289.1099,310.82995)"
+       id="use4949">
+      <path
+         style="fill-opacity:1"
+         d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
+         id="path4318"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(514.35419,-1019.4414)"
+         id="g4320"
+         style="fill-opacity:1">
+        <path
+           sodipodi:nodetypes="csssc"
+           id="use4322"
+           d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="496.06604"
+       y="819.0271"
+       id="text8044"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001"><tspan
+         sodipodi:role="line"
+         id="tspan8046"
+         x="496.06604"
+         y="819.0271"
+         style="font-size:24px">beats</tspan></text>
+    <g
+       style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(380.6506,354.13197)"
+       id="g8056"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
+      <path
+         id="path8058"
+         d="m 190.78953,498.94786 32.62281,-121.74999 32.62281,121.74999 -65.24562,0 z"
+         style="fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path8060"
+         d="m 226.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path8062"
+         d="m 212.78029,489.24695 c 0,3.14691 -1.50884,3.70092 -3.36795,3.70092 -1.85912,0 -3.36796,-0.55401 -3.36796,-3.70092 0,-3.1469 1.50884,-7.70091 3.36796,-7.70091 1.85911,0 3.36795,4.55401 3.36795,7.70091 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(433.1099,307.82995)"
+       id="use5121">
+      <path
+         style="fill-opacity:1"
+         d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
+         id="path4358"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(514.35419,-1019.4414)"
+         id="g4360"
+         style="fill-opacity:1">
+        <path
+           sodipodi:nodetypes="csssc"
+           id="use4362"
+           d="m -341.03316,1504.9904 c 0,3.1469 -1.50884,3.701 -3.36795,3.701 -1.85912,0 -3.36796,-0.5541 -3.36796,-3.701 0,-3.1469 1.50884,-7.7009 3.36796,-7.7009 1.85911,0 3.36795,4.554 3.36795,7.7009 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
     </g>

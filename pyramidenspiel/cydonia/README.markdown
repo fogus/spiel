@@ -67,7 +67,7 @@ If the base colors are the same then the middle of the tree is compared:
 
 If the middle of the trees are also the same color then the top of the tree is compared.
 
-![]()
+![top-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/top-res.png)
 
 If the two trees are identical then the player who placed their tree first wins the trick.
 
