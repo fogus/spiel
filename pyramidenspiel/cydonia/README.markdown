@@ -37,9 +37,9 @@ The player winning the trick will reserve the pyramids for final scoring, while 
 Resolving tricks
 ----------------
 
-To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue.
+To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue:
 
-![]()
+![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/color-ranks.png)
 
 Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color.  Trees of a single color will always beat trees of mixed colors, with the following stipulations:
 
