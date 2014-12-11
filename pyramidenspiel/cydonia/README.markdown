@@ -11,8 +11,8 @@ Place two Treehouse sets into a sack and distribute two Treehouse sets to each p
 
 The game is ready to begin after the players agree whom should lead first.
 
-Gameplay
-========
+Game-play
+=========
 
 *Cydonia* is played in two rounds: the first is meant to build a mixed stash of pyramids from the labyrinth, and the second consists of a series of 10 tricks used to build a set of final pyramids for scoring.
 
@@ -45,7 +45,7 @@ Trees of mixed colors will resolve from bottom to top according to color.  That 
 Final scoring
 =============
 
-From the trees won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while mixed trees are worth 1 point each.  The player with the most valueable set of trees wins the game.
+From the trees won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
 
 *Cydonia* is &copy;2014, Michael Fogus
 
