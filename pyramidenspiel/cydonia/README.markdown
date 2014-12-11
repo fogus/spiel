@@ -45,7 +45,7 @@ Trees of mixed colors will resolve from bottom to top according to color.  That 
 Final scoring
 =============
 
-
+From the trees won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 7 points each while mixed trees are worth 4 points.  The player with the most valueable set of trees wins the game.
 
 *Cydonia* is &copy;2014, Michael Fogus
 
