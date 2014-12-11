@@ -61,7 +61,7 @@ Trees of mixed colors will resolve from bottom to top according to color.  That 
 
 ![base-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/base-res.png)
 
-If the base colors are the same then the middle of the tree is compared.
+If the base colors are the same then the middle of the tree is compared:
 
 ![]()
 
