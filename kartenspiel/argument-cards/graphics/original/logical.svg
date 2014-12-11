@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.0" width="468pt" height="468pt" viewBox="0 0 468 468" preserveAspectRatio="xMidYMid meet">
+  <g transform="translate(0,468) scale(0.066857,-0.066857)" fill="#000000" stroke="none">
+    <path d="M1588 5766 c-98 -35 -192 -118 -230 -203 -31 -70 -47 -184 -48 -330 l0 -133 -416 0 -416 0 -69 -41 c-74 -44 -135 -106 -165 -167 -18 -35 -19 -80 -22 -784 -2 -738 -2 -747 19 -803 25 -67 99 -148 179 -193 l55 -32 463 0 462 0 0 -127 c1 -226 41 -363 135 -457 82 -81 -12 -76 1336 -76 822 0 1200 -3 1204 -10 15 -25 -269 -353 -501 -580 -290 -283 -457 -413 -688 -532 -61 -32 -107 -57 -102 -58 20 0 461 132 591 178 409 144 844 357 1155 564 261 175 512 408 707 656 l65 82 607 0 608 0 60 30 c79 39 146 99 172 153 21 43 21 55 21 729 l0 686 -40 60 c-47 70 -108 128 -156 148 -25 11 -89 14 -269 14 l-235 0 0 453 c0 428 -1 457 -20 512 -38 112 -110 203 -194 248 l-41 22 -2095 2 c-1707 2 -2102 0 -2132 -11z m3954 -144 c68 -24 129 -80 161 -146 51 -105 57 -167 57 -632 l0 -424 308 0 c348 0 350 -1 438 -82 88 -80 84 -44 84 -705 0 -387 -4 -591 -11 -610 -15 -39 -54 -79 -123 -124 l-59 -39 -671 0 -672 0 -18 -32 c-11 -18 -46 -71 -80 -118 -200 -282 -439 -517 -712 -701 -139 -93 -685 -394 -783 -430 -34 -13 -26 -6 90 83 156 118 326 267 449 394 177 183 420 482 420 517 0 16 -95 17 -1302 17 l-1303 0 -50 29 c-139 80 -194 208 -195 448 l0 112 -417 3 -418 3 -55 26 c-70 33 -125 80 -153 133 -22 41 -22 42 -22 671 l0 630 23 42 c28 54 76 109 126 145 l39 28 464 0 463 0 0 273 0 272 30 51 c41 72 117 128 229 169 29 11 376 14 1826 14 1663 0 1793 -1 1837 -17z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Speech 2</dc:title>
+        <dc:date>2012-02-06T15:31:38</dc:date>
+        <dc:description>A Speech Bubble</dc:description>
+        <dc:source>http://openclipart.org/detail/167797/speech-2-by-dripsandcastle</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>dripsandcastle</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bubble</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>speech</rdf:li>
+            <rdf:li>talk</rdf:li>
+            <rdf:li>words</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
