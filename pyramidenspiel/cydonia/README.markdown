@@ -32,6 +32,16 @@ Using the pyramids remaining in their stashes, the players will play tricks to b
 
 The player winning the trick will reserve the pyramids for final scoring, while the losing tree will be discarded.  Play will continue like this until all of the players' pyramids have been used, after which final scoring will begin.
 
+Resolving tricks
+----------------
+
+To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue.  Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color.  Trees of a single color will always beat trees of mixed colors, with the following stipulations:
+
+ * Solid color trees of will resolve according to the color rankings
+ * A purely solid tree will beat the equivalent tree using blacks
+
+Trees of mixed colors will 
+
 End
 ====
 
