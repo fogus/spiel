@@ -6,7 +6,10 @@ Preparation
 Materials needed:
 
  * 6 Treehouse sets
- 
+
+Setup
+-----
+
 Place two Treehouse sets into a sack and distribute two Treehouse sets to each player.  Draw from the sack one small, one medium, and one large and make a tree.  Continue this until all of the pyramids have been used to make a line of 20 trees called the "labyrinth."
 
 The game is ready to begin after the players agree whom should lead first.
@@ -72,7 +75,7 @@ If the two trees are identical then the player who placed their tree first wins 
 Final scoring
 =============
 
-From the trees won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
+From the trees won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while the remaining mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
 
 *Cydonia* is &copy;2014, Michael Fogus
 
