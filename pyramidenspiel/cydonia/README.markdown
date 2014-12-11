@@ -3,6 +3,12 @@
 Preparation
 -----------
 
- 
+TODO
+
+Gameplay
+--------
+
+TODO
+
 *Cydonia* is &copy;2014, Michael Fogus
 
