@@ -273,8 +273,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="518.9263"
-     inkscape:cy="268.8914"
+     inkscape:cx="478.9263"
+     inkscape:cy="821.89342"
      inkscape:current-layer="layer1"
      id="namedview4547"
      showgrid="false"
@@ -320,8 +320,8 @@
        transform="translate(-135.51393,-147.71158)"
        id="g6177"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001">
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293">
       <path
          style="fill-opacity:1"
          d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
@@ -344,8 +344,8 @@
        transform="translate(-135.51393,-168.78636)"
        id="g6151"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001">
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293">
       <path
          style="fill-opacity:1"
          d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
@@ -1202,8 +1202,8 @@
        transform="translate(-135.51393,-189.8611)"
        id="g6125"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001">
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293">
       <path
          style="fill-opacity:1"
          d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
@@ -1226,8 +1226,8 @@
        transform="translate(-135.51393,-210.9359)"
        id="g6099"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001">
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293">
       <path
          style="fill-opacity:1"
          d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
@@ -1246,35 +1246,11 @@
       </g>
     </g>
     <g
-       id="g6203"
-       transform="translate(-135.51393,-232.01067)"
-       style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001">
-      <path
-         id="path6205"
-         d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
-         style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <g
-         style="fill:#000000;fill-opacity:0.91341984;stroke:#464646;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="g6207"
-         transform="translate(514.35419,-1019.4414)">
-        <path
-           style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m -341.03319,1504.9904 c 0,3.1469 -1.5088,3.7009 -3.3679,3.7009 -1.8591,0 -3.368,-0.554 -3.368,-3.7009 0,-3.1469 1.5089,-7.7009 3.368,-7.7009 1.8591,0 3.3679,4.554 3.3679,7.7009 z"
-           id="path6209"
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
        id="g3083"
-       transform="matrix(0,-0.50279123,0.63584554,0,-275.78922,373.18699)"
+       transform="matrix(0,-0.50279123,0.63584554,0,-275.78922,383.18699)"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001">
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293">
       <path
          inkscape:connector-curvature="0"
          inkscape:original-d="m 131.70732,623.93273 c 195.12195,-1.66402 196.34146,-1.66402 196.34146,-1.66402"
@@ -1301,29 +1277,29 @@
        xml:space="preserve"
        style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="77.066017"
-       y="194.26224"
+       y="204.26224"
        id="text6775"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001"><tspan
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293"><tspan
          sodipodi:role="line"
          id="tspan6777"
          x="77.066017"
-         y="194.26224"
+         y="204.26224"
          style="font-size:24px">highest</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6779"
-       y="352.65414"
+       y="362.65414"
        x="82.720306"
        style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/color-ranks.png"
-       inkscape:export-xdpi="70.110001"
-       inkscape:export-ydpi="70.110001"><tspan
+       inkscape:export-xdpi="80.86293"
+       inkscape:export-ydpi="80.86293"><tspan
          style="font-size:24px"
-         y="352.65414"
+         y="362.65414"
          x="82.720306"
          id="tspan6781"
          sodipodi:role="line">lowest</tspan></text>
