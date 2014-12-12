@@ -70,7 +70,7 @@ Finally, the top of the tree is compared:
 
 ![top-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/top-res.png)
 
-The player who won the majority of the tree segments wins the trick.  However, if the two trees are identical or they result in a tie segment score then the player who placed first wins the trick.
+The player who won the majority of the tree segments wins the trick; in the example above, the left-side player wins by winning 1 segment vs. 0 for right.  However, if the two trees played are identical or they result in a tie segment score then the player who placed first wins the trick.
 
 Final scoring
 =============
