@@ -66,16 +66,16 @@ Then the middle of the tree is compared:
 
 ![mid-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/mid-res.png)
 
-Finally, the top of the tree is compared.
+Finally, the top of the tree is compared:
 
 ![top-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/top-res.png)
 
-If the two trees are identical then the player who placed their tree first wins the trick.
+The player who won the majority of the tree segments wins the trick.  However, if the two trees are identical or they result in a tie segment score then the player who placed first wins the trick.
 
 Final scoring
 =============
 
-From the trees won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while the remaining mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
+From the pyramids won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while the remaining mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
 
 *Cydonia* is &copy;2014, Michael Fogus
 
