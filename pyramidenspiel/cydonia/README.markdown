@@ -54,19 +54,19 @@ Black is considered a wild color and can stand in for any color needed to comple
 
 ![wilds](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/wilds.png)
 
-solid v wild mix
+Solid trees will always beat equivalent trees that contain wilds:
 
 ![solid-v-wild-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-wild-mixed.png)
 
-Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees first and award the trick to the player with the higher color there:
+Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees first:
 
 ![base-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/base-res.png)
 
-If the base colors are the same then the middle of the tree is compared:
+Then the middle of the tree is compared:
 
 ![mid-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/mid-res.png)
 
-If the middle of the trees are also the same color then the top of the tree is compared.
+Finally, the top of the tree is compared.
 
 ![top-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/top-res.png)
 
