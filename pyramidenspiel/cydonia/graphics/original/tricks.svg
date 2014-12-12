@@ -273,15 +273,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1118.9263"
-     inkscape:cy="405.34202"
+     inkscape:cx="518.9263"
+     inkscape:cy="268.8914"
      inkscape:current-layer="layer1"
      id="namedview4547"
      showgrid="false"
-     inkscape:window-width="2059"
-     inkscape:window-height="1167"
-     inkscape:window-x="463"
-     inkscape:window-y="183"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      objecttolerance="10"
@@ -289,7 +289,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-guide="true"
      guidetolerance="10"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4549">
     <rdf:RDF>
@@ -984,7 +984,7 @@
          style="fill:#9a9c9d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
-       transform="translate(736.3876,132.53449)"
+       transform="translate(856.3876,127.53449)"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="g6081"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
@@ -1016,7 +1016,7 @@
     </g>
     <g
        style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(606.6506,89.13197)"
+       transform="translate(726.6506,84.13197)"
        id="use4947"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        inkscape:export-xdpi="70.110001"
@@ -1953,8 +1953,8 @@
     <text
        xml:space="preserve"
        style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="475.06604"
-       y="552.0271"
+       x="477.06604"
+       y="622.0271"
        id="text7143"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/base-res.png"
@@ -1962,8 +1962,8 @@
        inkscape:export-ydpi="70.110001"><tspan
          sodipodi:role="line"
          id="tspan7145"
-         x="475.06604"
-         y="552.0271"
+         x="477.06604"
+         y="622.0271"
          style="font-size:24px">beats</tspan></text>
     <g
        id="g7928"
@@ -2020,7 +2020,7 @@
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        id="g7944"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(591.3876,132.53449)">
+       transform="translate(711.3876,127.53449)">
       <path
          inkscape:connector-curvature="0"
          id="path7946"
@@ -2047,7 +2047,7 @@
     </g>
     <g
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="translate(461.6506,87.13197)"
+       transform="translate(581.6506,82.13197)"
        id="g6117"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        inkscape:export-xdpi="70.110001"
@@ -2075,7 +2075,7 @@
        inkscape:export-xdpi="70.110001"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        id="g7962"
-       transform="translate(515.1099,29.82995)"
+       transform="translate(635.1099,24.82995)"
        style="opacity:0.21551723;fill:#000035;fill-opacity:1;stroke:#342a31;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97777776;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
@@ -2100,13 +2100,13 @@
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        sodipodi:linespacing="125%"
        id="text7980"
-       y="550.0271"
-       x="722.06604"
+       y="555.0271"
+       x="842.06604"
        style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:24px"
-         y="550.0271"
-         x="722.06604"
+         y="555.0271"
+         x="842.06604"
          id="tspan7982"
          sodipodi:role="line">beats</tspan></text>
     <g
@@ -2114,7 +2114,7 @@
        inkscape:export-xdpi="70.110001"
        inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
        style="opacity:0.21551723;fill:#000035;fill-opacity:1;stroke:#342a31;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97777776;stroke-dasharray:none"
-       transform="translate(660.1099,35.82995)"
+       transform="translate(780.1099,30.82995)"
        id="g7992">
       <path
          style="fill:#000035;fill-opacity:1;stroke:#342a31;stroke-opacity:0.97777776"
@@ -2136,7 +2136,7 @@
     <g
        inkscape:export-ydpi="70.110001"
        inkscape:export-xdpi="70.110001"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
        id="g8000"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(510.3876,401.53449)">
@@ -2168,7 +2168,7 @@
        transform="translate(365.3876,401.53449)"
        style="opacity:0.87000002;fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="g8018"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
        inkscape:export-xdpi="70.110001"
        inkscape:export-ydpi="70.110001">
       <path
@@ -2198,7 +2198,7 @@
     <g
        inkscape:export-ydpi="70.110001"
        inkscape:export-xdpi="70.110001"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
        id="g8028"
        transform="translate(235.6506,356.13197)"
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
@@ -2223,7 +2223,10 @@
     <g
        style="opacity:0.87000002;fill:#008400;fill-opacity:1;fill-rule:nonzero;stroke:#009a00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(289.1099,310.82995)"
-       id="use4949">
+       id="use4949"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <path
          style="fill-opacity:1"
          d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
@@ -2245,22 +2248,22 @@
        xml:space="preserve"
        style="font-size:128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="496.06604"
-       y="819.0271"
+       y="771.0271"
        id="text8044"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
        inkscape:export-xdpi="70.110001"
        inkscape:export-ydpi="70.110001"><tspan
          sodipodi:role="line"
          id="tspan8046"
          x="496.06604"
-         y="819.0271"
+         y="771.0271"
          style="font-size:24px">beats</tspan></text>
     <g
        style="opacity:0.87000002;fill:#f4f600;fill-opacity:1;fill-rule:nonzero;stroke:#d1de00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(380.6506,354.13197)"
        id="g8056"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/mid-res.png"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
        inkscape:export-xdpi="70.110001"
        inkscape:export-ydpi="70.110001">
       <path
@@ -2284,7 +2287,10 @@
     <g
        style="opacity:0.87000002;fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="translate(433.1099,307.82995)"
-       id="use5121">
+       id="use5121"
+       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/cydonia/graphics/top-res.png"
+       inkscape:export-xdpi="70.110001"
+       inkscape:export-ydpi="70.110001">
       <path
          style="fill-opacity:1"
          d="m 146.37356,495.24988 23.57952,-87.99997 23.57952,87.99997 -47.15904,0 z"
