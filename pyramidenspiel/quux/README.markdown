@@ -1,19 +1,22 @@
-*Quux* is a simple orthoginal connection game of perfect information for two players.
+*Quux* is a simple orthogonal connection game of perfect information for two players.
 
-Preparation
-===========
+Components
+==========
 
  * A 4x4 square game board (drawing a picture is good)
  * Two mono-stashes of differing colors
+
+Setup
+=====
 
 Each player gets a full stash of their chosen color.  The players choose which two opposite sides of the game board belongs to them before the play starts.
 
 Goal
 ====
 
-The first player to connect a line of pyramids of their color from their chosen side to the oppposite side wins.  A line of pyramids can only be created via orthogonal connections of a player's colored pyramids resting at the top-most level of a cell. 
+The first player to connect a line of pyramids of their color from their chosen side to the opposite side wins.  A line of pyramids can only be created via orthogonal connections of a player's colored pyramids resting at the top-most level of a cell. 
 
-Gameplay
+Game-play
 ========
 
 A game of *Quux* consists of (potentially) two phases: a placement phase and a movement phase.
