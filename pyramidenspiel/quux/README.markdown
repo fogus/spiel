@@ -59,4 +59,10 @@ During the movement phase, players take turns moving pyramids of their color.  T
 
 Play continues until one player makes a connection.
 
+Varient: larger grids
+=====================
+
+*Quux* can be played on larger boards but bear in mind that you'll need N+1 pyramid trios for any board of size NxN.
+
 *Quux* is &copy; 2014, Michael Fogus
+
