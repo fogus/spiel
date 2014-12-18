@@ -33,7 +33,7 @@ On each player's turn they may place a pyramid of their color on any legal cell 
  
  * The pyramid may be placed on any unoccupied cell.
  
- * The pyramid may also be placed on top of another pyramid of the
+ * The pyramid may be placed on top of another pyramid of the
    opposite color that is of a larger size.
  
 If both players run out of pyramids before a connection across the board has been completed then the movement phase begins.
@@ -41,5 +41,19 @@ If both players run out of pyramids before a connection across the board has bee
 Movement phase
 --------------
 
-During the movement phase, players take turns moving pyramids of their color 
-   
+During the movement phase, players take turns moving pyramids of their color.  The constraints for the movement destination are as follows:
+
+ * Pyramids may only move in one direction, any number of cells,
+   orthogonally.
+ 
+ * Pyramids may be chosen from any level in the pyramid piles, not 
+   just the tops.  Any partial piles moved will move as a whole to
+   the target location.
+
+ * The pyramid(s) may be moved to any unoccupied cell.
+ 
+ * The pyramid moved also come to rest on a pyramid of a larger size.
+
+Play continues until one player makes a connection.
+
+*Quux* is &copy; 2014, Michael Fogus
