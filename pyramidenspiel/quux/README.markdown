@@ -11,7 +11,7 @@ Each player gets a full stash of their chosen color.  The players choose which t
 Goal
 ====
 
-The first player to connect a line of pyramids in their color from their chosen side to the oppposite side wins.
+The first player to connect a line of pyramids of their color from their chosen side to the oppposite side wins.  A line of pyramids can only be created via orthogonal connections of a player's colored pyramids resting at the top-most level of a cell. 
 
 Gameplay
 ========
@@ -21,7 +21,7 @@ A game of *Quux* consists of (potentially) two phases: a placement phase and a m
 Placement phase
 ---------------
 
-On each player's turn they may place a pyramid of their color on any legal space on the board.  The constraints for placement are as follows:
+On each player's turn they may place a pyramid of their color on any legal cell on the board.  The constraints for placement are as follows:
 
  * You may place a pyramid of any valid size.
 
@@ -31,7 +31,7 @@ On each player's turn they may place a pyramid of their color on any legal space
    previously placed.  Likewise, a medium may only be placed if at
    least one large was previously placed.
  
- * The pyramid may be placed on any open square.
+ * The pyramid may be placed on any unoccupied cell.
  
  * The pyramid may also be placed on top of another pyramid of the
    opposite color that is of a larger size.
@@ -41,5 +41,5 @@ If both players run out of pyramids before a connection across the board has bee
 Movement phase
 --------------
 
-
+During the movement phase, players take turns moving pyramids of their color 
    
