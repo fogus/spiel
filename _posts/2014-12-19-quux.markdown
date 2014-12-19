@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New game design: Quux"
+date:   2014-12-19 10:36:15
+categories: gamedes game
+---
+
+*Quux* is a Looney Pyramids connection game for two players.
+
+This game requires a 4x4 game board and two mono-colored pyramid stashes.
+
+The rules are on my personal site at <http://www.fogus.me/fun/spiel/quux/>
+
+Please consider trying it out.
+
+:F
