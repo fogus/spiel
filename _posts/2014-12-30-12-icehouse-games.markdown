@@ -7,46 +7,59 @@ categories: gamedes icehouse
 
 At one point this year I decided to challenge myself to create 10 Icehouse game designs this year.  The precise reasoning for my self-imposed challenge is lost to the dustbin of history (or perhaps at the bottom of a wine glass).  That said, the challenge was set and amazingly I managed to meet it.  The following games were designed by me in 2014 (sorted in order of my favorite):
 
- 1. Logistics -- *I actually think that this is a legitimately 
+ 1. [Logistics][^1] -- *I actually think that this is a legitimately 
     good game and as a fan of abstracts easily my favorite of the
 	group. I still need to work on the capture powers however.*
 
- 2. Cydonia -- *I also think that this is a good game too, but the 
-    number of pyramids required might be prohibitive for some. I 
-	think that the "trick-taking" aspect is novel for a pyramid
-	game.*
+ 2. [Cydonia][^2] -- *I also think that this is a good game too, 
+    but the number of pyramids required might be prohibitive for 
+	some. I think that the "trick-taking" aspect is novel for a
+	pyramid	game.*
 	
- 3. Toripoka -- *A neat micro card game that could use a lot more
-    play-testing.*
+ 3. [Toripoka][^3] -- *A neat micro card game that could use a 
+    lot more play-testing.*
 
- 4. Gorgias -- *My entry into the Yahtzee family with (I believe)
-    a novel "battle" resolution scheme for pyramids.*
+ 4. [Gorgias][^4] -- *My entry into the Yahtzee family with 
+    (I believe) a novel "battle" resolution scheme for pyramids.*
 	
- 5. Quux -- *A little connection game designed purely to be 
+ 5. [Quux][^5] -- *A little connection game designed purely to be 
     a "breakfast game." Needs more play-testing to see if there
 	are any killer strategies.*
  
- 6. Malice -- *An Icehouse version of Alice, informed by Martian
+ 6. [Malice][^6] -- *An Icehouse version of Alice, informed by Martian
     Chess.  I enjoy it, but there is a decided lack of clarity.*
 
- 7. Pew Pew, Die -- *My version of Martian Roshambo using no
+ 7. [Pew Pew, Die][^7] -- *My version of Martian Roshambo using no
     pyramids at all.*
 	
- 8. CarboniteDice -- *A variant of IceDice meant for Solo play.*
+ 8. [CarboniteDice][^8] -- *A variant of IceDice meant for Solo play.*
  
- 9. Initiative -- *A game of perfect information that sadly can 
+ 9. [Initiative][^9] -- *A game of perfect information that sadly can 
     be very cold.*
  
- 10. Pungo -- *Basically a game designed just to explore the 
+ 10. [Pungo][^10] -- *Basically a game designed just to explore the 
     "controlled roll" mechanism.*
 	
- 11. Coin Hijinks -- *An adaptation of Pink Hijinks for pocket
+ 11. [Coin Hijinks][^11] -- *An adaptation of Pink Hijinks for pocket
    change.*
 
-12. Pink Poppycock -- *An adaptation of Pink Hijinks to use the
+12. [Pink Poppycock][^12] -- *An adaptation of Pink Hijinks to use the
    "controlled roll" mechanism.*
 
-All in all not too bad IMO.  There are a few games on this list that I think I can see myself (and others hopefully) actually enjoying.  This to me is a success.  Additionally, I learned some valuable lessons over the past year that I'd like to share.
+Nothing earth-shattering for sure, but all in all not too bad IMO.  There are a few games on this list that I think I can see myself (and others hopefully) actually enjoying.  This to me is a success.  Additionally, I learned some valuable lessons over the past year that I'd like to share.
+
+[^1]: http://fogus.me/fun/spiel/logistics/
+[^2]: http://fogus.me/fun/spiel/cydonia
+[^3]: http://fogus.me/fun/spiel/toripoka/
+[^4]: http://fogus.me/fun/spiel/gorgias
+[^5]: http://fogus.me/fun/spiel/quux/
+[^6]: http://icehousegames.org/wiki/index.php?title=Malice
+[^7]: http://fogus.me/fun/spiel/pewpewdie/
+[^8]: http://icehousegames.org/wiki/index.php?title=CarboniteDice
+[^9]: http://icehousegames.org/wiki/index.php?title=Initiative
+[^10]: http://icehousegames.org/wiki/index.php?title=Pungo
+[^11]: https://raw.githubusercontent.com/fogus/spiel/master/taschenspiele/coin-hijinks/README.markdown
+[^12]: http://looneylabs.ning.com/forum/topics/pink-poppycock
 
 ## Game ideas are worthless
 
@@ -62,6 +75,7 @@ Over the past year I probably thought of many dozens of Icehouse game ideas, tha
  * A Kamisado-like using the "controlled roll"
  * Minimax: a 2p engine-building game
  * A tile-laying game using pyramids and Iota cards
+ * and many others not worth mentioning
 
 ...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Additionally, you'll notice that about half of the games listed are derivative.  One thing that I've found is that it's super-easy to take a game that already exists and "adapt" it to pyramids.  However, often I've found that the vehicle of the pyramids doesn't always fit the original game.  Instead, either the derivation doesn't work at all or the pyramids themselves inform a mutation of the original design to the extent that it's practically a new game (e.g. Malice above).  I think that this is likely the most important lesson that I've learned in the past year.  That is, if you're designing an Icehouse game then listen to the pyramids... they'll help guide you, and wow are they lovely guides indeed.
 
