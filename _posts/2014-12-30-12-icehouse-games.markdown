@@ -50,16 +50,24 @@ All in all not too bad IMO.  There are a few games on this list that I think I c
 
 ## Game ideas are worthless
 
-Over the past year I probably thought of many dozens of Icehouse game ideas, that didn't turn into games.  That is, there's a huge distinction between coming up with an idea for a game and actually creating a game that anyone would want to play.  Additionally, once you've come up with an idea that may be playable, there's no guarantee that anyone will want to play it.  Even further, even if you come up with an idea that someone might want to play then play-testing might highlight some fatal flaws or, at best, sticking points.  By this I mean that I've come up with plenty of pyramid games...
+Over the past year I probably thought of many dozens of Icehouse game ideas, that didn't turn into games.  That is, there's a huge distinction between coming up with an idea for a game and actually creating a game that anyone would want to play.  Additionally, once you've come up with an idea that may be playable, there's no guarantee that anyone will want to play it.  Even further, even if you come up with an idea that someone might want to play then play-testing might highlight some fatal flaws or, at best, sticking points.  By this I mean that I've come up with plenty of other pyramid games...
 
  * Karankaron: Zendo, but for sound
  * Pedestal: a blind bidding game
  * Egyptian Whist: a(nother) pyramid trick-taking game
- * 
+ * Pyrametto: Coloretto, but for pyramids
+ * Hollywood Babylon: Babylon, but for pyramids
+ * Helmet: a 2p abstract checkers-like
+ * Panopticon: a 2p abstract racing game
+ * A Kamisado-like using the "controlled roll"
+ * Minimax: a 2p engine-building game
+ * A tile-laying game using pyramids and Iota cards
+
+...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Additionally, you'll notice that about half of the games listed are derivative.  One thing that I've found is that it's super-easy to take a game that already exists and "adapt" it to pyramids.  However, often I've found that the vehicle of the pyramids doesn't always fit the original game.  Instead, either the derivation doesn't work at all or the pyramids themselves inform a mutation of the original design to the exent that it's practically a new game (e.g. Malice above).  I think that this is likely the most important lesson that I've learned in the past year.  That is, if you're designing an Icehouse game then listen to the pyramids... they'll help guide you, and wow are they lovely guides indeed.
 
 ## Play-testing is a pain fo all involved
 
-TODO
+
 
 ## Writing rules is hard
 
