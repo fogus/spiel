@@ -78,7 +78,7 @@ Over the past year I probably thought of many dozens of Icehouse game ideas, tha
  * A tile-laying game using pyramids and Iota cards
  * and many others not worth mentioning
 
-...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Therefore, it struck me that ideas are worthless and when they turn out to have been bad from the start they should be thrown away.  More will pop up to replace them.
+...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Therefore, it struck me that ideas alone are worthless and when they turn out to have been bad from the start they should be thrown away.  More will pop up to replace them.
 
 Additionally, you'll notice that about half of the games listed are derivative.  One thing that I've found is that it's super-easy to take a game that already exists and "adapt" it to pyramids.  However, often I've found that the vehicle of the pyramids doesn't always fit the original game.  Instead, either the derivation doesn't work at all or the pyramids themselves inform a mutation of the original design to the extent that it's practically a new game (e.g. Malice above).  I think that this is likely the most important lesson that I've learned in the past year.  That is, if you're designing an Icehouse game then listen to the pyramids... they'll help guide you, and wow are they lovely guides indeed.
 
