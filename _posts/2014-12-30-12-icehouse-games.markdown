@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "12 Icehouse designs in 2014"
+date:   2014-12-30 8:36:15
+categories: gamedes icehouse
+---
+
+At one point this year I decided to challenge myself to create 10 Icehouse game designs this year.  The precise reasonining for my self-imposed challenge is lost to the dustbin of history (or perhaps at the bottom of a wine glass).  That said, the challenge was set and amazingly I managed to meet it.  The following games were designed by me in 2014 (sorted in order of my favorite):
+
+ 1. Logistics -- *I actually think that this is a legitimately 
+    good game and as a fan of abstracts easily my favorite of the
+	group. I still need to work on the capture powers however.*
+
+ 2. Cydonia -- *I also think that this is a good game too, but the 
+    number of pyramids required might be prohibative for some. I 
+	think that the "trick-taking" aspect is novel for a pyramid
+	game.*
+	
+ 3. Toripoka -- *A neat micro card game that could use a lot more
+    play-testing.*
+
+ 4. Gorgias -- *My entry into the Yahtzee family with (I believe)
+    a novel "battle" resolution scheme for pyramids.*
+	
+ 5. Quux -- *A little connection game designed purely to be 
+    a "breakfast game." Needs more play-testing to see if there
+	are any killer strategies.*
+ 
+ 6. Malice -- *An Icehouse version of Alice, informed by Martian
+    Chess.  I enjoy it, but there is a decided lack of clarity.*
+
+ 7. Pew Pew, Die -- *My version of Martian Roshambo using no
+    pyramids at all.*
+	
+ 8. CarboniteDice -- *A variant of IceDice meant for Solo play.*
+ 
+ 9. Initiative -- *A game of random startup and perfect information
+    that sadly can be pretty cold.*
+ 
+ 10. Pungo -- *Basically a game designed just to explore the 
+    "controlled roll" mechanism.*
+	
+ 11. Coin Hijinks -- *An adaptation of Pink Hijinks for pocket
+   change.*
+
+12. Pink Poppycock -- *An adaptation of Pink Hijinks to use the
+   "controlled roll" mechanism.*
+
+All in all not too bad IMO.  There are a few games on this list that I think I can see myself (and others hopefully) actually enjoying.  This to me is a success.  Additionally, I learned some valueable lessons over the past year that I'd like to share.
+
+## Game ideas are worthless
+
+Over the past year I probably thought of many dozens of Icehouse game ideas, that didn't turn into games.  That is, there's a huge distinction between coming up with an idea for a game and actually creating a game that anyone would want to play.  Additionally, once you've come up with an idea that may be playable, there's no guarantee that anyone will want to play it.  Even further, even if you come up with an idea that someone might want to play then play-testing might highlight some fatal flaws or, at best, sticking points.  By this I mean that I've come up with plenty of pyramid games...
+
+ * Karankaron: Zendo, but for sound
+ * Pedestal: a blind bidding game
+ * Egyptian Whist: a(nother) pyramid trick-taking game
+ * 
+
+## Play-testing is a pain fo all involved
+
+TODO
+
+## Writing rules is hard
+
+TODO
+
+## When in doubt... Volcano scoring
+
+TODO
+
+
+
+:F
