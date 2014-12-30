@@ -65,9 +65,9 @@ Over the past year I probably thought of many dozens of Icehouse game ideas, tha
 
 ...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Additionally, you'll notice that about half of the games listed are derivative.  One thing that I've found is that it's super-easy to take a game that already exists and "adapt" it to pyramids.  However, often I've found that the vehicle of the pyramids doesn't always fit the original game.  Instead, either the derivation doesn't work at all or the pyramids themselves inform a mutation of the original design to the exent that it's practically a new game (e.g. Malice above).  I think that this is likely the most important lesson that I've learned in the past year.  That is, if you're designing an Icehouse game then listen to the pyramids... they'll help guide you, and wow are they lovely guides indeed.
 
-## Play-testing is a pain fo all involved
+## Play-testing is a pain for all involved
 
-
+I won't harp on this point too much, but I will say a few words.  First, I have a problem with play-testing.  That is, I always feel very timid asking someone to play my own designs.  I always feel like I'm burdening them in some way.  Thankfully, I have two awesome kids who're always willing to play Daddy's games, no matter how bad they are.  Even more lucky for me is that they are not shy about shooting down my designs when they are truly boring.  That said, I still have a hard time asking people outside of my sphere of influence to help me to play-test.  I'm getting better, but it's not easy even after a year.  This is my own psychosis.
 
 ## Writing rules is hard
 
