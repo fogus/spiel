@@ -7,59 +7,60 @@ categories: gamedes icehouse
 
 At one point this year I decided to challenge myself to create 10 Icehouse game designs this year.  The precise reasoning for my self-imposed challenge is lost to the dustbin of history (or perhaps at the bottom of a wine glass).  That said, the challenge was set and amazingly I managed to meet it.  The following games were designed by me in 2014 (sorted in order of my favorite):
 
- 1. [Logistics][^1] -- *I actually think that this is a legitimately 
+ 1. [Logistics][l1] -- *I actually think that this is a legitimately 
     good game and as a fan of abstracts easily my favorite of the
 	group. I still need to work on the capture powers however.*
 
- 2. [Cydonia][^2] -- *I also think that this is a good game too, 
+ 2. [Cydonia][l2] -- *I also think that this is a good game too, 
     but the number of pyramids required might be prohibitive for 
 	some. I think that the "trick-taking" aspect is novel for a
 	pyramid	game.*
 	
- 3. [Toripoka][^3] -- *A neat micro card game that could use a 
+ 3. [Toripoka][l3] -- *A neat micro card game that could use a 
     lot more play-testing.*
 
- 4. [Gorgias][^4] -- *My entry into the Yahtzee family with 
+ 4. [Gorgias][l4] -- *My entry into the Yahtzee family with 
     (I believe) a novel "battle" resolution scheme for pyramids.*
 	
- 5. [Quux][^5] -- *A little connection game designed purely to be 
+ 5. [Quux][l5] -- *A little connection game designed purely to be 
     a "breakfast game." Needs more play-testing to see if there
 	are any killer strategies.*
  
- 6. [Malice][^6] -- *An Icehouse version of Alice, informed by Martian
-    Chess.  I enjoy it, but there is a decided lack of clarity.*
+ 6. [Malice][l6] -- *An Icehouse version of Alice, informed by Martian
+    Chess.  I enjoy it, but there is a decided lack of [clarity][lc].*
 
- 7. [Pew Pew, Die][^7] -- *My version of Martian Roshambo using no
+ 7. [Pew Pew, Die][l7] -- *My version of Martian Roshambo using no
     pyramids at all.*
 	
- 8. [CarboniteDice][^8] -- *A variant of IceDice meant for Solo play.*
+ 8. [CarboniteDice][l8] -- *A variant of IceDice meant for Solo play.*
  
- 9. [Initiative][^9] -- *A game of perfect information that sadly can 
+ 9. [Initiative][l9] -- *A game of perfect information that sadly can 
     be very cold.*
  
- 10. [Pungo][^10] -- *Basically a game designed just to explore the 
+ 10. [Pungo][l10] -- *Basically a game designed just to explore the 
     "controlled roll" mechanism.*
 	
- 11. [Coin Hijinks][^11] -- *An adaptation of Pink Hijinks for pocket
+ 11. [Coin Hijinks][l11] -- *An adaptation of Pink Hijinks for pocket
    change.*
 
-12. [Pink Poppycock][^12] -- *An adaptation of Pink Hijinks to use the
+12. [Pink Poppycock][l12] -- *An adaptation of Pink Hijinks to use the
    "controlled roll" mechanism.*
 
 Nothing earth-shattering for sure, but all in all not too bad IMO.  There are a few games on this list that I think I can see myself (and others hopefully) actually enjoying.  This to me is a success.  Additionally, I learned some valuable lessons over the past year that I'd like to share.
 
-[^1]: http://fogus.me/fun/spiel/logistics/
-[^2]: http://fogus.me/fun/spiel/cydonia
-[^3]: http://fogus.me/fun/spiel/toripoka/
-[^4]: http://fogus.me/fun/spiel/gorgias
-[^5]: http://fogus.me/fun/spiel/quux/
-[^6]: http://icehousegames.org/wiki/index.php?title=Malice
-[^7]: http://fogus.me/fun/spiel/pewpewdie/
-[^8]: http://icehousegames.org/wiki/index.php?title=CarboniteDice
-[^9]: http://icehousegames.org/wiki/index.php?title=Initiative
-[^10]: http://icehousegames.org/wiki/index.php?title=Pungo
-[^11]: https://raw.githubusercontent.com/fogus/spiel/master/taschenspiele/coin-hijinks/README.markdown
-[^12]: http://looneylabs.ning.com/forum/topics/pink-poppycock
+[l1]: http://fogus.me/fun/spiel/logistics/
+[l2]: http://fogus.me/fun/spiel/cydonia
+[l3]: http://fogus.me/fun/spiel/toripoka/
+[l4]: http://fogus.me/fun/spiel/gorgias
+[l5]: http://fogus.me/fun/spiel/quux/
+[l6]: http://icehousegames.org/wiki/index.php?title=Malice
+[l7]: http://fogus.me/fun/spiel/pewpewdie/
+[l8]: http://icehousegames.org/wiki/index.php?title=CarboniteDice
+[l9]: http://icehousegames.org/wiki/index.php?title=Initiative
+[l10]: http://icehousegames.org/wiki/index.php?title=Pungo
+[l11]: https://raw.githubusercontent.com/fogus/spiel/master/taschenspiele/coin-hijinks/README.markdown
+[l12]: http://looneylabs.ning.com/forum/topics/pink-poppycock
+[lc]: http://www.cameronius.com/games/shibumi/browne-elegance-5.pdf
 
 ## Game ideas are worthless
 
