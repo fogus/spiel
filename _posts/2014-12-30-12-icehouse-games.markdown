@@ -8,7 +8,7 @@ categories: gamedes icehouse
 At one point this year I decided to challenge myself to create 10 Icehouse game designs this year.  The precise reasoning for my self-imposed challenge is lost to the dustbin of history (or perhaps at the bottom of a wine glass).  That said, the challenge was set and amazingly I managed to meet it.  The following games were designed by me in 2014 (sorted in order of my favorite):
 
  1. [Logistics][l1] -- *I actually think that this is a legitimately 
-    good game and as a fan of abstracts easily my favorite of the
+    good game[^c] and as a fan of abstracts easily my favorite of the
 	group. I still need to work on the capture powers however.*
 
  2. [Cydonia][l2] -- *I also think that this is a good game too, 
@@ -97,3 +97,5 @@ Anyway, thanks for reading.  I hope that by sharing my experiences I've motivate
 Most of the rules for these games are found on my [designs page](http://fogus.github.io/spiel/designs/).  Feedback at `me -at- fogus -dot- me` is always welcomed.
 
 :F
+
+[^c]: Thanks to its heavy borrowing from [Cups](http://boardgamegeek.com/boardgame/19916/cups).
