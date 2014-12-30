@@ -79,4 +79,6 @@ Almost as hard as writing rules is coming up with fair scoring mechanisms.  Inde
 
 Anyway, thanks for reading.  I hope that by sharing my experiences I've motivated you to set a similar goal yourself, or at least to give my games a shot. :-)
 
+Most of the rules for these games are found on my [designs page](http://fogus.github.io/spiel/designs/).  Feedback at `me -at- fogus -dot- me` is always welcomed.
+
 :F
