@@ -71,12 +71,12 @@ I won't harp on this point too much, but I will say a few words.  First, I have 
 
 ## Writing rules is hard
 
-TODO
+I've written a few books and so when it was time to start writing rules for these games I was confident.  I was quickly humbled.  Of this entire process I still think that writing lucid rules for even the most simple of games is damn hard.  I'm still not sure that I'm even risen to the level of mediocre in this regard.  However, I've found time and time again that writing down rules, even very early on, is a great way to find problems in the design itself.  A few times (and more as I got more experience) the act of simplifying the words used to express the rules led to the simplification of the designs themselves.  In fact, I plan to go back to the earliest designs and simplify the rules in hopes that I can find opportunities to simplify the games themselves.
 
 ## When in doubt... Volcano scoring
 
-TODO
+Almost as hard as writing rules is coming up with fair scoring mechanisms.  Indeed, devising solid scoring is directly antithetical to having a problem with asking people to play-test your games.  That is, very often (or so I've read) scoring mechanisms are finely tuned via a piecewise change process occurring over the course of many many many play-tests.  None of my designs have gone through a process like this.  Thankfully for me Volcano scoring already exists, and it usually works right out of the box, it's simple, and has been in hard rotation in pyramid games since circa the year 2000.  Perhaps when/if these games get more plays I'll move away from Volcano scoring in those that use it, but for now I consider it a nice starting point.
 
-
+Anyway, thanks for reading.  I hope that by sharing my experiences I've motivated you to set a similar goal yourself, or at least to give my games a shot. :)
 
 :F
