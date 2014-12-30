@@ -5,14 +5,14 @@ date:   2014-12-30 8:36:15
 categories: gamedes icehouse
 ---
 
-At one point this year I decided to challenge myself to create 10 Icehouse game designs this year.  The precise reasonining for my self-imposed challenge is lost to the dustbin of history (or perhaps at the bottom of a wine glass).  That said, the challenge was set and amazingly I managed to meet it.  The following games were designed by me in 2014 (sorted in order of my favorite):
+At one point this year I decided to challenge myself to create 10 Icehouse game designs this year.  The precise reasoning for my self-imposed challenge is lost to the dustbin of history (or perhaps at the bottom of a wine glass).  That said, the challenge was set and amazingly I managed to meet it.  The following games were designed by me in 2014 (sorted in order of my favorite):
 
  1. Logistics -- *I actually think that this is a legitimately 
     good game and as a fan of abstracts easily my favorite of the
 	group. I still need to work on the capture powers however.*
 
  2. Cydonia -- *I also think that this is a good game too, but the 
-    number of pyramids required might be prohibative for some. I 
+    number of pyramids required might be prohibitive for some. I 
 	think that the "trick-taking" aspect is novel for a pyramid
 	game.*
 	
@@ -34,8 +34,8 @@ At one point this year I decided to challenge myself to create 10 Icehouse game 
 	
  8. CarboniteDice -- *A variant of IceDice meant for Solo play.*
  
- 9. Initiative -- *A game of random startup and perfect information
-    that sadly can be pretty cold.*
+ 9. Initiative -- *A game of perfect information that sadly can 
+    be very cold.*
  
  10. Pungo -- *Basically a game designed just to explore the 
     "controlled roll" mechanism.*
@@ -46,7 +46,7 @@ At one point this year I decided to challenge myself to create 10 Icehouse game 
 12. Pink Poppycock -- *An adaptation of Pink Hijinks to use the
    "controlled roll" mechanism.*
 
-All in all not too bad IMO.  There are a few games on this list that I think I can see myself (and others hopefully) actually enjoying.  This to me is a success.  Additionally, I learned some valueable lessons over the past year that I'd like to share.
+All in all not too bad IMO.  There are a few games on this list that I think I can see myself (and others hopefully) actually enjoying.  This to me is a success.  Additionally, I learned some valuable lessons over the past year that I'd like to share.
 
 ## Game ideas are worthless
 
@@ -63,7 +63,7 @@ Over the past year I probably thought of many dozens of Icehouse game ideas, tha
  * Minimax: a 2p engine-building game
  * A tile-laying game using pyramids and Iota cards
 
-...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Additionally, you'll notice that about half of the games listed are derivative.  One thing that I've found is that it's super-easy to take a game that already exists and "adapt" it to pyramids.  However, often I've found that the vehicle of the pyramids doesn't always fit the original game.  Instead, either the derivation doesn't work at all or the pyramids themselves inform a mutation of the original design to the exent that it's practically a new game (e.g. Malice above).  I think that this is likely the most important lesson that I've learned in the past year.  That is, if you're designing an Icehouse game then listen to the pyramids... they'll help guide you, and wow are they lovely guides indeed.
+...but in every case writing out the rules and/or play-testing exposed some deep flaw (boring being the most prevalent).  Additionally, you'll notice that about half of the games listed are derivative.  One thing that I've found is that it's super-easy to take a game that already exists and "adapt" it to pyramids.  However, often I've found that the vehicle of the pyramids doesn't always fit the original game.  Instead, either the derivation doesn't work at all or the pyramids themselves inform a mutation of the original design to the extent that it's practically a new game (e.g. Malice above).  I think that this is likely the most important lesson that I've learned in the past year.  That is, if you're designing an Icehouse game then listen to the pyramids... they'll help guide you, and wow are they lovely guides indeed.
 
 ## Play-testing is a pain for all involved
 
@@ -75,8 +75,8 @@ I've written a few books and so when it was time to start writing rules for thes
 
 ## When in doubt... Volcano scoring
 
-Almost as hard as writing rules is coming up with fair scoring mechanisms.  Indeed, devising solid scoring is directly antithetical to having a problem with asking people to play-test your games.  That is, very often (or so I've read) scoring mechanisms are finely tuned via a piecewise change process occurring over the course of many many many play-tests.  None of my designs have gone through a process like this.  Thankfully for me Volcano scoring already exists, and it usually works right out of the box, it's simple, and has been in hard rotation in pyramid games since circa the year 2000.  Perhaps when/if these games get more plays I'll move away from Volcano scoring in those that use it, but for now I consider it a nice starting point.
+Almost as hard as writing rules is coming up with fair scoring mechanisms.  Indeed, devising solid scoring is directly antithetical to having a problem with asking people to play-test your games.  That is, very often (or so I've read) scoring mechanisms are finely tuned via a piece-wise change process occurring over the course of many many many play-tests.  None of my designs have gone through a process like this.  Thankfully for me Volcano scoring already exists, and it usually works right out of the box, it's simple, and has been in hard rotation in pyramid games since circa the year 2000.  Perhaps when/if these games get more plays I'll move away from Volcano scoring in those that use it, but for now I consider it a nice starting point.
 
-Anyway, thanks for reading.  I hope that by sharing my experiences I've motivated you to set a similar goal yourself, or at least to give my games a shot. :)
+Anyway, thanks for reading.  I hope that by sharing my experiences I've motivated you to set a similar goal yourself, or at least to give my games a shot. :-)
 
 :F
