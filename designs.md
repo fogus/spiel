@@ -12,11 +12,18 @@ I've designed numerous board, dice, and card games -- none of which will you fin
  * [Gorgias](http://fogus.me/fun/spiel/gorgias) - a press-your-luck
    dice game of philosophical debating.
 
+ * [Initiative](http://icehousegames.org/wiki/index.php?title=Initiative) - a blocking
+   game of perfect information where the last player able to play a
+   piece wins.
+
  * [Logistics](http://fogus.me/fun/spiel/logistics/) - a Mancala game
    for 2-players with pattern matching goals and capture powers.
 
- * [Malice](http://fogus.me/fun/spiel/malice/) - a teleporting capture
+ * [Malice](http://icehousegames.org/wiki/index.php?title=Malice) - a teleporting capture
    board game for two players.
+
+ * [Natto](http://fogus.me/fun/spiel/natto/) - a climbing game
+   for exactly two players.
 
  * [Ozymandias](http://fogus.me/fun/spiel/ozymandias/) - a Rummy game
    for the [Das Spiel](http://boardgamegeek.com/boardgame/2229/spiel)
