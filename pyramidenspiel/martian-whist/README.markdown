@@ -1,4 +1,4 @@
-*Egyptian Whist* is a pyramidal drafting and point-trick-taking game of perfect information for 2 players.
+*Martian Whist* is a pyramidal drafting and point-trick-taking game of perfect information for 2 players.
 
 Preparation
 ===========
@@ -15,7 +15,7 @@ Place all of the Treehouse sets into an opaque sack.  Draw from the sack one sma
 Game-play
 =========
 
-*Egyptian Whist* is played in two rounds: the first is meant to build a mixed stash of pyramids via drafting, and the second consists of a series of tricks used to build a set of final pyramids for scoring.
+*Martian Whist* is played in two rounds: the first is meant to build a mixed stash of pyramids via drafting, and the second consists of a series of tricks used to build a set of final pyramids for scoring.
 
 Stage one: drafting a stash
 ---------------------------
@@ -79,5 +79,5 @@ Final scoring
 
 From the pyramids won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while the remaining mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
 
-*Egyptian Whist* is &copy;2014, Michael Fogus
+*Martian Whist* is &copy;2015, Michael Fogus
 
