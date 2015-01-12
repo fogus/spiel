@@ -50,7 +50,7 @@ Solid color trees of will resolve according to the color rankings:
 
 Trees of a single color will always beat trees of mixed colors:
 
-![solid-v-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-mixed.png)
+![solid-v-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/solid-v-mixed.png)
 
 Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees first:
 
