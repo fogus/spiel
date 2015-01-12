@@ -40,7 +40,7 @@ The player winning the trick will reserve their tree for final scoring, while th
 Resolving tricks
 ----------------
 
-To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue:
+To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Black > Red > Yellow > Green > Blue:
 
 ![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/color-ranks.png)
 
