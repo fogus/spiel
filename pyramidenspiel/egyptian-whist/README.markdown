@@ -10,4 +10,10 @@ Materials needed:
 Setup
 -----
 
-Place all of the Treehouse sets into an opaque sack.  Draw from the sack one small, one medium, and one large and make a tree.  Continue this until all of the pyramids have been used to make a row of 20 trees.  The game is ready to begin after the players agree whom should lead first.
+Place all of the Treehouse sets into an opaque sack.  Draw from the sack one small, one medium, and one large and make a tree.  Continue this until all of the pyramids have been used to make a row of complete trees.  The game is ready to begin after the players agree whom should draft first.
+
+Game-play
+=========
+
+*Egyptian Whist* is played in two rounds: the first is meant to build a mixed stash of pyramids via drafting, and the second consists of a series of tricks used to build a set of final pyramids for scoring.
+
