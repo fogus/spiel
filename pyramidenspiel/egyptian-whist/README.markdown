@@ -27,3 +27,57 @@ After the draft order has been established, both players will continue alternati
 Additionally, players may not take any pyramids that would give them too many of a particular size to be unable to build a complete set of trees in their personal stash.  That is, with four Treehouse sets each player would have 10 complete trees consisting only of 10 smalls, 10 mediums, and 10 larges.
 
 The drafting stage one continue this way until all of the pyramids in the drafting trees are gone.
+
+Stage two: trick-taking
+-----------------------
+
+Using the pyramids in their drafted stashes, the players will play tricks to build a final scoring set.  Starting with the person whom drafted last, a player will present a tree and the other will follow with one of their own.  These trees can be built from any of the pyramids in their personal stash.
+
+The following player must present a tree containing at least one pyramid of the same color as any of the pyramids in the leading tree if they are able.  If they do not have a color to follow the tree led then they can follow with a tree containing any colors that they choose.
+
+The player winning the trick will reserve their tree for final scoring, while the losing tree will be discarded.  The player who won the trick leads the next trick.  Play will continue like this until all of the players' pyramids have been used, after which final scoring will begin.
+
+Resolving tricks
+----------------
+
+To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue:
+
+![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/color-ranks.png)
+
+Solid color trees of will resolve according to the color rankings:
+
+![solids](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-solid.png)
+
+Trees of a single color will always beat trees of mixed colors:
+
+![solid-v-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-mixed.png)
+
+Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color and it's touching the wild:
+
+![wilds](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/wilds.png)
+
+Solid trees will always beat equivalent trees that contain wilds:
+
+![solid-v-wild-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-wild-mixed.png)
+
+Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees first:
+
+![base-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/base-res.png)
+
+Then the middle of the tree is compared:
+
+![mid-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/mid-res.png)
+
+Finally, the top of the tree is compared:
+
+![top-res](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/top-res.png)
+
+The player who won the majority of the tree segments wins the trick; in the example above, the left-side player wins by winning 1 segment vs. 0 for right.  However, if the two trees played are identical or they result in a tie segment score then the player who placed first wins the trick.
+
+Final scoring
+=============
+
+From the pyramids won in tricks the players can rearrange the colors to form as many solid trees as possible.  Solid trees are worth 3 points each while the remaining mixed trees are worth 1 point each.  The player with the most valuable set of trees wins the game.
+
+*Egyptian Whist* is &copy;2014, Michael Fogus
+
