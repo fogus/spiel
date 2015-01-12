@@ -110,5 +110,5 @@ Enjoy!
 External Links and Inspiration(s)
 ---------------------------------
 
- - The elegant [Bushi Shogi](http://www.kolumbus.fi/geodun/bushi/bushi.htm( is the main motivation for *Pew Pew, Die*
+ - The elegant [Bushi Shogi](http://www.kolumbus.fi/geodun/bushi/bushi.htm) is the main motivation for *Pew Pew, Die*
   
