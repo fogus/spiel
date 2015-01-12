@@ -42,7 +42,7 @@ Resolving tricks
 
 To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Red > Yellow > Green > Blue:
 
-![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/color-ranks.png)
+![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/color-ranks.png)
 
 Solid color trees of will resolve according to the color rankings:
 
@@ -51,14 +51,6 @@ Solid color trees of will resolve according to the color rankings:
 Trees of a single color will always beat trees of mixed colors:
 
 ![solid-v-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-mixed.png)
-
-Black is considered a wild color and can stand in for any color needed to complete a colored set, as long as there is at least one pyramid in the tree of the desired color and it's touching the wild:
-
-![wilds](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/wilds.png)
-
-Solid trees will always beat equivalent trees that contain wilds:
-
-![solid-v-wild-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-wild-mixed.png)
 
 Trees of mixed colors will resolve from bottom to top according to color.  That is, players compare the base of the trees first:
 
