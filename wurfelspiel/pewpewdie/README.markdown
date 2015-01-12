@@ -35,7 +35,7 @@ The players then determine the result of the initial round and then make moves f
 Play proceeds for as many rounds as the players desire, up to a
 pre-determined number of wins -- typically three works best. Details of attack and defensive mechanics and “life-points” follows.
 
-*Pew Pew, Die* Combat Mechanics {#pew-pew-die-combat-mechanics}
+*Pew Pew, Die* Combat Mechanics
 -------------------------------
 
 The motivation behind the original creation of the pew-pew die faces has been lost to the rust-red dust-bin of Martian history. However, the layout is interesting from a game perspective in that rather than only signifying a magnitude of power it can also represent a **direction of force** -- and this is the basis of how *Pew Pew, Die* is played and scored.
