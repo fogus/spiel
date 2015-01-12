@@ -1,13 +1,9 @@
 *Pew Pew, Die* is the martian equivalent of Rock, Paper, Scissors
-typically played using a specially marked cube often passed through the
-ages from one family generation to the next.
+typically played using a specially marked cube often passed through the ages from one family generation to the next.
 
 ![detail](http://images.fogus.me/games/pyramid-games/images/pew-pew-hand.png)
 
-The game piece, often known
-as a pyramid die (or colloquially a “pew-pew die” whereby the game's
-name is derived) is marked on each side with one or two triangular
-symbols, each named uniquely:
+The game piece, often known as a pyramid die (or colloquially a “pew-pew die”) is marked on each side with one or two triangular symbols, each named uniquely:
 
 ## Pew Pew Die Details|
 
