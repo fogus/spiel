@@ -38,12 +38,7 @@ pre-determined number of wins -- typically three works best. Details of attack a
 *Pew Pew, Die* Combat Mechanics {#pew-pew-die-combat-mechanics}
 -------------------------------
 
-The motivation behind the original creation of the pew-pew die faces has
-been lost to the rust-red dust-bin of Martian history. However, the
-layout is interesting from a game perspective in that rather than only
-signifying a magnitude of power it can also represent a **direction of
-force** -- and this is the basis of how *Pew Pew, Die* is played and
-scored.
+The motivation behind the original creation of the pew-pew die faces has been lost to the rust-red dust-bin of Martian history. However, the layout is interesting from a game perspective in that rather than only signifying a magnitude of power it can also represent a **direction of force** -- and this is the basis of how *Pew Pew, Die* is played and scored.
 
 Take for example for the brute pew-pew die, shown below:
 
@@ -64,39 +59,26 @@ projects toward each other:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 In the game of *Pew Pew, Die* such a condition would be a draw because
-both dice project the maximum amount of power that each can take toward
-one another -- this is a condition of mutual destruction. However,
-observe a different layout:
+both dice project the maximum amount of power that each can take toward one another -- this is a condition of mutual destruction. However, observe a different layout:
 
  Left player | Right player
  :---: | :---:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](<http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png)
 
-The dice above are both facing in the same direction, but only one (the
-left-most) projects its power toward the other. However, this condition
-is also a draw because when the flat end of a triangle is oriented
-toward an opponent die then that is what is known as a **shield**.
-Therefore, the right-most die absorbs all 3 points of power projected
-from the left-most.
+The dice above are both facing in the same direction, but only one (the left-most) projects its power toward the other. However, this condition is also a draw because when the flat end of a triangle is oriented toward an opponent die then that is what is known as a **shield**.  Therefore, the right-most die absorbs all 3 points of power projected from the left-most.
 
-However, often in *Pew Pew, Die* the orientations and power protections
-are asymmetric. A simple example is the case where a die is facing
-entirely in the wrong direction:
+However, often in *Pew Pew, Die* the orientations and power protections are asymmetric. A simple example is the case where a die is facing entirely in the wrong direction:
 
  Left player | Right player
  :---: | :---:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-brute-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute.png)
 
-As shown, the right-most die is facing in a northward direction neither
-projecting power at its opponent nor presenting a shield. Therefore, in
-this case the left-most die will win this battle as its 3-points of
-power are sufficient to destroy the other die.
+As shown, the right-most die is facing in a northward direction neither projecting power at its opponent nor presenting a shield. Therefore, in this case the left-most die will win this battle as its 3-points of power are sufficient to destroy the other die.
 
 ### Attack and Defense
 
 You'll notice that many of the die faces have two triangle on them.
-These faces provide a combination of attack and defensive capabilities,
-as shown below:
+These faces provide a combination of attack and defensive capabilities, as shown below:
 
 ![jugg east](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png)
 
@@ -109,31 +91,24 @@ example:
  ![L](http://images.fogus.me/games/pyramid-games/images/pd-juggernaut-e.png) | ![R](http://images.fogus.me/games/pyramid-games/images/pd-brute-w.png)
 
 The dice above are oriented in such a way that the left-side die
-projects 3-points of power toward the right-side. However, the left-side
-die has a 2-point shield facing the attack thus absorbing 2-points of
-power leaving only 1-point remaining, not enough to destroy it. At the
-same time, the left-side die projects 3-points of power which is enough
-to destroy the right-side die. Therefore, the left-side die wins this
-match-up.
+projects 3-points of power toward the right-side. However, the left-side die has a 2-point shield facing the attack thus absorbing 2-points of power leaving only 1-point remaining, not enough to destroy it. At the same time, the left-side die projects 3-points of power which is enough to destroy the right-side die. Therefore, the left-side die wins this match-up.
 
-### Life points {#life-points}
+### Life points
 
 The life-points for a given face are defined as follows:
 
--   The total life-points of a face always, correspond to the attacking
-    triangle
--   If the face is oriented only in a defensive posture then the shield
-    defines the life-points
--   If the face is oriented perpendicular to an attack then the triangle
-    that is near to the attacking triangle defines the life-points
+ - The total life-points of a face always, correspond to the attacking
+   triangle
+ - If the face is oriented only in a defensive posture then the shield
+   defines the life-points
+ - If the face is oriented perpendicular to an attack then the
+   triangle that is near to the attacking triangle defines the
+   life-points
 
 Enjoy!
 
 External Links and Inspiration(s)
 ---------------------------------
 
--   The elegant [Bushi Shogi][] is the main motivation for *Pew Pew,
-    Die*
-
-  [Bushi Shogi]: http://www.kolumbus.fi/geodun/bushi/bushi.htm
+ - The elegant [Bushi Shogi](http://www.kolumbus.fi/geodun/bushi/bushi.htm( is the main motivation for *Pew Pew, Die*
   
