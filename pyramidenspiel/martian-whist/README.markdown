@@ -6,11 +6,18 @@ Preparation
 Materials needed:
 
  * 4 Treehouse sets for the normal game or 2 sets for the short game
+ * 1 IceDice color die (optional)
 
 Setup
 -----
 
-Place all of the Treehouse sets into an opaque sack.  Draw from the sack one small, one medium, and one large and make a tree.  Continue this until all of the pyramids have been used to make a row of complete trees.  The game is ready to begin.
+Place all of the Treehouse sets into an opaque sack.  Draw from the sack one small, one medium, and one large and make a tree.  Continue this until all of the pyramids have been used to make a row of complete trees.  At this point, trump may be determined by rolling an IceDice color die, shown below:
+
+![color-die](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/id-die-faces.png)
+
+The color rolled will determine the trump for the game, or if the atomic symbol is rolled there will bo no trump.  If you do not have a color die then you may use the color of the last pyramid drawn as the trump.
+
+The game is ready to begin.
 
 Game-play
 =========
