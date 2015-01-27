@@ -13,7 +13,7 @@ Setup
 
 Place all of the Treehouse sets into an opaque sack.  Draw from the sack one small, one medium, and one large and make a tree.  Continue this until all of the pyramids have been used to make a row of complete trees.  At this point, trump may be determined by rolling an IceDice color die, shown below:
 
-![color-die](http://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/id-die-faces.png)
+![color-die](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/graphics/png/id-die-faces.png)
 
 The color rolled will determine the trump for the game, or if the atomic symbol is rolled there will bo no trump.  If you do not have a color die then you may use the color of the last pyramid drawn as the trump.
 
