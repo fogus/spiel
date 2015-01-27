@@ -47,15 +47,15 @@ The player winning the trick will reserve their tree for final scoring, while th
 Resolving tricks
 ----------------
 
-To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: Black > Red > Yellow > Green > Blue:
+To resolve tricks the color of the pyramids used determines the higher-ranking tree.  The ranking of the pyramid colors are: *Trump* > Black > Red > Yellow > Green > Blue:
 
 ![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/color-ranks.png)
 
-Solid color trees of will resolve according to the color rankings:
+Solid color trees of will resolve according to the color rankings or trump:
 
 ![solids](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-solid.png)
 
-Trees of a single color will always beat trees of mixed colors:
+Trees of a single color will always beat trees of mixed colors, even those containing trumps:
 
 ![solid-v-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/solid-v-mixed.png)
 
