@@ -24,5 +24,11 @@ Final scoring
 =============
 
 
+Design notes
+============
+
+Montauk is an adaptation of the wonderful game Marrakesh by Prince Joli Quentin Kansil to the Icehouse game system.
+
+
 *Montauk* is &copy;2015, Michael Fogus
 
