@@ -164,7 +164,10 @@
      transform="translate(0,1238.1892)">
     <g
        id="g5282"
-       transform="matrix(0.84,0,0,0.84,592.21731,-248.57631)">
+       transform="matrix(0.84,0,0,0.84,592.21731,-248.57631)"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc"
@@ -180,7 +183,10 @@
     </g>
     <g
        transform="matrix(0.84,0,0,0.84,782.2173,-248.57631)"
-       id="g5286">
+       id="g5286"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 309,-141.00002 c 0,-5 -4,-9 -9,-9 l -180,0 c -5,0 -9,4 -9,9 l 0,230.000003 c 0,5 4,9 9,9 l 180,0 c 5,0 9,-4 9,-9 l 0,-230.000003 z"
@@ -196,7 +202,10 @@
     </g>
     <g
        id="g5292"
-       transform="matrix(0.84,0,0,0.84,972.21729,-248.57631)">
+       transform="matrix(0.84,0,0,0.84,972.21729,-248.57631)"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc"
@@ -212,7 +221,10 @@
     </g>
     <g
        transform="matrix(0.84,0,0,0.84,1164.2173,-248.57631)"
-       id="g5298">
+       id="g5298"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 309,-141.00002 c 0,-5 -4,-9 -9,-9 l -180,0 c -5,0 -9,4 -9,9 l 0,230.000003 c 0,5 4,9 9,9 l 180,0 c 5,0 9,-4 9,-9 l 0,-230.000003 z"
@@ -898,7 +910,7 @@
     <path
        inkscape:export-ydpi="28.23"
        inkscape:export-xdpi="28.23"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/setup.png"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
        inkscape:connector-curvature="0"
        id="path9339"
        d="m 297.42261,-106.382 1126.93309,0"
@@ -914,7 +926,7 @@
     <text
        inkscape:export-ydpi="28.23"
        inkscape:export-xdpi="28.23"
-       inkscape:export-filename="/Users/fogus/src/spiel/pyramidenspiel/logistics/graphics/setup.png"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
        sodipodi:linespacing="125%"
        id="text10555"
        y="-253.46033"
@@ -971,22 +983,34 @@
        sodipodi:nodetypes="ccccccccc"
        id="path4450"
        d="m 1598.2893,-336.19313 c 2.6727,0 4.8108,-1.8017 4.8108,-4.05381 l 0,-81.0763 c 0,-2.25212 -2.1381,-4.05381 -4.8108,-4.05381 l -122.9419,0 c -2.6726,0 -4.8107,1.80169 -4.8107,4.05381 l 0,81.0763 c 0,2.25211 2.1381,4.05381 4.8107,4.05381 l 122.9419,0 z"
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23" />
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1598.2893,-225.88448 c 2.6727,0 4.8108,-1.8017 4.8108,-4.05381 l 0,-81.0763 c 0,-2.25212 -2.1381,-4.05381 -4.8108,-4.05381 l -122.9419,0 c -2.6726,0 -4.8107,1.80169 -4.8107,4.05381 l 0,81.0763 c 0,2.25211 2.1381,4.05381 4.8107,4.05381 l 122.9419,0 z"
        id="path4456"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23" />
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
        id="path4462"
        d="m 1598.2893,-112.7474 c 2.6727,0 4.8108,-1.8017 4.8108,-4.05381 l 0,-81.0763 c 0,-2.25212 -2.1381,-4.05381 -4.8108,-4.05381 l -122.9419,0 c -2.6726,0 -4.8107,1.80169 -4.8107,4.05381 l 0,81.0763 c 0,2.25211 2.1381,4.05381 4.8107,4.05381 l 122.9419,0 z"
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23" />
     <g
        transform="matrix(0.84,0,0,0.84,210.21731,-248.57631)"
-       id="g4466">
+       id="g4466"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 309,-141.00002 c 0,-5 -4,-9 -9,-9 l -180,0 c -5,0 -9,4 -9,9 l 0,230.000003 c 0,5 4,9 9,9 l 180,0 c 5,0 9,-4 9,-9 l 0,-230.000003 z"
@@ -1002,7 +1026,10 @@
     </g>
     <g
        id="g4472"
-       transform="matrix(0.84,0,0,0.84,400.2173,-248.57631)">
+       transform="matrix(0.84,0,0,0.84,400.2173,-248.57631)"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc"
@@ -1022,7 +1049,10 @@
        x="419.09247"
        y="-189.19421"
        id="text5277"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23"><tspan
          sodipodi:role="line"
          id="tspan5279"
          x="419.09247"
@@ -1033,7 +1063,10 @@
        y="-188.93054"
        x="615.66815"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23"><tspan
          y="-188.93054"
          x="615.66815"
          id="tspan5283"
@@ -1044,7 +1077,10 @@
        x="805.17279"
        y="-189.21375"
        id="text5285"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23"><tspan
          sodipodi:role="line"
          id="tspan5287"
          x="805.17279"
@@ -1055,7 +1091,10 @@
        y="-189.19421"
        x="997.50586"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23"><tspan
          y="-189.19421"
          x="997.50586"
          id="tspan5291"
@@ -1066,7 +1105,10 @@
        x="1177.111"
        y="-189.47742"
        id="text5293"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23"><tspan
          sodipodi:role="line"
          id="tspan5295"
          x="1177.111"
@@ -1077,7 +1119,10 @@
        y="-189.21375"
        x="1372.2725"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/play-area.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23"><tspan
          y="-189.21375"
          x="1372.2725"
          id="tspan5299"
