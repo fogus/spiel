@@ -7,8 +7,14 @@ Materials needed:
 
  * 1 Treehouse set
  * A deck of playing cards
- * 1 6-sided die
- * 2 pieces of paper
+ * 1 pyramid die
+ * Some paper and a pen
+
+On the sheets of paper, draw a playing surface for each player in the following configuration:
+
+TODO
+
+
 
 Setup
 -----
