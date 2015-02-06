@@ -9,6 +9,7 @@ Materials needed:
  * A deck of playing cards
  * 1 pyramid die
  * Some paper and a pen
+ * A set of Twin Win cards (optional for the advanced game)
 
 On the sheets of paper, draw a playing surface for each player in the following configuration:
 
