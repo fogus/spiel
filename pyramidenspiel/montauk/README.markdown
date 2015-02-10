@@ -19,6 +19,10 @@ From a treehouse set, give each player all of the pyramids of two colors (i.e. t
 Setup
 -----
 
+First, shuffle all of the cards thouroughly and place them to the side.  Next, each player takes a single pyramid and rolls a die for it.  Depending on the number rolled, the pyramid is placed onto the same numbered spot of the play area.  All of the other pyramids are placed in the same way so that the player boards look like the following:
+
+![playerboard-pop](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/play-area-populated.png)
+
 The game is ready to begin.
 
 Game-play
