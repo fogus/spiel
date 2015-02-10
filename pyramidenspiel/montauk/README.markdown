@@ -14,7 +14,7 @@ On the sheets of paper, draw a playing surface for each player in the following 
 
 ![playerboard](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/play-area.png)
 
-From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each).  The fifth color is not used.
+From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each).  The black pyramids are kept off to the side and are used as *null* markers.
 
 Setup
 -----
