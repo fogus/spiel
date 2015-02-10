@@ -9,11 +9,12 @@ Materials needed:
  * A deck of playing cards
  * 1 pyramid die
  * Some paper and a pen
- * A set of Twin Win cards (optional for the advanced game)
 
 On the sheets of paper, draw a playing surface for each player in the following configuration:
 
 ![playerboard](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/play-area.png)
+
+From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each).  The fifth color is not used.
 
 Setup
 -----
