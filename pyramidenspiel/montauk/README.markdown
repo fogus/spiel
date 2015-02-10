@@ -13,9 +13,7 @@ Materials needed:
 
 On the sheets of paper, draw a playing surface for each player in the following configuration:
 
-TODO
-
-
+![playerboard](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/play-area.png)
 
 Setup
 -----
