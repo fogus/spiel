@@ -35,7 +35,9 @@ The points of the cards are used to move the pyramids on the player board from t
 Card play
 ---------
 
-TODO
+The game is played over the course of 12 rounds.  At the start of each round six cards are dealt to each player.  The player with the fewest points overall goes first, otherwise the player with the longest hair does.
+
+
 
 
 Final scoring
