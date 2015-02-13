@@ -40,7 +40,12 @@ The game is played over the course of 12 rounds.  At the start of each round six
 Placing
 -------
 
-The leading player chooses a card from their hand and places it *face down* in front of theor play area.  Once a card is laid it may not be taken back.  The following player then chooses a card from their hand and places it *face up* in front of their play area.
+The leading player chooses a card from their hand and places it *face down* in front of theor play area.  Once a card is laid it may not be taken back.  The following player then chooses a card from their hand and places it *face up* in front of their play area.  The leading player then turns their card over and the result of the trick is determined.
+
+Tricks
+------
+
+TODO
 
 
 Final scoring
