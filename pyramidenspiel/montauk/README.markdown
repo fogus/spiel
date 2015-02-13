@@ -32,12 +32,15 @@ Montauk is played with a standard 52-card deck where Ace to 6 and 7 to Queen are
 
 The points of the cards are used to move the pyramids on the player board from the higher numbered boxes off the board.  For example, a pyramid on the 3 spot requires a 3 (or 9) and higher to remove it from the board.  However, to move a pyramid from the 6 spot to the 4 spot requires exactly a 2 (or 8).  This is similar to the way that "bearing off" works in Backgammon, but with card play instead.
 
-Card play
----------
+The Deal
+--------
 
 The game is played over the course of 12 rounds.  At the start of each round six cards are dealt to each player.  The player with the fewest points overall goes first, otherwise the player with the longest hair does.
 
+Placing
+-------
 
+The leading player chooses a card from their hand and places it *face down* in front of theor play area.  Once a card is laid it may not be taken back.  The following player then chooses a card from their hand and places it *face up* in front of their play area.
 
 
 Final scoring
