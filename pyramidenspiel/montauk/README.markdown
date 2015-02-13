@@ -30,8 +30,12 @@ Game-play
 
 Montauk is played with a standard 52-card deck where Ace to 6 and 7 to Queen are worth 1 to 6 points respectively.  The kings on the other hand are worth 0 points.
 
-The points of the cards are used to move the pyramids on the player board from the higher numbered boxes off the board.  For example, a pyramid on the 3 spot requires a 3 (or 9) and higher to remove it from the board.  However, to move a pyramid from the 6 spot to the 4 spot requires exactly a 2 (or 8).  This is similar to the way that "bearing off" works in Backgammon.
+The points of the cards are used to move the pyramids on the player board from the higher numbered boxes off the board.  For example, a pyramid on the 3 spot requires a 3 (or 9) and higher to remove it from the board.  However, to move a pyramid from the 6 spot to the 4 spot requires exactly a 2 (or 8).  This is similar to the way that "bearing off" works in Backgammon, but with card play instead.
 
+Card play
+---------
+
+TODO
 
 
 Final scoring
