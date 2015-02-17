@@ -67,12 +67,15 @@ Again, when a trick is won with a card of the same suit then an extra card is dr
 
 If the extra drawn card is exactly the same as the card that won the trick then its rank can be spent six times.
 
-### Cards of the same rank (spend 4)
+### Cards of the same rank (spend 5 - 10)
 
-When a trick consists of two cards of the same rank then the suit decides the winner, who then spends the rank played four times.
+When a trick consists of two cards of the same rank then the suit decides the winner, who then spends the rank played four times.  In addition, the winner draws an extra card and spends it either 1, 4, or 6 times depending on the suit and ranks matches as described above.
 
+### Exact same cards (10 plays)
 
+When a trick consists of the same exact cards then the player who played the face-up card wins the trick.  The winner may then spend the rank six times.  After this, the player draws an extra card and plays it four times regardless of the suit or rank match.
 
+Cards played to tricks are always made visible to both players after they are resolved.
 
 Final scoring
 =============
