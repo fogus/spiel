@@ -45,7 +45,10 @@ The leading player chooses a card from their hand and places it *face down* in f
 Tricks
 ------
 
+When the cards are turned over, the suits are used to determine the player who won the trick.  The suits are ranked according to the typical Bridge rankings except that clubs always beat spades, as shown below:
+
 ![suit ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/suit-ranks.png)
+
 
 
 Final scoring
