@@ -45,7 +45,7 @@ The leading player chooses a card from their hand and places it *face down* in f
 Tricks
 ------
 
-TODO
+
 
 
 Final scoring
