@@ -51,6 +51,11 @@ When the cards are turned over, the suits are used to determine the player who w
 
 The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  The number of pyramids that the winning player can move based on the cards in the trick are detailed next.
 
+Bearing off
+-----------
+
+Based on the cards won in the trick, players may spend the value on their ranks according to the following guidelines.
+
 ### Cards of differing suits (spend 2)
 
 When the trick consists of two cards of differing suits then the winning player may move two pyramids, each according to the ranks of the cards.  The winning player may choose the order of the ranks spent and to which pyramids they may be applied.
@@ -74,6 +79,8 @@ When a trick consists of two cards of the same rank then the suit decides the wi
 ### Exact same cards (10 plays)
 
 When a trick consists of the same exact cards then the player who played the face-up card wins the trick.  The winner may then spend the rank six times.  After this, the player draws an extra card and plays it four times regardless of the suit or rank match.
+
+
 
 Cards played to tricks are always made visible to both players after they are resolved.
 
