@@ -95,8 +95,9 @@ If a player wins a trick and cannot bear off any of their pyramids then they wil
 
 If one player is able to fill the three slots in their vault then the player is under pressure to do the same.  Indeed, once a player fills their vault then the other player must win the remaining tricks.  If they're unable to do so then they will receive a black pyramid each time that that fail to win a trick.
 
-Final scoring
+Round scoring
 =============
+
 
 
 Design notes
