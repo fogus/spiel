@@ -49,7 +49,9 @@ When the cards are turned over, the suits are used to determine the player who w
 
 ![suit ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/suit-ranks.png)
 
-The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  The number of pyramids that the winning player can move based on the cards in the trick are detailed next.
+The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  Cards played to tricks are always made visible to both players after they are resolved.
+
+The number of pyramids that the winning player can move based on the cards in the trick are detailed next.
 
 Bearing off
 -----------
@@ -80,9 +82,18 @@ When a trick consists of two cards of the same rank then the suit decides the wi
 
 When a trick consists of the same exact cards then the player who played the face-up card wins the trick.  The winner may then spend the rank six times.  After this, the player draws an extra card and plays it four times regardless of the suit or rank match.
 
+Penalties
+---------
 
+Based on certain circumstances in the game, players may receive black pyramids in their vaults.  The two circumstances are as follows.
 
-Cards played to tricks are always made visible to both players after they are resolved.
+### Inability to bear off
+
+If a player wins a trick and cannot bear off any of their pyramids then they will receive a black pyramid as a penalty instead.  However, they will still lead the next trick.
+
+### Failure to win tricks when behind
+
+If one player is able to fill the three slots in their vault then the player is under pressure to do the same.  Indeed, once a player fills their vault then the other player must win the remaining tricks.  If they're unable to do so then they will receive a black pyramid each time that that fail to win a trick.
 
 Final scoring
 =============
