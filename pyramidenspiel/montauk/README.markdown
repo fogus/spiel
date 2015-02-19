@@ -34,6 +34,7 @@ The points of the cards are used to move the pyramids on the player board from t
 
 
 
+
 Final scoring
 =============
 
