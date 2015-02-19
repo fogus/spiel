@@ -33,14 +33,26 @@ The rules governing which cards you take pyramids for sowing are as follows:
  * If the final pyramid sown from the previous turn landed on a 
    non-empty card then you must sow from that card.
 
+While sowing onto cards you may build structures if possible.  That is, you may stack pyramids on cards but only smaller pyramids may go onto larger pyramids.  If while doing this you ever make a tree on a non-vault card you may choose, on the next turn only, to sow the tree either as a whole or to sow it as three pieces.  However, if it's sown as a whole then it must be laid out on the card in pieces.
+
 Game ends
 =========
 
 The game ends when one of the following occurs:
 
- * You sow the last pyramid in a turn onto an empty card.
+ * You sow the last pyramid or tree in a turn onto an empty card.
  * You successfully sow all of the pyramids into the vault.
 
+Final scoring
+=============
+
+Only pyramids in the vault are scored, according to the following:
+
+ * Non-trees are worth 1 point each
+ * Mixed color trees are worth 4 points each
+ * Mono-color trees are worth 7 points each
+
+For the small game a perfect score is 28, while for the large game it's 56.
 
 *Minimax* is &copy;2015, Michael Fogus
 
