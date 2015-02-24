@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0
 %%Title: Printable Havannah Boards
-%%Creator: Zhen Wang [zmxv.com]
-%%Pages: 7
+%%Creator: Fogus [www.fogus.me]
+%%Pages: 1
 %%BoundingBox: 0 0 612 792
 %%DocumentPaperSizes: Letter
 %%EndComments
@@ -32,7 +32,7 @@
   pop pop pop
 } bind def
 
-/board {
+/hexhex {
   dup 1 sub dup neg -1 exch {
     dup abs 2 index 2 mul 1 sub exch sub
     column
@@ -44,28 +44,4 @@
 
 %%Page: 0
 /hw {25} bind def
-4 board showpage
-
-%%Page: 1
-/hw {20} bind def
-5 board showpage
-
-%%Page: 2
-/hw {16} bind def
-6 board showpage
-
-%%Page: 3
-/hw {14} bind def
-7 board showpage
-
-%%Page: 4
-/hw {12} bind def
-8 board showpage
-
-%%Page: 5
-/hw {11} bind def
-9 board showpage
-
-%%Page: 6
-/hw {10} bind def
-10 board showpage
+4 hexhex showpage
