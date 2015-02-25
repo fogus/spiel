@@ -22,9 +22,9 @@ The game is ready to begin.
 Game-play
 =========
 
-*Minimax* is a Mancala game played on a circular field.  On each turn, you will take all of the pyramids on a card and sows them, one by one on each subsequent card (including the vault) in turn, in a counter-clockwise fashion, until the pyramids taken are distributed. 
+*Minimax* is a Mancala game played on a circular field.  On each turn, you will take all of the pyramids on a card and sow them, one by one on each subsequent card (including the vault) in turn, in a counter-clockwise fashion, until the pyramids taken are distributed. 
 
-The rules governing which cards you take pyramids for sowing are as follows:
+The rules governing which cards you may sow from are as follows:
 
  * While you can sow into the vault, you may never sow from the vault.
  * On the first turn you can sow from any card that you wish.
@@ -33,14 +33,14 @@ The rules governing which cards you take pyramids for sowing are as follows:
  * If the final pyramid sown from the previous turn landed on a 
    non-empty card then you must sow from that card.
 
-While sowing onto cards you may build structures if possible.  That is, you may stack pyramids on cards but only smaller pyramids may go onto larger pyramids.  If while doing this you ever make a tree on a non-vault card you may choose, on the next turn only, to sow the tree either as a whole or to sow it as three pieces.  However, if it's sown as a whole then it must be laid out on the card in pieces.
+While sowing onto cards you may build structures if possible.  That is, you may stack pyramids on cards but only smaller pyramids may go onto larger pyramids.  If while doing this you ever make a tree on a non-vault card you may choose, on the next turn only, to sow the tree either as a whole or to sow it as three separate pieces.  However, if the tree is sown as a whole then it must be sown in pieces on following turns.
 
 Game ends
 =========
 
 The game ends when one of the following occurs:
 
- * You sow the last pyramid or tree in a turn onto an empty card.
+ * You sow the last pyramid or tree during a turn onto an empty card.
  * You successfully sow all of the pyramids into the vault.
 
 Final scoring
