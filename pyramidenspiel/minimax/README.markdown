@@ -40,8 +40,8 @@ Game ends
 
 The game ends when one of the following occurs:
 
- * You sow the last pyramid or tree during a turn onto an empty card.
- * You successfully sow all of the pyramids into the vault.
+ * You end a turn by sowing a single pyrtamid onto an empty card (not the vault)
+ * You sow the final available pyramid into the vault
 
 Final scoring
 =============
