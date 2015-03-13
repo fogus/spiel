@@ -28,10 +28,10 @@ The rules governing which cards you may sow from are as follows:
 
  * While you can sow into the vault, you may never sow from the vault.
  * On the first turn you can sow from any card that you wish.
- * If the final pyramid sown from the previous turn landed in the 
-   vault then you may sow from any card that you wish.
  * If the final pyramid sown from the previous turn landed on a 
    non-empty card then you must sow from that card.
+ * If the final pyramid sown from the previous turn landed in the 
+   vault then you may sow from any card that you wish.
 
 While sowing onto cards and the vault you may build stacks "in passing" if possible, but you can never rearrange existing pyramids to form stacks.  That is, while sowing pyramids you can chose to stack a sown piece onto an existing piece or stack directly, but only smaller pyramids may go onto larger pyramids.  If while doing this you ever make a tree on a non-vault card you may choose, on the next turn only, to sow the tree either as a whole or to sow it as three separate pieces.  When sown as a single piece then you must break the tree into its parts on the card that they were sown onto.
 
