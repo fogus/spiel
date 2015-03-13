@@ -15,7 +15,7 @@ Place the cards in a wheel configuration, like in the image below:
 
 ![wheel](https://farm8.staticflickr.com/7389/16396477608_008d812ce8_z_d.jpg)
 
-The cards comprising the wheel should all be the same except for one, called the *vault*.  Finally, from a Treehouse set take four trios and randomly distribute the pyramids amongst all cards but the vault, two to each card.
+The cards comprising the wheel should all be the same except for one, called the *vault*.  Finally, from a Treehouse set take four trios and randomly distribute the pyramids amongst all cards but the vault, three to each card.
 
 The game is ready to begin.
 
@@ -33,7 +33,7 @@ The rules governing which cards you may sow from are as follows:
  * If the final pyramid sown from the previous turn landed on a 
    non-empty card then you must sow from that card.
 
-While sowing onto cards you may build structures if possible.  That is, you may stack pyramids on cards but only smaller pyramids may go onto larger pyramids.  If while doing this you ever make a tree on a non-vault card you may choose, on the next turn only, to sow the tree either as a whole or to sow it as three separate pieces.  However, if the tree is sown as a whole then it must be sown in pieces on following turns.
+While sowing onto cards you may build structures "in passing" if possible.  That is, while sowing pyramids you can chose to stack a sown piece onto an existing piece or stack directly, but only smaller pyramids may go onto larger pyramids.  If while doing this you ever make a tree on a non-vault card you may choose, on the next turn only, to sow the tree either as a whole or to sow it as three separate pieces.  However, if the tree is sown as a whole then it must be sown in pieces on following turns.
 
 Game ends
 =========
