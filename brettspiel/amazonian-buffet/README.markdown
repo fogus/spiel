@@ -61,8 +61,14 @@ Players then layout their three Poker hands.  Both players may adjust the conten
 
 ![claims-line](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/amazonian-buffet/graphics/hands-rank.png)
 
-If a player is unable to build 5-card hands then they may build 3 card hands and resolve according to the 
+If a player is unable to build 5-card hands then the hands that they build will still resolve according to the hierarchy above.  In the case where two hands are functionally equivalent (the same level in the hierarchy) then the cards in the hands are compared from the highest rank to the lowest and resolved according to the following suit ranks (top to bottom):
 
-Scoring
--------
+ 1. Spades
+ 2. Hearts
+ 3. Diamonds
+ 4. Clubs
+
+The player who wins two out of the three built hands wins the game.
+
+*Amazonian Buffet* is &copy;2015, Michael Fogus
 
