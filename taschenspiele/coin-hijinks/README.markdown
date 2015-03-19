@@ -13,7 +13,7 @@ The goal of *Coin Hijinks* is to achieve one of the following wining conditions:
  1. You get all three of one sized coin in your home 
     row, where each cell has at least one coin occupying it
  2. Your opponent's row contains all of the coins, in any
-    legal arrangement and in any or all cells
+    legal arrangement
 
 Once either of these conditions occur, the game ends.
 
@@ -24,7 +24,7 @@ To start each turn the player picks up the three coins, mixes them in hand, and 
 
 ## Moving coins
 
-The coins that are allowed to be moved are only those whose faces are the majority. In other words, if the large coin shows heads, medium tails, and small large then only the large and small coins can be moved.
+The coins that are allowed to be moved are only those whose faces are the majority. In other words, if the large coin shows heads, medium tails, and small heads then only the large and small coins can be moved.
 
 ## Movement constraints
 
@@ -35,6 +35,8 @@ There are constraints about how coins may be moved however:
  * You can however move coins within an opponent's home row
  * A pile of coins can move if a movable coin has other coins
    resting on top of it
+ * Once a coin or pile has been moved during a turn it may not 
+   be moved again for the remainder of that turn
 
 The other player then takes their turn.
 
