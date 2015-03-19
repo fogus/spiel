@@ -33,7 +33,7 @@ A pawn in *Amazonia Buffet* moves like a queen in Chess: any number of possible 
 
 That is, when a pawn moves in a diagonal direction it moves along any of the cards connected at their corners in a straight line.  In the illustration above, any of the bold cards can be reached by the pawn starting at the 5 of hearts.
 
-As you might have guessed, pawns may not pass over obstructions along a path such as claim stones or other pawns, nor proceed beyond the edges of the grid.
+As you might have guessed, pawns may not pass over obstructions along a path such as claim stones or other pawns, nor proceed beyond the edges of the grid.  The only other constraint on movement is that if two pawns of the same color reside on the same row or column, then the move must take them out of alignment.
 
 Claiming
 --------
@@ -46,13 +46,22 @@ If a pawn moves to a different column or row than the other pawn of the same col
 
 However, if a pawn moves into the same column or row as the other pawn of the same color then any one of the cards between the two pawns may be claimed:
 
-![claims](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/amazonian-buffet/graphics/claims-line.png)
+![claims-line](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/amazonian-buffet/graphics/claims-line.png)
 
-
+In either case, pawns and claim stones along the path of a row, column, or intersection are not considered obstructions for the purpose of claiming cards.
 
 End
 ----
 
+Play continues until both players do not claim any cards for two consecutive turns.  Once this occurs, the cards claimed are gathered up by the corresponding players.
+
+### Bulding Poker hands
+
+TODO
+
+### Resolving Poker hands
+
+TODO
 
 Scoring
 -------
