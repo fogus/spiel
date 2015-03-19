@@ -53,15 +53,15 @@ In either case, pawns and claim stones along the path of a row, column, or inter
 End
 ----
 
-Play continues until both players do not claim any cards for two consecutive turns.  Once this occurs, the cards claimed are gathered up by the corresponding players.
-
-### Bulding Poker hands
-
-TODO
+Play continues until both players do not claim any cards for two consecutive turns.  Once this occurs, the cards claimed are gathered up by the corresponding players.  These cards are then used to build three Poker hands of 5 cards each.
 
 ### Resolving Poker hands
 
-TODO
+Players then layout their three Poker hands.  Both players may adjust the contents of the hands in response to the other player's hands.  Hands are resolved according to the following heirarchy (top to bottom):
+
+![claims-line](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/amazonian-buffet/graphics/hands-rank.png)
+
+If a player is unable to build 5-card hands then they may build 3 card hands and resolve according to the 
 
 Scoring
 -------
