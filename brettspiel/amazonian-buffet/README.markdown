@@ -7,7 +7,7 @@ Preparation
  * A set of Go stones
  * Four pawns, two each of white and black
 
-Shuffle the cards and lay 48 of them face up in a 6x8 grid.  The remaining 4 cards are dealt out two to each player.  Finally, each player gets all of the stones of a single color.
+Shuffle the cards and lay 48 of them face up in a 6x8 grid.  The remaining 4 cards are dealt to the players and each gets all of the stones of a single color.  Finally, the pawns are placed on the four corner cards of the board, with different colors residing on opposite corners.
 
 Goal
 ====
@@ -38,7 +38,17 @@ As you might have guessed, pawns may not pass over obstructions along a path suc
 Claiming
 --------
 
-When a pawn finally comes to rest after a move you may claim a card 
+Once a pawn is moved, a player may place a stone on a legal card.  This a called *a claim*.
+
+If a pawn moves to a different column or row than the other pawn of the same color then a card may be claimed at either of the two intersections formed:
+
+![claims](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/amazonian-buffet/graphics/claims.png)
+
+However, if a pawn moves into the same column or row as the other pawn of the same color then any one of the cards between the two pawns may be claimed:
+
+![claims](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/amazonian-buffet/graphics/claims-line.png)
+
+
 
 End
 ----

@@ -1249,10 +1249,10 @@
   <g
      id="king_diamond"
      transform="translate(-711.89773,245.80895)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
-     style="opacity:1">
+     style="opacity:0.25">
     <use
        id="use5096"
        x="948"
@@ -2220,7 +2220,7 @@
   </g>
   <g
      id="4_heart"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:1">
@@ -2299,7 +2299,7 @@
   <g
      id="1_spade"
      transform="translate(156.82173,-123.26918)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -2354,7 +2354,7 @@
   <g
      id="10_spade"
      transform="translate(-316.68038,-245.50466)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -2481,7 +2481,7 @@
   <g
      id="3_club"
      transform="translate(315.83167,0.72940339)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -2552,7 +2552,7 @@
   <g
      id="king_spade"
      transform="translate(-631.66335,-368.34872)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -3459,7 +3459,7 @@
   <g
      id="queen_diamond"
      transform="translate(-553.61719,-0.72940341)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -4781,7 +4781,7 @@
   <g
      id="3_diamond"
      style="opacity:0.25"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
     <use
@@ -4851,7 +4851,7 @@
   <g
      id="3_spade"
      style="opacity:0.25"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
     <use
@@ -4920,8 +4920,8 @@
   </g>
   <g
      id="4_club"
-     style="opacity:1"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     style="opacity:0.25"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
     <use
@@ -4998,7 +4998,7 @@
   </g>
   <g
      id="4_diamond"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:1">
@@ -5076,7 +5076,7 @@
   </g>
   <g
      id="5_heart"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5162,7 +5162,7 @@
   </g>
   <g
      id="5_spade"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5249,7 +5249,7 @@
   <g
      id="6_club"
      style="opacity:0.25"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
     <use
@@ -5342,7 +5342,7 @@
   </g>
   <g
      id="6_heart"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5436,7 +5436,7 @@
   </g>
   <g
      id="6_spade"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5531,7 +5531,7 @@
   <g
      id="7_diamond"
      style="opacity:0.25"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
     <use
@@ -5632,7 +5632,7 @@
   </g>
   <g
      id="7_heart"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5735,7 +5735,7 @@
   <g
      id="9_spade"
      transform="translate(-237.05611,-123.26918)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5854,7 +5854,7 @@
   <g
      id="10_club"
      transform="translate(-552.15838,-0.72940341)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:0.25">
@@ -5982,7 +5982,7 @@
      id="jack_diamond"
      transform="translate(-315.83168,246.32472)"
      style="opacity:0.25"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
     <use
@@ -8924,7 +8924,7 @@
   <g
      id="g2132"
      transform="matrix(0.0864365,0,0,0.0864365,209.11331,40.867694)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001"
      style="opacity:1">
@@ -8969,13 +8969,13 @@
      id="path11496"
      d="M 276.12368,392.51914 276.5427,106.23292"
      style="fill:none;stroke:#3382f6;stroke-width:6.28793716000000025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.28793753999999971, 6.28793753999999971;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001" />
   <g
      inkscape:export-ydpi="102.22001"
      inkscape:export-xdpi="102.22001"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims-line.png"
      transform="matrix(0.0864365,0,0,0.0864365,207.56601,407.57739)"
      id="g11506">
     <path

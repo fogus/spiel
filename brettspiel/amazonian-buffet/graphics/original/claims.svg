@@ -29,7 +29,7 @@
      id="namedview4142"
      showgrid="false"
      inkscape:zoom="1.9388634"
-     inkscape:cx="422.14345"
+     inkscape:cx="330.85285"
      inkscape:cy="368.94284"
      inkscape:window-x="580"
      inkscape:window-y="71"
@@ -666,7 +666,8 @@
          cx="639.5"
          cy="9"
          r="3.25"
-         id="circle298" />
+         id="circle298"
+         d="m 642.75,9 c 0,1.794925 -1.45507,3.25 -3.25,3.25 -1.79493,0 -3.25,-1.455075 -3.25,-3.25 0,-1.7949254 1.45507,-3.25 3.25,-3.25 1.79493,0 3.25,1.4550746 3.25,3.25 z" />
     </g>
     <g
        id="it10"
@@ -862,7 +863,8 @@
          cx="703.5"
          cy="114"
          r="3.25"
-         id="circle367" />
+         id="circle367"
+         d="m 706.75,114 c 0,1.79493 -1.45507,3.25 -3.25,3.25 -1.79493,0 -3.25,-1.45507 -3.25,-3.25 0,-1.79493 1.45507,-3.25 3.25,-3.25 1.79493,0 3.25,1.45507 3.25,3.25 z" />
       <path
          d="M700.25,114v-5.5c0,0-0.25-3.25,3.23-3.25c1.08,0,2.8,0.5,3.02,2.25"
          id="path369" />
@@ -1246,6 +1248,125 @@
        fy="-25.866590"
        r="93.594978" />
   </defs>
+  <g
+     id="9_spade"
+     transform="translate(-237.05611,-123.26918)"
+     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
+     inkscape:export-xdpi="102.22001"
+     inkscape:export-ydpi="102.22001"
+     style="opacity:0.25">
+    <use
+       id="use885"
+       x="632"
+       y="369"
+       width="1027"
+       height="615"
+       xlink:href="#cf" />
+    <use
+       id="use887"
+       x="1"
+       y="368.5"
+       width="1027"
+       height="615"
+       xlink:href="#it9"
+       style="stroke:#000000" />
+    <use
+       id="use889"
+       x="-1"
+       y="369.5"
+       width="1027"
+       height="615"
+       xlink:href="#ib9"
+       style="stroke:#000000" />
+    <use
+       transform="translate(640.5,393.5)"
+       id="use891"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#ss" />
+    <use
+       transform="matrix(-1,0,0,-1,702.5,467.5)"
+       id="use893"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#ss" />
+    <use
+       transform="translate(655.5,390.5)"
+       id="use895"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="translate(655.5,417.25)"
+       id="use897"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="matrix(-1,0,0,-1,655.5,443.75)"
+       id="use899"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="matrix(-1,0,0,-1,655.5,470.5)"
+       id="use901"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="translate(671.5,430.5)"
+       id="use903"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="translate(687.5,390.5)"
+       id="use905"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="translate(687.5,417.25)"
+       id="use907"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="matrix(-1,0,0,-1,687.5,443.75)"
+       id="use909"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+    <use
+       transform="matrix(-1,0,0,-1,687.5,470.5)"
+       id="use911"
+       x="0"
+       y="0"
+       width="1027"
+       height="615"
+       xlink:href="#sl" />
+  </g>
   <g
      id="king_diamond"
      transform="translate(-711.89773,245.80895)"
@@ -4920,7 +5041,7 @@
   </g>
   <g
      id="4_club"
-     style="opacity:1"
+     style="opacity:0.25"
      inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
      inkscape:export-xdpi="102.22001"
      inkscape:export-ydpi="102.22001">
@@ -5341,100 +5462,6 @@
        xlink:href="#cl" />
   </g>
   <g
-     id="6_heart"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
-     inkscape:export-xdpi="102.22001"
-     inkscape:export-ydpi="102.22001"
-     style="opacity:1">
-    <use
-       id="use544"
-       x="395"
-       y="246"
-       width="1027"
-       height="615"
-       xlink:href="#cf" />
-    <use
-       id="use546"
-       stroke="#df0000"
-       x="1"
-       y="245.5"
-       width="1027"
-       height="615"
-       xlink:href="#it6" />
-    <use
-       id="use548"
-       stroke="#df0000"
-       x="-1"
-       y="246.5"
-       width="1027"
-       height="615"
-       xlink:href="#ib6" />
-    <use
-       transform="translate(403.5,270.5)"
-       id="use550"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hs" />
-    <use
-       transform="matrix(-1,0,0,-1,465.5,344.5)"
-       id="use552"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hs" />
-    <use
-       transform="translate(418.5,267.5)"
-       id="use554"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hl" />
-    <use
-       transform="translate(418.5,307.5)"
-       id="use556"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hl" />
-    <use
-       transform="matrix(-1,0,0,-1,418.5,347.5)"
-       id="use558"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hl" />
-    <use
-       transform="translate(450.5,267.5)"
-       id="use560"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hl" />
-    <use
-       transform="translate(450.5,307.5)"
-       id="use562"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hl" />
-    <use
-       transform="matrix(-1,0,0,-1,450.5,347.5)"
-       id="use564"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#hl" />
-  </g>
-  <g
      id="6_spade"
      inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
      inkscape:export-xdpi="102.22001"
@@ -5731,125 +5758,6 @@
        width="1027"
        height="615"
        xlink:href="#hl" />
-  </g>
-  <g
-     id="9_spade"
-     transform="translate(-237.05611,-123.26918)"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/amazonian-buffet/graphics/claims.png"
-     inkscape:export-xdpi="102.22001"
-     inkscape:export-ydpi="102.22001"
-     style="opacity:1">
-    <use
-       id="use885"
-       x="632"
-       y="369"
-       width="1027"
-       height="615"
-       xlink:href="#cf" />
-    <use
-       id="use887"
-       x="1"
-       y="368.5"
-       width="1027"
-       height="615"
-       xlink:href="#it9"
-       style="stroke:#000000" />
-    <use
-       id="use889"
-       x="-1"
-       y="369.5"
-       width="1027"
-       height="615"
-       xlink:href="#ib9"
-       style="stroke:#000000" />
-    <use
-       transform="translate(640.5,393.5)"
-       id="use891"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#ss" />
-    <use
-       transform="matrix(-1,0,0,-1,702.5,467.5)"
-       id="use893"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#ss" />
-    <use
-       transform="translate(655.5,390.5)"
-       id="use895"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="translate(655.5,417.25)"
-       id="use897"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="matrix(-1,0,0,-1,655.5,443.75)"
-       id="use899"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="matrix(-1,0,0,-1,655.5,470.5)"
-       id="use901"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="translate(671.5,430.5)"
-       id="use903"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="translate(687.5,390.5)"
-       id="use905"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="translate(687.5,417.25)"
-       id="use907"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="matrix(-1,0,0,-1,687.5,443.75)"
-       id="use909"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
-    <use
-       transform="matrix(-1,0,0,-1,687.5,470.5)"
-       id="use911"
-       x="0"
-       y="0"
-       width="1027"
-       height="615"
-       xlink:href="#sl" />
   </g>
   <g
      id="10_club"
@@ -8855,9 +8763,12 @@
             <dc:title>Open Clip Art Library</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2013-03-02T05:58:49</dc:date>
-        <dc:description>This is a &quot;classic&quot; variant of the guyenne deck. Each figure occupies the whole card, leaving no space for the modern J-Q-K indication. This makes the cards more attractive and you still recognize the figures because each figure has its own specific characteristic: kings have a crown, jacks have a hat, queens wear a 'chador'.\nSuits are clearly color coded according to the &quot;Turnierbild&quot; used in Skat tournaments.\n\nthis file works with gnome aisleriot 3.2.3.2.</dc:description>
+        <dc:description>This is a &quot;classic&quot; variant of the guyenne deck. Each figure occupies the whole card, leaving no space for the modern J-Q-K indication. This makes the cards more attractive and you still recognize the figures because each figure has its own specific characteristic: kings have a crown, jacks have a hat, queens wear a 'chador'.
+\nSuits are clearly color coded according to the &quot;Turnierbild&quot; used in Skat tournaments.
+\n
+\nthis file works with gnome aisleriot 3.2.3.2.</dc:description>
         <dc:source>http://openclipart.org/detail/175410/guyenne-classic-card-deck-by-mariotomo-175410</dc:source>
         <dc:creator>
           <cc:Agent>
