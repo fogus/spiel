@@ -35,7 +35,7 @@ When a pawn moves in a diagonal direction it moves along any of the cards connec
 
 ### Movement constraints
 
-Pawns may not pass over obstructions along a path such as claim stones or other pawns, nor come to rest on an occupied card.  The only other constraint on movement is that if two pawns of the same color reside on the same row or column, then the move must take them out of alignment.
+Pawns may not pass over obstructions along a path such as claim stones or other pawns, nor come to rest on an occupied card.
 
 Claiming
 --------
