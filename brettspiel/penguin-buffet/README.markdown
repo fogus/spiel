@@ -17,7 +17,9 @@ Two win two out of three Poker hands.
 Game-play
 ========
 
-Play alternates between players with the player using the black pieces starting the game.  On each turn, players perform the following actions:
+After setting up the cards and assigning colors, the players with the best 2-card hand to start (as resolved at the end of these rules) places their first pawn on any card that they like.  Placing then alternates until the players have placed all four pawns.
+
+Play then alternates between players with the player using the black pieces starting the game.  On each turn, players perform the following actions:
 
  * Move one pawn any number of cards in any possible direction
  * Claim the card from whence the pawn started its move
