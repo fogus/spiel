@@ -29,7 +29,7 @@ The point values of the cards are used to move the pyramids along the cells on t
 
 ### Movement constraints
 
-Movement in Montauk i
+Movement in Montauk occurs from one cell to another only if an arrow points from the starting cell to the destination cell.  Further, pyramids may only ever move in the direction that the arrows point.  Pyramids may move through or stop in a cell occupied by another pyramid only if the pyramid moving is the same size or smaller than the pyramid on which it will land.
 
 The Deal
 --------
