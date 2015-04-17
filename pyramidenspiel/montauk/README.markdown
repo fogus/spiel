@@ -9,20 +9,16 @@ Materials needed:
  * A deck of playing cards
  * 4 Martian Coasters
 
+Setup
+-----
+
 Using the Martian Coasters, arrange the board in the standard fashion:
 
 ![board](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/board.png)
 
-From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each), corresponding to the colors on opposite corners.  In other words, one player gets the red and green pyramids and the other gets the yellow and blue.  Once the board is set up, build four mixed-color trees and place them in the center squares of the colored regions that *do not* have the color as any of the pyramids in the tree.  In other words, the tree on the blue region cannot contain any blue pyramids, nor the red have red, and so on.
+From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each), corresponding to the colors on opposite corners.  In other words, one player gets the red and green pyramids and the other gets the yellow and blue.  Once the board is set up, build four mixed-color trees (no duplicate colors) and place them in the center squares of the colored regions that *do not* have the color as any of the pyramids in the tree.  In other words, the tree on the blue region cannot contain any blue pyramids, nor the red have red, and so on.
 
-Setup
------
-
-First, shuffle all of the cards thouroughly and place them to the side.  Next, each player takes a single pyramid and rolls a die for it.  Depending on the number rolled, the pyramid is placed onto the same numbered spot of the play area.  All of the other pyramids are placed in the same way so that the player boards look like the following:
-
-![playerboard-pop](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/play-area-populated.png)
-
-The game is ready to begin.
+Next, shuffle all of the cards thouroughly and turn over the top card.  If the suit is red then the player with the red pyramids starts, else the other player does.  The over turned card is used to start a discard pile and the game is ready to begin.
 
 Game-play
 =========
