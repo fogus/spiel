@@ -34,12 +34,19 @@ Movement in Montauk occurs from one cell to another only if an arrow points from
 The Deal
 --------
 
-The game is played over the course of 12 rounds.  At the start of each round six cards are dealt to each player.  The player with the fewest points overall goes first in each round, in the result of a tie, the player who went in the previous round starts.
+The game is played over the course of 12 rounds.  At the start of each round six cards are dealt to each player.  The player with the fewest points overall goes first in each round, in the result of a tie, the player who went in the previous round starts.  Each round consists of six tricks.  The steps that occur for each trick are as follows:
 
-Final scoring
-=======
-Placing
--------
+ 1. Forplacing
+ 2. Response and reveal
+ 3. Trick resolution and conditional over-drawing
+ 4. Movement point calulation
+ 5. Piece movement
+ 6. Points award
+
+Details of these steps are found below. 
+
+Foreplacing 
+-----------
 
 The leading player chooses a card from their hand and places it *face down* in front of theor play area.  Once a card is laid it may not be taken back.  The following player then chooses a card from their hand and places it *face up* in front of their play area.  The leading player then turns their card over and the result of the trick is determined.
 
