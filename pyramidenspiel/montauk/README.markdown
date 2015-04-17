@@ -7,14 +7,13 @@ Materials needed:
 
  * 1 Treehouse set
  * A deck of playing cards
- * 1 pyramid die
- * Some paper and a pen
+ * 4 Martian Coasters
 
-On the sheets of paper, draw a playing surface for each player in the following configuration:
+Using the Martian Coasters, arrange the board in the standard fashion:
 
-![playerboard](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/play-area.png)
+![board](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/board.png)
 
-From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each).  The black pyramids are kept off to the side and are used as *null* markers.
+From a treehouse set, give each player all of the pyramids of two colors (i.e. two trios each), corresponding to the colors on opposite corners.  In other words, one player gets the red and green pyramids and the other gets the yellow and blue.  Once the board is set up, build four mixed-color trees and place them in the center squares of the colored regions that *do not* have the color as any of the pyramids in the tree.  In other words, the tree on the blue region cannot contain any blue pyramids, nor the red have red, and so on.
 
 Setup
 -----
