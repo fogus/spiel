@@ -34,9 +34,7 @@ Movement in Montauk occurs from one cell to another only if an arrow points from
 The Deal
 --------
 
-The game is played over the course of 12 rounds.  At the start of each round six cards are dealt to each player.  The player with the fewest points overall goes first, otherwise the player with the longest hair does.
-
-<<<<<<< HEAD
+The game is played over the course of 12 rounds.  At the start of each round six cards are dealt to each player.  The player with the fewest points overall goes first in each round, in the result of a tie, the player who went in the previous round starts.
 
 Final scoring
 =======
