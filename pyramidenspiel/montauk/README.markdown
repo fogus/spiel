@@ -48,7 +48,12 @@ Details of these steps are found below.
 Foreplacing 
 -----------
 
-The leading player chooses a card from their hand and places it *face down* in front of theor play area.  Once a card is laid it may not be taken back.  The following player then chooses a card from their hand and places it *face up* in front of their play area.  The leading player then turns their card over and the result of the trick is determined.
+The leading player chooses a card from their hand and places it *face down* in front of them.  Once a card is laid it may not be taken back.
+
+Response and reveal
+--------------------
+
+Once a card is forplaced, the other player chooses a card from their hand and places it *face up* in front of them.  The leading player then turns their card over and the result of the trick is determined.
 
 Tricks
 ------
