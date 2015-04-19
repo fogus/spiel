@@ -62,9 +62,9 @@ When the cards are turned over, the suits are used to determine the player who w
 
 ![suit ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/suit-ranks.png)
 
-The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  Cards played to tricks are always made visible to both players after they are resolved.
+The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.
 
-The number of pyramids that the winning player can move based on the cards in the trick are detailed next.
+The movement points available to the player wining the trick are detailed below.
 
 Bearing off
 -----------
