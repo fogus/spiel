@@ -64,6 +64,19 @@ When the cards are turned over, the suits are used to determine the player who w
 
 The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  However, certain suit and rank matches allow the trick winner to draw extra cards according to the following guidelines.
 
+Conditional overdrawing
+-----------------------
+
+ Topic | Pyramid | Die
+ :---: | :---: | :---:
+   A   |   B   |   C
+   D   |   E   |   F
+
+
+
+**TODO: adjust below**
+
+
 Bearing off
 -----------
 
