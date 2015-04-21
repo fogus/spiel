@@ -67,22 +67,19 @@ The player with the high ranking suit wins the trick and can move their pyramids
 Conditional overdrawing
 -----------------------
 
- Topic | Pyramid | Die
- :---: | :---: | :---:
-   A   |   B   |   C
-   D   |   E   |   F
+If neither the suit nor the rank of the cards played to the trick match then the winning player may not draw extra cards.  However, certain conditions enable the winner to draw extra cards, as outlined in the table below:
+
+ Original Trick Cards |  Extras Drawn  |  Then if   | More Extras
+ :------------------: | :------------: | :--------: | :---------:
+  Suits do not match  |  None          |  -         |  - 
+   D                  |    E           |  F         | 
 
 
 
 **TODO: adjust below**
 
-
-Bearing off
------------
-
-Based on the cards won in the trick, players may spend the value on their ranks according to the following guidelines.
-
-### Cards of differing suits (spend 2)
+Movement point calulation
+-------------------------
 
 When the trick consists of two cards of differing suits then the winning player may move two pyramids, each according to the ranks of the cards.  The winning player may choose the order of the ranks spent and to which pyramids they may be applied.
 
