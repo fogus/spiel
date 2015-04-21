@@ -71,7 +71,7 @@ If neither the suit nor the rank of the cards played to the trick match then the
 
  Original Trick Cards     |  Draw  |  Then if                | Draw
  :----------------------: | :----: | :---------------------: | :---:
-  Suit & rank don't match | None   | -                       |  - 
+  Suit & rank don't match |  None  | -                       |  - 
   Suits match             | Draw 1 | Suit & rank don't match | None 
   Suits match             | Draw 1 | Suit or rank matches    | Draw 1
   Suits match             | Draw 1 | Same exact card         | Draw 1   
@@ -82,6 +82,11 @@ After the trick, the wining player should have between 2 and 4 cards to use for 
 
 Movement point calulation
 -------------------------
+
+The ranks on the trick cards and overdraws provide the base points used for moving the pyramids.  However, depending on the makeup of the cards won and drawn these cards may be spent on movement multiple times over.  The following table describes how many times these cards may be spent:
+
+
+
 
 When the trick consists of two cards of differing suits then the winning player may move two pyramids, each according to the ranks of the cards.  The winning player may choose the order of the ranks spent and to which pyramids they may be applied.
 
