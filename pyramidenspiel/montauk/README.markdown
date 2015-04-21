@@ -69,14 +69,16 @@ Conditional overdrawing
 
 If neither the suit nor the rank of the cards played to the trick match then the winning player may not draw extra cards.  However, certain conditions enable the winner to draw extra cards, as outlined in the table below:
 
- Original Trick Cards |  Extras Drawn  |  Then if   | More Extras
- :------------------: | :------------: | :--------: | :---------:
-  Suits do not match  |  None          |  -         |  - 
-   D                  |    E           |  F         | 
+ Original Trick Cards     |  Draw  |  Then if                | Draw
+ :----------------------: | :----: | :---------------------: | :---:
+  Suit & rank don't match | None   | -                       |  - 
+  Suits match             | Draw 1 | Suit & rank don't match | None 
+  Suits match             | Draw 1 | Suit or rank matches    | Draw 1
+  Suits match             | Draw 1 | Same exact card         | Draw 1   
+  Ranks match             | Draw 1 | Suits match as above    | None
+  Same exact cards        | Draw 1 | -                       | -
 
-
-
-**TODO: adjust below**
+After the trick, the wining player should have between 2 and 4 cards to use for movement.  The precise ways to spend the cards are described next.
 
 Movement point calulation
 -------------------------
