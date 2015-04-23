@@ -78,25 +78,26 @@ If neither the suit nor the rank of the cards played to the trick match then the
   Ranks match             | Draw 1 |
   Same exact cards        | Draw 1 |
 
-After the trick, the wining player should have between 2 and 4 cards to use for movement.  The precise ways to spend the cards are described next.
+After the trick, the wining player should have 2 or 3 cards to use for movement.  The precise ways to spend the cards are described next.
 
 Movement point calulation
 -------------------------
 
 The ranks on the trick cards and overdraws provide the base points used for moving the pyramids.  However, depending on the makeup of the cards won and drawn these cards may be spent on movement multiple times over.  The following table describes how many times these cards may be spent:
 
- Trick Cards (T1, T2)     |   X1                | Rank points        |
- :----------------------: | :-----------------: | :----------------: |
-  Suit & rank don't match |  -                  | T1, T2             |
-  Suits match             |  No match           | T1, T2, X1         |
-  Suits match             |  Suit or rank as T1 | X1 x 4             |
-  Suits match             |  Same as T1         | X1 x 6             |
-  Ranks match             |  Matches as above   | T1 x 4, X1 x above |
-  Same exact cards        |  Anything           | T1 x 6, X1 x 4     |
+ Trick winner and loser   |  Extra card                   | Rank points                              |
+ :----------------------: | :---------------------------: | :--------------------------------------: |
+  Suit & rank don't match |  -                            | Trick winner, Trick loser                |
+  Suits match             |  No match                     | Trick winner, Trick loser, extra         |
+  Suits match             |  Suit or rank of trick winner | Extra four times                         |
+  Suits match             |  Same as trick winner         | Extra six times                          |
+  Ranks match             |  Matches as above             | Trick winner four times, extra as above  |
+  Same exact cards        |  Anything                     | Trick winner six times, extra four times |
 
 
+The trick winner may choose the order of the ranks spent and to which pyramids they may be applied.  However, points from any given card must be spent to move a single pyramid.  That is, the rank points for a card cannot be divided amongst multiple pyramids nor can "change" be saved.  That said, if redraws allow a single card to be spent multiple times then it can be used as if there were multiple cards.
 
-When the trick consists of two cards of differing suits then the winning player may move two pyramids, each according to the ranks of the cards.  The winning player may choose the order of the ranks spent and to which pyramids they may be applied.
+TODO: example(s)
 
 Piece movement
 --------------
