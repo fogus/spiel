@@ -69,14 +69,14 @@ Conditional overdrawing
 
 If neither the suit nor the rank of the cards played to the trick match then the winning player may not draw extra cards.  However, certain conditions enable the winner to draw extra cards, as outlined in the table below:
 
- Original Trick Cards     |  Draw  |  Then if                | Draw
- :----------------------: | :----: | :---------------------: | :---:
-  Suit & rank don't match |  None  | -                       |  - 
-  Suits match             | Draw 1 | Suit & rank don't match | None 
-  Suits match             | Draw 1 | Suit or rank matches    | Draw 1
-  Suits match             | Draw 1 | Same exact card         | Draw 1   
-  Ranks match             | Draw 1 | Suits match as above    | None
-  Same exact cards        | Draw 1 | -                       | -
+ Original Trick Cards     |  Draw  |
+ :----------------------: | :----: |
+  Suit & rank don't match |  None  |
+  Suits match             | Draw 1 |
+  Suits match             | Draw 1 |
+  Suits match             | Draw 1 | 
+  Ranks match             | Draw 1 |
+  Same exact cards        | Draw 1 |
 
 After the trick, the wining player should have between 2 and 4 cards to use for movement.  The precise ways to spend the cards are described next.
 
@@ -85,14 +85,14 @@ Movement point calulation
 
 The ranks on the trick cards and overdraws provide the base points used for moving the pyramids.  However, depending on the makeup of the cards won and drawn these cards may be spent on movement multiple times over.  The following table describes how many times these cards may be spent:
 
- Trick Cards (T1, T2)     |   X1                |    X2   | Rank points         |
- :----------------------: | :-----------------: | :-----: | :-----------------: |
-  Suit & rank don't match |  -                  |  -      |  T1, T2             |
-  Suits match             |  No match           |  -      |  T1, T2, X1         |
-  Suits match             |  Suit or rank as T1 |  -      |  X1 x 4             |
-  Suits match             |  Same as T1         |  -      |  X1 x 6             |
-  Ranks match             |  Matches as above   |  -      |  T1 x 4, X1 x above |
-  Same exact cards        |  Anything           |  -      |  T1 x 6, X1 x 4     |
+ Trick Cards (T1, T2)     |   X1                | Rank points        |
+ :----------------------: | :-----------------: | :----------------: |
+  Suit & rank don't match |  -                  | T1, T2             |
+  Suits match             |  No match           | T1, T2, X1         |
+  Suits match             |  Suit or rank as T1 | X1 x 4             |
+  Suits match             |  Same as T1         | X1 x 6             |
+  Ranks match             |  Matches as above   | T1 x 4, X1 x above |
+  Same exact cards        |  Anything           | T1 x 6, X1 x 4     |
 
 
 
