@@ -43,7 +43,7 @@ The game is played over the course of 12 rounds.  At the start of each round six
  5. Piece movement
  6. Points award
 
-Details of these steps are found below. 
+Steps 1-6 are repeated six times, after which the round will be scored.  Details of the steps in each round are found below. 
 
 Foreplacing 
 -----------
@@ -85,38 +85,34 @@ Movement point calulation
 
 The ranks on the trick cards and overdraws provide the base points used for moving the pyramids.  However, depending on the makeup of the cards won and drawn these cards may be spent on movement multiple times over.  The following table describes how many times these cards may be spent:
 
- Trick Cards (T1, T2)     |   X1      |   X2    | Rank points    |
- :----------------------: | :-------: | :-----: | :------------: |
-  Suit & rank don't match |  -        |  -      |  T1, T2        |
-  Suits match             |  No match |  -      |  T1, T2, X1    |
-  Suits match             |  -        |  -      |  Rank values   |
-  Suits match             |  -        |  -      |  Rank values   |
-  Ranks match             |  -        |  -      |  Rank values   |
-  Same exact cards        |  -        |  -      |  Rank values   |
+ Trick Cards (T1, T2)     |   X1                |    X2   | Rank points         |
+ :----------------------: | :-----------------: | :-----: | :-----------------: |
+  Suit & rank don't match |  -                  |  -      |  T1, T2             |
+  Suits match             |  No match           |  -      |  T1, T2, X1         |
+  Suits match             |  Suit or rank as T1 |  -      |  X1 x 4             |
+  Suits match             |  Same as T1         |  -      |  X1 x 6             |
+  Ranks match             |  Matches as above   |  -      |  T1 x 4, X1 x above |
+  Same exact cards        |  Anything           |  -      |  T1 x 6, X1 x 4     |
 
 
 
 When the trick consists of two cards of differing suits then the winning player may move two pyramids, each according to the ranks of the cards.  The winning player may choose the order of the ranks spent and to which pyramids they may be applied.
 
-### Cards of the same suit, with an extra draw of a different suit (spend 3)
+Piece movement
+--------------
 
-When a trick consists of cards of the same suit, then the player who played the face-up card wins the trick.  After spending their ranks, the winning player draws an extra card from the draw deck.  If the card is a different suit of those played previously then the player spends the extra card's rank just once.
+TODO
 
-### Cards of the same suit, with an extra draw of the same suit *or* rank (spend 6)
+Points award
+------------
 
-Again, when a trick is won with a card of the same suit then an extra card is drawn after the trick cards are spent.  If the drawn card matches either the suit or the rank of the card that won the trick then its rank can be spent four times.
+TODO
 
-### Cards of the same suit, with an extra draw of the same exact card (spend 8)
 
-If the extra drawn card is exactly the same as the card that won the trick then its rank can be spent six times.
+Round scoring
+=============
 
-### Cards of the same rank (spend 5 - 10)
-
-When a trick consists of two cards of the same rank then the suit decides the winner, who then spends the rank played four times.  In addition, the winner draws an extra card and spends it either 1, 4, or 6 times depending on the suit and ranks matches as described above.
-
-### Exact same cards (10 plays)
-
-When a trick consists of the same exact cards then the player who played the face-up card wins the trick.  The winner may then spend the rank six times.  After this, the player draws an extra card and plays it four times regardless of the suit or rank match.
+TODO
 
 Penalties
 ---------
@@ -131,10 +127,6 @@ If a player wins a trick and cannot bear off any of their pyramids then they wil
 
 If one player is able to fill the three slots in their vault then the player is under pressure to do the same.  Indeed, once a player fills their vault then the other player must win the remaining tricks.  If they're unable to do so then they will receive a black pyramid each time that that fail to win a trick.
 
-Round scoring
-=============
-
-TODO
 
 Design notes
 ============
