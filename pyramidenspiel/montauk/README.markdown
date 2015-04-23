@@ -85,14 +85,14 @@ Movement point calulation
 
 The ranks on the trick cards and overdraws provide the base points used for moving the pyramids.  However, depending on the makeup of the cards won and drawn these cards may be spent on movement multiple times over.  The following table describes how many times these cards may be spent:
 
- Trick Cards (T1, T2)     |   X1    |   X2    | Movement points |
- :----------------------: | :-----: | :-----: | :-------------: |
-  Suit & rank don't match |  -      |  -      |  Rank values    |
-  Suits match             |  -      |  -      |  Rank values    |
-  Suits match             |  -      |  -      |  Rank values    |
-  Suits match             |  -      |  -      |  Rank values    |
-  Ranks match             |  -      |  -      |  Rank values    |
-  Same exact cards        |  -      |  -      |  Rank values    |
+ Trick Cards (T1, T2)     |   X1      |   X2    | Rank points    |
+ :----------------------: | :-------: | :-----: | :------------: |
+  Suit & rank don't match |  -        |  -      |  T1, T2        |
+  Suits match             |  No match |  -      |  T1, T2, X1    |
+  Suits match             |  -        |  -      |  Rank values   |
+  Suits match             |  -        |  -      |  Rank values   |
+  Ranks match             |  -        |  -      |  Rank values   |
+  Same exact cards        |  -        |  -      |  Rank values   |
 
 
 
