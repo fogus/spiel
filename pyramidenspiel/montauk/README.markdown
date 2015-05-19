@@ -62,7 +62,9 @@ When the cards are turned over, the suits are used to determine the player who w
 
 ![suit ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/suit-ranks.png)
 
-The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  However, certain suit and rank matches allow the trick winner to draw extra cards according to the following guidelines.
+The player with the high ranking suit wins the trick and can move their pyramids according to the ranks showing on the two cards.  If the trick consists of two cards that are identical then the player who followed the lead wins the trick.
+
+Certain suit and rank matches allow the trick winner to draw extra cards according to the following guidelines.
 
 Conditional overdrawing
 -----------------------
@@ -95,14 +97,14 @@ The ranks on the trick cards and overdraws provide the base points used for movi
   Same exact cards        |  Anything                     | Trick winner six times, extra four times |
 
 
-The trick winner may choose the order of the ranks spent and to which pyramids they may be applied.  However, points from any given card must be spent to move a single pyramid.  That is, the rank points for a card cannot be divided amongst multiple pyramids nor can "change" be saved.  That said, if redraws allow a single card to be spent multiple times then it can be used as if there were multiple cards.
+The trick winner may choose the order of the ranks spent and to which pyramids they may be applied.  Movement is described next.
 
 TODO: example(s)
 
 Piece movement
 --------------
 
-TODO
+Points from any given card must be spent to move a single pyramid.  That is, the rank points for a card cannot be divided amongst multiple pyramids nor can "change" be saved.  That said, if redraws allow a single card to be spent multiple times then it can be used as if there were multiple cards.
 
 Points award
 ------------
