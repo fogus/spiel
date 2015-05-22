@@ -38,5 +38,7 @@ You need a Treehouse set for this variant.
  * Draw a pyramid randomly from a sack and play last-licks to win it (i.e. *Cosmic Chipout*)
  * After you stop rolling for a pyramid, you may add the value x 10 of any of your won pyramids to your total
  * The pyramids spent to adjust your total go back into the sack, whether you win the pyramid or not
- * The player with the majority of pyramid value (as defined below) is the winner
- 
+ * The player with the majority of pyramid value (as defined below) after 10 rounds is the winner
+   - 7 points for each solid-color tree
+   - 5 points for each solid-color tree
+   - 1 point for each remaining pyramid
