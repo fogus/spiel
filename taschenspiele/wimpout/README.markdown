@@ -22,3 +22,11 @@ Game-play
 
 That's it --- enjoy!
 
+### Variant (of a variant): Cosmic Changeout
+
+If you play for coins then you may also play the change-making variant described below:
+
+ * Draw a coin randomly and play last-licks to win it (i.e. *Cosmic Chipout*)
+ * When you decide to stop rolling for a coin, you may add the value of any of your won coins to your total
+ * The coins spent to adjust your total go back into the general pool, whether you win the coin or not
+ * The player with the majority of coin value is the winner
