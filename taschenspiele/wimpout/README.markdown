@@ -30,3 +30,13 @@ If you play for coins then you may also play the change-making variant described
  * When you decide to stop rolling for a coin, you may add the value of any of your won coins to your total
  * The coins spent to adjust your total go back into the general pool, whether you win the coin or not
  * The player with the majority of coin value is the winner
+ 
+### Variant (of a variant (of a variant)): Martian Wimpout
+
+You need a Treehouse set for this variant.
+
+ * Draw a pyramid randomly from a sack and play last-licks to win it (i.e. *Cosmic Chipout*)
+ * After you stop rolling for a pyramid, you may add the value x 10 of any of your won pyramids to your total
+ * The pyramids spent to adjust your total go back into the sack, whether you win the pyramid or not
+ * The player with the majority of pyramid value (as defined below) is the winner
+ 
