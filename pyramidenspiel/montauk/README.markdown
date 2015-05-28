@@ -135,26 +135,26 @@ You can score extra points at the end of a round if you're able to achieve the f
  - Score 22 points if you end the round with both solid-color trees in the center square of the same colored regions
  - Score 42 points if you scored in every way possible during the round
  - Score -20 points if you did not win a trick in the round
- 
+ - Score -15 points for each black pyramid gained in the round
 
 Penalties
 ---------
 
-Based on certain circumstances in the game, players may receive black pyramids in their vaults.  The two circumstances are as follows.
+Based on certain circumstances in the game, players may receive black pyramids as penalties.  The two circumstances are as follows.
 
-### Inability to bear off
+### No pyramids in the same colored region
 
-If a player wins a trick and cannot bear off any of their pyramids then they will receive a black pyramid as a penalty instead.  However, they will still lead the next trick.
+If a player wins a trick and does not have any of their pyramids in a same-colored region after moving then they will receive a black pyramid as a penalty.  However, they will still lead the next trick.
 
-### Failure to win tricks when behind
+### Failure to 
 
-If one player is able to fill the three slots in their vault then the player is under pressure to do the same.  Indeed, once a player fills their vault then the other player must win the remaining tricks.  If they're unable to do so then they will receive a black pyramid each time that that fail to win a trick.
+If one player is able to build trees on the center of both of their regions then the other player becomes under pressure.  Once structures are built on the center squares of both regions then the other player will receive a black pyramid each time that they do not win a trick thereafter.
 
 
 Design notes
 ============
 
-Montauk is an adaptation of the wonderful game Marrakesh by Prince Joli Quentin Kansil to the Icehouse game system.
+Montauk is an adaptation of the wonderful game Marrakesh by Prince Joli Quentin Kansil to the Icehouse and Martina Coasters game systems.
 
 
 *Montauk* is &copy;2015, Michael Fogus
