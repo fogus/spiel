@@ -113,7 +113,7 @@ Points from any given card must be spent to move a single pyramid.  That is, the
 Points award
 ------------
 
-At the end of your turn you may score points in the following ways, but only once per round:
+At the end of a turn, either player may score points in the following ways, but only once per round:
 
  - Score 11 points for any of your single-color trees in the center square of the same colored region
  - Score 7 points for any of your single-color trees anywhere in the same colored region
@@ -121,12 +121,21 @@ At the end of your turn you may score points in the following ways, but only onc
  - Score 5 points for any of your multi-color trees in the center square of any of your regions
  - Score 3 points for any of your multi-color trees anywhere in your region of the majority color
 
- Additionally, you may score 1-point for each pyramid anywhere in the same colored region, for as many turns as you're able to acheive it.
+Additionally, you may score 1-point for each pyramid anywhere in the same colored region, for as many turns as you're able to achieve it.
+
+TODO: Images of each condition
 
 Round scoring
 =============
 
-TODO
+You can score extra points at the end of a round if you're able to achieve the following:
+
+ - Score 12 points if you scored points on every turn
+ - Score 20 points if you won all six tricks in the round
+ - Score 22 points if you end the round with both solid-color trees in the center square of the same colored regions
+ - Score 42 points if you scored in every way possible during the round
+ - Score -20 points if you did not win a trick in the round
+ 
 
 Penalties
 ---------
