@@ -104,7 +104,11 @@ TODO: example(s)
 Piece movement
 --------------
 
-Points from any given card must be spent to move a single pyramid.  That is, the rank points for a card cannot be divided amongst multiple pyramids nor can "change" be saved.  That said, if redraws allow a single card to be spent multiple times then it can be used as if there were multiple cards.
+Points from any given card must be spent to move a single pyramid.  That is, the rank points for a card cannot be divided amongst multiple pyramids nor can "change" be saved.  That said, if redraws allow a single card to be spent multiple times then it can be used as if there were multiple cards.  The only limitations on movement are as follows:
+
+ - Pyramids may only move from one cell to another if there is an arrow pointing into the destination cell
+ - If a pyramid has other pyramids on top if it then it must *dig* its way to the top before moving
+ - The cost of a complete dig is the total number of pips on top of the pyramid, partial digs are allowed
 
 Points award
 ------------
