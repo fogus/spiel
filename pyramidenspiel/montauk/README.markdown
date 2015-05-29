@@ -115,41 +115,43 @@ Points award
 
 At the end of a turn, either player may score points in the following ways, but only once per round:
 
-### Safe at home (11 points)
+### Safe at home (11 points, once per round)
 
 Score 11 points for any of your single-color trees in the center square of the same colored region
 
 ![at-home](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/at-home.png)
 
-### Almost home (7 points)
+### Almost home (7 points, once per round)
 
 Score 7 points for any of your single-color trees anywhere in the same colored region.
 
 ![almost-home](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/almost-home.png)
 
-### In-laws (7 points)
+### In-laws (7 points, once per round)
 
 Score 7 points for any of your multi-color trees in the center square of your region of the majority color.
 
 ![in-laws](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/in-laws.png)
 
-### House-sitting (5 points)
+### House-sitting (5 points, once per round)
 
 Score 5 points for any of your multi-color trees in the center square of any of your regions.
 
 ![sitting](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/house-sitting.png)
 
-### Neighborhood watch (3 points)
+### Neighborhood watch (3 points, once per round)
 
 Score 3 points for any of your multi-color trees anywhere in your region of the majority color
 
-![neighbors](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/neighborhood-watch.png)
+![neighborhood-watch](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/neighborhood-watch.png)
 
-### Neighbors (Number of pyramids)
+### Neighbors (Number of pyramids, each turn)
 
-Additionally, you may score 1-point for each pyramid anywhere (except in the center square) in the same colored region, for as many turns as you're able to achieve it.
+Additionally, you may score 1-point for each pyramid anywhere (except in the center square) in the same colored region.
 
-TODO: Images of each condition
+![neighbors-watch](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/neighbors.png)
+
+You may score these points for as many turns as you're able to keep pyramids on the same color.  This is scored even when the other player wins the trick.
 
 Round scoring
 =============
@@ -160,6 +162,7 @@ You can score extra points at the end of a round if you're able to achieve the f
  - Score 20 points if you won all six tricks in the round
  - Score 22 points if you end the round with both solid-color trees in the center square of the same colored regions
  - Score 42 points if you scored in every way possible during the round
+ - Score -42 if you were unable to score any points in the round
  - Score -20 points if you did not win a trick in the round
  - Score -15 points for each black pyramid gained in the round
 
