@@ -15,7 +15,7 @@
    id="svg3026"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="setup.svg">
+   sodipodi:docname="scoring-patterns.svg.svg">
   <defs
      id="defs3028">
     <inkscape:perspective
@@ -90,7 +90,7 @@
        transform="translate(1625.7579,53.062819)" />
     <image
        y="221.47844"
-       x="1467.0773"
+       x="1343.8386"
        id="image3152"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgIAAAICCAYAAAC9RaXMAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3XVgE+cbB/DvJak7bWmhjA0dsg3YgAkOQ4oMp8Bg+w33YRXaUqWOU9zdB4wNKzA2GA5DJmx4
@@ -897,7 +897,7 @@ gbMMaOnGorJFAAD8P1H05TFQsp1PAAAAAElFTkSuQmCC
        height="514"
        width="514"
        style="opacity:0.6"
-       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/at-home.png"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/neighbors.png"
        inkscape:export-xdpi="28.23"
        inkscape:export-ydpi="28.23" />
     <g
@@ -1188,8 +1188,8 @@ gbMMaOnGorJFAAD8P1H05TFQsp1PAAAAAElFTkSuQmCC
     <g
        id="use4601"
        style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="matrix(1.5296441,0,0,1.4668571,1582.4066,-249.18759)"
-       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/at-home.png"
+       transform="matrix(1.5296441,0,0,1.4668571,1612.7112,-259.2891)"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/neighbors.png"
        inkscape:export-xdpi="28.23"
        inkscape:export-ydpi="28.23">
       <path
@@ -1318,7 +1318,10 @@ gbMMaOnGorJFAAD8P1H05TFQsp1PAAAAAElFTkSuQmCC
     <g
        id="use5117"
        style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="matrix(1.6394258,0,0,1.5700911,1939.3469,-1189.0891)">
+       transform="matrix(1.6394258,0,0,1.5700911,834.24005,-498.14476)"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/house-sitting.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          inkscape:connector-curvature="0"
          id="path15354"
@@ -1410,9 +1413,9 @@ gbMMaOnGorJFAAD8P1H05TFQsp1PAAAAAElFTkSuQmCC
     </g>
     <g
        id="use4603"
-       transform="matrix(1.5670916,0,0,1.4853083,1375.242,-305.39613)"
+       transform="matrix(1.5670916,0,0,1.4853083,1094.4196,-87.203222)"
        style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/at-home.png"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/neighbors.png"
        inkscape:export-xdpi="28.23"
        inkscape:export-ydpi="28.23">
       <path
@@ -1435,9 +1438,9 @@ gbMMaOnGorJFAAD8P1H05TFQsp1PAAAAAElFTkSuQmCC
     </g>
     <g
        id="use4605"
-       transform="matrix(1.6394258,0,0,1.5700911,1447.2148,-408.89216)"
+       transform="matrix(1.6394258,0,0,1.5700911,746.16894,-883.66387)"
        style="fill:#a60000;fill-opacity:1;stroke:#9a0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/at-home.png"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/almost-home.png"
        inkscape:export-xdpi="28.23"
        inkscape:export-ydpi="28.23">
       <path
@@ -1459,8 +1462,11 @@ gbMMaOnGorJFAAD8P1H05TFQsp1PAAAAAElFTkSuQmCC
     </g>
     <g
        id="use5121"
-       transform="matrix(1.5670916,0,0,1.4853083,2083.0735,-1085.8241)"
-       style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+       transform="matrix(1.5670916,0,0,1.4853083,1143.6316,-914.09817)"
+       style="fill:#14148f;fill-opacity:1;fill-rule:nonzero;stroke:#0f0fb1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/fogus/src/me/spiel/pyramidenspiel/montauk/graphics/neighborhood-watch.png"
+       inkscape:export-xdpi="28.23"
+       inkscape:export-ydpi="28.23">
       <path
          inkscape:connector-curvature="0"
          id="path14516"

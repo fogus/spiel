@@ -133,19 +133,21 @@ Score 7 points for any of your multi-color trees in the center square of your re
 
 ![in-laws](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/in-laws.png)
 
-### House-sitting
+### House-sitting (5 points)
 
 Score 5 points for any of your multi-color trees in the center square of any of your regions.
 
 ![sitting](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/house-sitting.png)
 
-### Neighborhood watch
+### Neighborhood watch (3 points)
 
 Score 3 points for any of your multi-color trees anywhere in your region of the majority color
 
 ![neighbors](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/neighborhood-watch.png)
 
-Additionally, you may score 1-point for each pyramid anywhere in the same colored region, for as many turns as you're able to achieve it.
+### Neighbors (Number of pyramids)
+
+Additionally, you may score 1-point for each pyramid anywhere (except in the center square) in the same colored region, for as many turns as you're able to achieve it.
 
 TODO: Images of each condition
 
