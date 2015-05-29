@@ -131,9 +131,12 @@ Score 7 points for any of your single-color trees anywhere in the same colored r
 
 Score 7 points for any of your multi-color trees in the center square of your region of the majority color.
 
-![sitting](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/house-sitting.png)
+![in-laws](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/in-laws.png)
 
- - Score 5 points for any of your multi-color trees in the center square of any of your regions
+### 
+
+Score 5 points for any of your multi-color trees in the center square of any of your regions.
+
  - Score 3 points for any of your multi-color trees anywhere in your region of the majority color
 
 Additionally, you may score 1-point for each pyramid anywhere in the same colored region, for as many turns as you're able to achieve it.
