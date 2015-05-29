@@ -133,9 +133,11 @@ Score 7 points for any of your multi-color trees in the center square of your re
 
 ![in-laws](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/in-laws.png)
 
-### 
+### House-sitting
 
 Score 5 points for any of your multi-color trees in the center square of any of your regions.
+
+![sitting](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/house-sitting.png)
 
  - Score 3 points for any of your multi-color trees anywhere in your region of the majority color
 
