@@ -127,9 +127,12 @@ Score 7 points for any of your single-color trees anywhere in the same colored r
 
 ![almost-home](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/almost-home.png)
 
+### House-sitting (7 points)
 
+Score 7 points for any of your multi-color trees in the center square of your region of the majority color.
 
- - Score 7 points for any of your multi-color trees in the center square of your region of the majority color
+![sitting](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/house-sitting.png)
+
  - Score 5 points for any of your multi-color trees in the center square of any of your regions
  - Score 3 points for any of your multi-color trees anywhere in your region of the majority color
 
