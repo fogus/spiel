@@ -75,8 +75,6 @@ If neither the suit nor the rank of the cards played to the trick match then the
  :----------------------: | :----------: |
   Suit & rank don't match |     None     |
   Suits match             | Draw 1 extra |
-  Suits match             | Draw 1 extra |
-  Suits match             | Draw 1 extra | 
   Ranks match             | Draw 1 extra |
   Same exact cards        | Draw 1 extra |
 
