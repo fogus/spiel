@@ -115,7 +115,12 @@ Points award
 
 At the end of a turn, either player may score points in the following ways, but only once per round:
 
- - Score 11 points for any of your single-color trees in the center square of the same colored region
+### At home (11 points)
+
+Score 11 points for any of your single-color trees in the center square of the same colored region
+
+![at-home]()
+
  - Score 7 points for any of your single-color trees anywhere in the same colored region
  - Score 7 points for any of your multi-color trees in the center square of your region of the majority color
  - Score 5 points for any of your multi-color trees in the center square of any of your regions
