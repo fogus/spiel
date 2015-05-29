@@ -115,13 +115,20 @@ Points award
 
 At the end of a turn, either player may score points in the following ways, but only once per round:
 
-### At home (11 points)
+### Safe at home (11 points)
 
 Score 11 points for any of your single-color trees in the center square of the same colored region
 
-![at-home]()
+![at-home](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/at-home.png)
 
- - Score 7 points for any of your single-color trees anywhere in the same colored region
+### Almost home (7 points)
+
+Score 7 points for any of your single-color trees anywhere in the same colored region.
+
+![almost-home](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/montauk/graphics/almost-home.png)
+
+
+
  - Score 7 points for any of your multi-color trees in the center square of your region of the majority color
  - Score 5 points for any of your multi-color trees in the center square of any of your regions
  - Score 3 points for any of your multi-color trees anywhere in your region of the majority color
