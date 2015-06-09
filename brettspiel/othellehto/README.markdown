@@ -10,3 +10,6 @@ Othel Lehto is a strategy game of perfect information for two players.
 The player with the most pieces with their color turned up wins the game.
 
 # Game play
+
+The first player plays a black piece onto any square.  The second player may choose to either place a white piece onto any other square or switch colors with the first player.  Play then proceeds as follows:
+
