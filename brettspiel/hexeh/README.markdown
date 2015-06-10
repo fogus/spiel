@@ -2,7 +2,7 @@ Hexeh is a strategic game of perfect information for two players.
 
 # Needed
 
- * A hex board (at least 7x7 is recommended)
+ * A [Hex](http://en.wikipedia.org/wiki/Hex_(board_game)) board (at least 7x7 is recommended)
  * Enough stones to fill the board
 
 # Goal
