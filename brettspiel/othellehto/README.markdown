@@ -23,6 +23,9 @@ Palindromes, must be bounded by the board edge or empty spaces.  Therefore, whit
 
 ![palindromes](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/palindromes.png)
 
+However, none of the placements below form a palindrome:
+
+![not-palindromes](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/not-palindromes.png)
 
 
 # End
