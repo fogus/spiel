@@ -20,4 +20,8 @@ The first player plays a black stone onto any cell. The second player may choose
 
 TODO
 
+# End
+
+The game ends when a connected path is formed.  Hexeh is guaranteed to end with a single path from opposite sides.
+
 Othel Lehto is © 2015 by Fogus.
