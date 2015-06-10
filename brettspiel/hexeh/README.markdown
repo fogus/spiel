@@ -24,4 +24,4 @@ TODO
 
 The game ends when a connected path is formed.  Hexeh is guaranteed to end with a single path from opposite sides.
 
-Othel Lehto is © 2015 by Fogus.
+Hexeh is © 2015 by Fogus.
