@@ -13,3 +13,6 @@ The player who forms a connected path of their own stones linking their sides of
 
 The first player plays a black stone onto any cell. The second player may choose to either place a white stone onto any other cell or switch colors with the first player. Play then proceeds as follows:
 
+ * Players alternate placing a stone onto any empty cell.
+ * If the stone placed forms a palindrome with any connected pieces then the opponent's stones therein may be moved to any empty cells on the board.
+ 
