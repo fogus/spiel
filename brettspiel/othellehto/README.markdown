@@ -27,6 +27,19 @@ However, none of the placements below form a palindrome:
 
 ![not-palindromes](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/not-palindromes.png)
 
+Forming a palindrome, may trigger the formation of other palindromes.  Below white places a piece to form a palindrome:
+
+![place](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/place.png)
+
+The palindromic flip then forms another palindrome:
+
+![first-flip](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/first-flip.png)
+
+Which is also flipped to white:
+
+![second-flip](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/second-flip.png)
+
+Since no more palindromes can be formed white's turn ends.
 
 # End
 
