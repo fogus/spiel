@@ -9,3 +9,7 @@ Hexeh is a strategic game of perfect information for two players.
 
 The player who forms a connected path of their own stones linking their sides of the board wins.
 
+# Gameplay
+
+The first player plays a black stone onto any cell. The second player may choose to either place a white stone onto any other cell or switch colors with the first player. Play then proceeds as follows:
+
