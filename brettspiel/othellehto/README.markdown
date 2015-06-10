@@ -43,4 +43,7 @@ Since no more palindromes can be formed white's turn ends.
 
 # End
 
-When the board is filled or the players mutually agree then the game ends.
+When the board is filled or the players mutually agree then the game ends and the score calculated.
+
+Othel Lehto is &copy; 2015 by Fogus.
+
