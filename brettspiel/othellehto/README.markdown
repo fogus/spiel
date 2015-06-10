@@ -15,13 +15,13 @@ The first player plays a black piece onto any square.  The second player may cho
 
  * Players place one piece per turn onto any unoccupied square.
  * If the placement forms a palindrome with any connected pieces side-to-side, up-and-down, or diagonal, bounded by empty squares or the edges then all of the pieces in the palindrome are flipped to the color played.
- * If a flip causes the formation of another palindrome then the new palindrome is also flipped, and so forth.
+ * If a flip causes the formation of another palindrome then the new palindrome is also flipped, if that too forms a palindrome then it too is flipped, and so forth.
 
 ## Forming palindromes
 
-![palindromes](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/palindromes.png)
+Palindromes, must be bounded by the board edge or empty spaces.  Therefore, white can play at any of the positions below to form a palindrome:
 
-*White can play at any of the positions to form a palindrome.*
+![palindromes](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/palindromes.png)
 
 
 
