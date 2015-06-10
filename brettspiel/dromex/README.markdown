@@ -15,7 +15,6 @@ The first player plays a black stone onto any cell. The second player may choose
 
  * Players alternate placing a stone onto any empty cell.
  * If the stone placed forms a palindrome with any connected pieces then the opponent's stones therein may be moved to any empty cells on the board.
- * The only limitation is that you may not form a palindrome using any of the stones that formed a palindrome on the previous turn.
 
 ## Forming palindromes
 
