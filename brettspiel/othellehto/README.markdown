@@ -16,7 +16,6 @@ The first player plays a black piece onto any square.  The second player may cho
  * Players place one piece per turn onto any unoccupied square.
  * If the placement forms a palindrome with any connected pieces side-to-side, up-and-down, or diagonal, bounded 
    by empty squares or the edges then all of the pieces in the palindrome are flipped to the color played.
-   
-board2diag("lurd,7,7,x....../.w...../..w..../...a.../......./......./.......")
 
-http://www.di.fc.ul.pt/~jpn/gv/board2diag/index.htm
+![palindromes](https://raw.githubusercontent.com/fogus/spiel/master/brettspiel/othellehto/graphics/palindromes.png)
+*White can play at any of the positions to form a palindrome.*
