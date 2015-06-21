@@ -1,4 +1,4 @@
-
+Tictactics is a game of palindromic pattern building for two or three players.
 
 Needed: Paper and pen
 
