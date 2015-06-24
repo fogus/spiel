@@ -44,11 +44,11 @@ To resolve tricks the color of the pyramids used determines the higher-ranking t
 
 ![color-ranks](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/color-ranks.png)
 
-Solid color trees of will resolve according to the color rankings or trump:
+Solid color trees of will resolve according to the color rankings:
 
 ![solids](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/cydonia/graphics/solid-v-solid.png)
 
-Trees of a single color will always beat trees of mixed colors, even those containing trumps:
+Trees of a single color will always beat trees of mixed colors, even those containing higher ranking colors:
 
 ![solid-v-mixed](https://raw.githubusercontent.com/fogus/spiel/master/pyramidenspiel/martian-whist/graphics/solid-v-mixed.png)
 
