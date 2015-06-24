@@ -6,7 +6,6 @@ Preparation
 Materials needed:
 
  * 4 Treehouse sets for the normal game or 2 sets for the short game
- * 1 IceDice color die (optional)
 
 Setup
 -----
