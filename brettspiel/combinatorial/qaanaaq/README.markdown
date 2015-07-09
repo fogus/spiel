@@ -8,4 +8,7 @@ Qaanaaq is a game of palindromic pattern building for two or three players.
 
 **Gameplay:** On each turn, players write one of each symbol into any empty cell on the board (the center is not a playable cell). When the board fills up then the scoring begins. 
 
-**Scoring:** Palindromes are checked along the horizontal, vertical, and diagonal axes.  For each palindrome containing your symbol, score points equal to the palindrome's size minus the number of opponent symbols therein. The neutral symbol (2p only) is not considered an opponent symbol. Example: The palindrome CSC for the circle player is worth 2pts. However, the palindrome CTC is worth 3pts. The player with the highest score wins.
+**Scoring:** Palindromes are checked along the horizontal, vertical, and diagonal axes.  For each palindrome containing your symbol, score points equal to the palindrome's size minus the number of opponent symbols therein. The neutral symbol (2p only) is not considered an opponent symbol.  The player with the highest score wins.
+
+**Example:** The palindrome CSC for the circle player is worth 2pts. However, the palindrome CTC is worth 3pts.  The palindrome CCCC is worth 4-points, but also contains sub palindromes CCC, CCC, CC, CC, and CC, making it worth a total of 16-points.
+
