@@ -8,7 +8,7 @@ Qaanaaq is a game of palindromic pattern building for two or three players.
 
 **Gameplay:** On each turn, players write one of each letter into any empty cell on the board (the center is not a playable cell). When the board fills up then the scoring begins. 
 
-**Scoring:** For each palindrome containing your letter, score points equal to the palindrome's size minus the number of opponent letters therein. The neutral 'N' (2p only) is not considered an opponent letter.
+**Scoring:** Palindromes are checked along the horizontal, vertical, and diagonal axes (for a simpler game do not score diagonals). For each palindrome containing your letter, score points equal to the palindrome's size minus the number of opponent letters therein. The neutral 'N' (2p only) is not considered an opponent letter.
 
 The player with the highest score wins.
 
@@ -19,4 +19,3 @@ The player with the highest score wins.
 * The palindrome QQQQ is worth 4-points, but also contains sub-palindromes QQQ, QQQ, QQ, QQ, and QQ, making it worth a total of 16-points.
 
 *Qaanaaq is © 2015, Michael Fogus*
-
