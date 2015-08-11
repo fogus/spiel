@@ -40,8 +40,8 @@
      inkscape:window-height="1067"
      id="namedview106"
      showgrid="false"
-     inkscape:zoom="1.6857143"
-     inkscape:cx="205.61799"
+     inkscape:zoom="1.19198"
+     inkscape:cx="124.69025"
      inkscape:cy="235.82353"
      inkscape:window-x="723"
      inkscape:window-y="188"
@@ -60,23 +60,13 @@
   <rect
      x="5"
      y="5"
-     width="50"
-     height="50"
+     width="105.01427"
+     height="105.60131"
      id="rect6"
      inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/combinatorial/qaanaaq/gfx/8x8.png"
      inkscape:export-xdpi="243.47206"
      inkscape:export-ydpi="243.47206"
-     fill="black" />
-  <rect
-     x="6"
-     y="6"
-     width="48"
-     height="48"
-     id="rect8"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/combinatorial/qaanaaq/gfx/8x8.png"
-     inkscape:export-xdpi="243.47206"
-     inkscape:export-ydpi="243.47206"
-     fill="white" />
+     style="fill:#000000" />
   <rect
      x="60"
      y="5"
@@ -87,16 +77,6 @@
      inkscape:export-xdpi="243.47206"
      inkscape:export-ydpi="243.47206"
      fill="black" />
-  <rect
-     x="61"
-     y="6"
-     width="48"
-     height="48"
-     id="rect12"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/combinatorial/qaanaaq/gfx/8x8.png"
-     inkscape:export-xdpi="243.47206"
-     inkscape:export-ydpi="243.47206"
-     fill="white" />
   <rect
      x="115"
      y="5"
@@ -168,16 +148,6 @@
      inkscape:export-ydpi="243.47206"
      fill="black" />
   <rect
-     x="6"
-     y="61"
-     width="48"
-     height="48"
-     id="rect28"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/combinatorial/qaanaaq/gfx/8x8.png"
-     inkscape:export-xdpi="243.47206"
-     inkscape:export-ydpi="243.47206"
-     fill="white" />
-  <rect
      x="60"
      y="60"
      width="50"
@@ -187,16 +157,6 @@
      inkscape:export-xdpi="243.47206"
      inkscape:export-ydpi="243.47206"
      fill="black" />
-  <rect
-     x="61"
-     y="61"
-     width="48"
-     height="48"
-     id="rect32"
-     inkscape:export-filename="/Users/fogus/src/me/spiel/brettspiel/combinatorial/qaanaaq/gfx/8x8.png"
-     inkscape:export-xdpi="243.47206"
-     inkscape:export-ydpi="243.47206"
-     fill="white" />
   <rect
      x="115"
      y="60"
