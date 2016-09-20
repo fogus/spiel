@@ -10,7 +10,14 @@
 
 ## Board games
 
+ * [Amazonian Buffet]()
+ * [Dromex]()
+ * [Insurrection]()
  * [Malice]()
+ * [Niwa]()
+ * [Othellehto]()
+ * [Penguin Buffet]()
+ * [Qaanaaq]()
 
 ## Card games
 
