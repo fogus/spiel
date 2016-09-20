@@ -3,57 +3,58 @@
 ## In-progress
 
  * [Auction card game]()
- * [Fibodeck]()
- * [Montauk]()
+ * [Fibodeck](/kartenspiel/fibodeck/)
+ * [Ichinishiju Deck]()
+ * [Montauk](/pyramidenspiel/montauk/)
  * [Partnership climbing game]()
  * [Recipe matching Decktet game]()
 
 ## Board games
 
  * [Amazonian Buffet](/brettspiel/combinatorial/amazonian-buffet/)
- * [Dromex]()
- * [Insurrection]()
- * [Malice]()
- * [Niwa]()
- * [Othellehto]()
- * [Penguin Buffet]()
- * [Qaanaaq]()
+ * [Dromex](/brettspiel/combinatorial/dromex/)
+ * [Insurrection](/brettspiel/combinatorial/insurrection/)
+ * [Niwa](/brettspiel/abstract/niwa/)
+ * [Othellehto](/brettspiel/combinatorial/othellehto/)
+ * [Penguin Buffet](/brettspiel/combinatorial/penguin-buffet/)
+ * [Qaanaaq](/brettspiel/combinatorial/qaanaaq/)
 
 ## Card games
 
- * [Natto]()
- * [Tori-Poker]()
+ * [Natto](/kartenspiel/natto/)
+ * [Tori-Poker](/kartenspiel/tori-poker/)
 
 ## Dice games
 
- * [Ozymandias]()
- * [Pew Pew, Die]()
- * [Pidan]()
+ * [Ozymandias](/wurfelspiel/ozymandias/)
+ * [Pew Pew, Die](/wurfelspiel/pewpewdie/)
+ * [Pidan](/wurfelspiel/pidan/)
 
 ## Game systems
 
+ * [Dice Tumble]()
  * [Pew Pew Dice]()
 
 ## Oddball games
 
- * [Machipongo]()
- * [Palindrove]()
+ * [Machipongo](/taschenspiele/machipongo/)
+ * [Palindrove](/taschenspiele/palindrove/)
 
 ## Pyramid games
 
- * [Cydonia]()
- * [Gorgias]()
- * [Initiative]()
- * [Logistics]()
- * [Malice]()
- * [Martian Whist]()
- * [Minimax]()
- * [Pungo]()
- * [Quux]()
- * [Toripoka]()
+ * [Cydonia](/pyramidenspiel/cydonia/)
+ * [Gorgias](/pyramidenspiel/gorgias/)
+ * [Initiative](/pyramidenspiel/initiative/)
+ * [Logistics](/pyramidenspiel/logistics/)
+ * [Malice](/pyramidenspiel/malice/)
+ * [Martian Whist](/pyramidenspiel/martian-whist/)
+ * [Minimax](/pyramidenspiel/minimax/)
+ * [Pungo](/pyramidenspiel/pungo/)
+ * [Quux](/pyramidenspiel/quux/)
+ * [Toripoka](/pyramidenspiel/toripoka/)
 
 ## Variants
 
- * [CarboniteDice]()
- * [Coin Hijinks]()
- * [Cosmic Chipout]()
+ * [CarboniteDice](/pyramidenspiel/carbonite-dice/)
+ * [Coin Hijinks](/taschenspiele/coin-hijinks/)
+ * [Cosmic Chipout](/taschenspiele/wimpout/)
