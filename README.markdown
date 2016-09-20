@@ -1,26 +1,52 @@
 # Game designs
 
+## In-progress
+
+ * [Auction card game]()
+ * [Fibodeck]()
+ * [Montauk]()
+ * [Partnership climbing game]()
+ * [Recipe matching Decktet game]()
+
+## Board games
+
+ * [Malice]()
+
+## Card games
+
+ * [Natto]()
+ * [Tori-Poker]()
+
 ## Dice games
 
  * [Ozymandias]()
  * [Pew Pew, Die]()
+ * [Pidan]()
 
-## Card games
+## Game systems
 
- * [Fibonacci deck]()
- * [Schism]()
+ * [Pew Pew Dice]()
 
-## Board games
+## Oddball games
 
- * [Anarchism]()
- * [Malice]()
- * [Tonari]()
+ * [Machipongo]()
+ * [Palindrove]()
 
 ## Pyramid games
 
+ * [Cydonia]()
+ * [Gorgias]()
  * [Initiative]()
- * [Pyrametto]()
+ * [Logistics]()
+ * [Malice]()
+ * [Martian Whist]()
+ * [Minimax]()
+ * [Pungo]()
+ * [Quux]()
+ * [Toripoka]()
 
 ## Variants
 
  * [CarboniteDice]()
+ * [Coin Hijinks]()
+ * [Cosmic Chipout]()
