@@ -10,7 +10,7 @@
 
 ## Board games
 
- * [Amazonian Buffet]()
+ * [Amazonian Buffet](/brettspiel/combinatorial/amazonian-buffet/)
  * [Dromex]()
  * [Insurrection]()
  * [Malice]()
